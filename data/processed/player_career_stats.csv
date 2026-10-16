@@ -1,0 +1,789 @@
+batter_x,runs,balls,fours,sixes,matches,innings,outs,strike_rate,average,fifties,hundreds,highest_score,bowler,runs_conceded,legal_balls,wickets,dots,overs,economy,bowling_avg,player_name,player,potm_awards,batter_y,pp_strike_rate,pp_runs,batter,death_strike_rate,death_runs,full_name,display_name
+A Ashish Reddy,280.0,193.0,16.0,15.0,23.0,196.0,15.0,145.08,18.67,0.0,0.0,36.0,A Ashish Reddy,384.0,262.0,18.0,79.0,43.7,8.79,21.33,A Ashish Reddy,,0,A Ashish Reddy,83.33,5.0,A Ashish Reddy,146.58,214.0,A Ashish Reddy,A Ashish Reddy
+A Badoni,1076.0,774.0,86.0,41.0,51.0,823.0,41.0,139.02,26.24,7.0,0.0,74.0,A Badoni,49.0,35.0,4.0,8.0,5.8,8.4,12.25,A Badoni,,0,A Badoni,77.05,47.0,A Badoni,164.24,519.0,A Badoni,A Badoni
+A Chandila,4.0,7.0,0.0,0.0,2.0,7.0,1.0,57.14,4.0,0.0,0.0,4.0,A Chandila,242.0,234.0,11.0,103.0,39.0,6.21,22.0,A Chandila,A Chandila,1,,,,A Chandila,57.14,4.0,A Chandila,A Chandila
+A Chopra,53.0,71.0,7.0,0.0,6.0,75.0,5.0,74.65,10.6,0.0,0.0,24.0,,,,,,,,,A Chopra,,0,A Chopra,69.23,27.0,A Chopra,50.0,1.0,A Chopra,A Chopra
+A Choudhary,25.0,20.0,1.0,1.0,3.0,20.0,2.0,125.0,12.5,0.0,0.0,15.0,A Choudhary,137.0,101.0,5.0,42.0,16.8,8.14,27.4,A Choudhary,,0,,,,A Choudhary,125.0,25.0,A Choudhary,A Choudhary
+A Dananjaya,4.0,5.0,0.0,0.0,1.0,5.0,0.0,80.0,4.0,0.0,0.0,4.0,A Dananjaya,46.0,24.0,0.0,6.0,4.0,11.5,,A Dananjaya,,0,,,,A Dananjaya,80.0,4.0,A Dananjaya,A Dananjaya
+A Flintoff,62.0,53.0,5.0,2.0,3.0,57.0,2.0,116.98,31.0,0.0,0.0,24.0,A Flintoff,105.0,66.0,2.0,20.0,11.0,9.55,52.5,A Flintoff,,0,A Flintoff,107.69,14.0,A Flintoff,147.06,25.0,A Flintoff,A Flintoff
+A Kamboj,42.0,35.0,4.0,1.0,8.0,38.0,2.0,120.0,21.0,0.0,0.0,19.0,A Kamboj,455.0,301.0,20.0,117.0,50.2,9.07,22.75,A Kamboj,,0,,,,A Kamboj,120.0,42.0,A Kamboj,A Kamboj
+A Kumble,35.0,47.0,3.0,0.0,15.0,49.0,2.0,74.47,17.5,0.0,0.0,8.0,A Kumble,1019.0,965.0,45.0,374.0,160.8,6.34,22.64,A Kumble,A Kumble,3,,,,A Kumble,80.95,34.0,Anil Kumble,Anil Kumble (A Kumble)
+A Manohar,292.0,235.0,23.0,14.0,20.0,243.0,19.0,124.26,15.37,0.0,0.0,43.0,,,,,,,,,A Manohar,A Manohar,1,A Manohar,66.67,12.0,A Manohar,157.45,148.0,A Manohar,A Manohar
+A Mhatre,411.0,226.0,46.0,22.0,12.0,234.0,11.0,181.86,37.36,3.0,0.0,94.0,,,,,,,,,A Mhatre,,0,A Mhatre,185.61,245.0,A Mhatre,90.0,9.0,A Mhatre,A Mhatre
+A Mishra,381.0,417.0,31.0,5.0,55.0,440.0,31.0,91.37,12.29,0.0,0.0,31.0,A Mishra,4043.0,3371.0,173.0,1185.0,561.8,7.2,23.37,A Mishra,A Mishra,12,A Mishra,20.0,1.0,A Mishra,104.84,260.0,Amit Mishra,Amit Mishra (A Mishra)
+A Mithun,34.0,26.0,4.0,1.0,6.0,26.0,5.0,130.77,6.8,0.0,0.0,11.0,A Mithun,435.0,288.0,7.0,90.0,48.0,9.06,62.14,A Mithun,,0,,,,A Mithun,135.71,19.0,A Mithun,A Mithun
+A Mukund,19.0,22.0,1.0,0.0,2.0,23.0,2.0,86.36,9.5,0.0,0.0,19.0,,,,,,,,,A Mukund,,0,A Mukund,93.33,14.0,A Mukund,0.0,0.0,A Mukund,A Mukund
+A Nehra,41.0,60.0,3.0,1.0,17.0,63.0,8.0,68.33,5.12,0.0,0.0,22.0,A Nehra,2405.0,1908.0,106.0,798.0,318.0,7.56,22.69,A Nehra,A Nehra,6,,,,A Nehra,68.33,41.0,Ashish Nehra,Ashish Nehra (A Nehra)
+,,,,,,,,,,,,,A Nel,31.0,18.0,1.0,7.0,3.0,10.33,31.0,A Nel,,0,,,,,,,A Nel,A Nel
+A Nortje,49.0,50.0,6.0,0.0,14.0,52.0,6.0,98.0,8.17,0.0,0.0,23.0,A Nortje,1611.0,1120.0,61.0,422.0,186.7,8.63,26.41,A Nortje,A Nortje,3,,,,A Nortje,98.0,49.0,Anrich Nortje,Anrich Nortje (A Nortje)
+A Raghuvanshi,645.0,436.0,66.0,23.0,23.0,448.0,20.0,147.94,32.25,4.0,0.0,54.0,,,,,,,,,A Raghuvanshi,,0,A Raghuvanshi,156.12,217.0,A Raghuvanshi,147.17,78.0,A Raghuvanshi,A Raghuvanshi
+A Singh,2.0,9.0,0.0,0.0,5.0,10.0,4.0,22.22,0.5,0.0,0.0,1.0,A Singh,602.0,473.0,28.0,189.0,78.8,7.64,21.5,A Singh,A Singh,1,,,,A Singh,28.57,2.0,A Singh,A Singh
+A Symonds,974.0,745.0,74.0,41.0,36.0,781.0,26.0,130.74,37.46,5.0,1.0,117.0,A Symonds,656.0,527.0,20.0,190.0,87.8,7.47,32.8,A Symonds,A Symonds,3,A Symonds,87.8,72.0,A Symonds,160.99,293.0,A Symonds,A Symonds
+A Tomar,4.0,8.0,1.0,0.0,1.0,8.0,1.0,50.0,4.0,0.0,0.0,4.0,,,,,,,,,A Tomar,,0,A Tomar,50.0,4.0,,,,A Tomar,A Tomar
+A Uniyal,4.0,7.0,0.0,0.0,2.0,7.0,1.0,57.14,4.0,0.0,0.0,4.0,A Uniyal,64.0,36.0,2.0,8.0,6.0,10.67,32.0,A Uniyal,,0,,,,A Uniyal,57.14,4.0,A Uniyal,A Uniyal
+A Zampa,15.0,24.0,1.0,0.0,5.0,25.0,5.0,62.5,3.0,0.0,0.0,7.0,A Zampa,639.0,467.0,31.0,139.0,77.8,8.21,20.61,A Zampa,A Zampa,1,,,,A Zampa,60.0,6.0,A Zampa,A Zampa
+AA Bilakhia,69.0,84.0,5.0,0.0,7.0,88.0,5.0,82.14,13.8,0.0,0.0,22.0,,,,,,,,,AA Bilakhia,,0,AA Bilakhia,74.19,23.0,AA Bilakhia,109.09,36.0,AA Bilakhia,AA Bilakhia
+AA Chavan,12.0,11.0,2.0,0.0,3.0,11.0,1.0,109.09,12.0,0.0,0.0,7.0,AA Chavan,318.0,248.0,8.0,100.0,41.3,7.69,39.75,AA Chavan,,0,,,,AA Chavan,137.5,11.0,AA Chavan,AA Chavan
+AA Jhunjhunwala,217.0,209.0,19.0,5.0,15.0,218.0,14.0,103.83,15.5,1.0,0.0,53.0,AA Jhunjhunwala,126.0,85.0,1.0,27.0,14.2,8.89,126.0,AA Jhunjhunwala,AA Jhunjhunwala,1,AA Jhunjhunwala,70.59,24.0,AA Jhunjhunwala,138.0,69.0,AA Jhunjhunwala,AA Jhunjhunwala
+,,,,,,,,,,,,,AA Kazi,20.0,12.0,0.0,2.0,2.0,10.0,,AA Kazi,,0,,,,,,,AA Kazi,AA Kazi
+AA Kulkarni,9.0,8.0,2.0,0.0,2.0,8.0,2.0,112.5,4.5,0.0,0.0,9.0,,,,,,,,,AA Kulkarni,,0,AA Kulkarni,112.5,9.0,,,,AA Kulkarni,AA Kulkarni
+AA Noffke,9.0,10.0,1.0,0.0,1.0,12.0,1.0,90.0,9.0,0.0,0.0,9.0,AA Noffke,35.0,24.0,1.0,6.0,4.0,8.75,35.0,AA Noffke,,0,,,,,,,AA Noffke,AA Noffke
+AB Agarkar,179.0,151.0,13.0,5.0,18.0,160.0,8.0,118.54,22.38,0.0,0.0,39.0,AB Agarkar,1106.0,782.0,29.0,254.0,130.3,8.49,38.14,AB Agarkar,,0,AB Agarkar,153.85,20.0,AB Agarkar,137.36,125.0,AB Agarkar,AB Agarkar
+AB Barath,42.0,42.0,5.0,1.0,3.0,43.0,2.0,100.0,21.0,0.0,0.0,33.0,,,,,,,,,AB Barath,,0,AB Barath,128.57,18.0,AB Barath,40.0,2.0,AB Barath,AB Barath
+AB Dinda,26.0,48.0,2.0,0.0,16.0,50.0,9.0,54.17,2.89,0.0,0.0,7.0,AB Dinda,1961.0,1516.0,69.0,627.0,252.7,7.76,28.42,AB Dinda,AB Dinda,2,,,,AB Dinda,50.0,20.0,AB Dinda,AB Dinda
+AB McDonald,123.0,100.0,9.0,4.0,9.0,103.0,5.0,123.0,24.6,0.0,0.0,33.0,AB McDonald,259.0,186.0,11.0,50.0,31.0,8.35,23.55,AB McDonald,,0,AB McDonald,157.89,30.0,AB McDonald,123.08,80.0,AB McDonald,AB McDonald
+AB de Villiers,5181.0,3400.0,414.0,253.0,170.0,3487.0,125.0,152.38,41.45,41.0,3.0,133.0,,,,,,,,,AB de Villiers,AB de Villiers,25,AB de Villiers,120.68,741.0,AB de Villiers,225.33,1868.0,AB de Villiers,AB de Villiers
+AC Blizzard,120.0,90.0,21.0,2.0,7.0,91.0,7.0,133.33,17.14,1.0,0.0,51.0,,,,,,,,,AC Blizzard,,0,AC Blizzard,130.26,99.0,,,,AC Blizzard,AC Blizzard
+AC Gilchrist,2069.0,1483.0,239.0,92.0,80.0,1555.0,76.0,139.51,27.22,11.0,2.0,109.0,AC Gilchrist,0.0,1.0,1.0,1.0,0.2,0.0,0.0,AC Gilchrist,AC Gilchrist,7,AC Gilchrist,134.99,1385.0,AC Gilchrist,196.88,63.0,Adam Gilchrist,Adam Gilchrist (AC Gilchrist)
+AC Thomas,20.0,19.0,1.0,1.0,4.0,19.0,2.0,105.26,10.0,0.0,0.0,12.0,AC Thomas,392.0,315.0,14.0,126.0,52.5,7.47,28.0,AC Thomas,,0,,,,AC Thomas,105.26,20.0,AC Thomas,AC Thomas
+AC Voges,181.0,143.0,15.0,3.0,7.0,143.0,6.0,126.57,30.17,0.0,0.0,45.0,AC Voges,74.0,54.0,0.0,15.0,9.0,8.22,,AC Voges,AC Voges,1,AC Voges,77.78,7.0,AC Voges,151.79,85.0,AC Voges,AC Voges
+AD Hales,148.0,117.0,13.0,6.0,6.0,119.0,6.0,126.5,24.67,0.0,0.0,45.0,,,,,,,,,AD Hales,,0,AD Hales,142.5,114.0,,,,AD Hales,AD Hales
+AD Mascarenhas,79.0,78.0,5.0,1.0,11.0,79.0,10.0,101.28,7.9,0.0,0.0,27.0,AD Mascarenhas,353.0,308.0,19.0,124.0,51.3,6.88,18.58,AD Mascarenhas,AD Mascarenhas,1,AD Mascarenhas,200.0,4.0,AD Mascarenhas,122.5,49.0,AD Mascarenhas,AD Mascarenhas
+AD Mathews,724.0,573.0,44.0,29.0,41.0,599.0,31.0,126.35,23.35,1.0,0.0,65.0,AD Mathews,1054.0,791.0,27.0,224.0,131.8,7.99,39.04,AD Mathews,AD Mathews,1,AD Mathews,58.82,10.0,AD Mathews,155.11,425.0,AD Mathews,AD Mathews
+AD Nath,90.0,98.0,7.0,2.0,10.0,99.0,10.0,91.84,9.0,0.0,0.0,24.0,,,,,,,,,AD Nath,,0,AD Nath,100.0,11.0,AD Nath,88.0,22.0,AD Nath,AD Nath
+AD Russell,2655.0,1508.0,187.0,223.0,114.0,1626.0,92.0,176.06,28.86,12.0,0.0,88.0,AD Russell,2756.0,1806.0,123.0,612.0,301.0,9.16,22.41,AD Russell,AD Russell,16,AD Russell,241.18,41.0,AD Russell,197.79,1432.0,Andre Russell,Andre Russell (AD Russell)
+AF Milne,23.0,29.0,0.0,1.0,6.0,31.0,5.0,79.31,4.6,0.0,0.0,15.0,AF Milne,313.0,207.0,7.0,69.0,34.5,9.07,44.71,AF Milne,,0,,,,AF Milne,85.0,17.0,AF Milne,AF Milne
+AG Murtaza,10.0,14.0,1.0,0.0,3.0,14.0,1.0,71.43,10.0,0.0,0.0,5.0,AG Murtaza,304.0,264.0,9.0,101.0,44.0,6.91,33.78,AG Murtaza,,0,,,,AG Murtaza,71.43,10.0,AG Murtaza,AG Murtaza
+AG Paunikar,49.0,55.0,9.0,0.0,5.0,61.0,5.0,89.09,9.8,0.0,0.0,20.0,,,,,,,,,AG Paunikar,,0,AG Paunikar,89.09,49.0,,,,AG Paunikar,AG Paunikar
+AJ Finch,2092.0,1626.0,214.0,78.0,90.0,1696.0,84.0,128.66,24.9,15.0,0.0,88.0,AJ Finch,66.0,43.0,1.0,13.0,7.2,9.21,66.0,AJ Finch,AJ Finch,5,AJ Finch,115.32,911.0,AJ Finch,158.43,282.0,AJ Finch,AJ Finch
+AJ Hosein,16.0,10.0,1.0,1.0,1.0,11.0,0.0,160.0,16.0,0.0,0.0,16.0,AJ Hosein,83.0,60.0,2.0,18.0,10.0,8.3,41.5,AJ Hosein,,0,,,,AJ Hosein,160.0,16.0,AJ Hosein,AJ Hosein
+AJ Turner,24.0,28.0,0.0,2.0,6.0,31.0,5.0,85.71,4.8,0.0,0.0,16.0,,,,,,,,,AJ Turner,,0,,,,AJ Turner,38.89,7.0,AJ Turner,AJ Turner
+AJ Tye,91.0,75.0,6.0,5.0,13.0,79.0,8.0,121.33,11.38,0.0,0.0,25.0,AJ Tye,948.0,684.0,42.0,208.0,114.0,8.32,22.57,AJ Tye,AJ Tye,2,,,,AJ Tye,118.64,70.0,Andrew Tye,Andrew Tye (AJ Tye)
+AK Markram,1560.0,1141.0,125.0,63.0,60.0,1173.0,51.0,136.72,30.59,10.0,0.0,68.0,AK Markram,298.0,203.0,6.0,51.0,33.8,8.81,49.67,AK Markram,AK Markram,1,AK Markram,132.39,470.0,AK Markram,180.6,242.0,AK Markram,AK Markram
+AL Menaria,401.0,354.0,24.0,18.0,23.0,367.0,22.0,113.28,18.23,0.0,0.0,40.0,AL Menaria,140.0,110.0,3.0,40.0,18.3,7.64,46.67,AL Menaria,,0,AL Menaria,100.0,8.0,AL Menaria,124.36,97.0,AL Menaria,AL Menaria
+,,,,,,,,,,,,,AM Ghazanfar,101.0,60.0,4.0,17.0,10.0,10.1,25.25,AM Ghazanfar,,0,,,,,,,AM Ghazanfar,AM Ghazanfar
+AM Nayar,672.0,573.0,55.0,20.0,50.0,588.0,39.0,117.28,17.23,0.0,0.0,45.0,AM Nayar,311.0,229.0,9.0,69.0,38.2,8.15,34.56,AM Nayar,,0,AM Nayar,91.55,65.0,AM Nayar,158.97,310.0,AM Nayar,AM Nayar
+AM Rahane,5184.0,4123.0,523.0,132.0,188.0,4240.0,171.0,125.73,30.32,34.0,2.0,105.0,AM Rahane,5.0,6.0,1.0,2.0,1.0,5.0,5.0,AM Rahane,AM Rahane,13,AM Rahane,123.34,2637.0,AM Rahane,158.57,509.0,Ajinkya Rahane,Ajinkya Rahane (AM Rahane)
+,,,,,,,,,,,,,AM Salvi,190.0,150.0,7.0,57.0,25.0,7.6,27.14,AM Salvi,,0,,,,,,,AM Salvi,AM Salvi
+AN Ahmed,36.0,26.0,4.0,1.0,6.0,27.0,1.0,138.46,36.0,0.0,0.0,18.0,AN Ahmed,451.0,344.0,12.0,120.0,57.3,7.87,37.58,AN Ahmed,,0,,,,AN Ahmed,138.46,36.0,AN Ahmed,AN Ahmed
+AN Ghosh,7.0,8.0,1.0,0.0,2.0,8.0,2.0,87.5,3.5,0.0,0.0,7.0,,,,,,,,,AN Ghosh,,0,AN Ghosh,100.0,7.0,,,,AN Ghosh,AN Ghosh
+AP Dole,34.0,22.0,3.0,1.0,2.0,23.0,2.0,154.55,17.0,0.0,0.0,30.0,AP Dole,105.0,66.0,5.0,20.0,11.0,9.55,21.0,AP Dole,,0,,,,AP Dole,165.0,33.0,AP Dole,AP Dole
+AP Majumdar,87.0,76.0,7.0,2.0,4.0,77.0,4.0,114.47,21.75,0.0,0.0,31.0,,,,,,,,,AP Majumdar,,0,AP Majumdar,140.0,21.0,AP Majumdar,66.67,2.0,AP Majumdar,AP Majumdar
+AP Tare,339.0,272.0,40.0,11.0,27.0,285.0,24.0,124.63,14.12,1.0,0.0,59.0,,,,,,,,,AP Tare,AP Tare,1,AP Tare,112.44,226.0,AP Tare,153.85,40.0,AP Tare,AP Tare
+AR Bawne,12.0,12.0,1.0,0.0,1.0,12.0,0.0,100.0,12.0,0.0,0.0,12.0,,,,,,,,,AR Bawne,,0,,,,AR Bawne,100.0,12.0,AR Bawne,AR Bawne
+AR Patel,1919.0,1431.0,130.0,94.0,126.0,1496.0,91.0,134.1,21.09,3.0,0.0,66.0,AR Patel,4125.0,3405.0,131.0,1110.0,567.5,7.27,31.49,AR Patel,AR Patel,8,AR Patel,110.77,72.0,AR Patel,155.22,967.0,Axar Patel,Axar Patel (AR Patel)
+AS Joseph,27.0,32.0,3.0,0.0,5.0,32.0,1.0,84.38,27.0,0.0,0.0,15.0,AS Joseph,668.0,434.0,21.0,162.0,72.3,9.24,31.81,AS Joseph,AS Joseph,1,,,,AS Joseph,82.76,24.0,AS Joseph,AS Joseph
+AS Rajpoot,26.0,41.0,2.0,1.0,7.0,41.0,4.0,63.41,6.5,0.0,0.0,8.0,AS Rajpoot,761.0,529.0,24.0,192.0,88.2,8.63,31.71,AS Rajpoot,AS Rajpoot,2,,,,AS Rajpoot,69.44,25.0,AS Rajpoot,AS Rajpoot
+AS Raut,194.0,167.0,13.0,7.0,16.0,172.0,11.0,116.17,17.64,0.0,0.0,36.0,AS Raut,44.0,30.0,0.0,6.0,5.0,8.8,,AS Raut,,0,AS Raut,116.67,7.0,AS Raut,116.5,120.0,AS Raut,AS Raut
+AS Roy,27.0,28.0,3.0,0.0,9.0,28.0,5.0,96.43,5.4,0.0,0.0,13.0,AS Roy,284.0,221.0,10.0,78.0,36.8,7.71,28.4,AS Roy,,0,AS Roy,80.0,4.0,AS Roy,127.78,23.0,AS Roy,AS Roy
+AS Yadav,49.0,39.0,5.0,2.0,6.0,40.0,7.0,125.64,7.0,0.0,0.0,16.0,,,,,,,,,AS Yadav,,0,,,,AS Yadav,134.48,39.0,AS Yadav,AS Yadav
+AT Carey,32.0,29.0,0.0,1.0,3.0,29.0,2.0,110.34,16.0,0.0,0.0,14.0,,,,,,,,,AT Carey,,0,,,,AT Carey,110.34,32.0,AT Carey,AT Carey
+AT Rayudu,4348.0,3391.0,359.0,173.0,185.0,3490.0,152.0,128.22,28.61,22.0,1.0,100.0,,,,,,,,,AT Rayudu,AT Rayudu,10,AT Rayudu,106.73,777.0,AT Rayudu,170.38,1179.0,Ambati Rayudu,Ambati Rayudu (AT Rayudu)
+AU Rashid,22.0,15.0,2.0,1.0,2.0,17.0,2.0,146.67,11.0,0.0,0.0,18.0,AU Rashid,91.0,60.0,2.0,20.0,10.0,9.1,45.5,AU Rashid,,0,,,,AU Rashid,133.33,4.0,AU Rashid,AU Rashid
+AUK Pathan,39.0,23.0,5.0,2.0,7.0,26.0,5.0,169.57,7.8,0.0,0.0,14.0,AUK Pathan,57.0,39.0,0.0,9.0,6.5,8.77,,AUK Pathan,,0,AUK Pathan,280.0,14.0,AUK Pathan,140.0,14.0,AUK Pathan,AUK Pathan
+Abdul Basith,1.0,1.0,0.0,0.0,1.0,1.0,0.0,100.0,1.0,0.0,0.0,1.0,,,,,,,,,Abdul Basith,,0,,,,Abdul Basith,100.0,1.0,Abdul Basith,Abdul Basith
+Abdul Samad,815.0,552.0,52.0,51.0,56.0,572.0,46.0,147.64,17.72,0.0,0.0,45.0,Abdul Samad,120.0,57.0,2.0,12.0,9.5,12.63,60.0,Abdul Samad,,0,Abdul Samad,100.0,2.0,Abdul Samad,169.18,516.0,Abdul Samad,Abdul Samad
+Abdur Razzak,0.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Abdur Razzak,19.0,12.0,0.0,5.0,2.0,9.5,,Abdur Razzak,,0,,,,Abdur Razzak,0.0,0.0,Abdur Razzak,Abdur Razzak
+,,,,,,,,,,,,,Abhinandan Singh,120.0,58.0,3.0,15.0,9.7,12.41,40.0,Abhinandan Singh,,0,,,,,,,Abhinandan Singh,Abhinandan Singh
+Abhishek Sharma,1945.0,1168.0,183.0,114.0,79.0,1237.0,72.0,166.52,27.01,10.0,1.0,141.0,Abhishek Sharma,512.0,347.0,11.0,93.0,57.8,8.85,46.55,Abhishek Sharma,Abhishek Sharma,6,Abhishek Sharma,166.42,1125.0,Abhishek Sharma,160.0,176.0,Abhishek Sharma,Abhishek Sharma
+Abishek Porel,661.0,440.0,65.0,27.0,29.0,454.0,29.0,150.23,22.79,3.0,0.0,65.0,,,,,,,,,Abishek Porel,,0,Abishek Porel,151.92,316.0,Abishek Porel,181.25,58.0,Abishek Porel,Abishek Porel
+Akash Deep,25.0,14.0,2.0,2.0,5.0,14.0,3.0,178.57,8.33,0.0,0.0,17.0,Akash Deep,513.0,278.0,10.0,89.0,46.3,11.07,51.3,Akash Deep,,0,,,,Akash Deep,166.67,20.0,Akash Deep,Akash Deep
+Akash Madhwal,8.0,14.0,0.0,0.0,2.0,14.0,0.0,57.14,8.0,0.0,0.0,4.0,Akash Madhwal,542.0,352.0,24.0,105.0,58.7,9.24,22.58,Akash Madhwal,Akash Madhwal,2,,,,Akash Madhwal,66.67,6.0,Akash Madhwal,Akash Madhwal
+,,,,,,,,,,,,,Akash Singh,323.0,205.0,9.0,73.0,34.2,9.45,35.89,Akash Singh,,0,,,,,,,Akash Singh,Akash Singh
+Aman Hakim Khan,115.0,104.0,8.0,6.0,10.0,109.0,9.0,110.58,12.78,1.0,0.0,51.0,Aman Hakim Khan,13.0,6.0,0.0,1.0,1.0,13.0,,Aman Hakim Khan,,0,Aman Hakim Khan,80.0,4.0,Aman Hakim Khan,143.9,59.0,Aman Hakim Khan,Aman Hakim Khan
+,,,,,,,,,,,,,Anand Rajan,188.0,149.0,8.0,57.0,24.8,7.57,23.5,Anand Rajan,,0,,,,,,,Anand Rajan,Anand Rajan
+Aniket Verma,306.0,183.0,17.0,25.0,17.0,191.0,13.0,167.21,23.54,1.0,0.0,74.0,,,,,,,,,Aniket Verma,,0,Aniket Verma,106.25,17.0,Aniket Verma,186.84,142.0,Aniket Verma,Aniket Verma
+Anirudh Singh,63.0,66.0,6.0,1.0,4.0,69.0,4.0,95.45,15.75,0.0,0.0,40.0,,,,,,,,,Anirudh Singh,,0,Anirudh Singh,90.0,18.0,Anirudh Singh,92.86,13.0,Anirudh Singh,Anirudh Singh
+Ankit Sharma,87.0,67.0,7.0,4.0,10.0,69.0,7.0,129.85,12.43,0.0,0.0,30.0,Ankit Sharma,436.0,367.0,12.0,137.0,61.2,7.13,36.33,Ankit Sharma,,0,Ankit Sharma,117.39,27.0,Ankit Sharma,141.18,48.0,Ankit Sharma,Ankit Sharma
+Ankit Soni,7.0,9.0,0.0,1.0,3.0,9.0,2.0,77.78,3.5,0.0,0.0,7.0,Ankit Soni,141.0,109.0,2.0,37.0,18.2,7.76,70.5,Ankit Soni,,0,,,,Ankit Soni,77.78,7.0,Ankit Soni,Ankit Soni
+Anmolpreet Singh,139.0,115.0,19.0,3.0,9.0,117.0,9.0,120.87,15.44,0.0,0.0,36.0,,,,,,,,,Anmolpreet Singh,,0,Anmolpreet Singh,127.47,116.0,,,,Anmolpreet Singh,Anmolpreet Singh
+Anuj Rawat,318.0,267.0,26.0,14.0,21.0,276.0,14.0,119.1,22.71,1.0,0.0,66.0,,,,,,,,,Anuj Rawat,Anuj Rawat,1,Anuj Rawat,94.32,83.0,Anuj Rawat,175.31,142.0,Anuj Rawat,Anuj Rawat
+Anureet Singh,36.0,47.0,2.0,1.0,8.0,47.0,4.0,76.6,9.0,0.0,0.0,15.0,Anureet Singh,593.0,412.0,18.0,139.0,68.7,8.64,32.94,Anureet Singh,,0,,,,Anureet Singh,84.21,32.0,Anureet Singh,Anureet Singh
+Arjun Tendulkar,13.0,9.0,0.0,1.0,1.0,9.0,1.0,144.44,13.0,0.0,0.0,13.0,Arjun Tendulkar,100.0,73.0,3.0,30.0,12.2,8.22,33.33,Arjun Tendulkar,,0,,,,Arjun Tendulkar,144.44,13.0,Arjun Tendulkar,Arjun Tendulkar
+Arshad Khan,119.0,84.0,5.0,9.0,10.0,90.0,6.0,141.67,19.83,1.0,0.0,58.0,Arshad Khan,464.0,260.0,12.0,90.0,43.3,10.71,38.67,Arshad Khan,,0,,,,Arshad Khan,148.15,80.0,Arshad Khan,Arshad Khan
+Arshad Khan (2),5.0,4.0,1.0,0.0,1.0,4.0,1.0,125.0,5.0,0.0,0.0,5.0,Arshad Khan (2),22.0,12.0,0.0,4.0,2.0,11.0,,Arshad Khan (2),,0,,,,Arshad Khan (2),125.0,5.0,Arshad Khan (2),Arshad Khan (2)
+Arshdeep Singh,31.0,46.0,4.0,0.0,13.0,48.0,6.0,67.39,5.17,0.0,0.0,10.0,Arshdeep Singh,2596.0,1822.0,102.0,648.0,303.7,8.55,25.45,Arshdeep Singh,Arshdeep Singh,2,,,,Arshdeep Singh,62.79,27.0,Arshdeep Singh,Arshdeep Singh
+Ashok Sharma,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Ashok Sharma,137.0,84.0,4.0,30.0,14.0,9.79,34.25,Ashok Sharma,,0,,,,Ashok Sharma,0.0,0.0,Ashok Sharma,Ashok Sharma
+Ashutosh Sharma,412.0,246.0,25.0,30.0,19.0,266.0,16.0,167.48,25.75,2.0,0.0,66.0,,,,,,,,,Ashutosh Sharma,Ashutosh Sharma,1,,,,Ashutosh Sharma,190.21,272.0,Ashutosh Sharma,Ashutosh Sharma
+,,,,,,,,,,,,,Ashwani Kumar,223.0,123.0,11.0,35.0,20.5,10.88,20.27,Ashwani Kumar,Ashwani Kumar,1,,,,,,,Ashwani Kumar,Ashwani Kumar
+Atharva Taide,260.0,177.0,30.0,8.0,10.0,188.0,9.0,146.89,28.89,2.0,0.0,66.0,Atharva Taide,4.0,1.0,0.0,0.0,0.2,24.0,,Atharva Taide,,0,Atharva Taide,152.43,157.0,,,,Atharva Taide,Atharva Taide
+Auqib Nabi,4.0,2.0,1.0,0.0,1.0,2.0,1.0,200.0,4.0,0.0,0.0,4.0,Auqib Nabi,16.0,12.0,0.0,4.0,2.0,8.0,,Auqib Nabi,,0,,,,Auqib Nabi,0.0,0.0,Auqib Nabi,Auqib Nabi
+Avesh Khan,68.0,43.0,7.0,4.0,16.0,46.0,3.0,158.14,22.67,0.0,0.0,19.0,Avesh Khan,2497.0,1703.0,93.0,597.0,283.8,8.8,26.85,Avesh Khan,Avesh Khan,3,,,,Avesh Khan,143.59,56.0,Avesh Khan,Avesh Khan
+Azhar Mahmood,388.0,303.0,39.0,13.0,21.0,311.0,19.0,128.05,20.42,2.0,0.0,80.0,Azhar Mahmood,673.0,537.0,29.0,199.0,89.5,7.52,23.21,Azhar Mahmood,Azhar Mahmood,2,Azhar Mahmood,91.67,22.0,Azhar Mahmood,135.16,123.0,Azhar Mahmood,Azhar Mahmood
+Azmatullah Omarzai,99.0,74.0,8.0,5.0,9.0,77.0,8.0,133.78,12.38,0.0,0.0,21.0,Azmatullah Omarzai,451.0,288.0,12.0,95.0,48.0,9.4,37.58,Azmatullah Omarzai,,0,,,,Azmatullah Omarzai,161.11,29.0,Azmatullah Omarzai,Azmatullah Omarzai
+B Akhil,76.0,55.0,5.0,5.0,11.0,57.0,7.0,138.18,10.86,0.0,0.0,27.0,B Akhil,235.0,188.0,6.0,60.0,31.3,7.5,39.17,B Akhil,,0,,,,B Akhil,144.12,49.0,B Akhil,B Akhil
+B Chipli,280.0,250.0,28.0,7.0,21.0,256.0,16.0,112.0,17.5,1.0,0.0,61.0,B Chipli,20.0,6.0,0.0,1.0,1.0,20.0,,B Chipli,,0,B Chipli,73.33,55.0,B Chipli,178.57,100.0,B Chipli,B Chipli
+,,,,,,,,,,,,,B Geeves,90.0,48.0,1.0,15.0,8.0,11.25,90.0,B Geeves,,0,,,,,,,B Geeves,B Geeves
+B Indrajith,21.0,30.0,2.0,0.0,3.0,31.0,3.0,70.0,7.0,0.0,0.0,15.0,,,,,,,,,B Indrajith,,0,B Indrajith,70.37,19.0,,,,B Indrajith,B Indrajith
+B Kumar,329.0,357.0,32.0,3.0,72.0,372.0,37.0,92.16,8.89,0.0,0.0,27.0,B Kumar,5370.0,4342.0,205.0,1788.0,723.7,7.42,26.2,B Kumar,B Kumar,6,,,,B Kumar,95.47,295.0,Bhuvneshwar Kumar,Bhuvneshwar Kumar (B Kumar)
+B Laughlin,5.0,13.0,0.0,0.0,4.0,13.0,2.0,38.46,2.5,0.0,0.0,4.0,B Laughlin,270.0,168.0,10.0,42.0,28.0,9.64,27.0,B Laughlin,,0,,,,B Laughlin,33.33,2.0,B Laughlin,B Laughlin
+B Lee,124.0,96.0,8.0,8.0,19.0,102.0,10.0,129.17,12.4,0.0,0.0,25.0,B Lee,1029.0,875.0,25.0,374.0,145.8,7.06,41.16,B Lee,B Lee,2,,,,B Lee,130.23,112.0,B Lee,B Lee
+,,,,,,,,,,,,,B Muzarabani,73.0,42.0,4.0,12.0,7.0,10.43,18.25,B Muzarabani,,0,,,,,,,B Muzarabani,B Muzarabani
+B Sai Sudharsan,1906.0,1295.0,199.0,56.0,44.0,1359.0,39.0,147.18,48.87,13.0,2.0,108.0,,,,,,,,,B Sai Sudharsan,B Sai Sudharsan,4,B Sai Sudharsan,137.32,747.0,B Sai Sudharsan,207.14,232.0,Sai Sudharsan,Sai Sudharsan (B Sai Sudharsan)
+B Stanlake,5.0,2.0,1.0,0.0,1.0,2.0,0.0,250.0,5.0,0.0,0.0,5.0,B Stanlake,194.0,144.0,7.0,64.0,24.0,8.08,27.71,B Stanlake,B Stanlake,1,,,,B Stanlake,250.0,5.0,B Stanlake,B Stanlake
+B Sumanth,35.0,37.0,3.0,0.0,4.0,38.0,1.0,94.59,35.0,0.0,0.0,16.0,,,,,,,,,B Sumanth,,0,,,,B Sumanth,100.0,26.0,B Sumanth,B Sumanth
+BA Bhatt,6.0,7.0,0.0,1.0,2.0,7.0,0.0,85.71,6.0,0.0,0.0,6.0,BA Bhatt,388.0,296.0,12.0,93.0,49.3,7.86,32.33,BA Bhatt,BA Bhatt,1,,,,BA Bhatt,85.71,6.0,BA Bhatt,BA Bhatt
+BA Stokes,935.0,695.0,81.0,32.0,43.0,718.0,41.0,134.53,22.8,2.0,2.0,107.0,BA Stokes,953.0,689.0,28.0,228.0,114.8,8.3,34.04,BA Stokes,BA Stokes,5,BA Stokes,132.6,240.0,BA Stokes,165.6,207.0,Ben Stokes,Ben Stokes (BA Stokes)
+BAW Mendis,3.0,6.0,0.0,0.0,3.0,6.0,2.0,50.0,1.5,0.0,0.0,2.0,BAW Mendis,295.0,244.0,8.0,76.0,40.7,7.25,36.88,BAW Mendis,,0,,,,BAW Mendis,50.0,3.0,BAW Mendis,BAW Mendis
+BB McCullum,2882.0,2176.0,293.0,130.0,109.0,2272.0,106.0,132.44,27.19,13.0,2.0,158.0,,,,,,,,,BB McCullum,BB McCullum,5,BB McCullum,127.94,1557.0,BB McCullum,190.53,181.0,Brendon McCullum,Brendon McCullum (BB McCullum)
+BB Samantray,125.0,113.0,13.0,2.0,8.0,116.0,5.0,110.62,25.0,1.0,0.0,55.0,,,,,,,,,BB Samantray,,0,BB Samantray,71.43,15.0,BB Samantray,140.0,42.0,BB Samantray,BB Samantray
+BB Sran,10.0,13.0,0.0,0.0,7.0,14.0,1.0,76.92,10.0,0.0,0.0,3.0,BB Sran,714.0,483.0,18.0,168.0,80.5,8.87,39.67,BB Sran,,0,,,,BB Sran,76.92,10.0,BB Sran,BB Sran
+BCJ Cutting,238.0,141.0,15.0,19.0,17.0,146.0,11.0,168.79,21.64,0.0,0.0,39.0,BCJ Cutting,422.0,281.0,10.0,77.0,46.8,9.01,42.2,BCJ Cutting,BCJ Cutting,1,,,,BCJ Cutting,178.51,216.0,BCJ Cutting,BCJ Cutting
+BE Hendricks,1.0,3.0,0.0,0.0,2.0,3.0,1.0,33.33,1.0,0.0,0.0,1.0,BE Hendricks,223.0,150.0,9.0,52.0,25.0,8.92,24.78,BE Hendricks,,0,,,,BE Hendricks,33.33,1.0,BE Hendricks,BE Hendricks
+BJ Haddin,18.0,11.0,2.0,1.0,1.0,11.0,1.0,163.64,18.0,0.0,0.0,18.0,,,,,,,,,BJ Haddin,,0,BJ Haddin,163.64,18.0,,,,BJ Haddin,BJ Haddin
+BJ Hodge,1400.0,1112.0,122.0,43.0,63.0,1153.0,46.0,125.9,30.43,6.0,0.0,73.0,BJ Hodge,294.0,234.0,17.0,75.0,39.0,7.54,17.29,BJ Hodge,BJ Hodge,6,BJ Hodge,91.36,148.0,BJ Hodge,164.67,606.0,BJ Hodge,BJ Hodge
+BJ Rohrer,193.0,141.0,21.0,5.0,8.0,146.0,7.0,136.88,27.57,1.0,0.0,64.0,BJ Rohrer,11.0,6.0,0.0,1.0,1.0,11.0,,BJ Rohrer,,0,BJ Rohrer,0.0,0.0,BJ Rohrer,225.71,79.0,BJ Rohrer,BJ Rohrer
+BKG Mendis,20.0,10.0,1.0,2.0,1.0,11.0,1.0,200.0,20.0,0.0,0.0,20.0,,,,,,,,,BKG Mendis,,0,BKG Mendis,222.22,20.0,,,,BKG Mendis,BKG Mendis
+BMAJ Mendis,23.0,27.0,0.0,0.0,3.0,27.0,3.0,85.19,7.67,0.0,0.0,12.0,BMAJ Mendis,36.0,30.0,1.0,11.0,5.0,7.2,36.0,BMAJ Mendis,,0,BMAJ Mendis,50.0,1.0,,,,BMAJ Mendis,BMAJ Mendis
+BR Dunk,40.0,35.0,7.0,0.0,3.0,36.0,3.0,114.29,13.33,0.0,0.0,20.0,,,,,,,,,BR Dunk,,0,BR Dunk,114.29,40.0,,,,BR Dunk,BR Dunk
+BR Sharath,2.0,5.0,0.0,0.0,1.0,5.0,1.0,40.0,2.0,0.0,0.0,2.0,,,,,,,,,BR Sharath,,0,,,,,,,BR Sharath,BR Sharath
+,,,,,,,,,,,,,BW Hilfenhaus,458.0,372.0,22.0,173.0,62.0,7.39,20.82,BW Hilfenhaus,BW Hilfenhaus,2,,,,,,,BW Hilfenhaus,BW Hilfenhaus
+Basil Thampi,32.0,35.0,1.0,1.0,7.0,37.0,2.0,91.43,16.0,0.0,0.0,13.0,Basil Thampi,828.0,521.0,22.0,152.0,86.8,9.54,37.64,Basil Thampi,,0,,,,Basil Thampi,96.67,29.0,Basil Thampi,Basil Thampi
+Bipul Sharma,187.0,123.0,11.0,9.0,17.0,124.0,6.0,152.03,31.17,0.0,0.0,35.0,Bipul Sharma,557.0,426.0,16.0,131.0,71.0,7.85,34.81,Bipul Sharma,,0,,,,Bipul Sharma,157.8,172.0,Bipul Sharma,Bipul Sharma
+,,,,,,,,,,,,,Brijesh Sharma,52.0,42.0,3.0,13.0,7.0,7.43,17.33,Brijesh Sharma,,0,,,,,,,Brijesh Sharma,Brijesh Sharma
+C Bosch,58.0,36.0,5.0,3.0,3.0,36.0,2.0,161.11,29.0,0.0,0.0,27.0,C Bosch,90.0,61.0,2.0,29.0,10.2,8.85,45.0,C Bosch,,0,,,,C Bosch,180.65,56.0,C Bosch,C Bosch
+C Connolly,136.0,89.0,13.0,7.0,4.0,93.0,3.0,152.81,45.33,1.0,0.0,72.0,,,,,,,,,C Connolly,C Connolly,1,C Connolly,146.67,44.0,C Connolly,209.09,23.0,C Connolly,C Connolly
+,,,,,,,,,,,,,C Ganapathy,13.0,6.0,0.0,1.0,1.0,13.0,,C Ganapathy,,0,,,,,,,C Ganapathy,C Ganapathy
+C Green,763.0,496.0,67.0,34.0,33.0,513.0,23.0,153.83,33.17,2.0,1.0,100.0,C Green,688.0,463.0,17.0,155.0,77.2,8.92,40.47,C Green,C Green,3,C Green,163.71,203.0,C Green,200.88,229.0,Cameron Green,Cameron Green (C Green)
+C Madan,15.0,18.0,3.0,0.0,1.0,21.0,1.0,83.33,15.0,0.0,0.0,15.0,,,,,,,,,C Madan,,0,C Madan,83.33,15.0,,,,C Madan,C Madan
+C Munro,177.0,141.0,19.0,8.0,11.0,144.0,9.0,125.53,19.67,0.0,0.0,40.0,C Munro,15.0,12.0,0.0,5.0,2.0,7.5,,C Munro,,0,C Munro,143.96,131.0,C Munro,80.0,4.0,C Munro,C Munro
+C Nanda,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,C Nanda,55.0,48.0,2.0,13.0,8.0,6.88,27.5,C Nanda,,0,,,,C Nanda,0.0,0.0,C Nanda,C Nanda
+C Sakariya,20.0,30.0,3.0,0.0,7.0,31.0,5.0,66.67,4.0,0.0,0.0,7.0,C Sakariya,592.0,444.0,20.0,146.0,74.0,8.0,29.6,C Sakariya,,0,,,,C Sakariya,73.08,19.0,Chetan Sakariya,Chetan Sakariya (C Sakariya)
+C de Grandhomme,303.0,224.0,18.0,18.0,21.0,229.0,15.0,135.27,20.2,0.0,0.0,40.0,C de Grandhomme,295.0,216.0,6.0,58.0,36.0,8.19,49.17,C de Grandhomme,,0,C de Grandhomme,50.0,1.0,C de Grandhomme,142.86,160.0,Colin de Grandhomme,Colin de Grandhomme (C de Grandhomme)
+CA Ingram,205.0,179.0,22.0,5.0,15.0,183.0,12.0,114.53,17.08,0.0,0.0,47.0,,,,,,,,,CA Ingram,,0,CA Ingram,77.78,14.0,CA Ingram,150.0,63.0,CA Ingram,CA Ingram
+CA Lynn,1329.0,941.0,132.0,66.0,42.0,974.0,39.0,141.23,34.08,10.0,0.0,93.0,,,,,,,,,CA Lynn,CA Lynn,4,CA Lynn,145.07,779.0,CA Lynn,105.88,36.0,Chris Lynn,Chris Lynn (CA Lynn)
+CA Pujara,390.0,390.0,50.0,4.0,22.0,403.0,18.0,100.0,21.67,1.0,0.0,51.0,,,,,,,,,CA Pujara,,0,CA Pujara,94.3,215.0,CA Pujara,114.63,47.0,CA Pujara,CA Pujara
+CH Gayle,4997.0,3331.0,408.0,359.0,141.0,3516.0,128.0,150.02,39.04,32.0,6.0,175.0,CH Gayle,678.0,554.0,18.0,180.0,92.3,7.34,37.67,CH Gayle,CH Gayle,22,CH Gayle,136.18,2405.0,CH Gayle,207.5,581.0,Chris Gayle,Chris Gayle (CH Gayle)
+CH Morris,618.0,397.0,41.0,35.0,49.0,413.0,29.0,155.67,21.31,2.0,0.0,82.0,CH Morris,2210.0,1726.0,96.0,668.0,287.7,7.68,23.02,CH Morris,CH Morris,3,CH Morris,242.86,17.0,CH Morris,168.01,499.0,Chris Morris,Chris Morris (CH Morris)
+CJ Anderson,538.0,421.0,40.0,31.0,29.0,436.0,22.0,127.79,24.45,3.0,0.0,95.0,CJ Anderson,497.0,297.0,11.0,79.0,49.5,10.04,45.18,CJ Anderson,CJ Anderson,3,CJ Anderson,85.25,52.0,CJ Anderson,168.27,175.0,CJ Anderson,CJ Anderson
+,,,,,,,,,,,,,CJ Dala,33.0,18.0,0.0,7.0,3.0,11.0,,CJ Dala,,0,,,,,,,CJ Dala,CJ Dala
+CJ Ferguson,98.0,117.0,9.0,0.0,8.0,119.0,6.0,83.76,16.33,0.0,0.0,23.0,,,,,,,,,CJ Ferguson,,0,CJ Ferguson,70.83,17.0,CJ Ferguson,100.0,23.0,CJ Ferguson,CJ Ferguson
+,,,,,,,,,,,,,CJ Green,24.0,17.0,0.0,6.0,2.8,8.47,,CJ Green,,0,,,,,,,CJ Green,CJ Green
+CJ Jordan,81.0,77.0,3.0,3.0,12.0,81.0,9.0,105.19,9.0,0.0,0.0,30.0,CJ Jordan,1026.0,674.0,30.0,206.0,112.3,9.13,34.2,CJ Jordan,CJ Jordan,1,,,,CJ Jordan,112.68,80.0,CJ Jordan,CJ Jordan
+CJ McKay,8.0,15.0,0.0,0.0,1.0,15.0,1.0,53.33,8.0,0.0,0.0,8.0,CJ McKay,60.0,42.0,1.0,14.0,7.0,8.57,60.0,CJ McKay,,0,,,,,,,CJ McKay,CJ McKay
+CK Kapugedera,16.0,22.0,0.0,0.0,3.0,24.0,3.0,72.73,5.33,0.0,0.0,8.0,CK Kapugedera,49.0,17.0,0.0,0.0,2.8,17.29,,CK Kapugedera,,0,,,,CK Kapugedera,78.95,15.0,CK Kapugedera,CK Kapugedera
+CK Langeveldt,8.0,9.0,0.0,1.0,2.0,9.0,2.0,88.89,4.0,0.0,0.0,8.0,CK Langeveldt,178.0,156.0,13.0,69.0,26.0,6.85,13.69,CK Langeveldt,,0,,,,CK Langeveldt,140.0,7.0,CK Langeveldt,CK Langeveldt
+CL White,971.0,757.0,76.0,38.0,45.0,774.0,35.0,128.27,27.74,6.0,0.0,78.0,CL White,81.0,42.0,1.0,8.0,7.0,11.57,81.0,CL White,CL White,1,CL White,92.24,107.0,CL White,189.06,363.0,CL White,CL White
+CM Gautam,169.0,149.0,17.0,6.0,13.0,158.0,9.0,113.42,18.78,0.0,0.0,33.0,,,,,,,,,CM Gautam,,0,CM Gautam,111.48,68.0,CM Gautam,125.0,55.0,CM Gautam,CM Gautam
+CR Brathwaite,181.0,110.0,10.0,16.0,14.0,120.0,14.0,164.55,12.93,0.0,0.0,43.0,CR Brathwaite,361.0,254.0,13.0,74.0,42.3,8.53,27.77,CR Brathwaite,CR Brathwaite,1,,,,CR Brathwaite,201.28,157.0,CR Brathwaite,CR Brathwaite
+CR Woakes,78.0,77.0,7.0,2.0,12.0,77.0,5.0,101.3,15.6,0.0,0.0,18.0,CR Woakes,634.0,440.0,30.0,161.0,73.3,8.65,21.13,CR Woakes,,0,,,,CR Woakes,112.5,63.0,CR Woakes,CR Woakes
+CRD Fernando,4.0,3.0,0.0,0.0,2.0,3.0,1.0,133.33,4.0,0.0,0.0,2.0,CRD Fernando,276.0,234.0,17.0,99.0,39.0,7.08,16.24,CRD Fernando,CRD Fernando,1,,,,CRD Fernando,133.33,4.0,CRD Fernando,CRD Fernando
+CV Varun,26.0,48.0,2.0,0.0,12.0,51.0,3.0,54.17,8.67,0.0,0.0,10.0,CV Varun,2436.0,1942.0,99.0,708.0,323.7,7.53,24.61,CV Varun,CV Varun,6,,,,CV Varun,57.78,26.0,Varun Chakravarthy,Varun Chakravarthy (CV Varun)
+D Brevis,496.0,326.0,34.0,35.0,17.0,338.0,17.0,152.15,29.18,2.0,0.0,57.0,D Brevis,8.0,3.0,1.0,1.0,0.5,16.0,8.0,D Brevis,D Brevis,1,D Brevis,120.0,84.0,D Brevis,232.14,65.0,D Brevis,D Brevis
+D Ferreira,79.0,61.0,8.0,3.0,5.0,62.0,5.0,129.51,15.8,1.0,0.0,69.0,,,,,,,,,D Ferreira,,0,D Ferreira,127.27,14.0,D Ferreira,64.29,9.0,D Ferreira,D Ferreira
+,,,,,,,,,,,,,D Jansen,49.0,24.0,1.0,6.0,4.0,12.25,49.0,D Jansen,,0,,,,,,,D Jansen,D Jansen
+D Kalyankrishna,3.0,8.0,0.0,0.0,1.0,8.0,1.0,37.5,3.0,0.0,0.0,3.0,D Kalyankrishna,85.0,48.0,2.0,10.0,8.0,10.62,42.5,D Kalyankrishna,,0,,,,D Kalyankrishna,37.5,3.0,D Kalyankrishna,D Kalyankrishna
+D Padikkal,1941.0,1498.0,208.0,62.0,78.0,1570.0,76.0,129.57,25.54,13.0,1.0,101.0,,,,,,,,,D Padikkal,D Padikkal,2,D Padikkal,127.9,894.0,D Padikkal,143.75,138.0,Devdutt Padikkal,Devdutt Padikkal (D Padikkal)
+D Pretorius,44.0,28.0,3.0,3.0,5.0,28.0,4.0,157.14,11.0,0.0,0.0,22.0,D Pretorius,222.0,150.0,6.0,42.0,25.0,8.88,37.0,D Pretorius,,0,,,,D Pretorius,157.14,44.0,D Pretorius,D Pretorius
+D Salunkhe,33.0,24.0,5.0,0.0,3.0,24.0,1.0,137.5,33.0,0.0,0.0,26.0,D Salunkhe,69.0,47.0,1.0,13.0,7.8,8.81,69.0,D Salunkhe,,0,,,,D Salunkhe,147.06,25.0,D Salunkhe,D Salunkhe
+D Wiese,148.0,100.0,12.0,7.0,11.0,105.0,6.0,148.0,24.67,0.0,0.0,47.0,D Wiese,427.0,296.0,16.0,82.0,49.3,8.66,26.69,D Wiese,,0,,,,D Wiese,162.34,125.0,D Wiese,D Wiese
+D du Preez,10.0,13.0,0.0,0.0,1.0,13.0,1.0,76.92,10.0,0.0,0.0,10.0,D du Preez,53.0,42.0,4.0,18.0,7.0,7.57,13.25,D du Preez,,0,,,,D du Preez,77.78,7.0,D du Preez,D du Preez
+DA Miller,3156.0,2264.0,228.0,142.0,136.0,2354.0,91.0,139.4,34.68,13.0,1.0,101.0,,,,,,,,,DA Miller,DA Miller,5,DA Miller,89.09,98.0,DA Miller,173.84,1429.0,David Miller,David Miller (DA Miller)
+DA Payne,6.0,5.0,0.0,0.0,1.0,5.0,0.0,120.0,6.0,0.0,0.0,6.0,DA Payne,69.0,30.0,2.0,5.0,5.0,13.8,34.5,DA Payne,,0,,,,DA Payne,120.0,6.0,DA Payne,DA Payne
+DA Warner,6567.0,4680.0,663.0,236.0,184.0,4849.0,164.0,140.32,40.04,62.0,4.0,126.0,DA Warner,1.0,1.0,0.0,0.0,0.2,6.0,,DA Warner,DA Warner,18,DA Warner,138.89,3318.0,DA Warner,178.41,628.0,David Warner,David Warner (DA Warner)
+DAJ Bracewell,12.0,9.0,1.0,0.0,1.0,9.0,0.0,133.33,12.0,0.0,0.0,12.0,DAJ Bracewell,31.0,24.0,3.0,10.0,4.0,7.75,10.33,DAJ Bracewell,,0,,,,DAJ Bracewell,133.33,12.0,DAJ Bracewell,DAJ Bracewell
+DB Das,304.0,260.0,23.0,16.0,22.0,267.0,12.0,116.92,25.33,0.0,0.0,35.0,,,,,,,,,DB Das,,0,DB Das,109.43,58.0,DB Das,121.88,117.0,DB Das,DB Das
+DB Ravi Teja,375.0,315.0,35.0,9.0,25.0,325.0,20.0,119.05,18.75,1.0,0.0,60.0,DB Ravi Teja,28.0,18.0,1.0,4.0,3.0,9.33,28.0,DB Ravi Teja,,0,DB Ravi Teja,91.38,53.0,DB Ravi Teja,140.83,169.0,DB Ravi Teja,DB Ravi Teja
+DE Bollinger,21.0,22.0,1.0,1.0,4.0,23.0,1.0,95.45,21.0,0.0,0.0,16.0,DE Bollinger,661.0,576.0,37.0,254.0,96.0,6.89,17.86,DE Bollinger,DE Bollinger,2,,,,DE Bollinger,95.45,21.0,DE Bollinger,DE Bollinger
+DG Nalkande,12.0,12.0,0.0,1.0,2.0,12.0,2.0,100.0,6.0,0.0,0.0,12.0,DG Nalkande,143.0,84.0,6.0,22.0,14.0,10.21,23.83,DG Nalkande,,0,,,,DG Nalkande,0.0,0.0,DG Nalkande,DG Nalkande
+DH Yagnik,170.0,133.0,23.0,2.0,17.0,142.0,9.0,127.82,18.89,0.0,0.0,34.0,,,,,,,,,DH Yagnik,,0,,,,DH Yagnik,131.51,96.0,DH Yagnik,DH Yagnik
+DJ Bravo,1560.0,1196.0,120.0,66.0,110.0,1247.0,69.0,130.43,22.61,5.0,0.0,70.0,DJ Bravo,4160.0,3120.0,183.0,998.0,520.0,8.0,22.73,DJ Bravo,DJ Bravo,4,DJ Bravo,111.82,123.0,DJ Bravo,176.16,909.0,Dwayne Bravo,Dwayne Bravo (DJ Bravo)
+DJ Harris,111.0,101.0,11.0,5.0,4.0,103.0,3.0,109.9,37.0,0.0,0.0,47.0,DJ Harris,26.0,18.0,0.0,4.0,3.0,8.67,,DJ Harris,,0,DJ Harris,89.06,57.0,,,,DJ Harris,DJ Harris
+DJ Hooda,1497.0,1167.0,98.0,62.0,101.0,1213.0,82.0,128.28,18.26,8.0,0.0,64.0,DJ Hooda,532.0,379.0,9.0,102.0,63.2,8.42,59.11,DJ Hooda,DJ Hooda,1,DJ Hooda,100.0,164.0,DJ Hooda,147.94,466.0,Deepak Hooda,Deepak Hooda (DJ Hooda)
+DJ Hussey,1322.0,1070.0,90.0,60.0,61.0,1101.0,49.0,123.55,26.98,5.0,0.0,71.0,DJ Hussey,467.0,317.0,8.0,86.0,52.8,8.84,58.38,DJ Hussey,DJ Hussey,2,DJ Hussey,116.52,134.0,DJ Hussey,179.04,410.0,DJ Hussey,DJ Hussey
+DJ Jacobs,92.0,98.0,10.0,4.0,7.0,101.0,7.0,93.88,13.14,0.0,0.0,32.0,,,,,,,,,DJ Jacobs,,0,DJ Jacobs,91.21,83.0,,,,DJ Jacobs,DJ Jacobs
+DJ Malan,26.0,26.0,1.0,1.0,1.0,26.0,1.0,100.0,26.0,0.0,0.0,26.0,,,,,,,,,DJ Malan,,0,DJ Malan,50.0,1.0,,,,DJ Malan,DJ Malan
+DJ Mitchell,351.0,267.0,28.0,10.0,15.0,274.0,13.0,131.46,27.0,2.0,0.0,63.0,DJ Mitchell,94.0,48.0,1.0,5.0,8.0,11.75,94.0,DJ Mitchell,,0,DJ Mitchell,124.36,97.0,DJ Mitchell,121.05,46.0,DJ Mitchell,DJ Mitchell
+DJ Muthuswami,1.0,3.0,0.0,0.0,1.0,3.0,1.0,33.33,1.0,0.0,0.0,1.0,DJ Muthuswami,101.0,84.0,4.0,44.0,14.0,7.21,25.25,DJ Muthuswami,,0,,,,DJ Muthuswami,33.33,1.0,DJ Muthuswami,DJ Muthuswami
+DJ Thornely,39.0,53.0,2.0,2.0,4.0,54.0,3.0,73.58,13.0,0.0,0.0,30.0,DJ Thornely,38.0,42.0,3.0,19.0,7.0,5.43,12.67,DJ Thornely,,0,DJ Thornely,20.0,4.0,,,,DJ Thornely,DJ Thornely
+DJ Willey,53.0,62.0,7.0,0.0,5.0,64.0,3.0,85.48,17.67,0.0,0.0,20.0,DJ Willey,267.0,216.0,6.0,79.0,36.0,7.42,44.5,DJ Willey,,0,DJ Willey,54.55,6.0,DJ Willey,109.09,24.0,DJ Willey,DJ Willey
+DJG Sammy,295.0,241.0,15.0,18.0,20.0,251.0,15.0,122.41,19.67,1.0,0.0,60.0,DJG Sammy,339.0,236.0,11.0,72.0,39.3,8.62,30.82,DJG Sammy,DJG Sammy,1,DJG Sammy,160.0,8.0,DJG Sammy,141.67,136.0,DJG Sammy,DJG Sammy
+DJM Short,115.0,99.0,11.0,5.0,7.0,102.0,7.0,116.16,16.43,0.0,0.0,44.0,DJM Short,19.0,18.0,1.0,7.0,3.0,6.33,19.0,DJM Short,,0,DJM Short,83.33,50.0,,,,DJM Short,DJM Short
+DL Chahar,123.0,89.0,6.0,8.0,17.0,91.0,8.0,138.2,15.38,0.0,0.0,39.0,DL Chahar,2574.0,1954.0,89.0,827.0,325.7,7.9,28.92,DL Chahar,DL Chahar,2,,,,DL Chahar,124.0,62.0,Deepak Chahar,Deepak Chahar (DL Chahar)
+DL Vettori,121.0,112.0,11.0,2.0,16.0,118.0,7.0,108.04,17.29,0.0,0.0,29.0,DL Vettori,871.0,777.0,28.0,270.0,129.5,6.73,31.11,DL Vettori,DL Vettori,1,,,,DL Vettori,125.42,74.0,DL Vettori,DL Vettori
+DM Bravo,6.0,5.0,1.0,0.0,1.0,5.0,0.0,120.0,6.0,0.0,0.0,6.0,,,,,,,,,DM Bravo,,0,,,,DM Bravo,120.0,6.0,DM Bravo,DM Bravo
+DNT Zoysa,11.0,9.0,1.0,0.0,2.0,9.0,1.0,122.22,11.0,0.0,0.0,10.0,DNT Zoysa,93.0,66.0,2.0,24.0,11.0,8.45,46.5,DNT Zoysa,,0,,,,DNT Zoysa,125.0,10.0,DNT Zoysa,DNT Zoysa
+DP Conway,1080.0,770.0,117.0,34.0,28.0,794.0,25.0,140.26,43.2,11.0,0.0,92.0,,,,,,,,,DP Conway,DP Conway,4,DP Conway,126.16,463.0,DP Conway,154.84,96.0,DP Conway,DP Conway
+DP Nannes,4.0,13.0,0.0,0.0,2.0,13.0,1.0,30.77,4.0,0.0,0.0,3.0,DP Nannes,732.0,646.0,28.0,285.0,107.7,6.8,26.14,DP Nannes,DP Nannes,1,,,,DP Nannes,22.22,2.0,DP Nannes,DP Nannes
+DP Vijaykumar,1.0,1.0,0.0,0.0,1.0,1.0,0.0,100.0,1.0,0.0,0.0,1.0,DP Vijaykumar,190.0,152.0,4.0,63.0,25.3,7.5,47.5,DP Vijaykumar,,0,,,,DP Vijaykumar,100.0,1.0,DP Vijaykumar,DP Vijaykumar
+DPMD Jayawardene,1808.0,1462.0,200.0,40.0,78.0,1522.0,64.0,123.67,28.25,10.0,1.0,110.0,,,,,,,,,DPMD Jayawardene,DPMD Jayawardene,5,DPMD Jayawardene,121.96,611.0,DPMD Jayawardene,159.83,374.0,Mahela Jayawardene,Mahela Jayawardene (DPMD Jayawardene)
+DR Martyn,19.0,24.0,1.0,0.0,1.0,26.0,2.0,79.17,9.5,0.0,0.0,19.0,,,,,,,,,DR Martyn,,0,DR Martyn,33.33,1.0,DR Martyn,166.67,5.0,DR Martyn,DR Martyn
+DR Sams,44.0,44.0,1.0,3.0,13.0,48.0,10.0,100.0,4.4,0.0,0.0,15.0,DR Sams,487.0,360.0,14.0,142.0,60.0,8.12,34.79,DR Sams,DR Sams,1,DR Sams,16.67,1.0,DR Sams,112.5,27.0,DR Sams,DR Sams
+DR Shorey,13.0,17.0,0.0,1.0,2.0,20.0,2.0,76.47,6.5,0.0,0.0,8.0,,,,,,,,,DR Shorey,,0,,,,,,,DR Shorey,DR Shorey
+DR Smith,2385.0,1755.0,245.0,117.0,88.0,1803.0,81.0,135.9,29.44,17.0,0.0,87.0,DR Smith,781.0,539.0,26.0,168.0,89.8,8.69,30.04,DR Smith,DR Smith,11,DR Smith,125.05,1213.0,DR Smith,152.73,168.0,Dwayne Smith,Dwayne Smith (DR Smith)
+DS Kulkarni,104.0,108.0,7.0,2.0,20.0,113.0,9.0,96.3,11.56,0.0,0.0,28.0,DS Kulkarni,2354.0,1787.0,86.0,742.0,297.8,7.9,27.37,DS Kulkarni,,0,,,,DS Kulkarni,101.02,99.0,DS Kulkarni,DS Kulkarni
+DS Lehmann,18.0,18.0,3.0,0.0,2.0,19.0,2.0,100.0,9.0,0.0,0.0,17.0,,,,,,,,,DS Lehmann,,0,DS Lehmann,133.33,4.0,,,,DS Lehmann,DS Lehmann
+DS Rathi,1.0,6.0,0.0,0.0,2.0,7.0,1.0,16.67,1.0,0.0,0.0,1.0,DS Rathi,566.0,408.0,17.0,118.0,68.0,8.32,33.29,DS Rathi,DS Rathi,1,,,,DS Rathi,16.67,1.0,DS Rathi,DS Rathi
+DT Christian,460.0,394.0,23.0,19.0,41.0,408.0,28.0,116.75,16.43,0.0,0.0,39.0,DT Christian,1148.0,883.0,38.0,296.0,147.2,7.8,30.21,DT Christian,,0,DT Christian,37.5,3.0,DT Christian,140.45,309.0,DT Christian,DT Christian
+DT Patil,13.0,13.0,1.0,0.0,2.0,13.0,1.0,100.0,13.0,0.0,0.0,9.0,,,,,,,,,DT Patil,,0,,,,DT Patil,400.0,4.0,DT Patil,DT Patil
+DW Steyn,167.0,160.0,14.0,3.0,33.0,163.0,22.0,104.38,7.59,0.0,0.0,19.0,DW Steyn,2393.0,2182.0,97.0,1019.0,363.7,6.58,24.67,DW Steyn,DW Steyn,5,,,,DW Steyn,107.95,163.0,Dale Steyn,Dale Steyn (DW Steyn)
+Dhruv Jurel,856.0,541.0,68.0,46.0,40.0,560.0,26.0,158.23,32.92,6.0,0.0,81.0,,,,,,,,,Dhruv Jurel,,0,Dhruv Jurel,185.71,52.0,Dhruv Jurel,179.84,464.0,Dhruv Jurel,Dhruv Jurel
+E Lewis,654.0,477.0,62.0,36.0,26.0,499.0,24.0,137.11,27.25,4.0,0.0,65.0,,,,,,,,,E Lewis,E Lewis,1,E Lewis,146.85,420.0,E Lewis,152.38,32.0,E Lewis,E Lewis
+,,,,,,,,,,,,,E Malinga,377.0,250.0,18.0,82.0,41.7,9.05,20.94,E Malinga,,0,,,,,,,E Malinga,E Malinga
+EJG Morgan,1406.0,1147.0,112.0,64.0,74.0,1181.0,61.0,122.58,23.05,5.0,0.0,68.0,,,,,,,,,EJG Morgan,EJG Morgan,2,EJG Morgan,91.67,176.0,EJG Morgan,164.33,516.0,Eoin Morgan,Eoin Morgan (EJG Morgan)
+ER Dwivedi,24.0,14.0,2.0,2.0,2.0,15.0,2.0,171.43,12.0,0.0,0.0,19.0,,,,,,,,,ER Dwivedi,,0,ER Dwivedi,100.0,5.0,ER Dwivedi,211.11,19.0,ER Dwivedi,ER Dwivedi
+F Behardien,14.0,13.0,2.0,0.0,3.0,13.0,2.0,107.69,7.0,0.0,0.0,9.0,,,,,,,,,F Behardien,,0,,,,F Behardien,116.67,14.0,F Behardien,F Behardien
+F du Plessis,4773.0,3506.0,440.0,174.0,147.0,3605.0,135.0,136.14,35.36,39.0,0.0,96.0,F du Plessis,16.0,6.0,0.0,0.0,1.0,16.0,,F du Plessis,F du Plessis,10,F du Plessis,136.59,2281.0,F du Plessis,180.89,568.0,Faf du Plessis,Faf du Plessis (F du Plessis)
+FA Allen,14.0,18.0,1.0,0.0,3.0,19.0,2.0,77.78,7.0,0.0,0.0,8.0,FA Allen,135.0,90.0,2.0,26.0,15.0,9.0,67.5,FA Allen,,0,,,,FA Allen,84.62,11.0,FA Allen,FA Allen
+FH Allen,81.0,42.0,13.0,4.0,5.0,44.0,5.0,192.86,16.2,0.0,0.0,37.0,,,,,,,,,FH Allen,,0,FH Allen,192.86,81.0,,,,FH Allen,FH Allen
+FH Edwards,4.0,5.0,0.0,0.0,2.0,5.0,1.0,80.0,4.0,0.0,0.0,3.0,FH Edwards,140.0,140.0,5.0,70.0,23.3,6.0,28.0,FH Edwards,,0,,,,FH Edwards,80.0,4.0,FH Edwards,FH Edwards
+FY Fazal,183.0,172.0,22.0,1.0,11.0,179.0,9.0,106.4,20.33,0.0,0.0,45.0,FY Fazal,20.0,12.0,0.0,1.0,2.0,10.0,,FY Fazal,,0,FY Fazal,97.44,76.0,FY Fazal,118.75,38.0,FY Fazal,FY Fazal
+Fazalhaq Farooqi,5.0,15.0,0.0,0.0,3.0,15.0,0.0,33.33,5.0,0.0,0.0,2.0,Fazalhaq Farooqi,425.0,254.0,6.0,80.0,42.3,10.04,70.83,Fazalhaq Farooqi,,0,,,,Fazalhaq Farooqi,33.33,5.0,Fazalhaq Farooqi,Fazalhaq Farooqi
+G Coetzee,31.0,32.0,2.0,2.0,7.0,33.0,6.0,96.88,5.17,0.0,0.0,12.0,G Coetzee,445.0,273.0,15.0,90.0,45.5,9.78,29.67,G Coetzee,,0,,,,G Coetzee,100.0,23.0,Gerald Coetzee,Gerald Coetzee (G Coetzee)
+G Gambhir,4217.0,3394.0,492.0,59.0,151.0,3524.0,135.0,124.25,31.24,36.0,0.0,93.0,,,,,,,,,G Gambhir,G Gambhir,13,G Gambhir,122.29,2277.0,G Gambhir,145.95,270.0,Gautam Gambhir,Gautam Gambhir (G Gambhir)
+GB Hogg,22.0,22.0,1.0,0.0,4.0,22.0,2.0,100.0,11.0,0.0,0.0,13.0,GB Hogg,548.0,458.0,23.0,159.0,76.3,7.18,23.83,GB Hogg,,0,,,,GB Hogg,100.0,22.0,GB Hogg,GB Hogg
+GC Smith,739.0,664.0,94.0,9.0,29.0,691.0,30.0,111.3,24.63,4.0,0.0,91.0,,,,,,,,,GC Smith,GC Smith,2,GC Smith,96.89,374.0,GC Smith,169.23,66.0,GC Smith,GC Smith
+GC Viljoen,3.0,7.0,0.0,0.0,3.0,7.0,2.0,42.86,1.5,0.0,0.0,2.0,GC Viljoen,210.0,138.0,7.0,43.0,23.0,9.13,30.0,GC Viljoen,,0,,,,GC Viljoen,42.86,3.0,GC Viljoen,GC Viljoen
+GD McGrath,4.0,5.0,1.0,0.0,2.0,5.0,1.0,80.0,4.0,0.0,0.0,4.0,GD McGrath,351.0,324.0,12.0,153.0,54.0,6.5,29.25,GD McGrath,GD McGrath,1,,,,GD McGrath,80.0,4.0,GD McGrath,GD McGrath
+GD Phillips,107.0,84.0,5.0,8.0,11.0,86.0,9.0,127.38,11.89,0.0,0.0,25.0,GD Phillips,39.0,30.0,2.0,10.0,5.0,7.8,19.5,GD Phillips,GD Phillips,1,GD Phillips,0.0,0.0,GD Phillips,190.32,59.0,GD Phillips,GD Phillips
+GF Linde,23.0,17.0,4.0,0.0,2.0,17.0,2.0,135.29,11.5,0.0,0.0,16.0,GF Linde,37.0,25.0,0.0,6.0,4.2,8.88,,GF Linde,,0,,,,GF Linde,135.29,23.0,GF Linde,GF Linde
+GH Vihari,284.0,319.0,23.0,1.0,23.0,331.0,20.0,89.03,14.2,0.0,0.0,46.0,GH Vihari,46.0,42.0,1.0,17.0,7.0,6.57,46.0,GH Vihari,GH Vihari,2,GH Vihari,65.56,59.0,GH Vihari,117.65,80.0,GH Vihari,GH Vihari
+GHS Garton,2.0,4.0,0.0,0.0,2.0,4.0,1.0,50.0,2.0,0.0,0.0,2.0,GHS Garton,127.0,90.0,3.0,31.0,15.0,8.47,42.33,GHS Garton,,0,,,,GHS Garton,50.0,2.0,GHS Garton,GHS Garton
+GJ Bailey,663.0,541.0,59.0,19.0,36.0,552.0,29.0,122.55,22.86,2.0,0.0,61.0,,,,,,,,,GJ Bailey,GJ Bailey,1,GJ Bailey,103.15,131.0,GJ Bailey,176.76,327.0,GJ Bailey,GJ Bailey
+GJ Maxwell,2820.0,1810.0,238.0,161.0,134.0,1896.0,117.0,155.8,24.1,18.0,0.0,95.0,GJ Maxwell,1381.0,1022.0,41.0,328.0,170.3,8.11,33.68,GJ Maxwell,GJ Maxwell,9,GJ Maxwell,140.13,433.0,GJ Maxwell,179.59,607.0,Glenn Maxwell,Glenn Maxwell (GJ Maxwell)
+GR Napier,15.0,16.0,1.0,0.0,1.0,16.0,1.0,93.75,15.0,0.0,0.0,15.0,GR Napier,27.0,24.0,1.0,8.0,4.0,6.75,27.0,GR Napier,,0,,,,GR Napier,125.0,5.0,GR Napier,GR Napier
+,,,,,,,,,,,,,GS Sandhu,82.0,48.0,1.0,9.0,8.0,10.25,82.0,GS Sandhu,,0,,,,,,,GS Sandhu,GS Sandhu
+,,,,,,,,,,,,,Gagandeep Singh,141.0,84.0,3.0,25.0,14.0,10.07,47.0,Gagandeep Singh,,0,,,,,,,Gagandeep Singh,Gagandeep Singh
+Gulbadin Naib,19.0,15.0,1.0,1.0,1.0,15.0,1.0,126.67,19.0,0.0,0.0,19.0,Gulbadin Naib,12.0,6.0,0.0,1.0,1.0,12.0,,Gulbadin Naib,,0,,,,Gulbadin Naib,150.0,15.0,Gulbadin Naib,Gulbadin Naib
+,,,,,,,,,,,,,Gurjapneet Singh,56.0,31.0,1.0,9.0,5.2,10.84,56.0,Gurjapneet Singh,,0,,,,,,,Gurjapneet Singh,Gurjapneet Singh
+Gurkeerat Singh,511.0,422.0,55.0,11.0,32.0,436.0,27.0,121.09,18.93,2.0,0.0,65.0,Gurkeerat Singh,93.0,78.0,5.0,26.0,13.0,7.15,18.6,Gurkeerat Singh,,0,Gurkeerat Singh,94.59,35.0,Gurkeerat Singh,154.94,251.0,Gurkeerat Singh Mann,Gurkeerat Singh Mann (Gurkeerat Singh)
+,,,,,,,,,,,,,Gurnoor Brar,38.0,18.0,0.0,7.0,3.0,12.67,,Gurnoor Brar,,0,,,,,,,Gurnoor Brar,Gurnoor Brar
+H Das,2.0,5.0,0.0,0.0,1.0,5.0,1.0,40.0,2.0,0.0,0.0,2.0,,,,,,,,,H Das,,0,,,,H Das,40.0,2.0,H Das,H Das
+H Klaasen,1704.0,1020.0,111.0,97.0,50.0,1075.0,41.0,167.06,41.56,9.0,2.0,105.0,,,,,,,,,H Klaasen,H Klaasen,1,H Klaasen,134.78,93.0,H Klaasen,192.77,613.0,Heinrich Klaasen,Heinrich Klaasen (H Klaasen)
+,,,,,,,,,,,,,H Sharma,57.0,30.0,0.0,2.0,5.0,11.4,,H Sharma,,0,,,,,,,H Sharma,H Sharma
+HC Brook,190.0,153.0,23.0,4.0,11.0,159.0,9.0,124.18,21.11,0.0,1.0,100.0,,,,,,,,,HC Brook,HC Brook,1,HC Brook,114.29,96.0,HC Brook,144.0,36.0,HC Brook,HC Brook
+HE van der Dussen,22.0,24.0,2.0,0.0,3.0,25.0,2.0,91.67,11.0,0.0,0.0,12.0,,,,,,,,,HE van der Dussen,,0,,,,HE van der Dussen,120.0,12.0,HE van der Dussen,HE van der Dussen
+HF Gurney,1.0,5.0,0.0,0.0,1.0,5.0,0.0,20.0,1.0,0.0,0.0,1.0,HF Gurney,230.0,162.0,7.0,50.0,27.0,8.52,32.86,HF Gurney,HF Gurney,1,,,,HF Gurney,20.0,1.0,HF Gurney,HF Gurney
+HH Gibbs,886.0,805.0,83.0,31.0,36.0,837.0,32.0,110.06,27.69,6.0,0.0,69.0,,,,,,,,,HH Gibbs,HH Gibbs,1,HH Gibbs,107.45,447.0,HH Gibbs,160.0,72.0,HH Gibbs,HH Gibbs
+HH Pandya,2839.0,1917.0,218.0,152.0,144.0,2015.0,102.0,148.1,27.83,10.0,0.0,91.0,HH Pandya,2528.0,1700.0,80.0,564.0,283.3,8.92,31.6,HH Pandya,HH Pandya,8,HH Pandya,100.0,178.0,HH Pandya,172.26,1459.0,Hardik Pandya,Hardik Pandya (HH Pandya)
+HM Amla,577.0,406.0,60.0,21.0,16.0,418.0,13.0,142.12,44.38,3.0,2.0,104.0,,,,,,,,,HM Amla,HM Amla,2,HM Amla,131.16,261.0,HM Amla,239.22,122.0,HM Amla,HM Amla
+HR Shokeen,66.0,65.0,9.0,0.0,5.0,67.0,3.0,101.54,22.0,0.0,0.0,25.0,HR Shokeen,299.0,204.0,5.0,78.0,34.0,8.79,59.8,HR Shokeen,,0,HR Shokeen,20.0,1.0,HR Shokeen,135.29,23.0,HR Shokeen,HR Shokeen
+HV Patel,274.0,233.0,17.0,15.0,43.0,245.0,29.0,117.6,9.45,0.0,0.0,36.0,HV Patel,3452.0,2470.0,151.0,802.0,411.7,8.39,22.86,HV Patel,HV Patel,5,,,,HV Patel,131.85,207.0,Harshal Patel,Harshal Patel (HV Patel)
+Harbhajan Singh,833.0,599.0,79.0,42.0,88.0,636.0,56.0,139.07,14.88,1.0,0.0,64.0,Harbhajan Singh,3925.0,3416.0,146.0,1263.0,569.3,6.89,26.88,Harbhajan Singh,Harbhajan Singh,8,Harbhajan Singh,121.57,62.0,Harbhajan Singh,152.57,624.0,Harbhajan Singh,Harbhajan Singh
+Harmeet Singh,18.0,12.0,3.0,0.0,4.0,12.0,2.0,150.0,9.0,0.0,0.0,14.0,Harmeet Singh,693.0,549.0,27.0,201.0,91.5,7.57,25.67,Harmeet Singh,Harmeet Singh,2,,,,Harmeet Singh,150.0,18.0,Harmeet Singh,Harmeet Singh
+Harpreet Brar,244.0,203.0,19.0,10.0,26.0,214.0,13.0,120.2,18.77,0.0,0.0,29.0,Harpreet Brar,1057.0,811.0,35.0,269.0,135.2,7.82,30.2,Harpreet Brar,Harpreet Brar,4,,,,Harpreet Brar,136.91,204.0,Harpreet Brar,Harpreet Brar
+Harpreet Singh,123.0,118.0,10.0,3.0,8.0,119.0,6.0,104.24,20.5,0.0,0.0,41.0,,,,,,,,,Harpreet Singh,,0,Harpreet Singh,103.45,30.0,Harpreet Singh,135.14,50.0,Harpreet Singh,Harpreet Singh
+Harsh Dubey,13.0,9.0,2.0,0.0,4.0,11.0,2.0,144.44,6.5,0.0,0.0,9.0,Harsh Dubey,221.0,150.0,10.0,45.0,25.0,8.84,22.1,Harsh Dubey,,0,,,,Harsh Dubey,144.44,13.0,Harsh Dubey,Harsh Dubey
+Harshit Rana,59.0,55.0,5.0,3.0,10.0,57.0,7.0,107.27,8.43,0.0,0.0,34.0,Harshit Rana,989.0,649.0,40.0,247.0,108.2,9.14,24.72,Harshit Rana,,0,,,,Harshit Rana,88.24,30.0,Harshit Rana,Harshit Rana
+I Malhotra,7.0,4.0,1.0,0.0,1.0,4.0,0.0,175.0,7.0,0.0,0.0,7.0,I Malhotra,23.0,6.0,0.0,0.0,1.0,23.0,,I Malhotra,,0,,,,I Malhotra,175.0,7.0,I Malhotra,I Malhotra
+I Sharma,57.0,69.0,4.0,2.0,21.0,71.0,7.0,82.61,8.14,0.0,0.0,10.0,I Sharma,3186.0,2419.0,96.0,999.0,403.2,7.9,33.19,I Sharma,I Sharma,4,,,,I Sharma,81.82,45.0,Ishant Sharma,Ishant Sharma (I Sharma)
+I Udana,15.0,11.0,1.0,1.0,4.0,11.0,3.0,136.36,5.0,0.0,0.0,10.0,I Udana,274.0,174.0,8.0,45.0,29.0,9.45,34.25,I Udana,,0,,,,I Udana,136.36,15.0,I Udana,I Udana
+IC Pandey,0.0,2.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,IC Pandey,580.0,462.0,18.0,212.0,77.0,7.53,32.22,IC Pandey,,0,,,,IC Pandey,0.0,0.0,IC Pandey,IC Pandey
+,,,,,,,,,,,,,IC Porel,37.0,24.0,1.0,7.0,4.0,9.25,37.0,IC Porel,,0,,,,,,,IC Porel,IC Porel
+IK Pathan,1150.0,947.0,88.0,38.0,82.0,985.0,53.0,121.44,21.7,1.0,0.0,60.0,IK Pathan,2567.0,2043.0,80.0,835.0,340.5,7.54,32.09,IK Pathan,IK Pathan,2,IK Pathan,133.33,92.0,IK Pathan,150.34,663.0,IK Pathan,IK Pathan
+IR Jaggi,76.0,97.0,6.0,0.0,7.0,100.0,5.0,78.35,15.2,0.0,0.0,28.0,,,,,,,,,IR Jaggi,,0,IR Jaggi,67.57,25.0,IR Jaggi,92.86,13.0,IR Jaggi,IR Jaggi
+IS Sodhi,7.0,17.0,0.0,0.0,2.0,18.0,2.0,41.18,3.5,0.0,0.0,6.0,IS Sodhi,201.0,181.0,9.0,64.0,30.2,6.66,22.33,IS Sodhi,,0,,,,IS Sodhi,50.0,5.0,IS Sodhi,IS Sodhi
+Imran Tahir,33.0,37.0,5.0,0.0,8.0,37.0,4.0,89.19,8.25,0.0,0.0,13.0,Imran Tahir,1658.0,1316.0,82.0,437.0,219.3,7.56,20.22,Imran Tahir,Imran Tahir,1,,,,Imran Tahir,93.55,29.0,Imran Tahir,Imran Tahir
+Iqbal Abdulla,88.0,82.0,9.0,1.0,13.0,86.0,1.0,107.32,88.0,0.0,0.0,33.0,Iqbal Abdulla,1083.0,920.0,40.0,331.0,153.3,7.06,27.08,Iqbal Abdulla,Iqbal Abdulla,2,,,,Iqbal Abdulla,120.69,70.0,Iqbal Abdulla,Iqbal Abdulla
+Ishan Kishan,3211.0,2281.0,310.0,146.0,117.0,2351.0,106.0,140.77,30.29,19.0,1.0,106.0,Ishan Kishan,4.0,1.0,0.0,0.0,0.2,24.0,,Ishan Kishan,Ishan Kishan,6,Ishan Kishan,135.37,1397.0,Ishan Kishan,190.48,360.0,Ishan Kishan,Ishan Kishan
+J Arunkumar,23.0,23.0,5.0,0.0,3.0,24.0,3.0,100.0,7.67,0.0,0.0,22.0,,,,,,,,,J Arunkumar,,0,J Arunkumar,100.0,23.0,,,,J Arunkumar,J Arunkumar
+J Botha,409.0,358.0,39.0,5.0,28.0,364.0,22.0,114.25,18.59,1.0,0.0,67.0,J Botha,781.0,694.0,25.0,254.0,115.7,6.75,31.24,J Botha,J Botha,1,J Botha,86.54,45.0,J Botha,129.27,159.0,J Botha,J Botha
+J Fraser-McGurk,385.0,191.0,39.0,30.0,15.0,203.0,14.0,201.57,27.5,4.0,0.0,84.0,,,,,,,,,J Fraser-McGurk,J Fraser-McGurk,1,J Fraser-McGurk,209.86,298.0,,,,J Fraser-McGurk,J Fraser-McGurk
+,,,,,,,,,,,,,J Little,331.0,228.0,11.0,82.0,38.0,8.71,30.09,J Little,J Little,1,,,,,,,J Little,J Little
+J Overton,102.0,64.0,8.0,5.0,5.0,66.0,2.0,159.38,51.0,0.0,0.0,43.0,J Overton,180.0,102.0,5.0,32.0,17.0,10.59,36.0,J Overton,,0,,,,J Overton,161.76,55.0,J Overton,J Overton
+J Suchith,70.0,61.0,6.0,3.0,9.0,62.0,4.0,114.75,17.5,0.0,0.0,34.0,J Suchith,585.0,420.0,19.0,140.0,70.0,8.36,30.79,J Suchith,,0,,,,J Suchith,180.65,56.0,J Suchith,J Suchith
+J Syed Mohammad,29.0,26.0,4.0,0.0,5.0,27.0,2.0,111.54,14.5,0.0,0.0,13.0,J Syed Mohammad,279.0,192.0,8.0,47.0,32.0,8.72,34.88,J Syed Mohammad,,0,,,,J Syed Mohammad,133.33,20.0,J Syed Mohammad,J Syed Mohammad
+J Theron,10.0,12.0,1.0,0.0,4.0,13.0,2.0,83.33,5.0,0.0,0.0,7.0,J Theron,282.0,221.0,11.0,68.0,36.8,7.66,25.64,J Theron,J Theron,1,,,,J Theron,83.33,10.0,J Theron,J Theron
+J Yadav,40.0,36.0,2.0,1.0,4.0,38.0,2.0,111.11,20.0,0.0,0.0,23.0,J Yadav,436.0,390.0,8.0,153.0,65.0,6.71,54.5,J Yadav,,0,,,,J Yadav,114.81,31.0,J Yadav,J Yadav
+,,,,,,,,,,,,,JA Duffy,126.0,72.0,6.0,29.0,12.0,10.5,21.0,JA Duffy,JA Duffy,1,,,,,,,JA Duffy,JA Duffy
+JA Morkel,975.0,683.0,61.0,55.0,67.0,712.0,40.0,142.75,24.38,3.0,0.0,73.0,JA Morkel,2247.0,1723.0,85.0,646.0,287.2,7.82,26.44,JA Morkel,JA Morkel,2,JA Morkel,138.46,18.0,JA Morkel,157.67,637.0,JA Morkel,JA Morkel
+JA Richardson,17.0,26.0,2.0,0.0,3.0,27.0,3.0,65.38,5.67,0.0,0.0,15.0,JA Richardson,152.0,90.0,3.0,30.0,15.0,10.13,50.67,JA Richardson,,0,,,,JA Richardson,50.0,2.0,JA Richardson,JA Richardson
+JC Archer,265.0,180.0,14.0,18.0,32.0,191.0,19.0,147.22,13.95,0.0,0.0,30.0,JC Archer,1662.0,1320.0,66.0,570.0,220.0,7.55,25.18,JC Archer,JC Archer,2,JC Archer,0.0,0.0,JC Archer,158.27,220.0,Jofra Archer,Jofra Archer (JC Archer)
+JC Buttler,4297.0,2860.0,430.0,192.0,123.0,2969.0,110.0,150.24,39.06,26.0,7.0,124.0,,,,,,,,,JC Buttler,JC Buttler,14,JC Buttler,141.75,1752.0,JC Buttler,196.51,733.0,Jos Buttler,Jos Buttler (JC Buttler)
+JD Ryder,604.0,455.0,69.0,19.0,29.0,466.0,29.0,132.75,20.83,4.0,0.0,86.0,JD Ryder,297.0,236.0,8.0,79.0,39.3,7.55,37.12,JD Ryder,JD Ryder,1,JD Ryder,136.22,440.0,JD Ryder,160.71,45.0,JD Ryder,JD Ryder
+JD Unadkat,201.0,169.0,16.0,7.0,28.0,173.0,14.0,118.93,14.36,0.0,0.0,26.0,JD Unadkat,3430.0,2351.0,114.0,757.0,391.8,8.75,30.09,JD Unadkat,JD Unadkat,6,,,,JD Unadkat,126.24,178.0,Jaydev Unadkat,Jaydev Unadkat (JD Unadkat)
+JDP Oram,106.0,107.0,6.0,5.0,11.0,110.0,8.0,99.07,13.25,0.0,0.0,41.0,JDP Oram,336.0,237.0,9.0,79.0,39.5,8.51,37.33,JDP Oram,JDP Oram,1,,,,JDP Oram,126.53,62.0,JDP Oram,JDP Oram
+JDS Neesham,92.0,93.0,6.0,2.0,10.0,93.0,8.0,98.92,11.5,0.0,0.0,22.0,JDS Neesham,328.0,216.0,8.0,63.0,36.0,9.11,41.0,JDS Neesham,,0,,,,JDS Neesham,89.36,42.0,JDS Neesham,JDS Neesham
+JE Root,10.0,15.0,1.0,0.0,1.0,15.0,1.0,66.67,10.0,0.0,0.0,10.0,JE Root,14.0,12.0,0.0,1.0,2.0,7.0,,JE Root,,0,JE Root,66.67,10.0,,,,JE Root,JE Root
+JE Taylor,3.0,3.0,0.0,0.0,2.0,4.0,0.0,100.0,3.0,0.0,0.0,2.0,JE Taylor,152.0,117.0,6.0,48.0,19.5,7.79,25.33,JE Taylor,,0,,,,JE Taylor,100.0,3.0,JE Taylor,JE Taylor
+JEC Franklin,327.0,300.0,25.0,9.0,16.0,309.0,11.0,109.0,29.73,1.0,0.0,79.0,JEC Franklin,214.0,151.0,9.0,39.0,25.2,8.5,23.78,JEC Franklin,JEC Franklin,1,JEC Franklin,85.87,79.0,JEC Franklin,142.65,97.0,JEC Franklin,JEC Franklin
+JG Bethell,67.0,39.0,9.0,3.0,2.0,39.0,2.0,171.79,33.5,1.0,0.0,55.0,,,,,,,,,JG Bethell,,0,JG Bethell,186.21,54.0,,,,JG Bethell,JG Bethell
+JH Kallis,2427.0,2213.0,255.0,44.0,95.0,2291.0,89.0,109.67,27.27,17.0,0.0,89.0,JH Kallis,2210.0,1742.0,65.0,601.0,290.3,7.61,34.0,JH Kallis,JH Kallis,10,JH Kallis,106.26,1036.0,JH Kallis,172.81,394.0,Jacques Kallis,Jacques Kallis (JH Kallis)
+JJ Bumrah,73.0,80.0,6.0,1.0,28.0,83.0,8.0,91.25,9.12,0.0,0.0,16.0,JJ Bumrah,4040.0,3473.0,186.0,1390.0,578.8,6.98,21.72,JJ Bumrah,JJ Bumrah,10,,,,JJ Bumrah,86.3,63.0,Jasprit Bumrah,Jasprit Bumrah (JJ Bumrah)
+JJ Roy,614.0,441.0,75.0,21.0,21.0,460.0,19.0,139.23,32.32,4.0,0.0,91.0,,,,,,,,,JJ Roy,JJ Roy,2,JJ Roy,131.94,380.0,JJ Roy,178.26,41.0,JJ Roy,JJ Roy
+JJ van der Wath,18.0,16.0,1.0,1.0,3.0,17.0,2.0,112.5,9.0,0.0,0.0,14.0,JJ van der Wath,125.0,72.0,3.0,29.0,12.0,10.42,41.67,JJ van der Wath,,0,,,,JJ van der Wath,127.27,14.0,JJ van der Wath,JJ van der Wath
+JL Denly,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,JL Denly,,0,JL Denly,0.0,0.0,,,,JL Denly,JL Denly
+JL Pattinson,15.0,13.0,2.0,0.0,2.0,13.0,1.0,115.38,15.0,0.0,0.0,11.0,JL Pattinson,311.0,213.0,11.0,77.0,35.5,8.76,28.27,JL Pattinson,,0,,,,JL Pattinson,115.38,15.0,JL Pattinson,JL Pattinson
+JM Bairstow,1674.0,1142.0,173.0,74.0,52.0,1181.0,50.0,146.58,33.48,9.0,2.0,114.0,,,,,,,,,JM Bairstow,JM Bairstow,6,JM Bairstow,151.52,944.0,JM Bairstow,136.36,75.0,JM Bairstow,JM Bairstow
+JM Kemp,26.0,24.0,1.0,1.0,2.0,25.0,2.0,108.33,13.0,0.0,0.0,22.0,JM Kemp,51.0,44.0,3.0,15.0,7.3,6.95,17.0,JM Kemp,,0,JM Kemp,66.67,2.0,JM Kemp,50.0,4.0,JM Kemp,JM Kemp
+JM Sharma,1029.0,655.0,80.0,64.0,51.0,683.0,43.0,157.1,23.93,1.0,0.0,85.0,,,,,,,,,JM Sharma,JM Sharma,1,JM Sharma,56.52,13.0,JM Sharma,190.35,434.0,Jitesh Sharma,Jitesh Sharma (JM Sharma)
+JO Holder,259.0,209.0,13.0,18.0,27.0,217.0,21.0,123.92,12.33,0.0,0.0,47.0,JO Holder,1393.0,995.0,53.0,321.0,165.8,8.4,26.28,JO Holder,JO Holder,1,JO Holder,66.67,12.0,JO Holder,130.83,174.0,JO Holder,JO Holder
+JP Behrendorff,6.0,9.0,0.0,0.0,2.0,9.0,0.0,66.67,6.0,0.0,0.0,3.0,JP Behrendorff,535.0,366.0,19.0,139.0,61.0,8.77,28.16,JP Behrendorff,,0,,,,JP Behrendorff,66.67,6.0,JP Behrendorff,JP Behrendorff
+JP Duminy,2029.0,1631.0,126.0,79.0,75.0,1680.0,49.0,124.4,41.41,14.0,0.0,78.0,JP Duminy,802.0,678.0,23.0,234.0,113.0,7.1,34.87,JP Duminy,JP Duminy,4,JP Duminy,98.33,235.0,JP Duminy,170.93,882.0,JP Duminy,JP Duminy
+JP Faulkner,527.0,385.0,36.0,23.0,45.0,406.0,28.0,136.88,18.82,0.0,0.0,46.0,JP Faulkner,1741.0,1238.0,61.0,399.0,206.3,8.44,28.54,JP Faulkner,JP Faulkner,5,JP Faulkner,70.0,14.0,JP Faulkner,157.35,439.0,JP Faulkner,JP Faulkner
+JP Inglis,278.0,171.0,26.0,16.0,11.0,177.0,10.0,162.57,27.8,1.0,0.0,73.0,,,,,,,,,JP Inglis,JP Inglis,1,JP Inglis,166.23,128.0,JP Inglis,155.56,28.0,JP Inglis,JP Inglis
+JPR Scantlebury-Searles,8.0,6.0,0.0,1.0,2.0,6.0,1.0,133.33,8.0,0.0,0.0,6.0,JPR Scantlebury-Searles,86.0,42.0,2.0,7.0,7.0,12.29,43.0,JPR Scantlebury-Searles,,0,,,,JPR Scantlebury-Searles,133.33,8.0,JPR Scantlebury-Searles,JPR Scantlebury-Searles
+JR Hazlewood,19.0,29.0,1.0,0.0,7.0,30.0,0.0,65.52,19.0,0.0,0.0,7.0,JR Hazlewood,1232.0,915.0,60.0,394.0,152.5,8.08,20.53,JR Hazlewood,JR Hazlewood,3,,,,JR Hazlewood,94.44,17.0,JR Hazlewood,JR Hazlewood
+JR Hopes,417.0,305.0,49.0,11.0,19.0,314.0,17.0,136.72,24.53,4.0,0.0,71.0,JR Hopes,539.0,360.0,14.0,105.0,60.0,8.98,38.5,JR Hopes,,0,JR Hopes,125.56,167.0,JR Hopes,140.0,63.0,JR Hopes,JR Hopes
+JR Philippe,78.0,77.0,9.0,1.0,5.0,80.0,4.0,101.3,19.5,0.0,0.0,33.0,,,,,,,,,JR Philippe,,0,JR Philippe,92.73,51.0,JR Philippe,50.0,1.0,JR Philippe,JR Philippe
+,,,,,,,,,,,,,JW Hastings,63.0,58.0,3.0,31.0,9.7,6.52,21.0,JW Hastings,,0,,,,,,,JW Hastings,JW Hastings
+,,,,,,,,,,,,,Jalaj S Saxena,27.0,18.0,0.0,5.0,3.0,9.0,,Jalaj S Saxena,,0,,,,,,,Jalaj S Saxena,Jalaj S Saxena
+Jaskaran Singh,8.0,11.0,0.0,0.0,4.0,11.0,2.0,72.73,4.0,0.0,0.0,4.0,Jaskaran Singh,156.0,102.0,6.0,39.0,17.0,9.18,26.0,Jaskaran Singh,,0,,,,Jaskaran Singh,77.78,7.0,Jaskaran Singh,Jaskaran Singh
+Joginder Sharma,36.0,30.0,1.0,2.0,5.0,30.0,4.0,120.0,9.0,0.0,0.0,16.0,Joginder Sharma,382.0,256.0,12.0,71.0,42.7,8.95,31.83,Joginder Sharma,,0,,,,Joginder Sharma,128.57,36.0,Joginder Sharma,Joginder Sharma
+K Goel,218.0,231.0,17.0,9.0,16.0,239.0,14.0,94.37,15.57,0.0,0.0,38.0,K Goel,92.0,66.0,0.0,19.0,11.0,8.36,,K Goel,,0,K Goel,99.38,160.0,K Goel,107.14,30.0,K Goel,K Goel
+K Gowtham,247.0,147.0,15.0,17.0,27.0,159.0,18.0,168.03,13.72,0.0,0.0,33.0,K Gowtham,797.0,588.0,20.0,206.0,98.0,8.13,39.85,K Gowtham,,0,K Gowtham,160.0,8.0,K Gowtham,188.51,164.0,K Gowtham,K Gowtham
+K Kartikeya,12.0,17.0,1.0,0.0,4.0,18.0,3.0,70.59,4.0,0.0,0.0,6.0,K Kartikeya,397.0,282.0,12.0,85.0,47.0,8.45,33.08,K Kartikeya,,0,,,,K Kartikeya,76.92,10.0,K Kartikeya,K Kartikeya
+,,,,,,,,,,,,,K Khejroliya,235.0,139.0,6.0,36.0,23.2,10.14,39.17,K Khejroliya,,0,,,,,,,K Khejroliya,K Khejroliya
+K Rabada,238.0,216.0,17.0,11.0,31.0,233.0,18.0,110.19,13.22,0.0,0.0,44.0,K Rabada,2785.0,2001.0,126.0,773.0,333.5,8.35,22.1,K Rabada,K Rabada,2,K Rabada,33.33,1.0,K Rabada,122.67,184.0,Kagiso Rabada,Kagiso Rabada (K Rabada)
+,,,,,,,,,,,,,K Santokie,87.0,48.0,3.0,15.0,8.0,10.88,29.0,K Santokie,,0,,,,,,,K Santokie,K Santokie
+K Upadhyay,12.0,9.0,0.0,1.0,2.0,9.0,0.0,133.33,12.0,0.0,0.0,11.0,K Upadhyay,79.0,54.0,0.0,20.0,9.0,8.78,,K Upadhyay,,0,,,,K Upadhyay,133.33,12.0,K Upadhyay,K Upadhyay
+K Yadav,0.0,4.0,0.0,0.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,K Yadav,84.0,54.0,2.0,13.0,9.0,9.33,42.0,K Yadav,,0,,,,K Yadav,0.0,0.0,K Yadav,K Yadav
+KA Jamieson,65.0,60.0,5.0,3.0,9.0,60.0,3.0,108.33,21.67,0.0,0.0,16.0,KA Jamieson,395.0,258.0,14.0,103.0,43.0,9.19,28.21,KA Jamieson,,0,,,,KA Jamieson,139.47,53.0,KA Jamieson,KA Jamieson
+KA Maharaj,1.0,2.0,0.0,0.0,1.0,2.0,1.0,50.0,1.0,0.0,0.0,1.0,KA Maharaj,39.0,36.0,2.0,11.0,6.0,6.5,19.5,KA Maharaj,,0,,,,KA Maharaj,50.0,1.0,KA Maharaj,KA Maharaj
+KA Pollard,3437.0,2315.0,221.0,224.0,168.0,2447.0,129.0,148.47,26.64,16.0,0.0,87.0,KA Pollard,2075.0,1488.0,68.0,405.0,248.0,8.37,30.51,KA Pollard,KA Pollard,14,KA Pollard,108.16,53.0,KA Pollard,172.2,2032.0,Kieron Pollard,Kieron Pollard (KA Pollard)
+KAJ Roach,10.0,9.0,1.0,0.0,1.0,9.0,1.0,111.11,10.0,0.0,0.0,10.0,KAJ Roach,76.0,48.0,0.0,20.0,8.0,9.5,,KAJ Roach,,0,,,,KAJ Roach,71.43,5.0,KAJ Roach,KAJ Roach
+KB Arun Karthik,51.0,51.0,4.0,1.0,8.0,53.0,5.0,100.0,10.2,0.0,0.0,19.0,,,,,,,,,KB Arun Karthik,,0,,,,KB Arun Karthik,86.21,25.0,KB Arun Karthik,KB Arun Karthik
+KC Cariappa,24.0,21.0,0.0,2.0,5.0,21.0,3.0,114.29,8.0,0.0,0.0,12.0,KC Cariappa,334.0,216.0,8.0,61.0,36.0,9.28,41.75,KC Cariappa,,0,,,,KC Cariappa,92.31,12.0,KC Cariappa,KC Cariappa
+KC Sangakkara,1687.0,1385.0,195.0,27.0,68.0,1424.0,69.0,121.81,24.45,10.0,0.0,94.0,,,,,,,,,KC Sangakkara,KC Sangakkara,5,KC Sangakkara,116.78,522.0,KC Sangakkara,157.81,202.0,Kumar Sangakkara,Kumar Sangakkara (KC Sangakkara)
+KD Karthik,4843.0,3570.0,466.0,161.0,233.0,3687.0,189.0,135.66,25.62,22.0,0.0,97.0,,,,,,,,,KD Karthik,KD Karthik,7,KD Karthik,98.02,397.0,KD Karthik,174.52,1904.0,Dinesh Karthik,Dinesh Karthik (KD Karthik)
+KH Pandya,1757.0,1329.0,153.0,65.0,115.0,1382.0,81.0,132.2,21.69,2.0,0.0,86.0,KH Pandya,3039.0,2500.0,98.0,789.0,416.7,7.29,31.01,KH Pandya,KH Pandya,9,KH Pandya,104.0,78.0,KH Pandya,157.94,706.0,Krunal Pandya,Krunal Pandya (KH Pandya)
+KJ Abbott,13.0,8.0,0.0,1.0,3.0,8.0,1.0,162.5,13.0,0.0,0.0,12.0,KJ Abbott,169.0,96.0,2.0,28.0,16.0,10.56,84.5,KJ Abbott,,0,,,,KJ Abbott,185.71,13.0,KJ Abbott,KJ Abbott
+KK Ahmed,2.0,9.0,0.0,0.0,6.0,9.0,5.0,22.22,0.4,0.0,0.0,1.0,KK Ahmed,2374.0,1657.0,91.0,683.0,276.2,8.6,26.09,KK Ahmed,KK Ahmed,2,,,,KK Ahmed,22.22,2.0,Khaleel Ahmed,Khaleel Ahmed (KK Ahmed)
+KK Cooper,116.0,67.0,9.0,8.0,12.0,70.0,9.0,173.13,12.89,0.0,0.0,32.0,KK Cooper,725.0,576.0,33.0,184.0,96.0,7.55,21.97,KK Cooper,KK Cooper,1,KK Cooper,350.0,7.0,KK Cooper,183.72,79.0,KK Cooper,KK Cooper
+KK Nair,1694.0,1283.0,185.0,49.0,76.0,1314.0,72.0,132.03,23.53,11.0,0.0,89.0,,,,,,,,,KK Nair,KK Nair,3,KK Nair,129.32,613.0,KK Nair,177.42,275.0,Karun Nair,Karun Nair (KK Nair)
+KL Nagarkoti,22.0,33.0,1.0,0.0,7.0,34.0,4.0,66.67,5.5,0.0,0.0,8.0,KL Nagarkoti,280.0,180.0,5.0,50.0,30.0,9.33,56.0,KL Nagarkoti,,0,,,,KL Nagarkoti,80.0,16.0,KL Nagarkoti,KL Nagarkoti
+KL Rahul,5346.0,3902.0,466.0,213.0,139.0,4018.0,120.0,137.01,44.55,41.0,5.0,132.0,,,,,,,,,KL Rahul,KL Rahul,15,KL Rahul,127.11,2241.0,KL Rahul,177.55,854.0,KL Rahul,KL Rahul
+KM Asif,0.0,2.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,KM Asif,218.0,133.0,7.0,46.0,22.2,9.83,31.14,KM Asif,,0,,,,,,,KM Asif,KM Asif
+KM Jadhav,1208.0,969.0,102.0,40.0,81.0,1012.0,54.0,124.66,22.37,4.0,0.0,69.0,,,,,,,,,KM Jadhav,KM Jadhav,2,KM Jadhav,83.75,67.0,KM Jadhav,140.9,565.0,Kedar Jadhav,Kedar Jadhav (KM Jadhav)
+KMA Paul,18.0,24.0,1.0,1.0,5.0,26.0,4.0,75.0,4.5,0.0,0.0,7.0,KMA Paul,202.0,163.0,9.0,52.0,27.2,7.44,22.44,KMA Paul,KMA Paul,1,,,,KMA Paul,75.0,18.0,KMA Paul,KMA Paul
+KMDN Kulasekara,5.0,3.0,1.0,0.0,1.0,3.0,0.0,166.67,5.0,0.0,0.0,5.0,KMDN Kulasekara,115.0,102.0,5.0,45.0,17.0,6.76,23.0,KMDN Kulasekara,KMDN Kulasekara,1,,,,KMDN Kulasekara,166.67,5.0,KMDN Kulasekara,KMDN Kulasekara
+KP Appanna,2.0,4.0,0.0,0.0,3.0,4.0,1.0,50.0,2.0,0.0,0.0,1.0,KP Appanna,278.0,216.0,9.0,68.0,36.0,7.72,30.89,KP Appanna,,0,,,,KP Appanna,50.0,2.0,KP Appanna,KP Appanna
+KP Pietersen,1001.0,742.0,91.0,40.0,36.0,758.0,29.0,134.91,34.52,4.0,1.0,103.0,KP Pietersen,205.0,174.0,7.0,54.0,29.0,7.07,29.29,KP Pietersen,KP Pietersen,3,KP Pietersen,133.79,392.0,KP Pietersen,178.26,123.0,Kevin Pietersen,Kevin Pietersen (KP Pietersen)
+KR Mayers,379.0,258.0,38.0,22.0,13.0,276.0,13.0,146.9,29.15,4.0,0.0,73.0,KR Mayers,53.0,42.0,0.0,14.0,7.0,7.57,,KR Mayers,,0,KR Mayers,141.0,282.0,,,,KR Mayers,KR Mayers
+KR Sen,0.0,3.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,KR Sen,364.0,241.0,14.0,83.0,40.2,9.06,26.0,KR Sen,,0,,,,KR Sen,0.0,0.0,KR Sen,KR Sen
+KS Bharat,199.0,161.0,12.0,8.0,8.0,168.0,7.0,123.6,28.43,1.0,0.0,78.0,,,,,,,,,KS Bharat,KS Bharat,1,KS Bharat,114.04,65.0,KS Bharat,168.42,32.0,KS Bharat,KS Bharat
+KS Rathore,0.0,5.0,0.0,0.0,1.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,KS Rathore,,0,KS Rathore,0.0,0.0,,,,KS Rathore,KS Rathore
+KS Sharma,16.0,25.0,1.0,0.0,3.0,25.0,3.0,64.0,5.33,0.0,0.0,9.0,,,,,,,,,KS Sharma,,0,KS Sharma,66.67,10.0,,,,KS Sharma,KS Sharma
+KS Williamson,2132.0,1692.0,187.0,64.0,76.0,1734.0,59.0,126.0,36.14,18.0,0.0,89.0,KS Williamson,31.0,18.0,0.0,2.0,3.0,10.33,,KS Williamson,KS Williamson,6,KS Williamson,100.62,483.0,KS Williamson,167.27,460.0,KS Williamson,KS Williamson
+KT Maphaka,8.0,2.0,2.0,0.0,1.0,3.0,0.0,400.0,8.0,0.0,0.0,8.0,KT Maphaka,138.0,66.0,2.0,22.0,11.0,12.55,69.0,KT Maphaka,,0,,,,KT Maphaka,400.0,8.0,KT Maphaka,KT Maphaka
+KV Sharma,352.0,295.0,20.0,17.0,40.0,307.0,25.0,119.32,14.08,0.0,0.0,39.0,KV Sharma,2189.0,1585.0,82.0,507.0,264.2,8.29,26.7,KV Sharma,KV Sharma,2,KV Sharma,77.78,7.0,KV Sharma,137.02,248.0,Karn Sharma,Karn Sharma (KV Sharma)
+KW Richardson,36.0,39.0,2.0,1.0,4.0,39.0,3.0,92.31,12.0,0.0,0.0,26.0,KW Richardson,458.0,335.0,19.0,129.0,55.8,8.2,24.11,KW Richardson,,0,,,,KW Richardson,80.95,17.0,KW Richardson,KW Richardson
+Kamran Akmal,128.0,77.0,13.0,8.0,6.0,78.0,4.0,166.23,32.0,1.0,0.0,53.0,,,,,,,,,Kamran Akmal,,0,Kamran Akmal,127.5,51.0,Kamran Akmal,152.94,26.0,Kamran Akmal,Kamran Akmal
+Kamran Khan,3.0,5.0,0.0,0.0,1.0,5.0,1.0,60.0,3.0,0.0,0.0,3.0,Kamran Khan,227.0,166.0,10.0,63.0,27.7,8.2,22.7,Kamran Khan,,0,,,,Kamran Khan,0.0,0.0,Kamran Khan,Kamran Khan
+Karanveer Singh,12.0,17.0,1.0,0.0,4.0,17.0,1.0,70.59,12.0,0.0,0.0,5.0,Karanveer Singh,312.0,204.0,12.0,64.0,34.0,9.18,26.0,Karanveer Singh,,0,,,,Karanveer Singh,80.0,8.0,Karanveer Singh,Karanveer Singh
+,,,,,,,,,,,,,Karim Janat,30.0,6.0,0.0,0.0,1.0,30.0,,Karim Janat,,0,,,,,,,Karim Janat,Karim Janat
+Kartik Sharma,25.0,21.0,0.0,2.0,3.0,22.0,3.0,119.05,8.33,0.0,0.0,18.0,,,,,,,,,Kartik Sharma,,0,Kartik Sharma,225.0,9.0,,,,Kartik Sharma,Kartik Sharma
+Kartik Tyagi,18.0,21.0,2.0,0.0,7.0,21.0,5.0,85.71,3.6,0.0,0.0,7.0,Kartik Tyagi,814.0,512.0,20.0,177.0,85.3,9.54,40.7,Kartik Tyagi,Kartik Tyagi,1,,,,Kartik Tyagi,73.68,14.0,Kartik Tyagi,Kartik Tyagi
+Kuldeep Yadav,206.0,240.0,18.0,3.0,39.0,248.0,14.0,85.83,14.71,0.0,0.0,35.0,Kuldeep Yadav,2850.0,2142.0,104.0,643.0,357.0,7.98,27.4,Kuldeep Yadav,Kuldeep Yadav,7,,,,Kuldeep Yadav,91.18,186.0,Kuldeep Yadav,Kuldeep Yadav
+Kumar Kushagra,21.0,21.0,3.0,0.0,4.0,21.0,4.0,100.0,5.25,0.0,0.0,18.0,,,,,,,,,Kumar Kushagra,,0,Kumar Kushagra,126.67,19.0,Kumar Kushagra,0.0,0.0,Kumar Kushagra,Kumar Kushagra
+L Ablish,0.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,L Ablish,72.0,42.0,3.0,10.0,7.0,10.29,24.0,L Ablish,,0,,,,L Ablish,0.0,0.0,L Ablish,L Ablish
+L Balaji,36.0,49.0,2.0,1.0,13.0,50.0,7.0,73.47,5.14,0.0,0.0,15.0,L Balaji,1943.0,1512.0,76.0,537.0,252.0,7.71,25.57,L Balaji,L Balaji,3,,,,L Balaji,77.78,35.0,Lakshmipathy Balaji,Lakshmipathy Balaji (L Balaji)
+L Ngidi,3.0,6.0,0.0,0.0,2.0,7.0,1.0,50.0,3.0,0.0,0.0,3.0,L Ngidi,622.0,466.0,34.0,178.0,77.7,8.01,18.29,L Ngidi,L Ngidi,1,,,,L Ngidi,50.0,3.0,L Ngidi,L Ngidi
+L Ronchi,34.0,34.0,6.0,1.0,5.0,37.0,3.0,100.0,11.33,0.0,0.0,13.0,,,,,,,,,L Ronchi,,0,L Ronchi,100.0,34.0,,,,L Ronchi,L Ronchi
+L Wood,9.0,3.0,0.0,1.0,1.0,3.0,0.0,300.0,9.0,0.0,0.0,9.0,L Wood,91.0,36.0,1.0,8.0,6.0,15.17,91.0,L Wood,,0,,,,L Wood,300.0,9.0,L Wood,L Wood
+LA Carseldine,81.0,66.0,11.0,0.0,5.0,71.0,3.0,122.73,27.0,0.0,0.0,39.0,LA Carseldine,5.0,6.0,1.0,4.0,1.0,5.0,5.0,LA Carseldine,,0,LA Carseldine,111.76,38.0,LA Carseldine,166.67,20.0,LA Carseldine,LA Carseldine
+LA Pomersbach,302.0,243.0,25.0,13.0,16.0,251.0,11.0,124.28,27.45,1.0,0.0,79.0,,,,,,,,,LA Pomersbach,,0,LA Pomersbach,135.06,104.0,LA Pomersbach,136.73,67.0,LA Pomersbach,LA Pomersbach
+LB Williams,1.0,2.0,0.0,0.0,1.0,2.0,0.0,50.0,1.0,0.0,0.0,1.0,LB Williams,61.0,36.0,1.0,12.0,6.0,10.17,61.0,LB Williams,,0,,,,LB Williams,50.0,1.0,LB Williams,LB Williams
+LE Plunkett,1.0,3.0,0.0,0.0,2.0,3.0,1.0,33.33,1.0,0.0,0.0,1.0,LE Plunkett,221.0,150.0,4.0,39.0,25.0,8.84,55.25,LE Plunkett,,0,,,,LE Plunkett,33.33,1.0,LE Plunkett,LE Plunkett
+LG Pretorius,0.0,2.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,LG Pretorius,,0,LG Pretorius,0.0,0.0,,,,LG Pretorius,LG Pretorius
+LH Ferguson,72.0,46.0,7.0,2.0,8.0,49.0,4.0,156.52,18.0,0.0,0.0,24.0,LH Ferguson,1454.0,1026.0,54.0,376.0,171.0,8.5,26.93,LH Ferguson,LH Ferguson,3,,,,LH Ferguson,156.52,72.0,Lockie Ferguson,Lockie Ferguson (LH Ferguson)
+,,,,,,,,,,,,,LI Meriwala,27.0,18.0,1.0,6.0,3.0,9.0,27.0,LI Meriwala,,0,,,,,,,LI Meriwala,LI Meriwala
+LJ Wright,106.0,59.0,16.0,3.0,5.0,63.0,4.0,179.66,26.5,0.0,0.0,44.0,LJ Wright,120.0,71.0,2.0,14.0,11.8,10.14,60.0,LJ Wright,LJ Wright,1,LJ Wright,100.0,8.0,LJ Wright,233.33,84.0,LJ Wright,LJ Wright
+LMP Simmons,1079.0,848.0,109.0,44.0,29.0,878.0,27.0,127.24,39.96,11.0,1.0,100.0,LMP Simmons,34.0,18.0,1.0,2.0,3.0,11.33,34.0,LMP Simmons,LMP Simmons,3,LMP Simmons,118.86,542.0,LMP Simmons,155.56,56.0,LMP Simmons,LMP Simmons
+LPC Silva,40.0,26.0,5.0,1.0,3.0,27.0,2.0,153.85,20.0,0.0,0.0,23.0,LPC Silva,21.0,6.0,0.0,0.0,1.0,21.0,,LPC Silva,,0,LPC Silva,128.57,9.0,LPC Silva,230.0,23.0,LPC Silva,LPC Silva
+LR Shukla,405.0,350.0,33.0,16.0,33.0,358.0,29.0,115.71,13.97,0.0,0.0,48.0,LR Shukla,427.0,314.0,15.0,109.0,52.3,8.16,28.47,LR Shukla,LR Shukla,1,LR Shukla,40.0,2.0,LR Shukla,133.54,219.0,LR Shukla,LR Shukla
+LRPL Taylor,1017.0,818.0,66.0,46.0,54.0,847.0,41.0,124.33,24.8,3.0,0.0,81.0,LRPL Taylor,23.0,12.0,0.0,0.0,2.0,11.5,,LRPL Taylor,LRPL Taylor,3,LRPL Taylor,128.1,155.0,LRPL Taylor,159.18,312.0,LRPL Taylor,LRPL Taylor
+LS Livingstone,1065.0,675.0,70.0,76.0,48.0,720.0,41.0,157.78,25.98,7.0,0.0,94.0,LS Livingstone,460.0,312.0,13.0,81.0,52.0,8.85,35.38,LS Livingstone,LS Livingstone,1,LS Livingstone,133.58,179.0,LS Livingstone,227.81,344.0,Liam Livingstone,Liam Livingstone (LS Livingstone)
+Lalit Yadav,305.0,285.0,27.0,7.0,21.0,301.0,15.0,107.02,20.33,0.0,0.0,48.0,Lalit Yadav,413.0,288.0,10.0,82.0,48.0,8.6,41.3,Lalit Yadav,,0,Lalit Yadav,80.65,25.0,Lalit Yadav,122.08,94.0,Lalit Yadav,Lalit Yadav
+Liton Das,4.0,4.0,1.0,0.0,1.0,4.0,1.0,100.0,4.0,0.0,0.0,4.0,,,,,,,,,Liton Das,,0,Liton Das,100.0,4.0,,,,Liton Das,Liton Das
+M Ashwin,35.0,50.0,2.0,1.0,12.0,50.0,8.0,70.0,4.38,0.0,0.0,9.0,M Ashwin,1130.0,870.0,35.0,283.0,145.0,7.79,32.29,M Ashwin,,0,,,,M Ashwin,81.08,30.0,M Ashwin,M Ashwin
+M Jansen,150.0,139.0,8.0,7.0,21.0,148.0,13.0,107.91,11.54,0.0,0.0,34.0,M Jansen,1189.0,829.0,39.0,312.0,138.2,8.61,30.49,M Jansen,M Jansen,1,,,,M Jansen,109.35,117.0,M Jansen,M Jansen
+M Kaif,259.0,249.0,22.0,6.0,22.0,258.0,16.0,104.02,16.19,0.0,0.0,34.0,,,,,,,,,M Kaif,,0,M Kaif,59.46,22.0,M Kaif,120.0,54.0,M Kaif,M Kaif
+M Kartik,113.0,107.0,7.0,1.0,14.0,109.0,7.0,105.61,16.14,0.0,0.0,21.0,M Kartik,1336.0,1149.0,31.0,382.0,191.5,6.98,43.1,M Kartik,M Kartik,1,,,,M Kartik,102.63,78.0,M Kartik,M Kartik
+M Klinger,73.0,75.0,9.0,0.0,4.0,78.0,4.0,97.33,18.25,0.0,0.0,29.0,,,,,,,,,M Klinger,,0,M Klinger,104.17,50.0,,,,M Klinger,M Klinger
+M Manhas,514.0,470.0,43.0,10.0,38.0,486.0,24.0,109.36,21.42,0.0,0.0,42.0,M Manhas,42.0,42.0,0.0,15.0,7.0,6.0,,M Manhas,,0,M Manhas,86.79,46.0,M Manhas,131.89,244.0,M Manhas,M Manhas
+M Markande,48.0,42.0,5.0,1.0,10.0,44.0,3.0,114.29,16.0,0.0,0.0,18.0,M Markande,1125.0,750.0,36.0,215.0,125.0,9.0,31.25,M Markande,,0,,,,M Markande,117.07,48.0,Mayank Markande,Mayank Markande (M Markande)
+M Morkel,126.0,89.0,11.0,5.0,20.0,93.0,11.0,141.57,11.45,0.0,0.0,23.0,M Morkel,1995.0,1629.0,77.0,708.0,271.5,7.35,25.91,M Morkel,M Morkel,2,,,,M Morkel,145.0,116.0,M Morkel,M Morkel
+M Muralitharan,20.0,29.0,1.0,0.0,9.0,30.0,6.0,68.97,3.33,0.0,0.0,6.0,M Muralitharan,1641.0,1528.0,64.0,600.0,254.7,6.44,25.64,M Muralitharan,M Muralitharan,2,,,,M Muralitharan,68.97,20.0,Muttiah Muralitharan,Muttiah Muralitharan (M Muralitharan)
+M Ntini,11.0,18.0,2.0,0.0,2.0,19.0,1.0,61.11,11.0,0.0,0.0,11.0,M Ntini,237.0,210.0,7.0,99.0,35.0,6.77,33.86,M Ntini,M Ntini,2,,,,M Ntini,61.11,11.0,M Ntini,M Ntini
+,,,,,,,,,,,,,M Pathirana,911.0,702.0,47.0,236.0,117.0,7.79,19.38,M Pathirana,M Pathirana,2,,,,,,,Matheesha Pathirana,Matheesha Pathirana (M Pathirana)
+M Prasidh Krishna,9.0,24.0,0.0,0.0,7.0,24.0,2.0,37.5,4.5,0.0,0.0,4.0,M Prasidh Krishna,2237.0,1601.0,85.0,650.0,266.8,8.38,26.32,M Prasidh Krishna,M Prasidh Krishna,3,,,,M Prasidh Krishna,37.5,9.0,Prasidh Krishna,Prasidh Krishna (M Prasidh Krishna)
+M Rawat,55.0,69.0,4.0,1.0,11.0,70.0,5.0,79.71,11.0,0.0,0.0,23.0,,,,,,,,,M Rawat,,0,M Rawat,0.0,0.0,M Rawat,88.89,40.0,M Rawat,M Rawat
+M Shahrukh Khan,747.0,500.0,47.0,51.0,50.0,527.0,32.0,149.4,23.34,2.0,0.0,58.0,M Shahrukh Khan,28.0,18.0,1.0,4.0,3.0,9.33,28.0,M Shahrukh Khan,,0,M Shahrukh Khan,109.52,23.0,M Shahrukh Khan,166.67,395.0,M Shahrukh Khan,M Shahrukh Khan
+,,,,,,,,,,,,,M Siddharth,187.0,144.0,5.0,52.0,24.0,7.79,37.4,M Siddharth,,0,,,,,,,M Siddharth,M Siddharth
+M Theekshana,17.0,34.0,0.0,1.0,6.0,34.0,3.0,50.0,5.67,0.0,0.0,7.0,M Theekshana,1173.0,876.0,36.0,260.0,146.0,8.03,32.58,M Theekshana,,0,,,,M Theekshana,68.18,15.0,Maheesh Theekshana,Maheesh Theekshana (M Theekshana)
+M Tiwari,3.0,4.0,0.0,0.0,1.0,4.0,1.0,75.0,3.0,0.0,0.0,3.0,M Tiwari,14.0,6.0,0.0,0.0,1.0,14.0,,M Tiwari,,0,,,,M Tiwari,100.0,2.0,M Tiwari,M Tiwari
+M Vijay,2619.0,2147.0,247.0,91.0,105.0,2208.0,97.0,121.98,27.0,13.0,2.0,127.0,M Vijay,48.0,36.0,0.0,8.0,6.0,8.0,,M Vijay,M Vijay,6,M Vijay,114.56,1574.0,M Vijay,176.06,125.0,Murali Vijay,Murali Vijay (M Vijay)
+M Vohra,1083.0,828.0,104.0,43.0,51.0,863.0,48.0,130.8,22.56,3.0,0.0,95.0,,,,,,,,,M Vohra,M Vohra,3,M Vohra,127.96,691.0,M Vohra,229.63,62.0,M Vohra,M Vohra
+M de Lange,1.0,2.0,0.0,0.0,1.0,2.0,1.0,50.0,1.0,0.0,0.0,1.0,M de Lange,156.0,108.0,5.0,39.0,18.0,8.67,31.2,M de Lange,,0,,,,M de Lange,50.0,1.0,M de Lange,M de Lange
+MA Agarwal,2764.0,2053.0,275.0,100.0,125.0,2146.0,119.0,134.63,23.23,13.0,1.0,106.0,,,,,,,,,MA Agarwal,MA Agarwal,4,MA Agarwal,123.3,1418.0,MA Agarwal,206.56,252.0,Mayank Agarwal,Mayank Agarwal (MA Agarwal)
+MA Khote,24.0,22.0,2.0,1.0,3.0,22.0,2.0,109.09,12.0,0.0,0.0,9.0,MA Khote,51.0,30.0,2.0,5.0,5.0,10.2,25.5,MA Khote,,0,,,,MA Khote,120.0,18.0,MA Khote,MA Khote
+MA Starc,111.0,119.0,11.0,0.0,21.0,120.0,10.0,93.28,11.1,0.0,0.0,29.0,MA Starc,1434.0,1064.0,65.0,418.0,177.3,8.09,22.06,MA Starc,MA Starc,5,,,,MA Starc,88.1,74.0,Mitchell Starc,Mitchell Starc (MA Starc)
+MA Wood,12.0,8.0,1.0,1.0,3.0,10.0,2.0,150.0,6.0,0.0,0.0,10.0,MA Wood,172.0,120.0,11.0,47.0,20.0,8.6,15.64,MA Wood,MA Wood,1,,,,MA Wood,150.0,12.0,MA Wood,MA Wood
+,,,,,,,,,,,,,MB Parmar,32.0,18.0,0.0,4.0,3.0,10.67,,MB Parmar,,0,,,,,,,MB Parmar,MB Parmar
+MC Henriques,1000.0,785.0,87.0,28.0,54.0,801.0,38.0,127.39,26.32,5.0,0.0,74.0,MC Henriques,1255.0,950.0,42.0,306.0,158.3,7.93,29.88,MC Henriques,MC Henriques,2,MC Henriques,115.83,161.0,MC Henriques,165.84,335.0,MC Henriques,MC Henriques
+MC Juneja,125.0,128.0,11.0,1.0,7.0,134.0,7.0,97.66,17.86,0.0,0.0,49.0,,,,,,,,,MC Juneja,,0,MC Juneja,111.11,20.0,MC Juneja,106.25,17.0,MC Juneja,MC Juneja
+MD Choudhary,127.0,85.0,8.0,10.0,5.0,87.0,3.0,149.41,42.33,1.0,0.0,54.0,,,,,,,,,MD Choudhary,MD Choudhary,1,,,,MD Choudhary,166.04,88.0,MD Choudhary,MD Choudhary
+MD Mishra,237.0,206.0,24.0,8.0,17.0,213.0,15.0,115.05,15.8,0.0,0.0,41.0,,,,,,,,,MD Mishra,MD Mishra,1,MD Mishra,104.88,129.0,MD Mishra,142.11,27.0,MD Mishra,MD Mishra
+MD Shanaka,26.0,26.0,2.0,1.0,3.0,26.0,2.0,100.0,13.0,0.0,0.0,17.0,,,,,,,,,MD Shanaka,,0,MD Shanaka,0.0,0.0,MD Shanaka,100.0,9.0,MD Shanaka,MD Shanaka
+MDKJ Perera,14.0,13.0,3.0,0.0,2.0,13.0,2.0,107.69,7.0,0.0,0.0,14.0,,,,,,,,,MDKJ Perera,,0,MDKJ Perera,107.69,14.0,,,,MDKJ Perera,MDKJ Perera
+MEK Hussey,1977.0,1610.0,198.0,52.0,58.0,1648.0,52.0,122.8,38.02,15.0,1.0,116.0,,,,,,,,,MEK Hussey,MEK Hussey,12,MEK Hussey,108.09,828.0,MEK Hussey,191.91,261.0,Michael Hussey,Michael Hussey (MEK Hussey)
+MF Maharoof,177.0,123.0,12.0,9.0,14.0,124.0,10.0,143.9,17.7,0.0,0.0,39.0,MF Maharoof,492.0,420.0,27.0,165.0,70.0,7.03,18.22,MF Maharoof,MF Maharoof,1,,,,MF Maharoof,151.69,135.0,MF Maharoof,MF Maharoof
+MG Bracewell,58.0,47.0,6.0,1.0,4.0,49.0,2.0,123.4,29.0,0.0,0.0,26.0,MG Bracewell,95.0,66.0,6.0,26.0,11.0,8.64,15.83,MG Bracewell,,0,MG Bracewell,100.0,2.0,MG Bracewell,100.0,13.0,MG Bracewell,MG Bracewell
+MG Johnson,167.0,163.0,10.0,7.0,28.0,168.0,14.0,102.45,11.93,0.0,0.0,16.0,MG Johnson,1623.0,1235.0,62.0,535.0,205.8,7.89,26.18,MG Johnson,MG Johnson,2,,,,MG Johnson,109.79,157.0,Mitchell Johnson,Mitchell Johnson (MG Johnson)
+,,,,,,,,,,,,,MG Neser,59.0,24.0,0.0,5.0,4.0,14.75,,MG Neser,,0,,,,,,,MG Neser,MG Neser
+MJ Clarke,98.0,94.0,12.0,0.0,6.0,96.0,6.0,104.26,16.33,0.0,0.0,41.0,MJ Clarke,67.0,66.0,2.0,22.0,11.0,6.09,33.5,MJ Clarke,,0,MJ Clarke,118.75,76.0,,,,MJ Clarke,MJ Clarke
+MJ Guptill,271.0,196.0,24.0,15.0,13.0,197.0,12.0,138.27,22.58,1.0,0.0,50.0,,,,,,,,,MJ Guptill,,0,MJ Guptill,140.38,219.0,,,,MJ Guptill,MJ Guptill
+MJ Henry,7.0,10.0,1.0,0.0,2.0,10.0,2.0,70.0,3.5,0.0,0.0,5.0,MJ Henry,307.0,162.0,4.0,40.0,27.0,11.37,76.75,MJ Henry,,0,,,,MJ Henry,40.0,2.0,MJ Henry,MJ Henry
+MJ Lumb,278.0,191.0,45.0,6.0,12.0,198.0,10.0,145.55,27.8,1.0,0.0,83.0,,,,,,,,,MJ Lumb,MJ Lumb,1,MJ Lumb,149.01,225.0,,,,MJ Lumb,MJ Lumb
+MJ McClenaghan,85.0,69.0,5.0,7.0,20.0,73.0,11.0,123.19,7.73,0.0,0.0,20.0,MJ McClenaghan,1694.0,1274.0,71.0,507.0,212.3,7.98,23.86,MJ McClenaghan,MJ McClenaghan,2,MJ McClenaghan,0.0,0.0,MJ McClenaghan,114.29,56.0,MJ McClenaghan,MJ McClenaghan
+MJ Owen,0.0,2.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,MJ Owen,,0,MJ Owen,0.0,0.0,,,,MJ Owen,MJ Owen
+MJ Santner,136.0,122.0,9.0,6.0,21.0,132.0,8.0,111.48,17.0,0.0,0.0,22.0,MJ Santner,773.0,645.0,26.0,226.0,107.5,7.19,29.73,MJ Santner,,0,MJ Santner,83.33,20.0,MJ Santner,136.23,94.0,MJ Santner,MJ Santner
+MJ Suthar,1.0,2.0,0.0,0.0,1.0,2.0,1.0,50.0,1.0,0.0,0.0,1.0,MJ Suthar,26.0,12.0,0.0,4.0,2.0,13.0,,MJ Suthar,,0,,,,MJ Suthar,50.0,1.0,MJ Suthar,MJ Suthar
+MK Lomror,527.0,372.0,33.0,30.0,35.0,389.0,30.0,141.67,17.57,1.0,0.0,54.0,MK Lomror,123.0,90.0,1.0,22.0,15.0,8.2,123.0,MK Lomror,,0,MK Lomror,81.58,31.0,MK Lomror,161.97,230.0,MK Lomror,MK Lomror
+MK Pandey,3951.0,3239.0,340.0,116.0,161.0,3355.0,135.0,121.98,29.27,22.0,1.0,114.0,,,,,,,,,MK Pandey,MK Pandey,5,MK Pandey,114.44,1133.0,MK Pandey,153.0,713.0,Manish Pandey,Manish Pandey (MK Pandey)
+MK Tiwary,1695.0,1444.0,156.0,40.0,83.0,1489.0,61.0,117.38,27.79,7.0,0.0,75.0,MK Tiwary,78.0,42.0,1.0,9.0,7.0,11.14,78.0,MK Tiwary,MK Tiwary,3,MK Tiwary,97.82,224.0,MK Tiwary,145.97,597.0,MK Tiwary,MK Tiwary
+ML Hayden,1107.0,799.0,121.0,44.0,32.0,839.0,28.0,138.55,39.54,8.0,0.0,93.0,,,,,,,,,ML Hayden,ML Hayden,4,ML Hayden,131.07,599.0,ML Hayden,195.92,96.0,Matthew Hayden,Matthew Hayden (ML Hayden)
+MM Ali,1167.0,831.0,95.0,67.0,59.0,865.0,51.0,140.43,22.88,6.0,0.0,93.0,MM Ali,1014.0,854.0,41.0,295.0,142.3,7.12,24.73,MM Ali,MM Ali,2,MM Ali,121.99,233.0,MM Ali,178.85,279.0,Moeen Ali,Moeen Ali (MM Ali)
+MM Patel,39.0,41.0,5.0,0.0,12.0,41.0,5.0,95.12,7.8,0.0,0.0,23.0,MM Patel,1647.0,1355.0,74.0,590.0,225.8,7.29,22.26,MM Patel,MM Patel,2,,,,MM Patel,102.63,39.0,MM Patel,MM Patel
+MM Sharma,125.0,136.0,9.0,4.0,30.0,140.0,17.0,91.91,7.35,0.0,0.0,21.0,MM Sharma,3424.0,2403.0,134.0,813.0,400.5,8.55,25.55,MM Sharma,MM Sharma,5,,,,MM Sharma,100.0,89.0,Mohit Sharma,Mohit Sharma (MM Sharma)
+MN Samuels,161.0,172.0,9.0,7.0,14.0,174.0,12.0,93.6,13.42,0.0,0.0,46.0,MN Samuels,278.0,214.0,9.0,79.0,35.7,7.79,30.89,MN Samuels,MN Samuels,1,MN Samuels,36.0,9.0,MN Samuels,147.06,25.0,MN Samuels,MN Samuels
+MN van Wyk,167.0,131.0,19.0,1.0,5.0,135.0,3.0,127.48,55.67,1.0,0.0,74.0,,,,,,,,,MN van Wyk,,0,MN van Wyk,112.0,28.0,MN van Wyk,153.49,66.0,MN van Wyk,MN van Wyk
+MP Breetzke,14.0,12.0,1.0,1.0,1.0,12.0,1.0,116.67,14.0,0.0,0.0,14.0,,,,,,,,,MP Breetzke,,0,MP Breetzke,116.67,14.0,,,,MP Breetzke,MP Breetzke
+MP Stoinis,2045.0,1402.0,162.0,106.0,102.0,1470.0,74.0,145.86,27.64,9.0,1.0,124.0,MP Stoinis,1413.0,894.0,44.0,240.0,149.0,9.48,32.11,MP Stoinis,MP Stoinis,9,MP Stoinis,123.33,296.0,MP Stoinis,179.51,876.0,Marcus Stoinis,Marcus Stoinis (MP Stoinis)
+,,,,,,,,,,,,,MP Yadav,176.0,121.0,9.0,57.0,20.2,8.73,19.56,MP Yadav,MP Yadav,2,,,,,,,MP Yadav,MP Yadav
+MR Marsh,1407.0,989.0,113.0,82.0,54.0,1024.0,51.0,142.26,27.59,9.0,1.0,117.0,MR Marsh,761.0,560.0,37.0,181.0,93.3,8.15,20.57,MR Marsh,MR Marsh,4,MR Marsh,145.99,600.0,MR Marsh,154.07,208.0,MR Marsh,MR Marsh
+MS Bhandage,1.0,4.0,0.0,0.0,1.0,4.0,1.0,25.0,1.0,0.0,0.0,1.0,,,,,,,,,MS Bhandage,,0,,,,,,,MS Bhandage,MS Bhandage
+MS Bisla,798.0,700.0,93.0,23.0,39.0,737.0,37.0,114.0,21.57,4.0,0.0,92.0,,,,,,,,,MS Bisla,MS Bisla,1,MS Bisla,109.47,474.0,MS Bisla,157.58,52.0,MS Bisla,MS Bisla
+MS Dhoni,5439.0,3935.0,375.0,264.0,241.0,4101.0,158.0,138.22,34.42,24.0,0.0,84.0,,,,,,,,,MS Dhoni,MS Dhoni,18,MS Dhoni,81.94,59.0,MS Dhoni,176.49,3468.0,MS Dhoni,MS Dhoni
+MS Gony,99.0,70.0,6.0,8.0,15.0,76.0,9.0,141.43,11.0,0.0,0.0,42.0,MS Gony,1248.0,888.0,37.0,348.0,148.0,8.43,33.73,MS Gony,MS Gony,1,,,,MS Gony,166.04,88.0,MS Gony,MS Gony
+MS Wade,183.0,177.0,23.0,2.0,14.0,185.0,13.0,103.39,14.08,0.0,0.0,35.0,,,,,,,,,MS Wade,,0,MS Wade,115.31,113.0,,,,MS Wade,MS Wade
+MV Boucher,394.0,307.0,32.0,13.0,23.0,318.0,15.0,128.34,26.27,1.0,0.0,50.0,,,,,,,,,MV Boucher,MV Boucher,2,MV Boucher,91.67,22.0,MV Boucher,162.07,235.0,MV Boucher,MV Boucher
+MW Short,119.0,99.0,15.0,4.0,7.0,107.0,7.0,120.2,17.0,0.0,0.0,36.0,MW Short,25.0,25.0,0.0,11.0,4.2,6.0,,MW Short,,0,MW Short,128.24,109.0,,,,MW Short,MW Short
+Mandeep Singh,1706.0,1385.0,176.0,38.0,97.0,1418.0,85.0,123.18,20.07,6.0,0.0,77.0,Mandeep Singh,26.0,12.0,0.0,1.0,2.0,13.0,,Mandeep Singh,Mandeep Singh,3,Mandeep Singh,114.67,633.0,Mandeep Singh,149.64,410.0,Mandeep Singh,Mandeep Singh
+Mashrafe Mortaza,2.0,2.0,0.0,0.0,1.0,2.0,0.0,100.0,2.0,0.0,0.0,2.0,Mashrafe Mortaza,50.0,24.0,0.0,6.0,4.0,12.5,,Mashrafe Mortaza,,0,,,,Mashrafe Mortaza,100.0,2.0,Mashrafe Mortaza,Mashrafe Mortaza
+Mayank Dagar,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Mayank Dagar,198.0,137.0,2.0,43.0,22.8,8.67,99.0,Mayank Dagar,,0,,,,Mayank Dagar,0.0,0.0,Mayank Dagar,Mayank Dagar
+Misbah-ul-Haq,117.0,81.0,10.0,6.0,8.0,82.0,9.0,144.44,13.0,0.0,0.0,47.0,,,,,,,,,Misbah-ul-Haq,,0,Misbah-ul-Haq,142.11,27.0,Misbah-ul-Haq,210.0,42.0,Misbah-ul-Haq,Misbah-ul-Haq
+Mohammad Ashraful,2.0,10.0,0.0,0.0,1.0,12.0,1.0,20.0,2.0,0.0,0.0,2.0,,,,,,,,,Mohammad Ashraful,,0,Mohammad Ashraful,20.0,2.0,,,,Mohammad Ashraful,Mohammad Ashraful
+Mohammad Asif,3.0,6.0,0.0,0.0,2.0,6.0,2.0,50.0,1.5,0.0,0.0,3.0,Mohammad Asif,288.0,192.0,8.0,64.0,32.0,9.0,36.0,Mohammad Asif,,0,,,,Mohammad Asif,33.33,1.0,Mohammad Asif,Mohammad Asif
+Mohammad Hafeez,64.0,83.0,7.0,2.0,8.0,84.0,8.0,77.11,8.0,0.0,0.0,16.0,Mohammad Hafeez,61.0,60.0,2.0,22.0,10.0,6.1,30.5,Mohammad Hafeez,,0,Mohammad Hafeez,77.78,28.0,Mohammad Hafeez,111.11,10.0,Mohammad Hafeez,Mohammad Hafeez
+Mohammad Nabi,221.0,151.0,18.0,12.0,19.0,157.0,17.0,146.36,13.0,0.0,0.0,37.0,Mohammad Nabi,514.0,417.0,15.0,146.0,69.5,7.4,34.27,Mohammad Nabi,,0,Mohammad Nabi,173.33,26.0,Mohammad Nabi,150.0,129.0,Mohammad Nabi,Mohammad Nabi
+Mohammed Shami,98.0,100.0,8.0,3.0,31.0,104.0,17.0,98.0,5.76,0.0,0.0,21.0,Mohammed Shami,3734.0,2728.0,137.0,1095.0,454.7,8.21,27.26,Mohammed Shami,Mohammed Shami,4,,,,Mohammed Shami,96.47,82.0,Mohammed Shami,Mohammed Shami
+Mohammed Siraj,112.0,121.0,10.0,4.0,21.0,127.0,10.0,92.56,11.2,0.0,0.0,14.0,Mohammed Siraj,3275.0,2384.0,112.0,982.0,397.3,8.24,29.24,Mohammed Siraj,Mohammed Siraj,6,,,,Mohammed Siraj,92.56,112.0,Mohammed Siraj,Mohammed Siraj
+Mohit Rathee,1.0,2.0,0.0,0.0,1.0,2.0,0.0,50.0,1.0,0.0,0.0,1.0,Mohit Rathee,29.0,12.0,0.0,3.0,2.0,14.5,,Mohit Rathee,,0,,,,Mohit Rathee,50.0,1.0,Mohit Rathee,Mohit Rathee
+Mohsin Khan,25.0,25.0,2.0,1.0,6.0,28.0,3.0,100.0,8.33,0.0,0.0,13.0,Mohsin Khan,681.0,510.0,28.0,221.0,85.0,8.01,24.32,Mohsin Khan,Mohsin Khan,1,,,,Mohsin Khan,109.09,24.0,Mohsin Khan,Mohsin Khan
+,,,,,,,,,,,,,Monu Kumar,14.0,12.0,0.0,4.0,2.0,7.0,,Monu Kumar,,0,,,,,,,Monu Kumar,Monu Kumar
+Mujeeb Ur Rahman,12.0,15.0,2.0,0.0,6.0,15.0,3.0,80.0,4.0,0.0,0.0,10.0,Mujeeb Ur Rahman,587.0,446.0,20.0,151.0,74.3,7.9,29.35,Mujeeb Ur Rahman,Mujeeb Ur Rahman,1,,,,Mujeeb Ur Rahman,91.67,11.0,Mujeeb Ur Rahman,Mujeeb Ur Rahman
+Mukesh Choudhary,6.0,6.0,1.0,0.0,2.0,6.0,0.0,100.0,6.0,0.0,0.0,4.0,Mukesh Choudhary,497.0,315.0,17.0,131.0,52.5,9.47,29.24,Mukesh Choudhary,Mukesh Choudhary,1,,,,Mukesh Choudhary,100.0,2.0,Mukesh Choudhary,Mukesh Choudhary
+Mukesh Kumar,10.0,18.0,0.0,0.0,5.0,20.0,1.0,55.56,10.0,0.0,0.0,6.0,Mukesh Kumar,1185.0,720.0,41.0,244.0,120.0,9.88,28.9,Mukesh Kumar,Mukesh Kumar,1,,,,Mukesh Kumar,55.56,10.0,Mukesh Kumar,Mukesh Kumar
+Musheer Khan,0.0,3.0,0.0,0.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,Musheer Khan,27.0,12.0,1.0,1.0,2.0,13.5,27.0,Musheer Khan,,0,,,,,,,Musheer Khan,Musheer Khan
+Mustafizur Rahman,13.0,24.0,0.0,1.0,7.0,24.0,2.0,54.17,6.5,0.0,0.0,8.0,Mustafizur Rahman,1779.0,1364.0,65.0,487.0,227.3,7.83,27.37,Mustafizur Rahman,Mustafizur Rahman,2,,,,Mustafizur Rahman,54.17,13.0,Mustafizur Rahman,Mustafizur Rahman
+N Burger,3.0,5.0,0.0,0.0,1.0,5.0,0.0,60.0,3.0,0.0,0.0,3.0,N Burger,266.0,198.0,12.0,85.0,33.0,8.06,22.17,N Burger,N Burger,1,,,,N Burger,60.0,3.0,Nandre Burger,Nandre Burger (N Burger)
+N Jagadeesan,162.0,147.0,21.0,2.0,10.0,155.0,9.0,110.2,18.0,0.0,0.0,39.0,,,,,,,,,N Jagadeesan,,0,N Jagadeesan,104.92,64.0,N Jagadeesan,84.62,11.0,N Jagadeesan,N Jagadeesan
+N Pooran,2335.0,1409.0,159.0,170.0,91.0,1490.0,72.0,165.72,32.43,14.0,0.0,87.0,,,,,,,,,N Pooran,N Pooran,4,N Pooran,148.76,180.0,N Pooran,176.05,838.0,Nicholas Pooran,Nicholas Pooran (N Pooran)
+N Rana,2873.0,2105.0,264.0,142.0,115.0,2186.0,107.0,136.48,26.85,20.0,0.0,87.0,N Rana,265.0,192.0,10.0,58.0,32.0,8.28,26.5,N Rana,N Rana,6,N Rana,121.79,749.0,N Rana,183.26,427.0,Nitish Rana,Nitish Rana (N Rana)
+N Saini,140.0,140.0,16.0,0.0,10.0,143.0,11.0,100.0,12.73,1.0,0.0,50.0,,,,,,,,,N Saini,,0,N Saini,96.39,80.0,N Saini,87.5,7.0,N Saini,N Saini
+,,,,,,,,,,,,,N Thushara,260.0,180.0,9.0,58.0,30.0,8.67,28.89,N Thushara,,0,,,,,,,N Thushara,N Thushara
+N Wadhera,746.0,529.0,60.0,41.0,34.0,551.0,29.0,141.02,25.72,4.0,0.0,70.0,N Wadhera,22.0,17.0,0.0,3.0,2.8,7.76,,N Wadhera,,0,N Wadhera,117.78,53.0,N Wadhera,169.88,141.0,Nehal Wadhera,Nehal Wadhera (N Wadhera)
+,,,,,,,,,,,,,NA Saini,23.0,12.0,0.0,2.0,2.0,11.5,,NA Saini,,0,,,,,,,NA Saini,NA Saini
+,,,,,,,,,,,,,NB Singh,14.0,24.0,1.0,13.0,4.0,3.5,14.0,NB Singh,,0,,,,,,,NB Singh,NB Singh
+ND Doshi,0.0,13.0,0.0,0.0,1.0,13.0,1.0,0.0,0.0,0.0,0.0,0.0,ND Doshi,78.0,56.0,2.0,24.0,9.3,8.36,39.0,ND Doshi,,0,,,,ND Doshi,0.0,0.0,ND Doshi,ND Doshi
+NJ Maddinson,20.0,21.0,4.0,0.0,3.0,21.0,3.0,95.24,6.67,0.0,0.0,12.0,,,,,,,,,NJ Maddinson,,0,NJ Maddinson,95.24,20.0,,,,NJ Maddinson,NJ Maddinson
+NJ Rimmington,1.0,1.0,0.0,0.0,1.0,1.0,0.0,100.0,1.0,0.0,0.0,1.0,NJ Rimmington,19.0,18.0,0.0,9.0,3.0,6.33,,NJ Rimmington,,0,,,,NJ Rimmington,100.0,1.0,NJ Rimmington,NJ Rimmington
+NK Patel,121.0,119.0,14.0,1.0,6.0,124.0,5.0,101.68,24.2,1.0,0.0,57.0,,,,,,,,,NK Patel,,0,NK Patel,81.82,45.0,NK Patel,168.18,37.0,NK Patel,NK Patel
+NL McCullum,26.0,22.0,0.0,1.0,2.0,23.0,3.0,118.18,8.67,0.0,0.0,15.0,NL McCullum,34.0,30.0,0.0,10.0,5.0,6.8,,NL McCullum,,0,,,,NL McCullum,117.65,20.0,NL McCullum,NL McCullum
+NLTC Perera,424.0,306.0,23.0,26.0,30.0,326.0,24.0,138.56,17.67,0.0,0.0,40.0,NLTC Perera,995.0,698.0,31.0,227.0,116.3,8.55,32.1,NLTC Perera,,0,NLTC Perera,133.33,20.0,NLTC Perera,153.45,267.0,NLTC Perera,NLTC Perera
+NM Coulter-Nile,82.0,72.0,7.0,4.0,16.0,75.0,10.0,113.89,8.2,0.0,0.0,24.0,NM Coulter-Nile,1054.0,857.0,48.0,368.0,142.8,7.38,21.96,NM Coulter-Nile,NM Coulter-Nile,5,,,,NM Coulter-Nile,130.36,73.0,NM Coulter-Nile,NM Coulter-Nile
+NS Naik,31.0,50.0,2.0,0.0,4.0,53.0,4.0,62.0,7.75,0.0,0.0,22.0,,,,,,,,,NS Naik,,0,NS Naik,43.75,7.0,NS Naik,59.09,13.0,NS Naik,NS Naik
+NT Ellis,19.0,25.0,0.0,1.0,5.0,26.0,4.0,76.0,4.75,0.0,0.0,12.0,NT Ellis,526.0,378.0,19.0,117.0,63.0,8.35,27.68,NT Ellis,NT Ellis,1,,,,NT Ellis,105.56,19.0,NT Ellis,NT Ellis
+NV Ojha,1554.0,1308.0,121.0,79.0,94.0,1360.0,74.0,118.81,21.0,6.0,0.0,94.0,,,,,,,,,NV Ojha,NV Ojha,1,NV Ojha,102.7,494.0,NV Ojha,140.75,411.0,NV Ojha,NV Ojha
+Naman Dhir,501.0,285.0,46.0,28.0,24.0,295.0,18.0,175.79,27.83,2.0,0.0,62.0,Naman Dhir,75.0,52.0,0.0,11.0,8.7,8.65,,Naman Dhir,,0,Naman Dhir,157.53,115.0,Naman Dhir,195.52,262.0,Naman Dhir,Naman Dhir
+Navdeep Saini,33.0,37.0,3.0,0.0,7.0,38.0,4.0,89.19,8.25,0.0,0.0,12.0,Navdeep Saini,930.0,670.0,24.0,277.0,111.7,8.33,38.75,Navdeep Saini,,0,Navdeep Saini,0.0,0.0,Navdeep Saini,103.7,28.0,Navdeep Saini,Navdeep Saini
+Naveen-ul-Haq,18.0,24.0,2.0,0.0,4.0,26.0,2.0,75.0,9.0,0.0,0.0,13.0,Naveen-ul-Haq,564.0,387.0,25.0,133.0,64.5,8.74,22.56,Naveen-ul-Haq,,0,,,,Naveen-ul-Haq,89.47,17.0,Naveen-ul-Haq,Naveen-ul-Haq
+Nithish Kumar Reddy,609.0,441.0,38.0,35.0,27.0,461.0,22.0,138.1,27.68,3.0,0.0,76.0,Nithish Kumar Reddy,329.0,193.0,7.0,51.0,32.2,10.23,47.0,Nithish Kumar Reddy,Nithish Kumar Reddy,2,Nithish Kumar Reddy,90.0,72.0,Nithish Kumar Reddy,186.59,153.0,Nithish Kumar Reddy,Nithish Kumar Reddy
+Noor Ahmad,29.0,52.0,2.0,1.0,13.0,53.0,10.0,55.77,2.9,0.0,0.0,8.0,Noor Ahmad,1179.0,894.0,51.0,297.0,149.0,7.91,23.12,Noor Ahmad,Noor Ahmad,3,,,,Noor Ahmad,67.5,27.0,Noor Ahmad,Noor Ahmad
+,,,,,,,,,,,,,O Thomas,75.0,60.0,5.0,17.0,10.0,7.5,15.0,O Thomas,,0,,,,,,,O Thomas,O Thomas
+OA Shah,506.0,388.0,34.0,23.0,22.0,405.0,13.0,130.41,38.92,4.0,0.0,76.0,,,,,,,,,OA Shah,,0,OA Shah,127.78,23.0,OA Shah,157.31,269.0,OA Shah,OA Shah
+OC McCoy,8.0,5.0,0.0,1.0,1.0,5.0,0.0,160.0,8.0,0.0,0.0,8.0,OC McCoy,231.0,161.0,11.0,49.0,26.8,8.61,21.0,OC McCoy,,0,,,,OC McCoy,160.0,8.0,OC McCoy,OC McCoy
+OF Smith,51.0,44.0,1.0,5.0,6.0,50.0,3.0,115.91,17.0,0.0,0.0,25.0,OF Smith,172.0,90.0,6.0,35.0,15.0,11.47,28.67,OF Smith,OF Smith,1,,,,OF Smith,137.14,48.0,OF Smith,OF Smith
+,,,,,,,,,,,,,P Amarnath,236.0,132.0,7.0,29.0,22.0,10.73,33.71,P Amarnath,,0,,,,,,,P Amarnath,P Amarnath
+P Awana,5.0,14.0,0.0,0.0,5.0,14.0,3.0,35.71,1.67,0.0,0.0,4.0,P Awana,990.0,747.0,39.0,293.0,124.5,7.95,25.38,P Awana,,0,,,,P Awana,35.71,5.0,P Awana,P Awana
+P Chopra,8.0,6.0,2.0,0.0,1.0,6.0,1.0,133.33,8.0,0.0,0.0,8.0,,,,,,,,,P Chopra,,0,,,,,,,P Chopra,P Chopra
+P Dogra,127.0,138.0,4.0,5.0,12.0,141.0,12.0,92.03,10.58,0.0,0.0,41.0,,,,,,,,,P Dogra,,0,,,,P Dogra,117.74,73.0,P Dogra,P Dogra
+P Dubey,23.0,33.0,2.0,0.0,2.0,33.0,1.0,69.7,23.0,0.0,0.0,16.0,P Dubey,110.0,78.0,2.0,23.0,13.0,8.46,55.0,P Dubey,,0,,,,P Dubey,58.82,10.0,P Dubey,P Dubey
+P Kumar,340.0,312.0,22.0,17.0,57.0,323.0,34.0,108.97,10.0,0.0,0.0,34.0,P Kumar,3106.0,2524.0,90.0,1075.0,420.7,7.38,34.51,P Kumar,P Kumar,2,P Kumar,75.0,6.0,P Kumar,113.51,294.0,P Kumar,P Kumar
+P Negi,365.0,288.0,27.0,16.0,35.0,301.0,26.0,126.74,14.04,0.0,0.0,36.0,P Negi,922.0,716.0,34.0,237.0,119.3,7.73,27.12,P Negi,P Negi,2,P Negi,66.67,4.0,P Negi,141.99,257.0,P Negi,P Negi
+P Nissanka,127.0,81.0,17.0,4.0,4.0,86.0,4.0,156.79,31.75,0.0,0.0,44.0,,,,,,,,,P Nissanka,,0,P Nissanka,174.24,115.0,,,,P Nissanka,P Nissanka
+P Parameswaran,1.0,2.0,0.0,0.0,2.0,3.0,0.0,50.0,1.0,0.0,0.0,1.0,P Parameswaran,213.0,154.0,9.0,64.0,25.7,8.3,23.67,P Parameswaran,P Parameswaran,1,,,,P Parameswaran,50.0,1.0,P Parameswaran,P Parameswaran
+,,,,,,,,,,,,,P Prasanth,18.0,6.0,0.0,3.0,1.0,18.0,,P Prasanth,,0,,,,,,,P Prasanth,P Prasanth
+P Ray Barman,19.0,24.0,2.0,0.0,1.0,25.0,1.0,79.17,19.0,0.0,0.0,19.0,P Ray Barman,56.0,24.0,0.0,2.0,4.0,14.0,,P Ray Barman,,0,,,,P Ray Barman,0.0,0.0,P Ray Barman,P Ray Barman
+P Sahu,19.0,13.0,1.0,1.0,2.0,13.0,0.0,146.15,19.0,0.0,0.0,18.0,P Sahu,144.0,105.0,3.0,24.0,17.5,8.23,48.0,P Sahu,,0,,,,P Sahu,146.15,19.0,P Sahu,P Sahu
+P Simran Singh,1566.0,1006.0,163.0,82.0,56.0,1033.0,55.0,155.67,28.47,10.0,1.0,103.0,,,,,,,,,P Simran Singh,P Simran Singh,3,P Simran Singh,151.01,974.0,P Simran Singh,179.55,79.0,P Simran Singh,P Simran Singh
+,,,,,,,,,,,,,P Suyal,137.0,96.0,2.0,36.0,16.0,8.56,68.5,P Suyal,,0,,,,,,,P Suyal,P Suyal
+PA Patel,2848.0,2350.0,365.0,49.0,136.0,2442.0,127.0,121.19,22.43,13.0,0.0,81.0,,,,,,,,,PA Patel,PA Patel,5,PA Patel,121.97,1904.0,PA Patel,133.8,95.0,Parthiv Patel,Parthiv Patel (PA Patel)
+PA Reddy,164.0,160.0,15.0,2.0,10.0,167.0,10.0,102.5,16.4,0.0,0.0,42.0,,,,,,,,,PA Reddy,,0,PA Reddy,99.04,103.0,PA Reddy,300.0,15.0,PA Reddy,PA Reddy
+PBB Rajapaksa,277.0,190.0,22.0,15.0,13.0,201.0,12.0,145.79,23.08,1.0,0.0,50.0,,,,,,,,,PBB Rajapaksa,,0,PBB Rajapaksa,160.42,77.0,PBB Rajapaksa,75.0,6.0,PBB Rajapaksa,PBB Rajapaksa
+PC Valthaty,505.0,414.0,61.0,20.0,23.0,432.0,22.0,121.98,22.95,2.0,1.0,120.0,PC Valthaty,199.0,151.0,7.0,44.0,25.2,7.91,28.43,PC Valthaty,PC Valthaty,2,PC Valthaty,113.87,312.0,PC Valthaty,209.09,46.0,PC Valthaty,PC Valthaty
+PD Collingwood,203.0,156.0,9.0,13.0,7.0,159.0,4.0,130.13,50.75,3.0,0.0,75.0,PD Collingwood,100.0,89.0,5.0,24.0,14.8,6.74,20.0,PD Collingwood,PD Collingwood,1,PD Collingwood,136.84,26.0,PD Collingwood,180.0,81.0,PD Collingwood,PD Collingwood
+PD Salt,1195.0,677.0,134.0,64.0,39.0,708.0,37.0,176.51,32.3,11.0,0.0,89.0,,,,,,,,,PD Salt,PD Salt,4,PD Salt,174.03,804.0,PD Salt,184.21,35.0,PD Salt,PD Salt
+,,,,,,,,,,,,,PH Solanki,38.0,36.0,2.0,11.0,6.0,6.33,19.0,PH Solanki,,0,,,,,,,PH Solanki,PH Solanki
+PHKD Mendis,92.0,68.0,7.0,2.0,5.0,72.0,4.0,135.29,23.0,0.0,0.0,32.0,PHKD Mendis,60.0,42.0,2.0,11.0,7.0,8.57,30.0,PHKD Mendis,,0,PHKD Mendis,55.56,5.0,PHKD Mendis,108.33,26.0,PHKD Mendis,PHKD Mendis
+PJ Cummins,612.0,400.0,39.0,41.0,48.0,417.0,33.0,153.0,18.55,3.0,0.0,66.0,PJ Cummins,2287.0,1617.0,79.0,578.0,269.5,8.49,28.95,PJ Cummins,PJ Cummins,2,PJ Cummins,0.0,0.0,PJ Cummins,167.66,451.0,Pat Cummins,Pat Cummins (PJ Cummins)
+PJ Sangwan,26.0,44.0,1.0,0.0,14.0,47.0,8.0,59.09,3.25,0.0,0.0,6.0,PJ Sangwan,1175.0,856.0,38.0,319.0,142.7,8.24,30.92,PJ Sangwan,,0,,,,PJ Sangwan,62.86,22.0,PJ Sangwan,PJ Sangwan
+PK Garg,273.0,238.0,16.0,9.0,19.0,247.0,19.0,114.71,14.37,1.0,0.0,51.0,,,,,,,,,PK Garg,PK Garg,1,PK Garg,102.0,51.0,PK Garg,171.05,65.0,PK Garg,PK Garg
+PM Sarvesh Kumar,1.0,2.0,0.0,0.0,1.0,2.0,0.0,50.0,1.0,0.0,0.0,1.0,PM Sarvesh Kumar,41.0,30.0,1.0,11.0,5.0,8.2,41.0,PM Sarvesh Kumar,,0,,,,PM Sarvesh Kumar,50.0,1.0,PM Sarvesh Kumar,PM Sarvesh Kumar
+PN Mankad,97.0,72.0,13.0,2.0,5.0,75.0,3.0,134.72,32.33,1.0,0.0,64.0,,,,,,,,,PN Mankad,PN Mankad,1,PN Mankad,121.62,45.0,PN Mankad,163.64,18.0,PN Mankad,PN Mankad
+PP Chawla,624.0,561.0,56.0,20.0,86.0,580.0,57.0,111.23,10.95,0.0,0.0,24.0,PP Chawla,5026.0,3850.0,189.0,1325.0,641.7,7.83,26.59,PP Chawla,PP Chawla,3,PP Chawla,115.38,15.0,PP Chawla,122.1,453.0,Piyush Chawla,Piyush Chawla (PP Chawla)
+,,,,,,,,,,,,,PP Hinge,32.0,24.0,4.0,14.0,4.0,8.0,8.0,PP Hinge,PP Hinge,1,,,,,,,PP Hinge,PP Hinge
+PP Ojha,16.0,44.0,0.0,0.0,19.0,45.0,10.0,36.36,1.6,0.0,0.0,3.0,PP Ojha,2255.0,1899.0,88.0,667.0,316.5,7.12,25.62,PP Ojha,PP Ojha,1,,,,PP Ojha,38.1,16.0,Pragyan Ojha,Pragyan Ojha (PP Ojha)
+PP Shaw,1892.0,1279.0,238.0,61.0,79.0,1321.0,77.0,147.93,24.57,14.0,0.0,99.0,,,,,,,,,PP Shaw,PP Shaw,4,PP Shaw,146.89,1347.0,PP Shaw,142.86,30.0,PP Shaw,PP Shaw
+PR Shah,92.0,90.0,9.0,2.0,9.0,97.0,8.0,102.22,11.5,0.0,0.0,29.0,,,,,,,,,PR Shah,,0,PR Shah,96.77,30.0,PR Shah,135.0,27.0,PR Shah,PR Shah
+PR Veer,49.0,36.0,7.0,1.0,2.0,36.0,1.0,136.11,49.0,0.0,0.0,43.0,,,,,,,,,PR Veer,,0,,,,PR Veer,75.0,6.0,PR Veer,PR Veer
+PSP Handscomb,6.0,12.0,0.0,0.0,1.0,12.0,1.0,50.0,6.0,0.0,0.0,6.0,,,,,,,,,PSP Handscomb,,0,,,,,,,PSP Handscomb,PSP Handscomb
+PV Tambe,18.0,38.0,1.0,0.0,6.0,39.0,1.0,47.37,18.0,0.0,0.0,7.0,PV Tambe,834.0,660.0,27.0,204.0,110.0,7.58,30.89,PV Tambe,PV Tambe,2,,,,PV Tambe,40.0,12.0,PV Tambe,PV Tambe
+PVD Chameera,53.0,42.0,3.0,3.0,10.0,46.0,3.0,126.19,17.67,0.0,0.0,17.0,PVD Chameera,596.0,384.0,13.0,146.0,64.0,9.31,45.85,PVD Chameera,,0,,,,PVD Chameera,126.83,52.0,PVD Chameera,PVD Chameera
+PVSN Raju,1.0,1.0,0.0,0.0,1.0,1.0,0.0,100.0,1.0,0.0,0.0,1.0,PVSN Raju,48.0,24.0,1.0,3.0,4.0,12.0,48.0,PVSN Raju,,0,,,,PVSN Raju,100.0,1.0,PVSN Raju,PVSN Raju
+PWA Mulder,9.0,11.0,1.0,0.0,1.0,12.0,1.0,81.82,9.0,0.0,0.0,9.0,PWA Mulder,16.0,6.0,0.0,1.0,1.0,16.0,,PWA Mulder,,0,,,,PWA Mulder,100.0,9.0,PWA Mulder,PWA Mulder
+PWH de Silva,81.0,88.0,7.0,1.0,19.0,95.0,16.0,92.05,5.06,0.0,0.0,18.0,PWH de Silva,1107.0,798.0,46.0,264.0,133.0,8.32,24.07,PWH de Silva,PWH de Silva,2,,,,PWH de Silva,105.66,56.0,PWH de Silva,PWH de Silva
+Pankaj Singh,7.0,12.0,0.0,0.0,5.0,12.0,2.0,58.33,3.5,0.0,0.0,4.0,Pankaj Singh,451.0,300.0,11.0,111.0,50.0,9.02,41.0,Pankaj Singh,,0,,,,Pankaj Singh,58.33,7.0,Pankaj Singh,Pankaj Singh
+Parvez Rasool,17.0,20.0,1.0,0.0,4.0,20.0,2.0,85.0,8.5,0.0,0.0,10.0,Parvez Rasool,268.0,198.0,4.0,60.0,33.0,8.12,67.0,Parvez Rasool,,0,,,,Parvez Rasool,85.0,17.0,Parvez Rasool,Parvez Rasool
+Prince Yadav,5.0,10.0,0.0,0.0,2.0,11.0,0.0,50.0,5.0,0.0,0.0,4.0,Prince Yadav,373.0,245.0,12.0,83.0,40.8,9.13,31.08,Prince Yadav,,0,,,,Prince Yadav,50.0,5.0,Prince Yadav,Prince Yadav
+Priyansh Arya,663.0,346.0,70.0,42.0,22.0,361.0,22.0,191.62,30.14,4.0,1.0,103.0,,,,,,,,,Priyansh Arya,Priyansh Arya,2,Priyansh Arya,188.59,496.0,,,,Priyansh Arya,Priyansh Arya
+Q de Kock,3424.0,2525.0,333.0,141.0,116.0,2597.0,108.0,135.6,31.7,24.0,3.0,140.0,,,,,,,,,Q de Kock,Q de Kock,7,Q de Kock,130.87,1946.0,Q de Kock,206.9,240.0,Quinton de Kock,Quinton de Kock (Q de Kock)
+R Ashwin,833.0,703.0,64.0,29.0,93.0,728.0,63.0,118.49,13.22,1.0,0.0,50.0,R Ashwin,5452.0,4710.0,183.0,1606.0,785.0,6.95,29.79,R Ashwin,R Ashwin,6,R Ashwin,108.33,78.0,R Ashwin,134.08,476.0,Ravichandran Ashwin,Ravichandran Ashwin (R Ashwin)
+R Bhatia,342.0,284.0,24.0,13.0,47.0,290.0,29.0,120.42,11.79,0.0,0.0,26.0,R Bhatia,1984.0,1636.0,71.0,436.0,272.7,7.28,27.94,R Bhatia,R Bhatia,1,,,,R Bhatia,145.93,251.0,R Bhatia,R Bhatia
+R Bishnoi,19.0,17.0,1.0,2.0,3.0,17.0,3.0,111.76,6.33,0.0,0.0,18.0,,,,,,,,,R Bishnoi,,0,R Bishnoi,128.57,18.0,R Bishnoi,50.0,1.0,R Bishnoi,R Bishnoi
+R Dhawan,210.0,187.0,18.0,7.0,22.0,188.0,10.0,112.3,21.0,0.0,0.0,25.0,R Dhawan,849.0,662.0,25.0,205.0,110.3,7.69,33.96,R Dhawan,,0,,,,R Dhawan,127.27,168.0,R Dhawan,R Dhawan
+R Dravid,2174.0,1878.0,269.0,28.0,82.0,1918.0,77.0,115.76,28.23,11.0,0.0,75.0,,,,,,,,,R Dravid,R Dravid,2,R Dravid,109.17,905.0,R Dravid,168.07,200.0,Rahul Dravid,Rahul Dravid (R Dravid)
+,,,,,,,,,,,,,R Goyal,33.0,24.0,0.0,6.0,4.0,8.25,,R Goyal,,0,,,,,,,R Goyal,R Goyal
+R McLaren,159.0,171.0,14.0,1.0,13.0,178.0,8.0,92.98,19.88,1.0,0.0,51.0,R McLaren,513.0,354.0,12.0,116.0,59.0,8.69,42.75,R McLaren,R McLaren,1,R McLaren,66.67,12.0,R McLaren,118.97,69.0,R McLaren,R McLaren
+R Minz,6.0,15.0,0.0,0.0,2.0,16.0,2.0,40.0,3.0,0.0,0.0,3.0,,,,,,,,,R Minz,,0,,,,,,,R Minz,R Minz
+R Ninan,3.0,5.0,0.0,0.0,1.0,6.0,1.0,60.0,3.0,0.0,0.0,3.0,R Ninan,65.0,36.0,3.0,8.0,6.0,10.83,21.67,R Ninan,,0,,,,R Ninan,60.0,3.0,R Ninan,R Ninan
+R Parag,1619.0,1137.0,115.0,91.0,77.0,1194.0,64.0,142.39,25.3,7.0,0.0,95.0,R Parag,477.0,307.0,9.0,69.0,51.2,9.32,53.0,R Parag,R Parag,2,R Parag,138.83,143.0,R Parag,162.39,557.0,Riyan Parag,Riyan Parag (R Parag)
+R Powell,435.0,295.0,27.0,32.0,25.0,311.0,21.0,147.46,20.71,1.0,0.0,67.0,R Powell,32.0,18.0,1.0,4.0,3.0,10.67,32.0,R Powell,,0,,,,R Powell,189.47,288.0,Rovman Powell,Rovman Powell (R Powell)
+R Rampaul,51.0,49.0,3.0,2.0,7.0,52.0,5.0,104.08,10.2,0.0,0.0,23.0,R Rampaul,298.0,268.0,16.0,130.0,44.7,6.67,18.62,R Rampaul,,0,,,,R Rampaul,109.09,36.0,R Rampaul,R Rampaul
+R Ravindra,413.0,284.0,40.0,16.0,18.0,298.0,16.0,145.42,25.81,2.0,0.0,65.0,R Ravindra,7.0,12.0,0.0,5.0,2.0,3.5,,R Ravindra,,0,R Ravindra,138.89,275.0,R Ravindra,266.67,24.0,R Ravindra,R Ravindra
+R Sai Kishore,18.0,16.0,0.0,2.0,4.0,16.0,3.0,112.5,6.0,0.0,0.0,13.0,R Sai Kishore,639.0,441.0,32.0,130.0,73.5,8.69,19.97,R Sai Kishore,R Sai Kishore,1,,,,R Sai Kishore,112.5,18.0,R Sai Kishore,R Sai Kishore
+R Sanjay Yadav,0.0,2.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,R Sanjay Yadav,21.0,12.0,0.0,6.0,2.0,10.5,,R Sanjay Yadav,,0,,,,R Sanjay Yadav,0.0,0.0,R Sanjay Yadav,R Sanjay Yadav
+R Sathish,270.0,230.0,22.0,6.0,24.0,236.0,16.0,117.39,16.88,0.0,0.0,27.0,R Sathish,227.0,139.0,3.0,30.0,23.2,9.8,75.67,R Sathish,,0,R Sathish,0.0,0.0,R Sathish,138.98,164.0,R Sathish,R Sathish
+R Sharma,66.0,75.0,5.0,3.0,19.0,77.0,11.0,88.0,6.0,0.0,0.0,14.0,R Sharma,1079.0,928.0,40.0,334.0,154.7,6.98,26.98,R Sharma,R Sharma,2,,,,R Sharma,89.04,65.0,Rahul Sharma,Rahul Sharma (R Sharma)
+R Shepherd,223.0,106.0,15.0,19.0,15.0,114.0,9.0,210.38,24.78,1.0,0.0,53.0,R Shepherd,507.0,259.0,13.0,70.0,43.2,11.75,39.0,R Shepherd,R Shepherd,2,,,,R Shepherd,242.03,167.0,R Shepherd,R Shepherd
+R Shukla,19.0,23.0,2.0,0.0,4.0,23.0,2.0,82.61,9.5,0.0,0.0,14.0,R Shukla,197.0,120.0,5.0,38.0,20.0,9.85,39.4,R Shukla,,0,,,,R Shukla,81.82,18.0,R Shukla,R Shukla
+R Tewatia,1146.0,831.0,93.0,55.0,80.0,879.0,50.0,137.91,22.92,1.0,0.0,53.0,R Tewatia,1087.0,843.0,31.0,264.0,140.5,7.74,35.06,R Tewatia,R Tewatia,2,R Tewatia,85.71,6.0,R Tewatia,166.87,816.0,R Tewatia,R Tewatia
+R Vinay Kumar,310.0,274.0,21.0,9.0,42.0,289.0,26.0,113.14,11.92,0.0,0.0,26.0,R Vinay Kumar,2898.0,2127.0,105.0,763.0,354.5,8.17,27.6,R Vinay Kumar,R Vinay Kumar,3,,,,R Vinay Kumar,115.93,262.0,Vinay Kumar,Vinay Kumar (R Vinay Kumar)
+RA Bawa,19.0,18.0,1.0,0.0,3.0,18.0,2.0,105.56,9.5,0.0,0.0,11.0,,,,,,,,,RA Bawa,,0,RA Bawa,0.0,0.0,RA Bawa,200.0,8.0,RA Bawa,RA Bawa
+RA Jadeja,3336.0,2553.0,247.0,117.0,197.0,2678.0,124.0,130.67,26.9,5.0,0.0,77.0,RA Jadeja,5142.0,4098.0,172.0,1305.0,683.0,7.53,29.9,RA Jadeja,RA Jadeja,16,RA Jadeja,126.04,121.0,RA Jadeja,151.45,1831.0,Ravindra Jadeja,Ravindra Jadeja (RA Jadeja)
+,,,,,,,,,,,,,RA Shaikh,11.0,6.0,0.0,1.0,1.0,11.0,,RA Shaikh,,0,,,,,,,RA Shaikh,RA Shaikh
+RA Tripathi,2291.0,1655.0,229.0,85.0,98.0,1707.0,86.0,138.43,26.64,12.0,0.0,93.0,RA Tripathi,12.0,6.0,0.0,0.0,1.0,12.0,,RA Tripathi,RA Tripathi,4,RA Tripathi,140.5,1013.0,RA Tripathi,146.98,219.0,Rahul Tripathi,Rahul Tripathi (RA Tripathi)
+RD Chahar,129.0,124.0,13.0,5.0,22.0,127.0,16.0,104.03,8.06,0.0,0.0,25.0,RD Chahar,2152.0,1694.0,75.0,580.0,282.3,7.62,28.69,RD Chahar,RD Chahar,1,,,,RD Chahar,115.74,125.0,Rahul Chahar,Rahul Chahar (RD Chahar)
+RD Gaikwad,2565.0,1871.0,236.0,96.0,75.0,1927.0,66.0,137.09,38.86,20.0,2.0,108.0,,,,,,,,,RD Gaikwad,RD Gaikwad,11,RD Gaikwad,127.56,1245.0,RD Gaikwad,175.33,263.0,Ruturaj Gaikwad,Ruturaj Gaikwad (RD Gaikwad)
+RD Rickelton,525.0,343.0,56.0,29.0,19.0,355.0,18.0,153.06,29.17,4.0,0.0,81.0,,,,,,,,,RD Rickelton,RD Rickelton,1,RD Rickelton,153.23,380.0,RD Rickelton,50.0,1.0,RD Rickelton,RD Rickelton
+RE Levi,83.0,73.0,10.0,4.0,6.0,74.0,6.0,113.7,13.83,1.0,0.0,50.0,,,,,,,,,RE Levi,RE Levi,1,RE Levi,108.77,62.0,,,,RE Levi,RE Levi
+RE van der Merwe,159.0,141.0,11.0,8.0,15.0,144.0,12.0,112.77,13.25,0.0,0.0,35.0,RE van der Merwe,486.0,443.0,21.0,148.0,73.8,6.58,23.14,RE van der Merwe,,0,RE van der Merwe,97.3,36.0,RE van der Merwe,115.22,53.0,RE van der Merwe,RE van der Merwe
+RG More,2.0,2.0,0.0,0.0,1.0,2.0,0.0,100.0,2.0,0.0,0.0,2.0,RG More,57.0,35.0,1.0,4.0,5.8,9.77,57.0,RG More,,0,,,,RG More,100.0,2.0,RG More,RG More
+RG Sharma,7185.0,5399.0,653.0,311.0,270.0,5561.0,250.0,133.08,28.74,48.0,2.0,109.0,RG Sharma,438.0,339.0,15.0,88.0,56.5,7.75,29.2,RG Sharma,RG Sharma,21,RG Sharma,126.52,2481.0,RG Sharma,182.44,1527.0,Rohit Sharma,Rohit Sharma (RG Sharma)
+RJ Gleeson,2.0,2.0,0.0,0.0,1.0,2.0,0.0,100.0,2.0,0.0,0.0,2.0,RJ Gleeson,105.0,68.0,2.0,24.0,11.3,9.26,52.5,RJ Gleeson,,0,,,,RJ Gleeson,100.0,2.0,RJ Gleeson,RJ Gleeson
+RJ Harris,117.0,111.0,6.0,3.0,21.0,112.0,12.0,105.41,9.75,0.0,0.0,17.0,RJ Harris,996.0,832.0,45.0,364.0,138.7,7.18,22.13,RJ Harris,RJ Harris,1,,,,RJ Harris,112.79,97.0,RJ Harris,RJ Harris
+RJ Peterson,32.0,30.0,3.0,1.0,5.0,32.0,3.0,106.67,10.67,0.0,0.0,16.0,RJ Peterson,70.0,48.0,3.0,21.0,8.0,8.75,23.33,RJ Peterson,,0,,,,RJ Peterson,118.75,19.0,RJ Peterson,RJ Peterson
+RJ Quiney,103.0,102.0,12.0,3.0,7.0,105.0,7.0,100.98,14.71,1.0,0.0,51.0,,,,,,,,,RJ Quiney,,0,RJ Quiney,91.55,65.0,RJ Quiney,33.33,1.0,RJ Quiney,RJ Quiney
+RJW Topley,3.0,6.0,0.0,0.0,1.0,6.0,0.0,50.0,3.0,0.0,0.0,3.0,RJW Topley,217.0,120.0,5.0,44.0,20.0,10.85,43.4,RJW Topley,,0,,,,RJW Topley,50.0,3.0,RJW Topley,RJW Topley
+RK Bhui,10.0,26.0,0.0,0.0,4.0,27.0,4.0,38.46,2.5,0.0,0.0,7.0,,,,,,,,,RK Bhui,,0,RK Bhui,0.0,0.0,RK Bhui,0.0,0.0,RK Bhui,RK Bhui
+RK Singh,1177.0,814.0,95.0,57.0,55.0,860.0,40.0,144.59,29.42,4.0,0.0,67.0,,,,,,,,,RK Singh,RK Singh,3,RK Singh,133.33,36.0,RK Singh,190.09,633.0,RK Singh,RK Singh
+RM Patidar,1333.0,823.0,88.0,89.0,43.0,873.0,40.0,161.97,33.33,11.0,1.0,112.0,,,,,,,,,RM Patidar,RM Patidar,4,RM Patidar,117.32,210.0,RM Patidar,195.6,178.0,Rajat Patidar,Rajat Patidar (RM Patidar)
+RN ten Doeschate,326.0,235.0,26.0,15.0,21.0,238.0,17.0,138.72,19.18,1.0,0.0,70.0,RN ten Doeschate,88.0,78.0,2.0,22.0,13.0,6.77,44.0,RN ten Doeschate,,0,RN ten Doeschate,85.71,6.0,RN ten Doeschate,151.43,212.0,RN ten Doeschate,RN ten Doeschate
+RP Meredith,0.0,3.0,0.0,0.0,2.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,RP Meredith,562.0,388.0,19.0,147.0,64.7,8.69,29.58,RP Meredith,,0,,,,RP Meredith,0.0,0.0,RP Meredith,RP Meredith
+RP Singh,52.0,76.0,2.0,1.0,28.0,78.0,15.0,68.42,3.47,0.0,0.0,10.0,RP Singh,2218.0,1775.0,90.0,744.0,295.8,7.5,24.64,RP Singh,RP Singh,1,,,,RP Singh,71.43,50.0,RP Singh,RP Singh
+RR Bhatkal,0.0,2.0,0.0,0.0,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,RR Bhatkal,35.0,12.0,0.0,0.0,2.0,17.5,,RR Bhatkal,,0,,,,RR Bhatkal,0.0,0.0,RR Bhatkal,RR Bhatkal
+,,,,,,,,,,,,,RR Bose,24.0,12.0,0.0,5.0,2.0,12.0,,RR Bose,,0,,,,,,,RR Bose,RR Bose
+RR Pant,3670.0,2492.0,334.0,171.0,128.0,2590.0,110.0,147.27,33.36,20.0,2.0,128.0,,,,,,,,,RR Pant,RR Pant,8,RR Pant,121.45,470.0,RR Pant,201.75,1035.0,Rishabh Pant,Rishabh Pant (RR Pant)
+RR Powar,67.0,64.0,6.0,1.0,9.0,64.0,3.0,104.69,22.33,0.0,0.0,28.0,RR Powar,501.0,426.0,12.0,166.0,71.0,7.06,41.75,RR Powar,,0,,,,RR Powar,111.67,67.0,RR Powar,RR Powar
+RR Raje,20.0,18.0,1.0,1.0,5.0,18.0,1.0,111.11,20.0,0.0,0.0,11.0,RR Raje,199.0,139.0,6.0,39.0,23.2,8.59,33.17,RR Raje,,0,,,,RR Raje,111.11,20.0,RR Raje,RR Raje
+RR Rossouw,473.0,306.0,45.0,25.0,22.0,321.0,21.0,154.58,22.52,2.0,0.0,82.0,,,,,,,,,RR Rossouw,RR Rossouw,1,RR Rossouw,140.4,139.0,RR Rossouw,210.26,82.0,RR Rossouw,RR Rossouw
+RR Sarwan,73.0,75.0,6.0,1.0,4.0,78.0,3.0,97.33,24.33,0.0,0.0,31.0,,,,,,,,,RR Sarwan,,0,RR Sarwan,112.5,45.0,,,,RR Sarwan,RR Sarwan
+RS Bopara,531.0,453.0,39.0,16.0,22.0,468.0,19.0,117.22,27.95,3.0,0.0,84.0,RS Bopara,276.0,206.0,11.0,61.0,34.3,8.04,25.09,RS Bopara,RS Bopara,1,RS Bopara,90.28,130.0,RS Bopara,172.12,179.0,RS Bopara,RS Bopara
+RS Gavaskar,2.0,8.0,0.0,0.0,1.0,8.0,1.0,25.0,2.0,0.0,0.0,2.0,RS Gavaskar,8.0,6.0,0.0,2.0,1.0,8.0,,RS Gavaskar,,0,,,,,,,RS Gavaskar,RS Gavaskar
+,,,,,,,,,,,,,RS Hangargekar,53.0,36.0,3.0,14.0,6.0,8.83,17.67,RS Hangargekar,,0,,,,,,,RS Hangargekar,RS Hangargekar
+RS Sodhi,4.0,2.0,1.0,0.0,1.0,2.0,0.0,200.0,4.0,0.0,0.0,4.0,,,,,,,,,RS Sodhi,,0,,,,RS Sodhi,200.0,4.0,RS Sodhi,RS Sodhi
+RT Ponting,91.0,128.0,5.0,2.0,9.0,129.0,8.0,71.09,11.38,0.0,0.0,28.0,,,,,,,,,RT Ponting,,0,RT Ponting,60.0,45.0,,,,RT Ponting,RT Ponting
+RV Gomez,50.0,51.0,5.0,1.0,9.0,53.0,7.0,98.04,7.14,0.0,0.0,26.0,RV Gomez,128.0,96.0,5.0,37.0,16.0,8.0,25.6,RV Gomez,,0,RV Gomez,0.0,0.0,RV Gomez,113.64,50.0,RV Gomez,RV Gomez
+RV Patel,80.0,73.0,6.0,2.0,7.0,76.0,5.0,109.59,16.0,0.0,0.0,23.0,RV Patel,20.0,18.0,0.0,5.0,3.0,6.67,,RV Patel,,0,,,,RV Patel,123.81,52.0,RV Patel,RV Patel
+RV Uthappa,4954.0,3784.0,481.0,182.0,197.0,3927.0,184.0,130.92,26.92,27.0,0.0,88.0,,,,,,,,,RV Uthappa,RV Uthappa,7,RV Uthappa,124.82,2037.0,RV Uthappa,175.54,567.0,Robin Uthappa,Robin Uthappa (RV Uthappa)
+,,,,,,,,,,,,,RW Price,33.0,18.0,0.0,1.0,3.0,11.0,,RW Price,,0,,,,,,,RW Price,RW Price
+Rahmanullah Gurbaz,363.0,268.0,34.0,22.0,18.0,283.0,17.0,135.45,21.35,2.0,0.0,81.0,,,,,,,,,Rahmanullah Gurbaz,,0,Rahmanullah Gurbaz,129.9,252.0,Rahmanullah Gurbaz,0.0,0.0,Rahmanullah Gurbaz,Rahmanullah Gurbaz
+Ramandeep Singh,266.0,171.0,14.0,18.0,23.0,180.0,13.0,155.56,20.46,0.0,0.0,35.0,Ramandeep Singh,58.0,40.0,6.0,12.0,6.7,8.7,9.67,Ramandeep Singh,,0,Ramandeep Singh,66.67,2.0,Ramandeep Singh,191.36,155.0,Ramandeep Singh,Ramandeep Singh
+Rashid Khan,609.0,376.0,44.0,41.0,68.0,407.0,44.0,161.97,13.84,1.0,0.0,79.0,Rashid Khan,3834.0,3298.0,163.0,1181.0,549.7,6.98,23.52,Rashid Khan,Rashid Khan,13,,,,Rashid Khan,167.52,521.0,Rashid Khan,Rashid Khan
+Rasikh Salam,40.0,40.0,5.0,0.0,6.0,40.0,5.0,100.0,8.0,0.0,0.0,10.0,Rasikh Salam,440.0,272.0,15.0,89.0,45.3,9.71,29.33,Rasikh Salam,,0,,,,Rasikh Salam,116.0,29.0,Rasikh Salam,Rasikh Salam
+Ravi Bishnoi,45.0,67.0,2.0,2.0,17.0,69.0,10.0,67.16,4.5,0.0,0.0,13.0,Ravi Bishnoi,2314.0,1729.0,81.0,586.0,288.2,8.03,28.57,Ravi Bishnoi,Ravi Bishnoi,1,,,,Ravi Bishnoi,73.47,36.0,Ravi Bishnoi,Ravi Bishnoi
+S Anirudha,136.0,112.0,9.0,7.0,12.0,121.0,8.0,121.43,17.0,1.0,0.0,64.0,,,,,,,,,S Anirudha,S Anirudha,1,S Anirudha,92.86,26.0,S Anirudha,149.02,76.0,S Anirudha,S Anirudha
+S Aravind,59.0,57.0,7.0,0.0,10.0,59.0,3.0,103.51,19.67,0.0,0.0,14.0,S Aravind,1007.0,760.0,45.0,290.0,126.7,7.95,22.38,S Aravind,S Aravind,1,,,,S Aravind,108.89,49.0,S Aravind,S Aravind
+S Arora,42.0,28.0,2.0,4.0,4.0,30.0,4.0,150.0,10.5,0.0,0.0,24.0,,,,,,,,,S Arora,,0,,,,S Arora,150.0,33.0,S Arora,S Arora
+S Badree,13.0,23.0,0.0,0.0,5.0,25.0,5.0,56.52,2.6,0.0,0.0,8.0,S Badree,309.0,258.0,11.0,109.0,43.0,7.19,28.09,S Badree,,0,,,,S Badree,57.14,8.0,S Badree,S Badree
+S Badrinath,1441.0,1208.0,154.0,28.0,65.0,1245.0,48.0,119.29,30.02,11.0,0.0,71.0,,,,,,,,,S Badrinath,S Badrinath,1,S Badrinath,77.12,182.0,S Badrinath,153.45,422.0,S Badrinath,S Badrinath
+S Chanderpaul,25.0,31.0,4.0,0.0,3.0,33.0,3.0,80.65,8.33,0.0,0.0,16.0,,,,,,,,,S Chanderpaul,,0,S Chanderpaul,80.65,25.0,,,,S Chanderpaul,S Chanderpaul
+S Dhawan,6769.0,5304.0,768.0,153.0,221.0,5483.0,194.0,127.62,34.89,51.0,2.0,106.0,S Dhawan,65.0,48.0,4.0,17.0,8.0,8.12,16.25,S Dhawan,S Dhawan,12,S Dhawan,123.24,3415.0,S Dhawan,159.81,668.0,Shikhar Dhawan,Shikhar Dhawan (S Dhawan)
+S Dube,1961.0,1356.0,118.0,126.0,80.0,1440.0,63.0,144.62,31.13,10.0,0.0,95.0,S Dube,232.0,136.0,6.0,26.0,22.7,10.24,38.67,S Dube,S Dube,2,S Dube,80.0,36.0,S Dube,170.32,700.0,S Dube,S Dube
+S Gopal,180.0,169.0,19.0,2.0,22.0,173.0,13.0,106.51,13.85,0.0,0.0,24.0,S Gopal,1336.0,991.0,52.0,317.0,165.2,8.09,25.69,S Gopal,S Gopal,2,S Gopal,0.0,0.0,S Gopal,129.81,135.0,Shreyas Gopal,Shreyas Gopal (S Gopal)
+,,,,,,,,,,,,,S Joseph,36.0,24.0,0.0,9.0,4.0,9.0,,S Joseph,,0,,,,,,,Shamar Joseph,Shamar Joseph (S Joseph)
+S Kaul,20.0,36.0,1.0,0.0,9.0,36.0,3.0,55.56,6.67,0.0,0.0,7.0,S Kaul,1703.0,1209.0,58.0,387.0,201.5,8.45,29.36,S Kaul,,0,,,,S Kaul,55.56,20.0,S Kaul,S Kaul
+S Kaushik,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,S Kaushik,291.0,204.0,6.0,68.0,34.0,8.56,48.5,S Kaushik,,0,,,,S Kaushik,0.0,0.0,S Kaushik,S Kaushik
+S Ladda,0.0,9.0,0.0,0.0,2.0,10.0,2.0,0.0,0.0,0.0,0.0,0.0,S Ladda,220.0,138.0,5.0,48.0,23.0,9.57,44.0,S Ladda,,0,,,,S Ladda,0.0,0.0,S Ladda,S Ladda
+S Lamichhane,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,S Lamichhane,291.0,210.0,13.0,75.0,35.0,8.31,22.38,S Lamichhane,,0,,,,S Lamichhane,0.0,0.0,S Lamichhane,S Lamichhane
+,,,,,,,,,,,,,S Midhun,26.0,12.0,0.0,3.0,2.0,13.0,,S Midhun,,0,,,,,,,S Midhun,S Midhun
+S Nadeem,39.0,87.0,2.0,0.0,20.0,88.0,16.0,44.83,2.44,0.0,0.0,6.0,S Nadeem,1742.0,1415.0,48.0,453.0,235.8,7.39,36.29,S Nadeem,S Nadeem,2,,,,S Nadeem,45.45,30.0,S Nadeem,S Nadeem
+S Narwal,37.0,27.0,6.0,0.0,4.0,29.0,4.0,137.04,9.25,0.0,0.0,23.0,S Narwal,195.0,106.0,5.0,37.0,17.7,11.04,39.0,S Narwal,,0,,,,S Narwal,138.89,25.0,S Narwal,S Narwal
+S Rana,91.0,79.0,9.0,1.0,8.0,82.0,5.0,115.19,18.2,0.0,0.0,19.0,S Rana,18.0,16.0,0.0,5.0,2.7,6.75,,S Rana,,0,S Rana,90.91,20.0,S Rana,141.67,68.0,S Rana,S Rana
+S Randiv,2.0,4.0,0.0,0.0,1.0,4.0,1.0,50.0,2.0,0.0,0.0,2.0,S Randiv,217.0,174.0,6.0,60.0,29.0,7.48,36.17,S Randiv,,0,,,,S Randiv,50.0,2.0,S Randiv,S Randiv
+,,,,,,,,,,,,,S Sandeep Warrier,239.0,168.0,8.0,72.0,28.0,8.54,29.88,S Sandeep Warrier,,0,,,,,,,S Sandeep Warrier,S Sandeep Warrier
+S Sohal,368.0,289.0,34.0,18.0,20.0,311.0,18.0,127.34,20.44,2.0,0.0,62.0,,,,,,,,,S Sohal,S Sohal,1,S Sohal,128.57,279.0,S Sohal,44.44,4.0,S Sohal,S Sohal
+S Sreesanth,34.0,55.0,6.0,0.0,12.0,57.0,3.0,61.82,11.33,0.0,0.0,15.0,S Sreesanth,1093.0,880.0,40.0,399.0,146.7,7.45,27.32,S Sreesanth,S Sreesanth,1,,,,S Sreesanth,61.82,34.0,S Sreesanth,S Sreesanth
+S Sriram,31.0,36.0,3.0,0.0,2.0,38.0,2.0,86.11,15.5,0.0,0.0,27.0,S Sriram,49.0,18.0,0.0,2.0,3.0,16.33,,S Sriram,,0,S Sriram,118.18,13.0,,,,S Sriram,S Sriram
+S Tyagi,3.0,4.0,0.0,0.0,1.0,4.0,0.0,75.0,3.0,0.0,0.0,3.0,S Tyagi,283.0,209.0,6.0,93.0,34.8,8.12,47.17,S Tyagi,,0,,,,S Tyagi,75.0,3.0,S Tyagi,S Tyagi
+S Vidyut,145.0,109.0,21.0,3.0,8.0,115.0,8.0,133.03,18.12,1.0,0.0,54.0,S Vidyut,21.0,12.0,1.0,5.0,2.0,10.5,21.0,S Vidyut,,0,S Vidyut,135.53,103.0,S Vidyut,0.0,0.0,S Vidyut,S Vidyut
+SA Abbott,22.0,18.0,1.0,2.0,3.0,18.0,2.0,122.22,11.0,0.0,0.0,14.0,SA Abbott,99.0,54.0,1.0,13.0,9.0,11.0,99.0,SA Abbott,,0,,,,SA Abbott,146.67,22.0,SA Abbott,SA Abbott
+SA Asnodkar,423.0,337.0,56.0,10.0,19.0,352.0,19.0,125.52,22.26,2.0,0.0,60.0,,,,,,,,,SA Asnodkar,SA Asnodkar,1,SA Asnodkar,133.65,278.0,,,,SA Asnodkar,SA Asnodkar
+SA Yadav,4417.0,2959.0,465.0,171.0,156.0,3035.0,128.0,149.27,34.51,30.0,2.0,103.0,SA Yadav,8.0,6.0,0.0,2.0,1.0,8.0,,SA Yadav,SA Yadav,10,SA Yadav,139.85,958.0,SA Yadav,181.72,825.0,Suryakumar Yadav,Suryakumar Yadav (SA Yadav)
+SB Bangar,49.0,58.0,1.0,3.0,7.0,58.0,6.0,84.48,8.17,0.0,0.0,17.0,SB Bangar,212.0,150.0,4.0,55.0,25.0,8.48,53.0,SB Bangar,,0,,,,SB Bangar,139.13,32.0,SB Bangar,SB Bangar
+SB Dubey,139.0,84.0,9.0,10.0,11.0,87.0,7.0,165.48,19.86,0.0,0.0,34.0,,,,,,,,,SB Dubey,,0,SB Dubey,233.33,14.0,SB Dubey,197.83,91.0,SB Dubey,SB Dubey
+SB Jakati,28.0,29.0,3.0,0.0,5.0,30.0,2.0,96.55,14.0,0.0,0.0,13.0,SB Jakati,1421.0,1085.0,46.0,337.0,180.8,7.86,30.89,SB Jakati,SB Jakati,1,,,,SB Jakati,96.55,28.0,SB Jakati,SB Jakati
+SB Joshi,6.0,14.0,0.0,0.0,2.0,16.0,2.0,42.86,3.0,0.0,0.0,3.0,SB Joshi,82.0,55.0,1.0,18.0,9.2,8.95,82.0,SB Joshi,,0,,,,SB Joshi,0.0,0.0,SB Joshi,SB Joshi
+SB Styris,131.0,132.0,10.0,3.0,10.0,134.0,7.0,99.24,18.71,0.0,0.0,36.0,SB Styris,270.0,216.0,8.0,83.0,36.0,7.5,33.75,SB Styris,,0,SB Styris,66.67,8.0,SB Styris,148.15,40.0,SB Styris,SB Styris
+SB Wagh,2.0,3.0,0.0,0.0,2.0,3.0,2.0,66.67,1.0,0.0,0.0,2.0,SB Wagh,131.0,102.0,5.0,45.0,17.0,7.71,26.2,SB Wagh,SB Wagh,1,,,,SB Wagh,66.67,2.0,SB Wagh,SB Wagh
+SC Ganguly,1349.0,1257.0,137.0,42.0,56.0,1326.0,54.0,107.32,24.98,7.0,0.0,91.0,SC Ganguly,358.0,276.0,10.0,75.0,46.0,7.78,35.8,SC Ganguly,SC Ganguly,5,SC Ganguly,102.32,529.0,SC Ganguly,186.27,190.0,Sourav Ganguly,Sourav Ganguly (SC Ganguly)
+,,,,,,,,,,,,,SC Kuggeleijn,69.0,48.0,2.0,17.0,8.0,8.62,34.5,SC Kuggeleijn,,0,,,,,,,SC Kuggeleijn,SC Kuggeleijn
+SD Chitnis,99.0,88.0,10.0,2.0,8.0,92.0,7.0,112.5,14.14,0.0,0.0,38.0,SD Chitnis,54.0,36.0,2.0,9.0,6.0,9.0,27.0,SD Chitnis,,0,SD Chitnis,16.67,1.0,SD Chitnis,119.44,43.0,SD Chitnis,SD Chitnis
+SD Hope,183.0,122.0,12.0,12.0,9.0,125.0,8.0,150.0,22.88,0.0,0.0,41.0,,,,,,,,,SD Hope,,0,SD Hope,130.0,78.0,SD Hope,110.0,11.0,SD Hope,SD Hope
+SD Lad,15.0,13.0,1.0,1.0,1.0,13.0,1.0,115.38,15.0,0.0,0.0,15.0,,,,,,,,,SD Lad,,0,SD Lad,115.38,15.0,,,,SD Lad,SD Lad
+SE Bond,1.0,2.0,0.0,0.0,1.0,2.0,1.0,50.0,1.0,0.0,0.0,1.0,SE Bond,218.0,186.0,9.0,75.0,31.0,7.03,24.22,SE Bond,,0,,,,,,,SE Bond,SE Bond
+SE Marsh,2489.0,1866.0,269.0,78.0,69.0,1913.0,65.0,133.39,38.29,20.0,1.0,115.0,,,,,,,,,SE Marsh,SE Marsh,9,SE Marsh,106.28,779.0,SE Marsh,161.73,262.0,Shaun Marsh,Shaun Marsh (SE Marsh)
+SE Rutherford,499.0,338.0,29.0,37.0,24.0,368.0,21.0,147.63,23.76,1.0,0.0,71.0,SE Rutherford,54.0,41.0,1.0,7.0,6.8,7.9,54.0,SE Rutherford,,0,SE Rutherford,25.0,4.0,SE Rutherford,165.38,258.0,SE Rutherford,SE Rutherford
+SH Johnson,8.0,11.0,1.0,0.0,5.0,11.0,0.0,72.73,8.0,0.0,0.0,5.0,SH Johnson,276.0,164.0,5.0,59.0,27.3,10.1,55.2,SH Johnson,,0,,,,SH Johnson,77.78,7.0,SH Johnson,SH Johnson
+SJ Srivastava,5.0,5.0,0.0,0.0,4.0,5.0,1.0,100.0,5.0,0.0,0.0,3.0,SJ Srivastava,409.0,282.0,14.0,103.0,47.0,8.7,29.21,SJ Srivastava,,0,,,,SJ Srivastava,100.0,5.0,SJ Srivastava,SJ Srivastava
+SK Raina,5536.0,4025.0,506.0,204.0,200.0,4177.0,168.0,137.54,32.95,39.0,1.0,100.0,SK Raina,1096.0,908.0,25.0,280.0,151.3,7.24,43.84,SK Raina,SK Raina,14,SK Raina,133.91,1560.0,SK Raina,172.55,899.0,Suresh Raina,Suresh Raina (SK Raina)
+SK Rasheed,71.0,63.0,9.0,2.0,5.0,67.0,5.0,112.7,14.2,0.0,0.0,27.0,,,,,,,,,SK Rasheed,,0,SK Rasheed,115.0,69.0,,,,SK Rasheed,SK Rasheed
+SK Trivedi,42.0,58.0,3.0,1.0,14.0,61.0,8.0,72.41,5.25,0.0,0.0,9.0,SK Trivedi,1823.0,1506.0,65.0,492.0,251.0,7.26,28.05,SK Trivedi,SK Trivedi,2,,,,SK Trivedi,73.68,42.0,SK Trivedi,SK Trivedi
+SK Warne,198.0,213.0,14.0,6.0,27.0,219.0,19.0,92.96,10.42,0.0,0.0,34.0,SK Warne,1408.0,1194.0,56.0,426.0,199.0,7.08,25.14,SK Warne,SK Warne,4,,,,SK Warne,104.58,137.0,Shane Warne,Shane Warne (SK Warne)
+SL Malinga,88.0,99.0,6.0,5.0,20.0,103.0,12.0,88.89,7.33,0.0,0.0,17.0,SL Malinga,3176.0,2827.0,170.0,1144.0,471.2,6.74,18.68,SL Malinga,SL Malinga,6,,,,SL Malinga,89.58,86.0,Lasith Malinga,Lasith Malinga (SL Malinga)
+,,,,,,,,,,,,,SM Boland,53.0,42.0,2.0,14.0,7.0,7.57,26.5,SM Boland,,0,,,,,,,SM Boland,SM Boland
+SM Curran,997.0,725.0,85.0,41.0,53.0,761.0,41.0,137.52,24.32,6.0,0.0,88.0,SM Curran,1969.0,1253.0,59.0,394.0,208.8,9.43,33.37,SM Curran,SM Curran,4,SM Curran,113.95,147.0,SM Curran,183.87,456.0,Sam Curran,Sam Curran (SM Curran)
+SM Harwood,9.0,13.0,0.0,0.0,2.0,14.0,0.0,69.23,9.0,0.0,0.0,6.0,SM Harwood,61.0,60.0,3.0,33.0,10.0,6.1,20.33,SM Harwood,,0,,,,SM Harwood,69.23,9.0,SM Harwood,SM Harwood
+SM Katich,241.0,185.0,26.0,8.0,11.0,191.0,10.0,130.27,24.1,2.0,0.0,75.0,,,,,,,,,SM Katich,SM Katich,1,SM Katich,134.26,145.0,SM Katich,125.0,20.0,SM Katich,SM Katich
+SM Pollock,147.0,111.0,12.0,8.0,8.0,116.0,8.0,132.43,18.38,0.0,0.0,33.0,SM Pollock,297.0,276.0,11.0,130.0,46.0,6.46,27.0,SM Pollock,SM Pollock,2,SM Pollock,16.67,1.0,SM Pollock,190.48,80.0,SM Pollock,SM Pollock
+SMSM Senanayake,10.0,16.0,0.0,0.0,4.0,17.0,1.0,62.5,10.0,0.0,0.0,7.0,SMSM Senanayake,206.0,192.0,9.0,73.0,32.0,6.44,22.89,SMSM Senanayake,,0,,,,SMSM Senanayake,62.5,10.0,SMSM Senanayake,SMSM Senanayake
+SN Khan,707.0,510.0,80.0,20.0,40.0,527.0,33.0,138.63,21.42,2.0,0.0,67.0,SN Khan,6.0,2.0,0.0,0.0,0.3,18.0,,SN Khan,,0,SN Khan,155.56,154.0,SN Khan,172.47,307.0,SN Khan,SN Khan
+SN Thakur,333.0,239.0,31.0,13.0,41.0,252.0,27.0,139.33,12.33,1.0,0.0,68.0,SN Thakur,3252.0,2154.0,114.0,716.0,359.0,9.06,28.53,SN Thakur,SN Thakur,4,SN Thakur,0.0,0.0,SN Thakur,145.7,220.0,Shardul Thakur,Shardul Thakur (SN Thakur)
+SO Hetmyer,1512.0,991.0,95.0,95.0,81.0,1054.0,55.0,152.57,27.49,5.0,0.0,75.0,,,,,,,,,SO Hetmyer,SO Hetmyer,3,SO Hetmyer,108.2,66.0,SO Hetmyer,174.81,937.0,Shimron Hetmyer,Shimron Hetmyer (SO Hetmyer)
+SP Fleming,196.0,162.0,27.0,3.0,10.0,171.0,9.0,120.99,21.78,0.0,0.0,45.0,,,,,,,,,SP Fleming,,0,SP Fleming,111.11,120.0,,,,SP Fleming,SP Fleming
+SP Goswami,293.0,293.0,32.0,3.0,21.0,307.0,20.0,100.0,14.65,1.0,0.0,52.0,,,,,,,,,SP Goswami,SP Goswami,1,SP Goswami,98.79,163.0,SP Goswami,118.18,26.0,SP Goswami,SP Goswami
+SP Jackson,61.0,57.0,5.0,1.0,8.0,57.0,6.0,107.02,10.17,0.0,0.0,16.0,,,,,,,,,SP Jackson,,0,SP Jackson,111.11,10.0,SP Jackson,113.33,34.0,SP Jackson,SP Jackson
+SP Narine,1816.0,1088.0,191.0,120.0,120.0,1167.0,97.0,166.91,18.72,7.0,1.0,109.0,SP Narine,4938.0,4441.0,195.0,1688.0,740.2,6.67,25.32,SP Narine,SP Narine,17,SP Narine,170.64,1174.0,SP Narine,128.93,156.0,Sunil Narine,Sunil Narine (SP Narine)
+SPD Smith,2495.0,1931.0,226.0,60.0,93.0,1999.0,78.0,129.21,31.99,11.0,1.0,101.0,SPD Smith,5.0,2.0,0.0,0.0,0.3,15.0,,SPD Smith,SPD Smith,5,SPD Smith,123.19,510.0,SPD Smith,165.73,706.0,Steve Smith,Steve Smith (SPD Smith)
+SR Tendulkar,2334.0,1941.0,296.0,29.0,78.0,2044.0,71.0,120.25,32.87,13.0,1.0,100.0,SR Tendulkar,57.0,36.0,0.0,4.0,6.0,9.5,,SR Tendulkar,SR Tendulkar,8,SR Tendulkar,116.99,1143.0,SR Tendulkar,164.71,224.0,Sachin Tendulkar,Sachin Tendulkar (SR Tendulkar)
+SR Watson,3880.0,2801.0,377.0,190.0,141.0,2892.0,126.0,138.52,30.79,21.0,4.0,117.0,SR Watson,2562.0,2029.0,92.0,803.0,338.2,7.58,27.85,SR Watson,SR Watson,16,SR Watson,113.05,1421.0,SR Watson,187.19,453.0,Shane Watson,Shane Watson (SR Watson)
+,,,,,,,,,,,,,SS Agarwal,42.0,24.0,1.0,7.0,4.0,10.5,42.0,SS Agarwal,,0,,,,,,,SS Agarwal,SS Agarwal
+SS Cottrell,0.0,2.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,SS Cottrell,161.0,120.0,6.0,58.0,20.0,8.05,26.83,SS Cottrell,,0,,,,SS Cottrell,0.0,0.0,SS Cottrell,SS Cottrell
+SS Iyer,3938.0,2898.0,329.0,166.0,135.0,3018.0,117.0,135.89,33.66,30.0,0.0,97.0,SS Iyer,7.0,6.0,0.0,4.0,1.0,7.0,,SS Iyer,SS Iyer,10,SS Iyer,113.52,991.0,SS Iyer,183.46,721.0,Shreyas Iyer,Shreyas Iyer (SS Iyer)
+,,,,,,,,,,,,,SS Mundhe,5.0,6.0,1.0,4.0,1.0,5.0,5.0,SS Mundhe,,0,,,,,,,SS Mundhe,SS Mundhe
+SS Prabhudessai,126.0,105.0,11.0,4.0,10.0,113.0,9.0,120.0,14.0,0.0,0.0,34.0,,,,,,,,,SS Prabhudessai,,0,SS Prabhudessai,66.67,8.0,SS Prabhudessai,120.0,24.0,SS Prabhudessai,SS Prabhudessai
+,,,,,,,,,,,,,SS Sarkar,34.0,25.0,1.0,4.0,4.2,8.16,34.0,SS Sarkar,,0,,,,,,,SS Sarkar,SS Sarkar
+SS Shaikh,6.0,7.0,1.0,0.0,1.0,7.0,0.0,85.71,6.0,0.0,0.0,6.0,,,,,,,,,SS Shaikh,,0,,,,,,,SS Shaikh,SS Shaikh
+SS Tiwary,1494.0,1235.0,111.0,50.0,73.0,1291.0,50.0,120.97,29.88,8.0,0.0,61.0,,,,,,,,,SS Tiwary,,0,SS Tiwary,106.29,169.0,SS Tiwary,145.51,454.0,SS Tiwary,SS Tiwary
+,,,,,,,,,,,,,SSB Magala,50.0,36.0,1.0,5.0,6.0,8.33,50.0,SSB Magala,,0,,,,,,,SSB Magala,SSB Magala
+ST Jayasuriya,768.0,529.0,84.0,39.0,30.0,573.0,29.0,145.18,26.48,4.0,1.0,114.0,ST Jayasuriya,375.0,294.0,13.0,83.0,49.0,7.65,28.85,ST Jayasuriya,ST Jayasuriya,2,ST Jayasuriya,141.21,514.0,,,,ST Jayasuriya,ST Jayasuriya
+STR Binny,880.0,682.0,66.0,35.0,66.0,700.0,44.0,129.03,20.0,0.0,0.0,48.0,STR Binny,741.0,594.0,22.0,199.0,99.0,7.48,33.68,STR Binny,,0,STR Binny,72.0,18.0,STR Binny,151.53,397.0,Stuart Binny,Stuart Binny (STR Binny)
+SV Samson,4889.0,3475.0,400.0,227.0,176.0,3586.0,156.0,140.69,31.34,26.0,4.0,119.0,,,,,,,,,SV Samson,SV Samson,12,SV Samson,126.4,1470.0,SV Samson,191.67,805.0,Sanju Samson,Sanju Samson (SV Samson)
+SW Billings,503.0,385.0,40.0,20.0,27.0,399.0,26.0,130.65,19.35,3.0,0.0,56.0,,,,,,,,,SW Billings,SW Billings,1,SW Billings,128.87,125.0,SW Billings,168.57,118.0,SW Billings,SW Billings
+SW Tait,23.0,26.0,1.0,1.0,5.0,26.0,3.0,88.46,7.67,0.0,0.0,11.0,SW Tait,552.0,473.0,23.0,200.0,78.8,7.0,24.0,SW Tait,,0,,,,SW Tait,76.47,13.0,SW Tait,SW Tait
+SZ Mulani,1.0,1.0,0.0,0.0,1.0,1.0,0.0,100.0,1.0,0.0,0.0,1.0,SZ Mulani,54.0,30.0,0.0,7.0,5.0,10.8,,SZ Mulani,,0,,,,SZ Mulani,100.0,1.0,SZ Mulani,SZ Mulani
+Sachin Baby,144.0,115.0,11.0,5.0,11.0,123.0,10.0,125.22,14.4,0.0,0.0,33.0,Sachin Baby,8.0,10.0,2.0,5.0,1.7,4.8,4.0,Sachin Baby,,0,Sachin Baby,0.0,0.0,Sachin Baby,163.79,95.0,Sachin Baby,Sachin Baby
+,,,,,,,,,,,,,Sakib Hussain,21.0,24.0,4.0,14.0,4.0,5.25,5.25,Sakib Hussain,,0,,,,,,,Sakib Hussain,Sakib Hussain
+Salman Butt,193.0,160.0,30.0,2.0,7.0,172.0,7.0,120.62,27.57,1.0,0.0,73.0,,,,,,,,,Salman Butt,,0,Salman Butt,107.22,104.0,Salman Butt,266.67,16.0,Salman Butt,Salman Butt
+Sameer Rizvi,338.0,230.0,28.0,20.0,13.0,241.0,10.0,146.96,33.8,3.0,0.0,90.0,,,,,,,,,Sameer Rizvi,Sameer Rizvi,3,Sameer Rizvi,57.14,16.0,Sameer Rizvi,217.07,89.0,Sameer Rizvi,Sameer Rizvi
+Sandeep Sharma,60.0,74.0,4.0,0.0,26.0,79.0,5.0,81.08,12.0,0.0,0.0,9.0,Sandeep Sharma,4111.0,3145.0,151.0,1202.0,524.2,7.84,27.23,Sandeep Sharma,Sandeep Sharma,7,,,,Sandeep Sharma,81.36,48.0,Sandeep Sharma,Sandeep Sharma
+Sanvir Singh,25.0,21.0,2.0,1.0,5.0,22.0,2.0,119.05,12.5,0.0,0.0,8.0,,,,,,,,,Sanvir Singh,,0,Sanvir Singh,140.0,7.0,Sanvir Singh,128.57,18.0,Sanvir Singh,Sanvir Singh
+Saurav Chauhan,18.0,15.0,1.0,1.0,3.0,16.0,3.0,120.0,6.0,0.0,0.0,9.0,,,,,,,,,Saurav Chauhan,,0,,,,Saurav Chauhan,130.77,17.0,Saurav Chauhan,Saurav Chauhan
+Sediqullah Atal,22.0,16.0,0.0,2.0,1.0,16.0,1.0,137.5,22.0,0.0,0.0,22.0,,,,,,,,,Sediqullah Atal,,0,,,,,,,Sediqullah Atal,Sediqullah Atal
+Shahbaz Ahmed,560.0,462.0,30.0,25.0,39.0,491.0,30.0,121.21,18.67,1.0,0.0,59.0,Shahbaz Ahmed,932.0,594.0,22.0,152.0,99.0,9.41,42.36,Shahbaz Ahmed,Shahbaz Ahmed,1,Shahbaz Ahmed,80.77,21.0,Shahbaz Ahmed,143.3,278.0,Shahbaz Ahmed,Shahbaz Ahmed
+Shahid Afridi,81.0,46.0,7.0,6.0,9.0,46.0,8.0,176.09,10.12,0.0,0.0,33.0,Shahid Afridi,220.0,180.0,9.0,57.0,30.0,7.33,24.44,Shahid Afridi,,0,Shahid Afridi,238.89,43.0,Shahid Afridi,220.0,22.0,Shahid Afridi,Shahid Afridi
+Shakib Al Hasan,795.0,635.0,73.0,21.0,52.0,665.0,40.0,125.2,19.88,2.0,0.0,66.0,Shakib Al Hasan,1802.0,1484.0,63.0,504.0,247.3,7.29,28.6,Shakib Al Hasan,Shakib Al Hasan,2,Shakib Al Hasan,100.0,37.0,Shakib Al Hasan,141.81,329.0,Shakib Al Hasan,Shakib Al Hasan
+Shashank Singh,807.0,510.0,59.0,44.0,36.0,531.0,19.0,158.24,42.47,5.0,0.0,68.0,Shashank Singh,89.0,60.0,4.0,15.0,10.0,8.9,22.25,Shashank Singh,Shashank Singh,1,Shashank Singh,136.0,34.0,Shashank Singh,194.02,454.0,Shashank Singh,Shashank Singh
+Shivam Mavi,51.0,56.0,4.0,2.0,11.0,58.0,9.0,91.07,5.67,0.0,0.0,20.0,Shivam Mavi,890.0,649.0,30.0,254.0,108.2,8.23,29.67,Shivam Mavi,Shivam Mavi,2,,,,Shivam Mavi,94.12,48.0,Shivam Mavi,Shivam Mavi
+Shivam Sharma,5.0,3.0,1.0,0.0,2.0,3.0,1.0,166.67,5.0,0.0,0.0,4.0,Shivam Sharma,165.0,114.0,4.0,37.0,19.0,8.68,41.25,Shivam Sharma,,0,,,,Shivam Sharma,166.67,5.0,Shivam Sharma,Shivam Sharma
+Shivam Singh,2.0,3.0,0.0,0.0,1.0,3.0,0.0,66.67,2.0,0.0,0.0,2.0,,,,,,,,,Shivam Singh,,0,,,,Shivam Singh,66.67,2.0,Shivam Singh,Shivam Singh
+Shivang Kumar,9.0,6.0,2.0,0.0,2.0,6.0,2.0,150.0,4.5,0.0,0.0,5.0,Shivang Kumar,131.0,90.0,4.0,25.0,15.0,8.73,32.75,Shivang Kumar,,0,,,,Shivang Kumar,150.0,9.0,Shivang Kumar,Shivang Kumar
+Shoaib Ahmed,1.0,6.0,0.0,0.0,3.0,6.0,2.0,16.67,0.5,0.0,0.0,1.0,Shoaib Ahmed,151.0,102.0,5.0,33.0,17.0,8.88,30.2,Shoaib Ahmed,,0,,,,Shoaib Ahmed,0.0,0.0,Shoaib Ahmed,Shoaib Ahmed
+Shoaib Akhtar,2.0,7.0,0.0,0.0,1.0,8.0,1.0,28.57,2.0,0.0,0.0,2.0,Shoaib Akhtar,50.0,42.0,5.0,23.0,7.0,7.14,10.0,Shoaib Akhtar,Shoaib Akhtar,1,,,,Shoaib Akhtar,0.0,0.0,Shoaib Akhtar,Shoaib Akhtar
+Shoaib Malik,52.0,46.0,5.0,0.0,5.0,49.0,4.0,113.04,13.0,0.0,0.0,24.0,Shoaib Malik,76.0,51.0,2.0,15.0,8.5,8.94,38.0,Shoaib Malik,,0,Shoaib Malik,130.77,17.0,Shoaib Malik,114.29,8.0,Shoaib Malik,Shoaib Malik
+Shubman Gill,4031.0,2886.0,388.0,125.0,117.0,2983.0,101.0,139.67,39.91,28.0,4.0,129.0,,,,,,,,,Shubman Gill,Shubman Gill,12,Shubman Gill,132.34,1780.0,Shubman Gill,158.33,456.0,Shubman Gill,Shubman Gill
+Sikandar Raza,182.0,136.0,12.0,8.0,9.0,143.0,7.0,133.82,26.0,1.0,0.0,57.0,Sikandar Raza,133.0,84.0,3.0,21.0,14.0,9.5,44.33,Sikandar Raza,Sikandar Raza,1,Sikandar Raza,88.89,8.0,Sikandar Raza,138.24,47.0,Sikandar Raza,Sikandar Raza
+Simarjeet Singh,10.0,15.0,0.0,0.0,6.0,15.0,3.0,66.67,3.33,0.0,0.0,3.0,Simarjeet Singh,378.0,240.0,11.0,102.0,40.0,9.45,34.36,Simarjeet Singh,Simarjeet Singh,1,,,,Simarjeet Singh,66.67,8.0,Simarjeet Singh,Simarjeet Singh
+Sohail Tanvir,36.0,28.0,3.0,1.0,5.0,31.0,3.0,128.57,12.0,0.0,0.0,13.0,Sohail Tanvir,246.0,247.0,22.0,121.0,41.2,5.98,11.18,Sohail Tanvir,Sohail Tanvir,2,Sohail Tanvir,162.5,13.0,Sohail Tanvir,120.0,12.0,Sohail Tanvir,Sohail Tanvir
+Sumit Kumar,18.0,24.0,2.0,1.0,3.0,26.0,2.0,75.0,9.0,0.0,0.0,9.0,Sumit Kumar,36.0,20.0,0.0,4.0,3.3,10.8,,Sumit Kumar,,0,Sumit Kumar,0.0,0.0,Sumit Kumar,20.0,2.0,Sumit Kumar,Sumit Kumar
+Sunny Gupta,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Sunny Gupta,45.0,18.0,0.0,0.0,3.0,15.0,,Sunny Gupta,,0,,,,Sunny Gupta,0.0,0.0,Sunny Gupta,Sunny Gupta
+Sunny Singh,43.0,31.0,6.0,1.0,5.0,31.0,4.0,138.71,10.75,0.0,0.0,20.0,,,,,,,,,Sunny Singh,,0,Sunny Singh,187.5,15.0,Sunny Singh,77.78,7.0,Sunny Singh,Sunny Singh
+Suryansh Shedge,7.0,11.0,0.0,0.0,3.0,12.0,3.0,63.64,2.33,0.0,0.0,4.0,Suryansh Shedge,37.0,18.0,0.0,1.0,3.0,12.33,,Suryansh Shedge,,0,,,,Suryansh Shedge,42.86,3.0,Suryansh Shedge,Suryansh Shedge
+,,,,,,,,,,,,,Suyash Sharma,928.0,648.0,22.0,206.0,108.0,8.59,42.18,Suyash Sharma,Suyash Sharma,1,,,,,,,Suyash Sharma,Suyash Sharma
+Swapnil Singh,51.0,45.0,3.0,3.0,9.0,46.0,5.0,113.33,10.2,0.0,0.0,15.0,Swapnil Singh,237.0,162.0,7.0,39.0,27.0,8.78,33.86,Swapnil Singh,,0,,,,Swapnil Singh,136.84,26.0,Swapnil Singh,Swapnil Singh
+T Banton,18.0,20.0,1.0,1.0,2.0,22.0,2.0,90.0,9.0,0.0,0.0,10.0,,,,,,,,,T Banton,,0,T Banton,90.0,18.0,,,,T Banton,T Banton
+T Henderson,11.0,15.0,0.0,1.0,2.0,16.0,1.0,73.33,11.0,0.0,0.0,11.0,T Henderson,40.0,36.0,1.0,14.0,6.0,6.67,40.0,T Henderson,,0,T Henderson,22.22,2.0,,,,T Henderson,T Henderson
+T Kohler-Cadmore,48.0,54.0,7.0,1.0,3.0,54.0,3.0,88.89,16.0,0.0,0.0,20.0,,,,,,,,,T Kohler-Cadmore,,0,T Kohler-Cadmore,92.16,47.0,,,,T Kohler-Cadmore,T Kohler-Cadmore
+T Kohli,11.0,19.0,0.0,1.0,3.0,20.0,3.0,57.89,3.67,0.0,0.0,7.0,,,,,,,,,T Kohli,,0,T Kohli,58.33,7.0,T Kohli,57.14,4.0,T Kohli,T Kohli
+T Natarajan,4.0,7.0,0.0,0.0,3.0,7.0,0.0,57.14,4.0,0.0,0.0,3.0,T Natarajan,2092.0,1452.0,73.0,442.0,242.0,8.64,28.66,T Natarajan,,0,,,,T Natarajan,57.14,4.0,T Natarajan,T Natarajan
+T Shamsi,2.0,4.0,0.0,0.0,1.0,4.0,0.0,50.0,2.0,0.0,0.0,2.0,T Shamsi,181.0,120.0,3.0,28.0,20.0,9.05,60.33,T Shamsi,,0,,,,T Shamsi,50.0,2.0,T Shamsi,T Shamsi
+T Stubbs,820.0,511.0,58.0,42.0,34.0,525.0,18.0,160.47,45.56,4.0,0.0,71.0,T Stubbs,68.0,36.0,3.0,12.0,6.0,11.33,22.67,T Stubbs,,0,T Stubbs,133.33,24.0,T Stubbs,211.4,482.0,T Stubbs,T Stubbs
+T Taibu,31.0,26.0,3.0,0.0,3.0,26.0,3.0,119.23,10.33,0.0,0.0,15.0,,,,,,,,,T Taibu,,0,,,,T Taibu,150.0,12.0,T Taibu,T Taibu
+T Thushara,12.0,18.0,0.0,0.0,4.0,19.0,2.0,66.67,6.0,0.0,0.0,8.0,T Thushara,147.0,135.0,8.0,57.0,22.5,6.53,18.38,T Thushara,,0,,,,T Thushara,66.67,12.0,T Thushara,T Thushara
+TA Boult,86.0,83.0,5.0,3.0,25.0,88.0,9.0,103.61,9.56,0.0,0.0,17.0,TA Boult,3738.0,2741.0,144.0,1122.0,456.8,8.18,25.96,TA Boult,TA Boult,7,,,,TA Boult,105.41,78.0,Trent Boult,Trent Boult (TA Boult)
+TD Paine,10.0,26.0,0.0,0.0,2.0,29.0,2.0,38.46,5.0,0.0,0.0,8.0,,,,,,,,,TD Paine,,0,TD Paine,38.46,10.0,,,,TD Paine,TD Paine
+TG Southee,120.0,106.0,8.0,4.0,19.0,108.0,11.0,113.21,10.91,0.0,0.0,36.0,TG Southee,1679.0,1206.0,47.0,447.0,201.0,8.35,35.72,TG Southee,TG Southee,1,,,,TG Southee,134.18,106.0,TG Southee,TG Southee
+TH David,993.0,549.0,63.0,73.0,49.0,594.0,27.0,180.87,36.78,2.0,0.0,70.0,TH David,18.0,6.0,0.0,1.0,1.0,18.0,,TH David,TH David,3,,,,TH David,202.6,778.0,Tim David,Tim David (TH David)
+TK Curran,127.0,107.0,10.0,3.0,10.0,108.0,5.0,118.69,25.4,1.0,0.0,54.0,TK Curran,413.0,238.0,13.0,57.0,39.7,10.41,31.77,TK Curran,,0,,,,TK Curran,138.0,69.0,TK Curran,TK Curran
+TL Seifert,26.0,23.0,4.0,0.0,3.0,26.0,3.0,113.04,8.67,0.0,0.0,21.0,,,,,,,,,TL Seifert,,0,TL Seifert,126.32,24.0,TL Seifert,50.0,2.0,TL Seifert,TL Seifert
+TL Suman,676.0,573.0,55.0,26.0,39.0,587.0,30.0,117.98,22.53,2.0,0.0,78.0,TL Suman,194.0,150.0,6.0,43.0,25.0,7.76,32.33,TL Suman,TL Suman,1,TL Suman,102.21,185.0,TL Suman,135.85,144.0,TL Suman,TL Suman
+TM Dilshan,1153.0,1001.0,140.0,24.0,50.0,1047.0,41.0,115.18,28.12,9.0,0.0,76.0,TM Dilshan,361.0,271.0,5.0,79.0,45.2,7.99,72.2,TM Dilshan,TM Dilshan,1,TM Dilshan,111.16,488.0,TM Dilshan,174.56,199.0,TM Dilshan,TM Dilshan
+TM Head,1266.0,745.0,143.0,59.0,42.0,788.0,38.0,169.93,33.32,8.0,1.0,102.0,TM Head,113.0,58.0,2.0,9.0,9.7,11.69,56.5,TM Head,TM Head,3,TM Head,181.48,784.0,TM Head,181.82,100.0,Travis Head,Travis Head (TM Head)
+TM Srivastava,8.0,11.0,0.0,0.0,3.0,11.0,1.0,72.73,8.0,0.0,0.0,7.0,,,,,,,,,TM Srivastava,,0,,,,TM Srivastava,85.71,6.0,TM Srivastava,TM Srivastava
+,,,,,,,,,,,,,TP Sudhindra,128.0,70.0,1.0,18.0,11.7,10.97,128.0,TP Sudhindra,,0,,,,,,,TP Sudhindra,TP Sudhindra
+TR Birt,75.0,57.0,9.0,2.0,5.0,59.0,5.0,131.58,15.0,0.0,0.0,27.0,,,,,,,,,TR Birt,,0,,,,TR Birt,166.67,60.0,TR Birt,TR Birt
+TS Mills,8.0,14.0,0.0,1.0,5.0,14.0,4.0,57.14,2.0,0.0,0.0,6.0,TS Mills,328.0,209.0,11.0,69.0,34.8,9.42,29.82,TS Mills,,0,,,,TS Mills,66.67,6.0,TS Mills,TS Mills
+TU Deshpande,53.0,33.0,2.0,4.0,9.0,35.0,3.0,160.61,17.67,0.0,0.0,25.0,TU Deshpande,1600.0,1019.0,54.0,357.0,169.8,9.42,29.63,TU Deshpande,,0,,,,TU Deshpande,160.61,53.0,TU Deshpande,TU Deshpande
+Tanush Kotian,24.0,31.0,3.0,0.0,1.0,32.0,1.0,77.42,24.0,0.0,0.0,24.0,,,,,,,,,Tanush Kotian,,0,Tanush Kotian,90.0,18.0,,,,Tanush Kotian,Tanush Kotian
+,,,,,,,,,,,,,Tejas Baroka,33.0,21.0,0.0,6.0,3.5,9.43,,Tejas Baroka,,0,,,,,,,Tejas Baroka,Tejas Baroka
+Tilak Varma,1542.0,1064.0,121.0,74.0,56.0,1122.0,43.0,144.92,35.86,8.0,0.0,84.0,Tilak Varma,27.0,22.0,0.0,8.0,3.7,7.36,,Tilak Varma,,0,Tilak Varma,127.91,165.0,Tilak Varma,183.56,413.0,Tilak Varma,Tilak Varma
+U Kaul,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,U Kaul,,0,,,,U Kaul,0.0,0.0,U Kaul,U Kaul
+UA Birla,7.0,14.0,1.0,0.0,1.0,15.0,1.0,50.0,7.0,0.0,0.0,7.0,,,,,,,,,UA Birla,,0,UA Birla,66.67,6.0,,,,UA Birla,UA Birla
+UBT Chand,300.0,299.0,32.0,9.0,20.0,314.0,20.0,100.33,15.0,1.0,0.0,58.0,,,,,,,,,UBT Chand,,0,UBT Chand,84.51,120.0,UBT Chand,166.67,30.0,UBT Chand,UBT Chand
+UT Khawaja,127.0,99.0,14.0,3.0,6.0,105.0,5.0,128.28,25.4,0.0,0.0,30.0,,,,,,,,,UT Khawaja,,0,UT Khawaja,144.59,107.0,,,,UT Khawaja,UT Khawaja
+UT Yadav,208.0,201.0,16.0,9.0,48.0,211.0,21.0,103.48,9.9,0.0,0.0,24.0,UT Yadav,4151.0,3056.0,144.0,1186.0,509.3,8.15,28.83,UT Yadav,UT Yadav,10,,,,UT Yadav,109.04,205.0,Umesh Yadav,Umesh Yadav (UT Yadav)
+Umar Gul,39.0,19.0,1.0,5.0,4.0,19.0,3.0,205.26,13.0,0.0,0.0,24.0,Umar Gul,159.0,135.0,12.0,51.0,22.5,7.07,13.25,Umar Gul,Umar Gul,1,,,,Umar Gul,205.26,39.0,Umar Gul,Umar Gul
+Umran Malik,23.0,15.0,1.0,2.0,5.0,16.0,1.0,153.33,23.0,0.0,0.0,19.0,Umran Malik,724.0,493.0,29.0,205.0,82.2,8.81,24.97,Umran Malik,Umran Malik,2,,,,Umran Malik,153.33,23.0,Umran Malik,Umran Malik
+Urvil Patel,68.0,32.0,5.0,6.0,3.0,34.0,3.0,212.5,22.67,0.0,0.0,37.0,,,,,,,,,Urvil Patel,,0,Urvil Patel,200.0,42.0,,,,Urvil Patel,Urvil Patel
+,,,,,,,,,,,,,V Kaverappa,36.0,24.0,2.0,11.0,4.0,9.0,18.0,V Kaverappa,,0,,,,,,,V Kaverappa,V Kaverappa
+V Kohli,8899.0,6649.0,799.0,300.0,264.0,6853.0,235.0,133.84,37.87,66.0,8.0,113.0,V Kohli,347.0,251.0,4.0,52.0,41.8,8.29,86.75,V Kohli,V Kohli,19,V Kohli,127.9,3269.0,V Kohli,188.97,1525.0,Virat Kohli,Virat Kohli (V Kohli)
+V Nigam,154.0,85.0,18.0,8.0,9.0,89.0,6.0,181.18,25.67,0.0,0.0,39.0,V Nigam,389.0,264.0,11.0,81.0,44.0,8.84,35.36,V Nigam,,0,V Nigam,285.71,20.0,V Nigam,180.0,81.0,V Nigam,V Nigam
+V Pratap Singh,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,V Pratap Singh,289.0,204.0,10.0,71.0,34.0,8.5,28.9,V Pratap Singh,,0,,,,V Pratap Singh,0.0,0.0,V Pratap Singh,V Pratap Singh
+,,,,,,,,,,,,,V Puthur,108.0,72.0,6.0,24.0,12.0,9.0,18.0,V Puthur,,0,,,,,,,V Puthur,V Puthur
+V Sehwag,2728.0,1740.0,334.0,106.0,104.0,1833.0,98.0,156.78,27.84,16.0,2.0,122.0,V Sehwag,229.0,136.0,6.0,44.0,22.7,10.1,38.17,V Sehwag,V Sehwag,11,V Sehwag,145.35,1593.0,V Sehwag,221.21,73.0,Virender Sehwag,Virender Sehwag (V Sehwag)
+V Shankar,1233.0,947.0,88.0,48.0,63.0,985.0,46.0,130.2,26.8,7.0,0.0,69.0,V Shankar,315.0,238.0,9.0,80.0,39.7,7.94,35.0,V Shankar,,0,V Shankar,97.69,127.0,V Shankar,167.21,515.0,V Shankar,V Shankar
+V Suryavanshi,452.0,197.0,36.0,42.0,12.0,208.0,12.0,229.44,37.67,3.0,1.0,101.0,,,,,,,,,V Suryavanshi,V Suryavanshi,2,V Suryavanshi,237.5,323.0,,,,V Suryavanshi,V Suryavanshi
+V Viyaskanth,7.0,5.0,0.0,0.0,1.0,5.0,0.0,140.0,7.0,0.0,0.0,7.0,V Viyaskanth,86.0,60.0,1.0,16.0,10.0,8.6,86.0,V Viyaskanth,,0,,,,V Viyaskanth,140.0,7.0,V Viyaskanth,V Viyaskanth
+VG Arora,10.0,26.0,0.0,0.0,10.0,27.0,4.0,38.46,2.5,0.0,0.0,2.0,VG Arora,1136.0,734.0,42.0,271.0,122.3,9.29,27.05,VG Arora,VG Arora,1,,,,VG Arora,52.63,10.0,VG Arora,VG Arora
+VH Zol,29.0,26.0,3.0,1.0,2.0,26.0,2.0,111.54,14.5,0.0,0.0,16.0,,,,,,,,,VH Zol,,0,VH Zol,104.76,22.0,,,,VH Zol,VH Zol
+VR Aaron,50.0,71.0,2.0,2.0,12.0,73.0,4.0,70.42,12.5,0.0,0.0,17.0,VR Aaron,1393.0,994.0,44.0,387.0,165.7,8.41,31.66,VR Aaron,VR Aaron,2,,,,VR Aaron,71.43,50.0,VR Aaron,VR Aaron
+VR Iyer,1497.0,1083.0,137.0,67.0,57.0,1123.0,50.0,138.23,29.94,12.0,1.0,104.0,VR Iyer,140.0,81.0,3.0,15.0,13.5,10.37,46.67,VR Iyer,VR Iyer,3,VR Iyer,130.42,596.0,VR Iyer,165.38,172.0,Venkatesh Iyer,Venkatesh Iyer (VR Iyer)
+VRV Singh,4.0,3.0,1.0,0.0,2.0,3.0,1.0,133.33,4.0,0.0,0.0,4.0,VRV Singh,521.0,360.0,12.0,114.0,60.0,8.68,43.42,VRV Singh,,0,,,,VRV Singh,133.33,4.0,VRV Singh,VRV Singh
+VS Malik,7.0,7.0,1.0,0.0,2.0,7.0,1.0,100.0,7.0,0.0,0.0,6.0,VS Malik,253.0,205.0,6.0,84.0,34.2,7.4,42.17,VS Malik,,0,,,,VS Malik,100.0,7.0,VS Malik,VS Malik
+VS Yeligati,2.0,2.0,0.0,0.0,1.0,2.0,1.0,100.0,2.0,0.0,0.0,2.0,VS Yeligati,53.0,30.0,0.0,6.0,5.0,10.6,,VS Yeligati,,0,,,,VS Yeligati,100.0,2.0,VS Yeligati,VS Yeligati
+VVS Laxman,282.0,266.0,33.0,5.0,20.0,271.0,16.0,106.02,17.62,1.0,0.0,52.0,,,,,,,,,VVS Laxman,,0,VVS Laxman,100.0,187.0,VVS Laxman,50.0,3.0,VVS Laxman,VVS Laxman
+VY Mahesh,15.0,27.0,0.0,0.0,5.0,28.0,2.0,55.56,7.5,0.0,0.0,6.0,VY Mahesh,463.0,339.0,21.0,120.0,56.5,8.19,22.05,VY Mahesh,,0,,,,VY Mahesh,63.16,12.0,VY Mahesh,VY Mahesh
+Vijaykumar Vyshak,14.0,12.0,0.0,1.0,4.0,13.0,2.0,116.67,7.0,0.0,0.0,13.0,Vijaykumar Vyshak,681.0,411.0,22.0,117.0,68.5,9.94,30.95,Vijaykumar Vyshak,,0,,,,Vijaykumar Vyshak,116.67,14.0,Vijaykumar Vyshak,Vijaykumar Vyshak
+Virat Singh,15.0,26.0,1.0,0.0,2.0,26.0,3.0,57.69,5.0,0.0,0.0,11.0,,,,,,,,,Virat Singh,,0,Virat Singh,0.0,0.0,,,,Virat Singh,Virat Singh
+Vishnu Vinod,56.0,56.0,3.0,3.0,6.0,58.0,6.0,100.0,9.33,0.0,0.0,30.0,,,,,,,,,Vishnu Vinod,,0,Vishnu Vinod,47.62,10.0,Vishnu Vinod,120.0,12.0,Vishnu Vinod,Vishnu Vinod
+Vivrant Sharma,69.0,47.0,9.0,2.0,1.0,49.0,1.0,146.81,69.0,1.0,0.0,69.0,Vivrant Sharma,28.0,18.0,0.0,5.0,3.0,9.33,,Vivrant Sharma,,0,Vivrant Sharma,112.5,27.0,,,,Vivrant Sharma,Vivrant Sharma
+W Jaffer,130.0,121.0,14.0,3.0,8.0,129.0,7.0,107.44,18.57,1.0,0.0,50.0,,,,,,,,,W Jaffer,,0,W Jaffer,86.52,77.0,,,,W Jaffer,W Jaffer
+,,,,,,,,,,,,,W O'Rourke,129.0,62.0,6.0,15.0,10.3,12.48,21.5,W O'Rourke,,0,,,,,,,W O'Rourke,W O'Rourke
+WA Mota,56.0,75.0,2.0,0.0,8.0,76.0,5.0,74.67,11.2,0.0,0.0,25.0,WA Mota,93.0,72.0,4.0,24.0,12.0,7.75,23.25,WA Mota,,0,,,,WA Mota,85.19,23.0,WA Mota,WA Mota
+WD Parnell,65.0,80.0,4.0,1.0,13.0,86.0,10.0,81.25,6.5,0.0,0.0,16.0,WD Parnell,879.0,723.0,35.0,296.0,120.5,7.29,25.11,WD Parnell,WD Parnell,1,WD Parnell,78.57,11.0,WD Parnell,84.48,49.0,WD Parnell,WD Parnell
+WG Jacks,463.0,302.0,38.0,29.0,19.0,306.0,16.0,153.31,28.94,2.0,1.0,100.0,WG Jacks,209.0,138.0,8.0,42.0,23.0,9.09,26.12,WG Jacks,WG Jacks,3,WG Jacks,148.44,190.0,WG Jacks,483.33,29.0,WG Jacks,WG Jacks
+WP Saha,2934.0,2296.0,296.0,87.0,143.0,2368.0,121.0,127.79,24.25,13.0,1.0,115.0,,,,,,,,,WP Saha,WP Saha,5,WP Saha,132.92,1389.0,WP Saha,157.79,557.0,Wriddhiman Saha,Wriddhiman Saha (WP Saha)
+WPUJC Vaas,81.0,72.0,2.0,3.0,11.0,73.0,7.0,112.5,11.57,0.0,0.0,20.0,WPUJC Vaas,343.0,282.0,18.0,128.0,47.0,7.3,19.06,WPUJC Vaas,WPUJC Vaas,1,,,,WPUJC Vaas,113.46,59.0,WPUJC Vaas,WPUJC Vaas
+Washington Sundar,609.0,466.0,53.0,19.0,47.0,492.0,35.0,130.69,17.4,1.0,0.0,55.0,Washington Sundar,1455.0,1144.0,39.0,378.0,190.7,7.63,37.31,Washington Sundar,Washington Sundar,1,Washington Sundar,121.21,40.0,Washington Sundar,144.89,326.0,Washington Sundar,Washington Sundar
+X Thalaivan Sargunam,10.0,17.0,0.0,0.0,1.0,17.0,1.0,58.82,10.0,0.0,0.0,10.0,,,,,,,,,X Thalaivan Sargunam,,0,,,,X Thalaivan Sargunam,66.67,2.0,X Thalaivan Sargunam,X Thalaivan Sargunam
+XC Bartlett,22.0,20.0,1.0,1.0,2.0,20.0,1.0,110.0,22.0,0.0,0.0,11.0,XC Bartlett,266.0,166.0,6.0,58.0,27.7,9.61,44.33,XC Bartlett,,0,,,,XC Bartlett,200.0,12.0,XC Bartlett,XC Bartlett
+Y Gnaneswara Rao,19.0,17.0,3.0,0.0,1.0,18.0,1.0,111.76,19.0,0.0,0.0,19.0,Y Gnaneswara Rao,7.0,6.0,0.0,3.0,1.0,7.0,,Y Gnaneswara Rao,,0,Y Gnaneswara Rao,115.38,15.0,,,,Y Gnaneswara Rao,Y Gnaneswara Rao
+Y Nagar,285.0,259.0,20.0,9.0,20.0,271.0,15.0,110.04,19.0,0.0,0.0,44.0,Y Nagar,115.0,66.0,4.0,16.0,11.0,10.45,28.75,Y Nagar,,0,Y Nagar,66.67,2.0,Y Nagar,140.94,179.0,Y Nagar,Y Nagar
+Y Prithvi Raj,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Y Prithvi Raj,54.0,30.0,1.0,8.0,5.0,10.8,54.0,Y Prithvi Raj,,0,,,,Y Prithvi Raj,0.0,0.0,Y Prithvi Raj,Y Prithvi Raj
+Y Venugopal Rao,985.0,832.0,77.0,37.0,52.0,865.0,42.0,118.39,23.45,3.0,0.0,71.0,Y Venugopal Rao,329.0,216.0,6.0,59.0,36.0,9.14,54.83,Y Venugopal Rao,,0,Y Venugopal Rao,79.17,76.0,Y Venugopal Rao,155.42,387.0,Y Venugopal Rao,Y Venugopal Rao
+YA Abdulla,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,YA Abdulla,290.0,209.0,15.0,88.0,34.8,8.33,19.33,YA Abdulla,,0,,,,YA Abdulla,0.0,0.0,YA Abdulla,YA Abdulla
+YBK Jaiswal,2350.0,1529.0,278.0,102.0,71.0,1577.0,65.0,153.7,36.15,17.0,2.0,124.0,YBK Jaiswal,6.0,1.0,0.0,0.0,0.2,36.0,,YBK Jaiswal,YBK Jaiswal,6,YBK Jaiswal,159.42,1489.0,YBK Jaiswal,209.52,88.0,Yashasvi Jaiswal,Yashasvi Jaiswal (YBK Jaiswal)
+YK Pathan,3222.0,2233.0,263.0,161.0,153.0,2334.0,111.0,144.29,29.03,14.0,1.0,100.0,YK Pathan,1372.0,1147.0,41.0,393.0,191.2,7.18,33.46,YK Pathan,YK Pathan,16,YK Pathan,148.56,361.0,YK Pathan,161.78,1126.0,Yusuf Pathan,Yusuf Pathan (YK Pathan)
+YS Chahal,37.0,86.0,0.0,0.0,17.0,89.0,6.0,43.02,6.17,0.0,0.0,8.0,YS Chahal,5001.0,3869.0,220.0,1284.0,644.8,7.76,22.73,YS Chahal,YS Chahal,7,,,,YS Chahal,52.38,33.0,Yuzvendra Chahal,Yuzvendra Chahal (YS Chahal)
+YV Dhull,16.0,23.0,1.0,0.0,3.0,23.0,3.0,69.57,5.33,0.0,0.0,13.0,,,,,,,,,YV Dhull,,0,YV Dhull,22.22,2.0,,,,YV Dhull,YV Dhull
+YV Takawale,192.0,177.0,26.0,3.0,10.0,183.0,8.0,108.47,24.0,0.0,0.0,45.0,,,,,,,,,YV Takawale,,0,YV Takawale,91.67,121.0,YV Takawale,241.67,29.0,YV Takawale,YV Takawale
+Yash Dayal,4.0,9.0,0.0,0.0,4.0,9.0,3.0,44.44,1.33,0.0,0.0,3.0,Yash Dayal,1320.0,871.0,41.0,307.0,145.2,9.09,32.2,Yash Dayal,,0,,,,Yash Dayal,50.0,4.0,Yash Dayal,Yash Dayal
+,,,,,,,,,,,,,Yash Thakur,736.0,443.0,25.0,138.0,73.8,9.97,29.44,Yash Thakur,Yash Thakur,1,,,,,,,Yash Thakur,Yash Thakur
+Yashpal Singh,47.0,65.0,5.0,0.0,4.0,67.0,4.0,72.31,11.75,0.0,0.0,20.0,,,,,,,,,Yashpal Singh,,0,Yashpal Singh,48.57,17.0,Yashpal Singh,130.77,17.0,Yashpal Singh,Yashpal Singh
+Younis Khan,3.0,7.0,0.0,0.0,1.0,7.0,1.0,42.86,3.0,0.0,0.0,3.0,,,,,,,,,Younis Khan,,0,Younis Khan,42.86,3.0,,,,Younis Khan,Younis Khan
+Yudhvir Singh,22.0,16.0,1.0,2.0,4.0,16.0,4.0,137.5,5.5,0.0,0.0,14.0,Yudhvir Singh,242.0,138.0,8.0,54.0,23.0,10.52,30.25,Yudhvir Singh,,0,,,,Yudhvir Singh,166.67,20.0,Yudhvir Singh,Yudhvir Singh
+Yuvraj Singh,2754.0,2115.0,218.0,149.0,126.0,2207.0,109.0,130.21,25.27,13.0,0.0,83.0,Yuvraj Singh,1064.0,869.0,36.0,258.0,144.8,7.35,29.56,Yuvraj Singh,Yuvraj Singh,5,Yuvraj Singh,103.76,193.0,Yuvraj Singh,183.4,906.0,Yuvraj Singh,Yuvraj Singh
+Z Khan,117.0,140.0,11.0,2.0,27.0,141.0,15.0,83.57,7.8,0.0,0.0,23.0,Z Khan,2691.0,2200.0,102.0,873.0,366.7,7.34,26.38,Z Khan,Z Khan,1,Z Khan,0.0,0.0,Z Khan,100.0,108.0,Zaheer Khan,Zaheer Khan (Z Khan)
+,,,,,,,,,,,,,Zeeshan Ansari,327.0,203.0,6.0,47.0,33.8,9.67,54.5,Zeeshan Ansari,,0,,,,,,,Zeeshan Ansari,Zeeshan Ansari

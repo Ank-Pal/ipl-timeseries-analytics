@@ -1,0 +1,129 @@
+{
+  "model_order": "ARIMA(0, 1, 0)",
+  "raw_series_stationarity": {
+    "series_name": "Raw Seasonal Run-Rate",
+    "n_obs": 17,
+    "adf": {
+      "test_statistic": 0.2365,
+      "p_value": 0.9742,
+      "used_lag": 0,
+      "critical_values": {
+        "1%": -3.924,
+        "5%": -3.0685,
+        "10%": -2.6739
+      },
+      "stationary_at_05": false
+    },
+    "kpss": {
+      "test_statistic": 0.6479,
+      "p_value": 0.0183,
+      "used_lag": 2,
+      "critical_values": {
+        "10%": 0.347,
+        "5%": 0.463,
+        "2.5%": 0.574,
+        "1%": 0.739
+      },
+      "stationary_at_05": false
+    },
+    "conclusion": "Non-Stationary (Differencing Required)"
+  },
+  "differenced_series_stationarity": {
+    "series_name": "1st Differenced Series (d=1)",
+    "n_obs": 16,
+    "adf": {
+      "test_statistic": -4.3528,
+      "p_value": 0.0004,
+      "used_lag": 0,
+      "critical_values": {
+        "1%": -3.9644,
+        "5%": -3.0849,
+        "10%": -2.6818
+      },
+      "stationary_at_05": true
+    },
+    "kpss": {
+      "test_statistic": 0.1996,
+      "p_value": 0.1,
+      "used_lag": 1,
+      "critical_values": {
+        "10%": 0.347,
+        "5%": 0.463,
+        "2.5%": 0.574,
+        "1%": 0.739
+      },
+      "stationary_at_05": true
+    },
+    "conclusion": "Stationary"
+  },
+  "top_candidate_models": [
+    {
+      "order": "ARIMA(0,1,0)",
+      "p": 0,
+      "d": 1,
+      "q": 0,
+      "aic": 8.2,
+      "bic": 8.97
+    },
+    {
+      "order": "ARIMA(0,1,1)",
+      "p": 0,
+      "d": 1,
+      "q": 1,
+      "aic": 10.18,
+      "bic": 11.72
+    },
+    {
+      "order": "ARIMA(1,1,0)",
+      "p": 1,
+      "d": 1,
+      "q": 0,
+      "aic": 10.18,
+      "bic": 11.72
+    },
+    {
+      "order": "ARIMA(0,1,2)",
+      "p": 0,
+      "d": 1,
+      "q": 2,
+      "aic": 12.16,
+      "bic": 14.48
+    },
+    {
+      "order": "ARIMA(2,1,0)",
+      "p": 2,
+      "d": 1,
+      "q": 0,
+      "aic": 12.16,
+      "bic": 14.48
+    }
+  ],
+  "residual_diagnostics": {
+    "mean_residual": 0.5652,
+    "std_residual": 1.8152,
+    "ljung_box_lag5_pvalue": 0.9997,
+    "is_white_noise": true,
+    "jarque_bera_pvalue": 0.0,
+    "is_normally_distributed": false
+  },
+  "forecasts": {
+    "2025": {
+      "predicted_rpo": 9.61,
+      "equivalent_total_20_overs": 192.2,
+      "lower_95_ci": 9.03,
+      "upper_95_ci": 10.18
+    },
+    "2026": {
+      "predicted_rpo": 9.61,
+      "equivalent_total_20_overs": 192.2,
+      "lower_95_ci": 8.79,
+      "upper_95_ci": 10.42
+    },
+    "2027": {
+      "predicted_rpo": 9.61,
+      "equivalent_total_20_overs": 192.2,
+      "lower_95_ci": 8.61,
+      "upper_95_ci": 10.61
+    }
+  }
+}

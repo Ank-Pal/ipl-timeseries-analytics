@@ -1,0 +1,194 @@
+// ====================================================================
+// IPL TIME-SERIES ANALYTICS: PRODUCTION DAX MEASURE LIBRARY
+// Copy and paste directly into Power BI Desktop Measure Table (_Measures)
+// ====================================================================
+
+// --------------------------------------------------------------------
+// SECTION 1: CORE AGGREGATIONS & VOLUME MEASURES
+// --------------------------------------------------------------------
+
+[Total Matches] = 
+COUNTROWS(fact_matches)
+
+[Total Innings] = 
+COUNTROWS(fact_innings_summary)
+
+[Total Tournament Runs] = 
+SUM(fact_matches[match_total_runs])
+
+[Average Match Runs] = 
+AVERAGE(fact_matches[match_total_runs])
+
+[Average First Innings Score] = 
+AVERAGE(fact_matches[inn1_runs])
+
+[Average Second Innings Score] = 
+AVERAGE(fact_matches[inn2_runs])
+
+[200+ Scores Count] = 
+CALCULATE(
+    COUNTROWS(fact_innings_summary),
+    fact_innings_summary[total_runs] >= 200
+)
+
+[200+ Scores Frequency %] = 
+DIVIDE(
+    [200+ Scores Count],
+    [Total Innings],
+    0
+)
+
+
+// --------------------------------------------------------------------
+// SECTION 2: TOSS & STRATEGIC CHASE MEASURES
+// --------------------------------------------------------------------
+
+[Toss Win Count] = 
+CALCULATE(
+    COUNTROWS(fact_matches),
+    fact_matches[toss_match_winner] = 1
+)
+
+[Toss-to-Win Conversion Rate %] = 
+DIVIDE(
+    [Toss Win Count],
+    [Total Matches],
+    0
+)
+
+[Chose Field First Count] = 
+CALCULATE(
+    COUNTROWS(fact_matches),
+    fact_matches[toss_decision] = "field"
+)
+
+[Field First Decision %] = 
+DIVIDE(
+    [Chose Field First Count],
+    [Total Matches],
+    0
+)
+
+[Chases Won Count] = 
+CALCULATE(
+    COUNTROWS(fact_matches),
+    fact_matches[won_batting_second] = 1
+)
+
+[Defenses Won Count] = 
+CALCULATE(
+    COUNTROWS(fact_matches),
+    fact_matches[won_batting_second] = 0
+)
+
+[Overall Chase Win %] = 
+DIVIDE(
+    [Chases Won Count],
+    [Total Matches],
+    0
+)
+
+[Overall Defend Win %] = 
+DIVIDE(
+    [Defenses Won Count],
+    [Total Matches],
+    0
+)
+
+[Chase vs Defend Bias Delta %] = 
+[Overall Chase Win %] - [Overall Defend Win %]
+
+
+// --------------------------------------------------------------------
+// SECTION 3: THE TOSS PARADOX & ERA COMPARISON
+// --------------------------------------------------------------------
+
+[Pre-2016 Toss Win %] = 
+CALCULATE(
+    [Toss-to-Win Conversion Rate %],
+    fact_matches[era] = "Pre-2016"
+)
+
+[Post-2016 Toss Win %] = 
+CALCULATE(
+    [Toss-to-Win Conversion Rate %],
+    fact_matches[era] = "Post-2016"
+)
+
+[Toss Advantage Dilution Delta] = 
+[Post-2016 Toss Win %] - [Pre-2016 Toss Win %]
+
+[Pre-2016 Field First %] = 
+CALCULATE(
+    [Field First Decision %],
+    fact_matches[era] = "Pre-2016"
+)
+
+[Post-2016 Field First %] = 
+CALCULATE(
+    [Field First Decision %],
+    fact_matches[era] = "Post-2016"
+)
+
+
+// --------------------------------------------------------------------
+// SECTION 4: TIME-SERIES SCORING & ROLLING METRICS
+// --------------------------------------------------------------------
+
+[Mean Innings Run Rate] = 
+AVERAGE(fact_innings_summary[run_rate])
+
+[Boundary Run Share %] = 
+DIVIDE(
+    SUMX(fact_innings_summary, fact_innings_summary[fours] * 4 + fact_innings_summary[sixes] * 6),
+    SUM(fact_innings_summary[total_runs]),
+    0
+)
+
+[Rolling 3-Season Chase Win %] = 
+VAR CurrentSeason = MAX(dim_seasons[season_year])
+VAR PriorSeasons = 
+    FILTER(
+        ALL(dim_seasons),
+        dim_seasons[season_year] <= CurrentSeason &&
+        dim_seasons[season_year] >= CurrentSeason - 2
+    )
+RETURN
+CALCULATE(
+    [Overall Chase Win %],
+    PriorSeasons
+)
+
+[YoY Run Rate Growth] = 
+VAR CurrentRPO = [Mean Innings Run Rate]
+VAR PriorSeasonRPO = 
+    CALCULATE(
+        [Mean Innings Run Rate],
+        DATEADD(dim_seasons[season_year], -1, YEAR)
+    )
+RETURN
+IF(
+    ISBLANK(PriorSeasonRPO),
+    BLANK(),
+    CurrentRPO - PriorSeasonRPO
+)
+
+
+// --------------------------------------------------------------------
+// SECTION 5: VENUE & DEW BIAS METRICS
+// --------------------------------------------------------------------
+
+[Night Match Chase Win %] = 
+CALCULATE(
+    [Overall Chase Win %],
+    fact_matches[match_type] = "Night"
+)
+
+[Day Match Chase Win %] = 
+CALCULATE(
+    [Overall Chase Win %],
+    fact_matches[match_type] = "Day"
+)
+
+[Dew Factor Chase Premium %] = 
+[Night Match Chase Win %] - [Day Match Chase Win %]

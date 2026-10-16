@@ -1,0 +1,68 @@
+{
+  "Powerplay": {
+    "raw_adf_pvalue": 0.9867,
+    "diff_adf_pvalue": 0.0435,
+    "ljung_box_pvalue": 0.9985,
+    "forecast_2025_2027": {
+      "2027": {
+        "pred_rpo": 10.12,
+        "lower_95_ci": 9.28,
+        "upper_95_ci": 10.96
+      },
+      "2028": {
+        "pred_rpo": 10.12,
+        "lower_95_ci": 8.93,
+        "upper_95_ci": 11.31
+      },
+      "2029": {
+        "pred_rpo": 10.12,
+        "lower_95_ci": 8.67,
+        "upper_95_ci": 11.57
+      }
+    }
+  },
+  "Middle": {
+    "raw_adf_pvalue": 0.992,
+    "diff_adf_pvalue": 0.0285,
+    "ljung_box_pvalue": 0.9996,
+    "forecast_2025_2027": {
+      "2027": {
+        "pred_rpo": 9.46,
+        "lower_95_ci": 8.92,
+        "upper_95_ci": 10.0
+      },
+      "2028": {
+        "pred_rpo": 9.46,
+        "lower_95_ci": 8.69,
+        "upper_95_ci": 10.23
+      },
+      "2029": {
+        "pred_rpo": 9.46,
+        "lower_95_ci": 8.52,
+        "upper_95_ci": 10.4
+      }
+    }
+  },
+  "Death": {
+    "raw_adf_pvalue": 0.3316,
+    "diff_adf_pvalue": 0.0,
+    "ljung_box_pvalue": 0.9997,
+    "forecast_2025_2027": {
+      "2027": {
+        "pred_rpo": 10.51,
+        "lower_95_ci": 9.58,
+        "upper_95_ci": 11.44
+      },
+      "2028": {
+        "pred_rpo": 10.51,
+        "lower_95_ci": 9.2,
+        "upper_95_ci": 11.82
+      },
+      "2029": {
+        "pred_rpo": 10.51,
+        "lower_95_ci": 8.91,
+        "upper_95_ci": 12.11
+      }
+    }
+  }
+}

@@ -1,0 +1,1100 @@
+match_id,season,date,venue,city,match_type,team1,team2,toss_winner,toss_decision,winner,toss_match_winner,won_batting_second,win_by_runs,win_by_wickets,inn1_runs,inn2_runs,match_total_runs,era
+1,2008,2008-04-18,Arun Jaitley Stadium,Delhi,Night,CSK,MI,MI,field,MI,1,1,0,3,164,166,330,Pre-2016
+2,2008,2008-04-19,Arun Jaitley Stadium,Delhi,Day,RR,DD,DD,field,RR,0,0,20,0,166,146,312,Pre-2016
+3,2008,2008-04-20,M Chinnaswamy Stadium,Bengaluru,Day,RR,DD,RR,bat,RR,1,0,35,0,171,136,307,Pre-2016
+4,2008,2008-04-22,Dubai International Cricket Stadium,Dubai,Day,RR,KKR,RR,bat,KKR,0,1,0,3,141,148,289,Pre-2016
+5,2008,2008-04-23,Wankhede Stadium,Mumbai,Night,KXIP,DC_DEC,DC_DEC,field,KXIP,0,0,27,0,155,128,283,Pre-2016
+6,2008,2008-04-24,Narendra Modi Stadium,Ahmedabad,Night,RCB,MI,MI,field,MI,1,1,0,2,136,137,273,Pre-2016
+7,2008,2008-04-26,Wankhede Stadium,Mumbai,Night,DD,RR,RR,field,RR,1,1,0,5,154,155,309,Pre-2016
+8,2008,2008-04-27,Dubai International Cricket Stadium,Dubai,Night,RR,KXIP,RR,bat,RR,1,0,4,0,150,146,296,Pre-2016
+9,2008,2008-04-28,Eden Gardens,Kolkata,Day,KKR,CSK,KKR,bat,KKR,1,0,25,0,178,153,331,Pre-2016
+10,2008,2008-04-29,Arun Jaitley Stadium,Delhi,Night,DC_DEC,KKR,DC_DEC,bat,KKR,0,1,0,3,143,150,293,Pre-2016
+11,2008,2008-04-30,Eden Gardens,Kolkata,Night,RR,MI,RR,bat,MI,0,1,0,8,163,168,331,Pre-2016
+12,2008,2008-05-01,Sawai Mansingh Stadium,Jaipur,Night,MI,CSK,MI,bat,MI,1,0,19,0,152,133,285,Pre-2016
+13,2008,2008-05-02,Eden Gardens,Kolkata,Night,KXIP,MI,KXIP,bat,KXIP,1,0,23,0,155,132,287,Pre-2016
+14,2008,2008-05-04,Arun Jaitley Stadium,Delhi,Night,MI,RCB,RCB,field,RCB,1,1,0,8,147,154,301,Pre-2016
+15,2008,2008-05-05,BRSABV Ekana Cricket Stadium,Lucknow,Night,CSK,KXIP,KXIP,field,KXIP,1,1,0,7,125,128,253,Pre-2016
+16,2008,2008-05-06,BRSABV Ekana Cricket Stadium,Lucknow,Day,CSK,KKR,CSK,bat,KKR,0,1,0,4,117,120,237,Pre-2016
+17,2008,2008-05-07,M Chinnaswamy Stadium,Bengaluru,Day,RR,DC_DEC,RR,bat,RR,1,0,26,0,176,150,326,Pre-2016
+18,2008,2008-05-08,Sawai Mansingh Stadium,Jaipur,Day,MI,DC_DEC,MI,bat,DC_DEC,0,1,0,5,147,154,301,Pre-2016
+19,2008,2008-05-09,"MA Chidambaram Stadium, Chepauk",Chennai,Night,RCB,KKR,KKR,field,KKR,1,1,0,2,127,130,257,Pre-2016
+20,2008,2008-05-10,"MA Chidambaram Stadium, Chepauk",Chennai,Day,RCB,KXIP,RCB,bat,KXIP,0,1,0,3,138,141,279,Pre-2016
+21,2008,2008-05-11,Arun Jaitley Stadium,Delhi,Day,DD,RCB,DD,bat,RCB,0,1,0,4,162,169,331,Pre-2016
+22,2008,2008-05-12,Arun Jaitley Stadium,Delhi,Night,RR,RCB,RR,bat,RCB,0,1,0,3,162,165,327,Pre-2016
+23,2008,2008-05-13,M Chinnaswamy Stadium,Bengaluru,Day,DC_DEC,KKR,KKR,field,DC_DEC,0,0,39,0,166,127,293,Pre-2016
+24,2008,2008-05-14,Narendra Modi Stadium,Ahmedabad,Day,KKR,RR,KKR,bat,KKR,1,0,19,0,167,148,315,Pre-2016
+25,2008,2008-05-15,Dubai International Cricket Stadium,Dubai,Night,DD,RR,DD,bat,DD,1,0,16,0,150,134,284,Pre-2016
+26,2008,2008-05-17,Sawai Mansingh Stadium,Jaipur,Night,KKR,DC_DEC,KKR,bat,DC_DEC,0,1,0,3,146,148,294,Pre-2016
+27,2008,2008-05-18,Punjab Cricket Association Stadium,Mohali,Night,DD,MI,MI,field,DD,0,0,44,0,147,103,250,Pre-2016
+28,2008,2008-05-19,Eden Gardens,Kolkata,Night,DC_DEC,DD,DD,field,DD,1,1,0,5,161,163,324,Pre-2016
+29,2008,2008-05-20,BRSABV Ekana Cricket Stadium,Lucknow,Day,KKR,KXIP,KXIP,field,KKR,0,0,29,0,143,114,257,Pre-2016
+30,2008,2008-05-22,Sawai Mansingh Stadium,Jaipur,Night,RCB,KKR,RCB,bat,RCB,1,0,47,0,165,118,283,Pre-2016
+31,2008,2008-05-24,Punjab Cricket Association Stadium,Mohali,Night,KXIP,RCB,KXIP,bat,RCB,0,1,0,8,131,136,267,Pre-2016
+32,2008,2008-05-25,M Chinnaswamy Stadium,Bengaluru,Day,DC_DEC,KKR,KKR,field,KKR,1,1,0,7,175,176,351,Pre-2016
+33,2008,2008-05-26,M Chinnaswamy Stadium,Bengaluru,Night,RCB,DD,DD,field,RCB,0,0,20,0,175,155,330,Pre-2016
+34,2008,2008-05-27,Narendra Modi Stadium,Ahmedabad,Night,RCB,CSK,RCB,bat,RCB,1,0,16,0,161,145,306,Pre-2016
+35,2008,2008-05-28,Sawai Mansingh Stadium,Jaipur,Day,KKR,DD,KKR,bat,DD,0,1,0,6,139,146,285,Pre-2016
+36,2008,2008-05-29,Arun Jaitley Stadium,Delhi,Day,RR,RCB,RCB,field,RR,0,0,16,0,169,153,322,Pre-2016
+37,2008,2008-05-30,Sawai Mansingh Stadium,Jaipur,Night,RR,MI,MI,field,MI,1,1,0,4,153,158,311,Pre-2016
+38,2008,2008-05-31,Punjab Cricket Association Stadium,Mohali,Night,KKR,MI,MI,field,KKR,0,0,19,0,171,152,323,Pre-2016
+39,2008,2008-06-01,Wankhede Stadium,Mumbai,Night,CSK,DD,CSK,bat,CSK,1,0,28,0,156,128,284,Pre-2016
+40,2008,2008-06-02,Eden Gardens,Kolkata,Night,RR,CSK,CSK,field,CSK,1,1,0,8,164,171,335,Pre-2016
+41,2008,2008-06-03,Dubai International Cricket Stadium,Dubai,Night,KKR,RCB,KKR,bat,KKR,1,0,17,0,144,127,271,Pre-2016
+42,2008,2008-06-04,Dubai International Cricket Stadium,Dubai,Night,RR,KXIP,RR,bat,RR,1,0,21,0,143,122,265,Pre-2016
+43,2008,2008-06-06,Arun Jaitley Stadium,Delhi,Night,KKR,MI,KKR,bat,KKR,1,0,26,0,163,137,300,Pre-2016
+44,2008,2008-06-07,Wankhede Stadium,Mumbai,Day,RR,DD,RR,bat,DD,0,1,0,5,163,164,327,Pre-2016
+45,2008,2008-06-09,Dubai International Cricket Stadium,Dubai,Day,DD,RCB,DD,bat,DD,1,0,24,0,125,101,226,Pre-2016
+46,2008,2008-06-10,Punjab Cricket Association Stadium,Mohali,Day,DD,DC_DEC,DD,bat,DD,1,0,28,0,187,159,346,Pre-2016
+47,2008,2008-06-12,M Chinnaswamy Stadium,Bengaluru,Night,DD,MI,MI,field,MI,1,1,0,5,173,178,351,Pre-2016
+48,2008,2008-06-13,Sawai Mansingh Stadium,Jaipur,Night,MI,RCB,RCB,field,RCB,1,1,0,3,160,165,325,Pre-2016
+49,2008,2008-06-14,Eden Gardens,Kolkata,Night,DC_DEC,KKR,KKR,field,KKR,1,1,0,7,170,172,342,Pre-2016
+50,2008,2008-06-16,Punjab Cricket Association Stadium,Mohali,Night,MI,RR,MI,bat,MI,1,0,32,0,175,143,318,Pre-2016
+51,2008,2008-06-18,Punjab Cricket Association Stadium,Mohali,Day,DD,DC_DEC,DC_DEC,field,DC_DEC,1,1,0,2,184,185,369,Pre-2016
+52,2008,2008-06-19,Sawai Mansingh Stadium,Jaipur,Night,DC_DEC,RCB,RCB,field,DC_DEC,0,0,16,0,142,126,268,Pre-2016
+53,2008,2008-06-21,Wankhede Stadium,Mumbai,Day,RR,DC_DEC,DC_DEC,field,RR,0,0,8,0,143,135,278,Pre-2016
+54,2008,2008-06-23,Sawai Mansingh Stadium,Jaipur,Night,MI,DD,DD,field,DD,1,1,0,7,153,154,307,Pre-2016
+55,2008,2008-06-24,Dubai International Cricket Stadium,Dubai,Night,DC_DEC,MI,MI,field,DC_DEC,0,0,19,0,163,144,307,Pre-2016
+56,2008,2008-06-25,Sawai Mansingh Stadium,Jaipur,Night,RCB,RR,RR,field,RR,1,1,0,8,157,162,319,Pre-2016
+57,2008,2008-06-26,Eden Gardens,Kolkata,Day,RCB,KXIP,KXIP,field,KXIP,1,1,0,5,164,167,331,Pre-2016
+58,2008,2008-06-27,Wankhede Stadium,Mumbai,Night,KKR,DD,DD,field,DD,1,1,0,5,142,143,285,Pre-2016
+59,2009,2009-04-18,Rajiv Gandhi International Stadium,Hyderabad,Night,KXIP,KKR,KKR,field,KXIP,0,0,5,0,155,150,305,Pre-2016
+60,2009,2009-04-19,Rajiv Gandhi International Stadium,Hyderabad,Night,DC_DEC,MI,DC_DEC,bat,DC_DEC,1,0,28,0,137,109,246,Pre-2016
+61,2009,2009-04-20,BRSABV Ekana Cricket Stadium,Lucknow,Night,KXIP,RCB,RCB,field,KXIP,0,0,13,0,138,125,263,Pre-2016
+62,2009,2009-04-21,Wankhede Stadium,Mumbai,Night,MI,DC_DEC,DC_DEC,field,MI,0,0,13,0,159,146,305,Pre-2016
+63,2009,2009-04-22,Eden Gardens,Kolkata,Day,RR,DD,DD,field,DD,1,1,0,5,178,183,361,Pre-2016
+64,2009,2009-04-23,"MA Chidambaram Stadium, Chepauk",Chennai,Night,CSK,RCB,CSK,bat,RCB,0,1,0,2,127,134,261,Pre-2016
+65,2009,2009-04-25,M Chinnaswamy Stadium,Bengaluru,Night,KXIP,KKR,KKR,field,KXIP,0,0,41,0,159,118,277,Pre-2016
+66,2009,2009-04-26,Rajiv Gandhi International Stadium,Hyderabad,Day,MI,KKR,KKR,field,MI,0,0,30,0,143,113,256,Pre-2016
+67,2009,2009-04-27,Arun Jaitley Stadium,Delhi,Night,MI,KXIP,KXIP,field,KXIP,1,1,0,7,164,167,331,Pre-2016
+68,2009,2009-04-28,Dubai International Cricket Stadium,Dubai,Night,RR,RCB,RCB,field,RCB,1,1,0,3,140,143,283,Pre-2016
+69,2009,2009-04-29,BRSABV Ekana Cricket Stadium,Lucknow,Night,RCB,KXIP,RCB,bat,KXIP,0,1,0,2,126,129,255,Pre-2016
+70,2009,2009-04-30,BRSABV Ekana Cricket Stadium,Lucknow,Night,KKR,DD,KKR,bat,KKR,1,0,28,0,135,107,242,Pre-2016
+71,2009,2009-05-01,Wankhede Stadium,Mumbai,Night,MI,KKR,KKR,field,KKR,1,1,0,2,166,171,337,Pre-2016
+72,2009,2009-05-02,M Chinnaswamy Stadium,Bengaluru,Night,KKR,MI,KKR,bat,KKR,1,0,64,0,186,122,308,Pre-2016
+73,2009,2009-05-03,"MA Chidambaram Stadium, Chepauk",Chennai,Night,CSK,KKR,KKR,field,KKR,1,1,0,8,147,154,301,Pre-2016
+74,2009,2009-05-04,Punjab Cricket Association Stadium,Mohali,Night,DC_DEC,MI,MI,field,MI,1,1,0,2,145,146,291,Pre-2016
+75,2009,2009-05-06,Narendra Modi Stadium,Ahmedabad,Day,DD,RR,DD,bat,DD,1,0,31,0,151,120,271,Pre-2016
+76,2009,2009-05-07,Eden Gardens,Kolkata,Night,CSK,RCB,CSK,bat,RCB,0,1,0,7,157,164,321,Pre-2016
+77,2009,2009-05-09,Dubai International Cricket Stadium,Dubai,Day,RR,RCB,RR,bat,RCB,0,1,0,5,126,128,254,Pre-2016
+78,2009,2009-05-10,Dubai International Cricket Stadium,Dubai,Night,DC_DEC,MI,DC_DEC,bat,DC_DEC,1,0,5,0,152,147,299,Pre-2016
+79,2009,2009-05-11,BRSABV Ekana Cricket Stadium,Lucknow,Night,KXIP,DC_DEC,KXIP,bat,DC_DEC,0,1,0,2,137,142,279,Pre-2016
+80,2009,2009-05-13,Eden Gardens,Kolkata,Night,KKR,RR,RR,field,KKR,0,0,24,0,148,124,272,Pre-2016
+81,2009,2009-05-14,Dubai International Cricket Stadium,Dubai,Night,RR,CSK,CSK,field,RR,0,0,32,0,130,98,228,Pre-2016
+82,2009,2009-05-15,Wankhede Stadium,Mumbai,Night,RCB,DD,RCB,bat,DD,0,1,0,8,168,171,339,Pre-2016
+83,2009,2009-05-16,BRSABV Ekana Cricket Stadium,Lucknow,Night,DD,KKR,DD,bat,DD,1,0,31,0,120,89,209,Pre-2016
+84,2009,2009-05-18,Punjab Cricket Association Stadium,Mohali,Night,CSK,MI,MI,field,MI,1,1,0,6,162,167,329,Pre-2016
+85,2009,2009-05-19,Punjab Cricket Association Stadium,Mohali,Night,KXIP,DD,DD,field,KXIP,0,0,41,0,199,158,357,Pre-2016
+86,2009,2009-05-20,Punjab Cricket Association Stadium,Mohali,Night,DD,DC_DEC,DD,bat,DD,1,0,19,0,167,148,315,Pre-2016
+87,2009,2009-05-22,Dubai International Cricket Stadium,Dubai,Night,RR,CSK,CSK,field,CSK,1,1,0,5,151,156,307,Pre-2016
+88,2009,2009-05-23,Sawai Mansingh Stadium,Jaipur,Night,DC_DEC,MI,MI,field,DC_DEC,0,0,25,0,142,117,259,Pre-2016
+89,2009,2009-05-24,Dubai International Cricket Stadium,Dubai,Day,KXIP,RCB,KXIP,bat,RCB,0,1,0,3,169,176,345,Pre-2016
+90,2009,2009-05-25,Wankhede Stadium,Mumbai,Night,KXIP,RR,RR,field,RR,1,1,0,7,164,167,331,Pre-2016
+91,2009,2009-05-26,Arun Jaitley Stadium,Delhi,Night,KXIP,RR,RR,field,KXIP,0,0,24,0,150,126,276,Pre-2016
+92,2009,2009-05-27,M Chinnaswamy Stadium,Bengaluru,Night,DC_DEC,DD,DD,field,DC_DEC,0,0,34,0,158,124,282,Pre-2016
+93,2009,2009-05-29,Narendra Modi Stadium,Ahmedabad,Night,CSK,RCB,RCB,field,CSK,0,0,24,0,145,121,266,Pre-2016
+94,2009,2009-05-30,Punjab Cricket Association Stadium,Mohali,Night,KKR,MI,KKR,bat,KKR,1,0,33,0,149,116,265,Pre-2016
+95,2009,2009-05-31,Eden Gardens,Kolkata,Night,RCB,DD,DD,field,DD,1,1,0,6,136,137,273,Pre-2016
+96,2009,2009-06-01,Wankhede Stadium,Mumbai,Night,CSK,KXIP,KXIP,field,CSK,0,0,12,0,149,137,286,Pre-2016
+97,2009,2009-06-03,M Chinnaswamy Stadium,Bengaluru,Night,RR,KKR,RR,bat,KKR,0,1,0,7,169,172,341,Pre-2016
+98,2009,2009-06-05,Punjab Cricket Association Stadium,Mohali,Night,MI,RCB,MI,bat,RCB,0,1,0,8,166,169,335,Pre-2016
+99,2009,2009-06-07,Punjab Cricket Association Stadium,Mohali,Night,RCB,DD,RCB,bat,RCB,1,0,14,0,153,139,292,Pre-2016
+100,2009,2009-06-08,Sawai Mansingh Stadium,Jaipur,Night,KXIP,DC_DEC,KXIP,bat,KXIP,1,0,5,0,164,159,323,Pre-2016
+101,2009,2009-06-09,Rajiv Gandhi International Stadium,Hyderabad,Night,KXIP,RCB,RCB,field,RCB,1,1,0,4,162,167,329,Pre-2016
+102,2009,2009-06-10,BRSABV Ekana Cricket Stadium,Lucknow,Night,RCB,KKR,KKR,field,KKR,1,1,0,2,147,150,297,Pre-2016
+103,2009,2009-06-11,Dubai International Cricket Stadium,Dubai,Day,RCB,DD,DD,field,RCB,0,0,13,0,138,125,263,Pre-2016
+104,2009,2009-06-12,Rajiv Gandhi International Stadium,Hyderabad,Night,CSK,KKR,KKR,field,CSK,0,0,10,0,157,147,304,Pre-2016
+105,2009,2009-06-14,"MA Chidambaram Stadium, Chepauk",Chennai,Night,KXIP,RCB,RCB,field,RCB,1,1,0,5,139,141,280,Pre-2016
+106,2009,2009-06-15,Punjab Cricket Association Stadium,Mohali,Night,KKR,DC_DEC,DC_DEC,field,DC_DEC,1,1,0,5,145,148,293,Pre-2016
+107,2009,2009-06-16,Arun Jaitley Stadium,Delhi,Day,DD,DC_DEC,DD,bat,DC_DEC,0,1,0,6,141,143,284,Pre-2016
+108,2009,2009-06-18,Punjab Cricket Association Stadium,Mohali,Night,DC_DEC,DD,DC_DEC,bat,DD,0,1,0,5,141,143,284,Pre-2016
+109,2009,2009-06-19,Sawai Mansingh Stadium,Jaipur,Day,MI,CSK,CSK,field,MI,0,0,4,0,146,142,288,Pre-2016
+110,2009,2009-06-20,Dubai International Cricket Stadium,Dubai,Night,RR,KKR,KKR,field,KKR,1,1,0,7,156,161,317,Pre-2016
+111,2009,2009-06-21,Dubai International Cricket Stadium,Dubai,Day,RR,RCB,RR,bat,RR,1,0,26,0,132,106,238,Pre-2016
+112,2009,2009-06-22,BRSABV Ekana Cricket Stadium,Lucknow,Night,RR,DD,DD,field,DD,1,1,0,7,129,132,261,Pre-2016
+113,2009,2009-06-23,Punjab Cricket Association Stadium,Mohali,Day,MI,DD,MI,bat,MI,1,0,33,0,152,119,271,Pre-2016
+114,2009,2009-06-24,M Chinnaswamy Stadium,Bengaluru,Night,RR,MI,MI,field,MI,1,1,0,6,187,192,379,Pre-2016
+115,2009,2009-06-26,Punjab Cricket Association Stadium,Mohali,Night,CSK,RR,RR,field,RR,1,1,0,4,180,181,361,Pre-2016
+116,2010,2010-03-12,"MA Chidambaram Stadium, Chepauk",Chennai,Day,MI,KXIP,MI,bat,MI,1,0,28,0,145,117,262,Pre-2016
+117,2010,2010-03-14,Eden Gardens,Kolkata,Day,DC_DEC,RCB,RCB,field,RCB,1,1,0,5,158,161,319,Pre-2016
+118,2010,2010-03-16,Eden Gardens,Kolkata,Night,CSK,MI,CSK,bat,CSK,1,0,36,0,160,124,284,Pre-2016
+119,2010,2010-03-17,Arun Jaitley Stadium,Delhi,Day,DC_DEC,MI,DC_DEC,bat,DC_DEC,1,0,37,0,166,129,295,Pre-2016
+120,2010,2010-03-18,"MA Chidambaram Stadium, Chepauk",Chennai,Night,KKR,KXIP,KXIP,field,KKR,0,0,33,0,150,117,267,Pre-2016
+121,2010,2010-03-19,Rajiv Gandhi International Stadium,Hyderabad,Night,RR,MI,MI,field,RR,0,0,35,0,150,115,265,Pre-2016
+122,2010,2010-03-21,Rajiv Gandhi International Stadium,Hyderabad,Night,KKR,KXIP,KKR,bat,KXIP,0,1,0,7,165,172,337,Pre-2016
+123,2010,2010-03-23,Arun Jaitley Stadium,Delhi,Night,RCB,DC_DEC,RCB,bat,RCB,1,0,15,0,163,148,311,Pre-2016
+124,2010,2010-03-24,"MA Chidambaram Stadium, Chepauk",Chennai,Night,KXIP,RCB,KXIP,bat,KXIP,1,0,20,0,152,132,284,Pre-2016
+125,2010,2010-03-25,Narendra Modi Stadium,Ahmedabad,Night,RCB,MI,RCB,bat,RCB,1,0,36,0,172,136,308,Pre-2016
+126,2010,2010-03-26,Punjab Cricket Association Stadium,Mohali,Night,DC_DEC,DD,DC_DEC,bat,DD,0,1,0,7,178,183,361,Pre-2016
+127,2010,2010-03-27,Rajiv Gandhi International Stadium,Hyderabad,Night,KXIP,RR,KXIP,bat,KXIP,1,0,28,0,166,138,304,Pre-2016
+128,2010,2010-03-29,Punjab Cricket Association Stadium,Mohali,Night,RR,KXIP,KXIP,field,RR,0,0,32,0,162,130,292,Pre-2016
+129,2010,2010-03-31,M Chinnaswamy Stadium,Bengaluru,Night,RR,CSK,CSK,field,RR,0,0,8,0,168,160,328,Pre-2016
+130,2010,2010-04-01,Eden Gardens,Kolkata,Night,RCB,RR,RR,field,RCB,0,0,35,0,152,117,269,Pre-2016
+131,2010,2010-04-03,Dubai International Cricket Stadium,Dubai,Night,CSK,DC_DEC,CSK,bat,DC_DEC,0,1,0,2,156,163,319,Pre-2016
+132,2010,2010-04-04,Rajiv Gandhi International Stadium,Hyderabad,Night,RCB,KXIP,KXIP,field,KXIP,1,1,0,6,159,166,325,Pre-2016
+133,2010,2010-04-05,Arun Jaitley Stadium,Delhi,Night,CSK,KXIP,KXIP,field,CSK,0,0,38,0,163,125,288,Pre-2016
+134,2010,2010-04-07,M Chinnaswamy Stadium,Bengaluru,Night,KKR,RR,RR,field,RR,1,1,0,5,176,179,355,Pre-2016
+135,2010,2010-04-08,BRSABV Ekana Cricket Stadium,Lucknow,Day,RR,RCB,RR,bat,RCB,0,1,0,6,138,140,278,Pre-2016
+136,2010,2010-04-09,Narendra Modi Stadium,Ahmedabad,Night,RCB,DC_DEC,DC_DEC,field,RCB,0,0,27,0,154,127,281,Pre-2016
+137,2010,2010-04-10,Sawai Mansingh Stadium,Jaipur,Night,KXIP,DD,DD,field,DD,1,1,0,4,154,161,315,Pre-2016
+138,2010,2010-04-11,Dubai International Cricket Stadium,Dubai,Night,CSK,RR,RR,field,RR,1,1,0,7,144,151,295,Pre-2016
+139,2010,2010-04-12,Punjab Cricket Association Stadium,Mohali,Night,DC_DEC,CSK,CSK,field,CSK,1,1,0,8,147,149,296,Pre-2016
+140,2010,2010-04-13,M Chinnaswamy Stadium,Bengaluru,Night,RR,CSK,CSK,field,CSK,1,1,0,3,169,172,341,Pre-2016
+141,2010,2010-04-15,BRSABV Ekana Cricket Stadium,Lucknow,Day,KXIP,CSK,CSK,field,KXIP,0,0,36,0,145,109,254,Pre-2016
+142,2010,2010-04-16,Punjab Cricket Association Stadium,Mohali,Night,RR,DC_DEC,DC_DEC,field,RR,0,0,8,0,162,154,316,Pre-2016
+143,2010,2010-04-17,"MA Chidambaram Stadium, Chepauk",Chennai,Night,RR,CSK,RR,bat,CSK,0,1,0,7,146,148,294,Pre-2016
+144,2010,2010-04-18,Punjab Cricket Association Stadium,Mohali,Night,DC_DEC,CSK,CSK,field,DC_DEC,0,0,31,0,167,136,303,Pre-2016
+145,2010,2010-04-19,Narendra Modi Stadium,Ahmedabad,Night,RR,MI,MI,field,MI,1,1,0,6,177,180,357,Pre-2016
+146,2010,2010-04-21,Dubai International Cricket Stadium,Dubai,Day,MI,DC_DEC,DC_DEC,field,MI,0,0,17,0,154,137,291,Pre-2016
+147,2010,2010-04-22,BRSABV Ekana Cricket Stadium,Lucknow,Night,MI,KXIP,KXIP,field,KXIP,1,1,0,7,144,147,291,Pre-2016
+148,2010,2010-04-23,Sawai Mansingh Stadium,Jaipur,Day,RCB,KXIP,KXIP,field,RCB,0,0,24,0,152,128,280,Pre-2016
+149,2010,2010-04-25,M Chinnaswamy Stadium,Bengaluru,Night,MI,DC_DEC,DC_DEC,field,MI,0,0,38,0,183,145,328,Pre-2016
+150,2010,2010-04-26,Sawai Mansingh Stadium,Jaipur,Day,MI,KXIP,MI,bat,MI,1,0,37,0,175,138,313,Pre-2016
+151,2010,2010-04-27,Wankhede Stadium,Mumbai,Day,KKR,DD,KKR,bat,DD,0,1,0,4,165,166,331,Pre-2016
+152,2010,2010-04-29,Eden Gardens,Kolkata,Night,DC_DEC,RR,RR,field,DC_DEC,0,0,15,0,156,141,297,Pre-2016
+153,2010,2010-04-30,Eden Gardens,Kolkata,Night,DD,CSK,DD,bat,CSK,0,1,0,7,142,144,286,Pre-2016
+154,2010,2010-05-01,BRSABV Ekana Cricket Stadium,Lucknow,Night,RCB,KKR,RCB,bat,KKR,0,1,0,4,133,135,268,Pre-2016
+155,2010,2010-05-02,Dubai International Cricket Stadium,Dubai,Day,CSK,KXIP,CSK,bat,KXIP,0,1,0,3,153,158,311,Pre-2016
+156,2010,2010-05-03,"MA Chidambaram Stadium, Chepauk",Chennai,Night,RCB,DC_DEC,RCB,bat,RCB,1,0,10,0,157,147,304,Pre-2016
+157,2010,2010-05-05,Narendra Modi Stadium,Ahmedabad,Day,RR,DC_DEC,DC_DEC,field,DC_DEC,1,1,0,6,166,168,334,Pre-2016
+158,2010,2010-05-06,Sawai Mansingh Stadium,Jaipur,Night,RR,DC_DEC,RR,bat,RR,1,0,16,0,171,155,326,Pre-2016
+159,2010,2010-05-07,Rajiv Gandhi International Stadium,Hyderabad,Night,RR,MI,MI,field,MI,1,1,0,4,140,147,287,Pre-2016
+160,2010,2010-05-08,Arun Jaitley Stadium,Delhi,Day,DC_DEC,MI,DC_DEC,bat,DC_DEC,1,0,4,0,161,157,318,Pre-2016
+161,2010,2010-05-10,Eden Gardens,Kolkata,Night,RCB,KKR,RCB,bat,RCB,1,0,24,0,158,134,292,Pre-2016
+162,2010,2010-05-11,M Chinnaswamy Stadium,Bengaluru,Night,RR,RCB,RR,bat,RR,1,0,7,0,172,165,337,Pre-2016
+163,2010,2010-05-12,Sawai Mansingh Stadium,Jaipur,Night,RCB,CSK,CSK,field,CSK,1,1,0,7,149,152,301,Pre-2016
+164,2010,2010-05-13,Wankhede Stadium,Mumbai,Day,RR,CSK,CSK,field,CSK,1,1,0,8,169,174,343,Pre-2016
+165,2010,2010-05-14,Sawai Mansingh Stadium,Jaipur,Night,KXIP,DC_DEC,KXIP,bat,DC_DEC,0,1,0,3,139,140,279,Pre-2016
+166,2010,2010-05-15,Punjab Cricket Association Stadium,Mohali,Night,DD,RCB,DD,bat,DD,1,0,12,0,177,165,342,Pre-2016
+167,2010,2010-05-16,"MA Chidambaram Stadium, Chepauk",Chennai,Night,RR,RCB,RCB,field,RR,0,0,41,0,163,122,285,Pre-2016
+168,2010,2010-05-17,BRSABV Ekana Cricket Stadium,Lucknow,Night,MI,RR,MI,bat,RR,0,1,0,8,142,145,287,Pre-2016
+169,2010,2010-05-19,Sawai Mansingh Stadium,Jaipur,Night,DD,CSK,DD,bat,CSK,0,1,0,6,170,172,342,Pre-2016
+170,2010,2010-05-21,Eden Gardens,Kolkata,Night,KKR,RCB,RCB,field,RCB,1,1,0,6,176,181,357,Pre-2016
+171,2010,2010-05-22,Arun Jaitley Stadium,Delhi,Night,KXIP,CSK,KXIP,bat,CSK,0,1,0,4,177,184,361,Pre-2016
+172,2010,2010-05-24,"MA Chidambaram Stadium, Chepauk",Chennai,Night,DC_DEC,KXIP,KXIP,field,DC_DEC,0,0,4,0,154,150,304,Pre-2016
+173,2010,2010-05-26,Punjab Cricket Association Stadium,Mohali,Night,RR,MI,RR,bat,RR,1,0,19,0,150,131,281,Pre-2016
+174,2010,2010-05-27,BRSABV Ekana Cricket Stadium,Lucknow,Night,MI,CSK,CSK,field,MI,0,0,25,0,149,124,273,Pre-2016
+175,2010,2010-05-29,Rajiv Gandhi International Stadium,Hyderabad,Night,DC_DEC,DD,DC_DEC,bat,DC_DEC,1,0,4,0,177,173,350,Pre-2016
+176,2011,2011-04-08,BRSABV Ekana Cricket Stadium,Lucknow,Night,DC_DEC,RCB,RCB,field,RCB,1,1,0,2,139,142,281,Pre-2016
+177,2011,2011-04-09,Sawai Mansingh Stadium,Jaipur,Night,CSK,KTK,KTK,field,KTK,1,1,0,5,148,155,303,Pre-2016
+178,2011,2011-04-10,Arun Jaitley Stadium,Delhi,Day,CSK,DC_DEC,CSK,bat,DC_DEC,0,1,0,4,158,165,323,Pre-2016
+179,2011,2011-04-12,M Chinnaswamy Stadium,Bengaluru,Night,RCB,CSK,RCB,bat,RCB,1,0,9,0,182,173,355,Pre-2016
+180,2011,2011-04-13,M Chinnaswamy Stadium,Bengaluru,Night,KXIP,CSK,KXIP,bat,CSK,0,1,0,4,169,174,343,Pre-2016
+181,2011,2011-04-14,"MA Chidambaram Stadium, Chepauk",Chennai,Night,DC_DEC,KXIP,DC_DEC,bat,KXIP,0,1,0,2,143,144,287,Pre-2016
+182,2011,2011-04-15,Sawai Mansingh Stadium,Jaipur,Day,KXIP,PWI,PWI,field,PWI,1,1,0,6,138,145,283,Pre-2016
+183,2011,2011-04-16,Eden Gardens,Kolkata,Night,KKR,RCB,KKR,bat,RCB,0,1,0,4,156,157,313,Pre-2016
+184,2011,2011-04-17,Sawai Mansingh Stadium,Jaipur,Night,KTK,PWI,KTK,bat,PWI,0,1,0,2,147,150,297,Pre-2016
+185,2011,2011-04-19,Arun Jaitley Stadium,Delhi,Night,RCB,CSK,RCB,bat,CSK,0,1,0,4,153,154,307,Pre-2016
+186,2011,2011-04-20,Arun Jaitley Stadium,Delhi,Day,KKR,RCB,RCB,field,RCB,1,1,0,8,181,186,367,Pre-2016
+187,2011,2011-04-21,Narendra Modi Stadium,Ahmedabad,Night,MI,RR,MI,bat,MI,1,0,22,0,150,128,278,Pre-2016
+188,2011,2011-04-22,Rajiv Gandhi International Stadium,Hyderabad,Night,KKR,CSK,KKR,bat,CSK,0,1,0,7,154,155,309,Pre-2016
+189,2011,2011-04-23,Arun Jaitley Stadium,Delhi,Night,KTK,KKR,KKR,field,KKR,1,1,0,8,167,168,335,Pre-2016
+190,2011,2011-04-24,Rajiv Gandhi International Stadium,Hyderabad,Night,KXIP,KTK,KXIP,bat,KXIP,1,0,10,0,150,140,290,Pre-2016
+191,2011,2011-04-26,Arun Jaitley Stadium,Delhi,Night,DC_DEC,MI,DC_DEC,bat,MI,0,1,0,2,142,149,291,Pre-2016
+192,2011,2011-04-27,Sawai Mansingh Stadium,Jaipur,Night,KXIP,RR,RR,field,KXIP,0,0,32,0,167,135,302,Pre-2016
+193,2011,2011-04-28,Punjab Cricket Association Stadium,Mohali,Night,RR,MI,MI,field,RR,0,0,40,0,164,124,288,Pre-2016
+194,2011,2011-04-29,Punjab Cricket Association Stadium,Mohali,Day,RR,KTK,RR,bat,RR,1,0,4,0,159,155,314,Pre-2016
+195,2011,2011-04-30,Rajiv Gandhi International Stadium,Hyderabad,Night,KKR,RCB,KKR,bat,RCB,0,1,0,4,158,159,317,Pre-2016
+196,2011,2011-05-02,BRSABV Ekana Cricket Stadium,Lucknow,Night,RCB,MI,RCB,bat,RCB,1,0,7,0,124,117,241,Pre-2016
+197,2011,2011-05-03,Rajiv Gandhi International Stadium,Hyderabad,Night,KKR,KTK,KKR,bat,KKR,1,0,23,0,175,152,327,Pre-2016
+198,2011,2011-05-04,Eden Gardens,Kolkata,Night,DC_DEC,DD,DC_DEC,bat,DC_DEC,1,0,11,0,178,167,345,Pre-2016
+199,2011,2011-05-05,BRSABV Ekana Cricket Stadium,Lucknow,Day,CSK,PWI,PWI,field,CSK,0,0,8,0,156,148,304,Pre-2016
+200,2011,2011-05-07,Arun Jaitley Stadium,Delhi,Night,MI,PWI,MI,bat,PWI,0,1,0,5,157,159,316,Pre-2016
+201,2011,2011-05-09,Wankhede Stadium,Mumbai,Night,RCB,RR,RR,field,RR,1,1,0,6,145,150,295,Pre-2016
+202,2011,2011-05-10,Arun Jaitley Stadium,Delhi,Night,KKR,DD,KKR,bat,KKR,1,0,32,0,180,148,328,Pre-2016
+203,2011,2011-05-11,Punjab Cricket Association Stadium,Mohali,Day,DC_DEC,KTK,KTK,field,DC_DEC,0,0,15,0,153,138,291,Pre-2016
+204,2011,2011-05-12,Wankhede Stadium,Mumbai,Day,MI,RCB,MI,bat,RCB,0,1,0,8,151,154,305,Pre-2016
+205,2011,2011-05-14,Sawai Mansingh Stadium,Jaipur,Night,DD,MI,DD,bat,MI,0,1,0,6,139,141,280,Pre-2016
+206,2011,2011-05-15,Punjab Cricket Association Stadium,Mohali,Night,KKR,KXIP,KKR,bat,KXIP,0,1,0,6,160,165,325,Pre-2016
+207,2011,2011-05-16,Eden Gardens,Kolkata,Night,PWI,CSK,PWI,bat,CSK,0,1,0,5,152,155,307,Pre-2016
+208,2011,2011-05-17,Narendra Modi Stadium,Ahmedabad,Night,MI,RR,RR,field,RR,1,1,0,6,166,173,339,Pre-2016
+209,2011,2011-05-18,Rajiv Gandhi International Stadium,Hyderabad,Day,CSK,DC_DEC,DC_DEC,field,CSK,0,0,35,0,145,110,255,Pre-2016
+210,2011,2011-05-20,Eden Gardens,Kolkata,Night,DD,KKR,KKR,field,DD,0,0,14,0,144,130,274,Pre-2016
+211,2011,2011-05-21,BRSABV Ekana Cricket Stadium,Lucknow,Night,KXIP,PWI,PWI,field,KXIP,0,0,4,0,146,142,288,Pre-2016
+212,2011,2011-05-22,Rajiv Gandhi International Stadium,Hyderabad,Day,RR,KXIP,KXIP,field,RR,0,0,27,0,138,111,249,Pre-2016
+213,2011,2011-05-23,Dubai International Cricket Stadium,Dubai,Night,RR,KKR,KKR,field,KKR,1,1,0,2,137,140,277,Pre-2016
+214,2011,2011-05-24,Narendra Modi Stadium,Ahmedabad,Night,CSK,KXIP,CSK,bat,CSK,1,0,5,0,139,134,273,Pre-2016
+215,2011,2011-05-25,M Chinnaswamy Stadium,Bengaluru,Night,DD,DC_DEC,DC_DEC,field,DC_DEC,1,1,0,7,167,168,335,Pre-2016
+216,2011,2011-05-26,Eden Gardens,Kolkata,Night,CSK,RR,RR,field,RR,1,1,0,6,153,155,308,Pre-2016
+217,2011,2011-05-27,M Chinnaswamy Stadium,Bengaluru,Night,PWI,RCB,PWI,bat,PWI,1,0,36,0,185,149,334,Pre-2016
+218,2011,2011-05-28,Rajiv Gandhi International Stadium,Hyderabad,Night,PWI,DD,PWI,bat,DD,0,1,0,5,144,145,289,Pre-2016
+219,2011,2011-05-30,M Chinnaswamy Stadium,Bengaluru,Night,CSK,PWI,CSK,bat,PWI,0,1,0,5,190,191,381,Pre-2016
+220,2011,2011-05-31,Punjab Cricket Association Stadium,Mohali,Night,PWI,KTK,KTK,field,PWI,0,0,20,0,152,132,284,Pre-2016
+221,2011,2011-06-01,Eden Gardens,Kolkata,Night,KXIP,MI,MI,field,MI,1,1,0,2,166,167,333,Pre-2016
+222,2011,2011-06-02,Punjab Cricket Association Stadium,Mohali,Night,KTK,KXIP,KTK,bat,KTK,1,0,41,0,162,121,283,Pre-2016
+223,2011,2011-06-03,Arun Jaitley Stadium,Delhi,Day,MI,KTK,MI,bat,KTK,0,1,0,8,162,169,331,Pre-2016
+224,2011,2011-06-04,Narendra Modi Stadium,Ahmedabad,Night,CSK,PWI,CSK,bat,PWI,0,1,0,7,153,156,309,Pre-2016
+225,2011,2011-06-05,"MA Chidambaram Stadium, Chepauk",Chennai,Night,MI,KKR,KKR,field,KKR,1,1,0,2,139,142,281,Pre-2016
+226,2011,2011-06-06,BRSABV Ekana Cricket Stadium,Lucknow,Night,MI,RR,MI,bat,RR,0,1,0,4,135,138,273,Pre-2016
+227,2011,2011-06-08,"MA Chidambaram Stadium, Chepauk",Chennai,Night,RR,DC_DEC,DC_DEC,field,DC_DEC,1,1,0,6,167,168,335,Pre-2016
+228,2011,2011-06-09,Narendra Modi Stadium,Ahmedabad,Night,MI,CSK,CSK,field,CSK,1,1,0,7,154,156,310,Pre-2016
+229,2011,2011-06-11,M Chinnaswamy Stadium,Bengaluru,Night,KTK,PWI,PWI,field,PWI,1,1,0,5,170,172,342,Pre-2016
+230,2011,2011-06-13,Eden Gardens,Kolkata,Day,DC_DEC,CSK,DC_DEC,bat,DC_DEC,1,0,18,0,151,133,284,Pre-2016
+231,2011,2011-06-14,Arun Jaitley Stadium,Delhi,Night,PWI,RR,PWI,bat,PWI,1,0,28,0,159,131,290,Pre-2016
+232,2011,2011-06-16,Narendra Modi Stadium,Ahmedabad,Day,CSK,KTK,CSK,bat,CSK,1,0,9,0,155,146,301,Pre-2016
+233,2011,2011-06-18,BRSABV Ekana Cricket Stadium,Lucknow,Night,KKR,DD,KKR,bat,KKR,1,0,4,0,142,138,280,Pre-2016
+234,2011,2011-06-20,Dubai International Cricket Stadium,Dubai,Day,KTK,CSK,KTK,bat,KTK,1,0,17,0,159,142,301,Pre-2016
+235,2011,2011-06-21,Punjab Cricket Association Stadium,Mohali,Night,RCB,DC_DEC,RCB,bat,RCB,1,0,26,0,168,142,310,Pre-2016
+236,2011,2011-06-22,M Chinnaswamy Stadium,Bengaluru,Night,KTK,PWI,PWI,field,PWI,1,1,0,5,177,180,357,Pre-2016
+237,2011,2011-06-24,Sawai Mansingh Stadium,Jaipur,Night,DC_DEC,MI,MI,field,MI,1,1,0,2,139,140,279,Pre-2016
+238,2011,2011-06-25,M Chinnaswamy Stadium,Bengaluru,Night,DC_DEC,KXIP,DC_DEC,bat,DC_DEC,1,0,16,0,165,149,314,Pre-2016
+239,2011,2011-06-27,BRSABV Ekana Cricket Stadium,Lucknow,Night,RR,KTK,KTK,field,RR,0,0,39,0,144,105,249,Pre-2016
+240,2011,2011-06-28,Dubai International Cricket Stadium,Dubai,Night,KXIP,RCB,RCB,field,RCB,1,1,0,6,141,142,283,Pre-2016
+241,2011,2011-06-29,Punjab Cricket Association Stadium,Mohali,Night,DD,RCB,DD,bat,RCB,0,1,0,4,150,152,302,Pre-2016
+242,2011,2011-07-01,Narendra Modi Stadium,Ahmedabad,Night,KKR,KXIP,KXIP,field,KXIP,1,1,0,8,162,165,327,Pre-2016
+243,2011,2011-07-02,M Chinnaswamy Stadium,Bengaluru,Night,PWI,KXIP,PWI,bat,KXIP,0,1,0,4,164,169,333,Pre-2016
+244,2011,2011-07-04,Punjab Cricket Association Stadium,Mohali,Night,DD,CSK,DD,bat,DD,1,0,52,0,176,124,300,Pre-2016
+245,2011,2011-07-05,"MA Chidambaram Stadium, Chepauk",Chennai,Night,PWI,MI,PWI,bat,PWI,1,0,4,0,135,131,266,Pre-2016
+246,2011,2011-07-06,"MA Chidambaram Stadium, Chepauk",Chennai,Day,DC_DEC,KTK,KTK,field,KTK,1,1,0,2,160,165,325,Pre-2016
+247,2011,2011-07-07,Narendra Modi Stadium,Ahmedabad,Night,RCB,DD,DD,field,DD,1,1,0,4,157,162,319,Pre-2016
+248,2011,2011-07-08,Dubai International Cricket Stadium,Dubai,Night,CSK,KTK,CSK,bat,CSK,1,0,25,0,134,109,243,Pre-2016
+249,2012,2012-04-04,Arun Jaitley Stadium,Delhi,Night,KXIP,DC_DEC,DC_DEC,field,DC_DEC,1,1,0,8,164,169,333,Pre-2016
+250,2012,2012-04-06,Dubai International Cricket Stadium,Dubai,Night,DD,RCB,RCB,field,DD,0,0,12,0,155,143,298,Pre-2016
+251,2012,2012-04-07,Rajiv Gandhi International Stadium,Hyderabad,Night,DC_DEC,RR,DC_DEC,bat,RR,0,1,0,7,165,172,337,Pre-2016
+252,2012,2012-04-09,BRSABV Ekana Cricket Stadium,Lucknow,Night,KXIP,MI,MI,field,MI,1,1,0,2,157,158,315,Pre-2016
+253,2012,2012-04-11,Rajiv Gandhi International Stadium,Hyderabad,Day,DD,RR,DD,bat,RR,0,1,0,7,154,155,309,Pre-2016
+254,2012,2012-04-12,Narendra Modi Stadium,Ahmedabad,Day,CSK,KXIP,CSK,bat,CSK,1,0,40,0,160,120,280,Pre-2016
+255,2012,2012-04-13,Punjab Cricket Association Stadium,Mohali,Day,DC_DEC,DD,DD,field,DD,1,1,0,7,146,153,299,Pre-2016
+256,2012,2012-04-14,Arun Jaitley Stadium,Delhi,Night,DD,MI,DD,bat,DD,1,0,8,0,161,153,314,Pre-2016
+257,2012,2012-04-15,BRSABV Ekana Cricket Stadium,Lucknow,Night,RR,KXIP,KXIP,field,RR,0,0,25,0,124,99,223,Pre-2016
+258,2012,2012-04-16,Sawai Mansingh Stadium,Jaipur,Night,RR,PWI,RR,bat,PWI,0,1,0,3,138,141,279,Pre-2016
+259,2012,2012-04-17,Wankhede Stadium,Mumbai,Night,RCB,DD,RCB,bat,RCB,1,0,20,0,161,141,302,Pre-2016
+260,2012,2012-04-19,"MA Chidambaram Stadium, Chepauk",Chennai,Night,MI,DD,DD,field,MI,0,0,19,0,130,111,241,Pre-2016
+261,2012,2012-04-20,Punjab Cricket Association Stadium,Mohali,Night,PWI,KKR,KKR,field,KKR,1,1,0,5,135,138,273,Pre-2016
+262,2012,2012-04-22,"MA Chidambaram Stadium, Chepauk",Chennai,Day,DC_DEC,CSK,DC_DEC,bat,CSK,0,1,0,3,144,147,291,Pre-2016
+263,2012,2012-04-23,Dubai International Cricket Stadium,Dubai,Night,CSK,DC_DEC,CSK,bat,DC_DEC,0,1,0,5,170,172,342,Pre-2016
+264,2012,2012-04-25,Narendra Modi Stadium,Ahmedabad,Night,RR,PWI,PWI,field,RR,0,0,62,0,158,96,254,Pre-2016
+265,2012,2012-04-26,Dubai International Cricket Stadium,Dubai,Night,CSK,DD,DD,field,DD,1,1,0,6,151,156,307,Pre-2016
+266,2012,2012-04-28,M Chinnaswamy Stadium,Bengaluru,Night,DC_DEC,MI,DC_DEC,bat,DC_DEC,1,0,21,0,178,157,335,Pre-2016
+267,2012,2012-04-29,Eden Gardens,Kolkata,Night,CSK,DC_DEC,CSK,bat,CSK,1,0,23,0,159,136,295,Pre-2016
+268,2012,2012-04-30,M Chinnaswamy Stadium,Bengaluru,Day,CSK,RR,RR,field,RR,1,1,0,6,172,174,346,Pre-2016
+269,2012,2012-05-01,M Chinnaswamy Stadium,Bengaluru,Night,KXIP,DD,DD,field,KXIP,0,0,46,0,179,133,312,Pre-2016
+270,2012,2012-05-03,BRSABV Ekana Cricket Stadium,Lucknow,Night,DC_DEC,KKR,KKR,field,KKR,1,1,0,7,113,114,227,Pre-2016
+271,2012,2012-05-04,Rajiv Gandhi International Stadium,Hyderabad,Night,KKR,PWI,PWI,field,PWI,1,1,0,3,173,175,348,Pre-2016
+272,2012,2012-05-06,Rajiv Gandhi International Stadium,Hyderabad,Day,KKR,MI,KKR,bat,MI,0,1,0,2,156,163,319,Pre-2016
+273,2012,2012-05-08,Eden Gardens,Kolkata,Day,MI,KXIP,KXIP,field,MI,0,0,7,0,150,143,293,Pre-2016
+274,2012,2012-05-10,Eden Gardens,Kolkata,Night,MI,DD,MI,bat,MI,1,0,43,0,185,142,327,Pre-2016
+275,2012,2012-05-12,Narendra Modi Stadium,Ahmedabad,Night,KXIP,KKR,KXIP,bat,KXIP,1,0,16,0,169,153,322,Pre-2016
+276,2012,2012-05-13,Rajiv Gandhi International Stadium,Hyderabad,Night,RR,RCB,RCB,field,RCB,1,1,0,7,165,166,331,Pre-2016
+277,2012,2012-05-14,M Chinnaswamy Stadium,Bengaluru,Night,DC_DEC,CSK,DC_DEC,bat,DC_DEC,1,0,18,0,186,168,354,Pre-2016
+278,2012,2012-05-16,Arun Jaitley Stadium,Delhi,Night,CSK,PWI,CSK,bat,CSK,1,0,18,0,170,152,322,Pre-2016
+279,2012,2012-05-17,Sawai Mansingh Stadium,Jaipur,Night,KKR,KXIP,KXIP,field,KKR,0,0,33,0,164,131,295,Pre-2016
+280,2012,2012-05-18,"MA Chidambaram Stadium, Chepauk",Chennai,Night,KXIP,DD,KXIP,bat,KXIP,1,0,28,0,154,126,280,Pre-2016
+281,2012,2012-05-19,Rajiv Gandhi International Stadium,Hyderabad,Day,KKR,RCB,KKR,bat,KKR,1,0,21,0,146,125,271,Pre-2016
+282,2012,2012-05-21,Eden Gardens,Kolkata,Night,RCB,PWI,PWI,field,RCB,0,0,13,0,160,147,307,Pre-2016
+283,2012,2012-05-22,"MA Chidambaram Stadium, Chepauk",Chennai,Night,RCB,DC_DEC,DC_DEC,field,RCB,0,0,33,0,132,99,231,Pre-2016
+284,2012,2012-05-23,Eden Gardens,Kolkata,Night,PWI,KKR,PWI,bat,KKR,0,1,0,3,152,157,309,Pre-2016
+285,2012,2012-05-24,Eden Gardens,Kolkata,Day,KXIP,RR,RR,field,RR,1,1,0,4,143,148,291,Pre-2016
+286,2012,2012-05-25,Narendra Modi Stadium,Ahmedabad,Night,KXIP,CSK,CSK,field,KXIP,0,0,15,0,163,148,311,Pre-2016
+287,2012,2012-05-27,Arun Jaitley Stadium,Delhi,Night,RR,KXIP,RR,bat,KXIP,0,1,0,2,167,174,341,Pre-2016
+288,2012,2012-05-29,Wankhede Stadium,Mumbai,Night,DD,DC_DEC,DC_DEC,field,DC_DEC,1,1,0,7,176,177,353,Pre-2016
+289,2012,2012-05-30,Wankhede Stadium,Mumbai,Day,KXIP,PWI,PWI,field,KXIP,0,0,23,0,166,143,309,Pre-2016
+290,2012,2012-05-31,Eden Gardens,Kolkata,Night,RCB,MI,RCB,bat,RCB,1,0,4,0,169,165,334,Pre-2016
+291,2012,2012-06-01,BRSABV Ekana Cricket Stadium,Lucknow,Night,KKR,RR,KKR,bat,RR,0,1,0,8,150,157,307,Pre-2016
+292,2012,2012-06-02,Punjab Cricket Association Stadium,Mohali,Day,PWI,RCB,RCB,field,RCB,1,1,0,5,162,169,331,Pre-2016
+293,2012,2012-06-04,Eden Gardens,Kolkata,Night,KKR,PWI,PWI,field,KKR,0,0,12,0,170,158,328,Pre-2016
+294,2012,2012-06-05,Narendra Modi Stadium,Ahmedabad,Night,DD,RCB,DD,bat,DD,1,0,30,0,163,133,296,Pre-2016
+295,2012,2012-06-07,Rajiv Gandhi International Stadium,Hyderabad,Night,KXIP,CSK,KXIP,bat,KXIP,1,0,31,0,141,110,251,Pre-2016
+296,2012,2012-06-08,Rajiv Gandhi International Stadium,Hyderabad,Day,RCB,KKR,KKR,field,RCB,0,0,48,0,162,114,276,Pre-2016
+297,2012,2012-06-09,Eden Gardens,Kolkata,Night,DC_DEC,CSK,CSK,field,CSK,1,1,0,5,177,184,361,Pre-2016
+298,2012,2012-06-10,Arun Jaitley Stadium,Delhi,Night,DC_DEC,CSK,CSK,field,CSK,1,1,0,4,149,150,299,Pre-2016
+299,2012,2012-06-11,Punjab Cricket Association Stadium,Mohali,Night,KKR,DC_DEC,DC_DEC,field,KKR,0,0,13,0,165,152,317,Pre-2016
+300,2012,2012-06-12,Wankhede Stadium,Mumbai,Night,CSK,RR,CSK,bat,CSK,1,0,14,0,166,152,318,Pre-2016
+301,2012,2012-06-13,Arun Jaitley Stadium,Delhi,Night,MI,DD,MI,bat,DD,0,1,0,4,147,149,296,Pre-2016
+302,2012,2012-06-14,Wankhede Stadium,Mumbai,Night,PWI,DD,DD,field,PWI,0,0,39,0,149,110,259,Pre-2016
+303,2012,2012-06-15,M Chinnaswamy Stadium,Bengaluru,Day,RCB,DD,RCB,bat,DD,0,1,0,3,168,175,343,Pre-2016
+304,2012,2012-06-16,Wankhede Stadium,Mumbai,Night,DD,PWI,DD,bat,DD,1,0,11,0,170,159,329,Pre-2016
+305,2012,2012-06-17,Sawai Mansingh Stadium,Jaipur,Night,DD,RR,RR,field,DD,0,0,25,0,159,134,293,Pre-2016
+306,2012,2012-06-18,BRSABV Ekana Cricket Stadium,Lucknow,Day,MI,RCB,RCB,field,MI,0,0,41,0,170,129,299,Pre-2016
+307,2012,2012-06-19,"MA Chidambaram Stadium, Chepauk",Chennai,Day,KKR,MI,MI,field,MI,1,1,0,3,139,142,281,Pre-2016
+308,2012,2012-06-20,BRSABV Ekana Cricket Stadium,Lucknow,Day,MI,CSK,CSK,field,CSK,1,1,0,6,162,165,327,Pre-2016
+309,2012,2012-06-21,Sawai Mansingh Stadium,Jaipur,Night,PWI,KXIP,KXIP,field,PWI,0,0,15,0,172,157,329,Pre-2016
+310,2012,2012-06-22,Dubai International Cricket Stadium,Dubai,Night,RCB,DD,RCB,bat,DD,0,1,0,5,157,164,321,Pre-2016
+311,2012,2012-06-23,BRSABV Ekana Cricket Stadium,Lucknow,Night,CSK,KXIP,KXIP,field,KXIP,1,1,0,5,149,152,301,Pre-2016
+312,2012,2012-06-24,Narendra Modi Stadium,Ahmedabad,Day,DD,MI,DD,bat,DD,1,0,22,0,153,131,284,Pre-2016
+313,2012,2012-06-26,BRSABV Ekana Cricket Stadium,Lucknow,Night,PWI,DD,PWI,bat,DD,0,1,0,4,149,156,305,Pre-2016
+314,2012,2012-06-27,Punjab Cricket Association Stadium,Mohali,Night,RR,CSK,CSK,field,CSK,1,1,0,2,150,157,307,Pre-2016
+315,2012,2012-06-28,"MA Chidambaram Stadium, Chepauk",Chennai,Day,KKR,DD,KKR,bat,KKR,1,0,40,0,154,114,268,Pre-2016
+316,2012,2012-06-29,M Chinnaswamy Stadium,Bengaluru,Night,RR,CSK,RR,bat,RR,1,0,22,0,187,165,352,Pre-2016
+317,2012,2012-07-01,Narendra Modi Stadium,Ahmedabad,Night,KXIP,DC_DEC,KXIP,bat,DC_DEC,0,1,0,4,143,146,289,Pre-2016
+318,2012,2012-07-02,Dubai International Cricket Stadium,Dubai,Night,KKR,DC_DEC,KKR,bat,KKR,1,0,4,0,152,148,300,Pre-2016
+319,2012,2012-07-03,BRSABV Ekana Cricket Stadium,Lucknow,Night,CSK,KKR,CSK,bat,KKR,0,1,0,3,130,131,261,Pre-2016
+320,2012,2012-07-04,Arun Jaitley Stadium,Delhi,Night,KXIP,DC_DEC,KXIP,bat,DC_DEC,0,1,0,3,162,167,329,Pre-2016
+321,2012,2012-07-05,Eden Gardens,Kolkata,Night,KXIP,RCB,RCB,field,RCB,1,1,0,5,166,167,333,Pre-2016
+322,2012,2012-07-06,Sawai Mansingh Stadium,Jaipur,Night,DC_DEC,RCB,DC_DEC,bat,DC_DEC,1,0,25,0,162,137,299,Pre-2016
+323,2013,2013-04-03,Sawai Mansingh Stadium,Jaipur,Night,SRH,RR,SRH,bat,SRH,1,0,19,0,145,126,271,Pre-2016
+324,2013,2013-04-05,Punjab Cricket Association Stadium,Mohali,Night,MI,SRH,SRH,field,SRH,1,1,0,2,165,172,337,Pre-2016
+325,2013,2013-04-06,Wankhede Stadium,Mumbai,Night,CSK,SRH,CSK,bat,SRH,0,1,0,6,176,178,354,Pre-2016
+326,2013,2013-04-07,Eden Gardens,Kolkata,Night,DD,CSK,DD,bat,CSK,0,1,0,8,162,169,331,Pre-2016
+327,2013,2013-04-08,Rajiv Gandhi International Stadium,Hyderabad,Day,KXIP,KKR,KXIP,bat,KKR,0,1,0,8,174,175,349,Pre-2016
+328,2013,2013-04-09,Punjab Cricket Association Stadium,Mohali,Night,PWI,RCB,PWI,bat,RCB,0,1,0,2,174,175,349,Pre-2016
+329,2013,2013-04-11,"MA Chidambaram Stadium, Chepauk",Chennai,Night,KKR,RCB,KKR,bat,KKR,1,0,25,0,148,123,271,Pre-2016
+330,2013,2013-04-12,Narendra Modi Stadium,Ahmedabad,Day,KKR,MI,MI,field,MI,1,1,0,2,171,173,344,Pre-2016
+331,2013,2013-04-13,Dubai International Cricket Stadium,Dubai,Night,CSK,PWI,CSK,bat,PWI,0,1,0,6,164,166,330,Pre-2016
+332,2013,2013-04-15,Eden Gardens,Kolkata,Day,KXIP,SRH,KXIP,bat,KXIP,1,0,45,0,160,115,275,Pre-2016
+333,2013,2013-04-17,Rajiv Gandhi International Stadium,Hyderabad,Night,KXIP,RCB,RCB,field,RCB,1,1,0,3,175,176,351,Pre-2016
+334,2013,2013-04-18,M Chinnaswamy Stadium,Bengaluru,Night,RCB,KKR,KKR,field,KKR,1,1,0,8,172,174,346,Pre-2016
+335,2013,2013-04-19,Wankhede Stadium,Mumbai,Day,KXIP,CSK,KXIP,bat,KXIP,1,0,8,0,148,140,288,Pre-2016
+336,2013,2013-04-20,Eden Gardens,Kolkata,Night,SRH,RR,SRH,bat,RR,0,1,0,5,156,161,317,Pre-2016
+337,2013,2013-04-22,Sawai Mansingh Stadium,Jaipur,Day,MI,CSK,MI,bat,CSK,0,1,0,3,153,154,307,Pre-2016
+338,2013,2013-04-23,Sawai Mansingh Stadium,Jaipur,Night,CSK,MI,CSK,bat,CSK,1,0,20,0,139,119,258,Pre-2016
+339,2013,2013-04-24,Rajiv Gandhi International Stadium,Hyderabad,Day,SRH,KKR,SRH,bat,SRH,1,0,7,0,157,150,307,Pre-2016
+340,2013,2013-04-25,M Chinnaswamy Stadium,Bengaluru,Night,KKR,DD,KKR,bat,KKR,1,0,31,0,181,150,331,Pre-2016
+341,2013,2013-04-26,Sawai Mansingh Stadium,Jaipur,Night,DD,SRH,DD,bat,SRH,0,1,0,5,153,160,313,Pre-2016
+342,2013,2013-04-28,BRSABV Ekana Cricket Stadium,Lucknow,Night,RR,DD,RR,bat,RR,1,0,14,0,134,120,254,Pre-2016
+343,2013,2013-04-29,Dubai International Cricket Stadium,Dubai,Day,RCB,PWI,RCB,bat,RCB,1,0,41,0,142,101,243,Pre-2016
+344,2013,2013-04-30,M Chinnaswamy Stadium,Bengaluru,Day,PWI,RR,RR,field,PWI,0,0,11,0,192,181,373,Pre-2016
+345,2013,2013-05-01,Rajiv Gandhi International Stadium,Hyderabad,Night,RCB,DD,DD,field,RCB,0,0,33,0,163,130,293,Pre-2016
+346,2013,2013-05-02,Wankhede Stadium,Mumbai,Night,RR,KKR,KKR,field,RR,0,0,47,0,165,118,283,Pre-2016
+347,2013,2013-05-03,Wankhede Stadium,Mumbai,Night,SRH,KXIP,SRH,bat,KXIP,0,1,0,5,182,187,369,Pre-2016
+348,2013,2013-05-04,Eden Gardens,Kolkata,Night,RCB,MI,RCB,bat,MI,0,1,0,5,160,162,322,Pre-2016
+349,2013,2013-05-06,Wankhede Stadium,Mumbai,Day,RR,DD,DD,field,DD,1,1,0,4,166,169,335,Pre-2016
+350,2013,2013-05-08,Dubai International Cricket Stadium,Dubai,Night,DD,RCB,RCB,field,RCB,1,1,0,5,171,174,345,Pre-2016
+351,2013,2013-05-09,BRSABV Ekana Cricket Stadium,Lucknow,Night,RCB,RR,RCB,bat,RR,0,1,0,4,132,133,265,Pre-2016
+352,2013,2013-05-10,Narendra Modi Stadium,Ahmedabad,Night,MI,RCB,RCB,field,RCB,1,1,0,6,151,154,305,Pre-2016
+353,2013,2013-05-11,Eden Gardens,Kolkata,Night,MI,RCB,RCB,field,MI,0,0,27,0,184,157,341,Pre-2016
+354,2013,2013-05-12,Punjab Cricket Association Stadium,Mohali,Night,CSK,RCB,CSK,bat,CSK,1,0,61,0,162,101,263,Pre-2016
+355,2013,2013-05-13,M Chinnaswamy Stadium,Bengaluru,Night,KKR,RCB,KKR,bat,RCB,0,1,0,6,171,178,349,Pre-2016
+356,2013,2013-05-14,BRSABV Ekana Cricket Stadium,Lucknow,Day,KKR,MI,MI,field,KKR,0,0,51,0,152,101,253,Pre-2016
+357,2013,2013-05-15,Eden Gardens,Kolkata,Day,KKR,PWI,PWI,field,PWI,1,1,0,7,171,176,347,Pre-2016
+358,2013,2013-05-16,Eden Gardens,Kolkata,Night,PWI,KXIP,PWI,bat,KXIP,0,1,0,7,171,174,345,Pre-2016
+359,2013,2013-05-17,Narendra Modi Stadium,Ahmedabad,Night,KKR,DD,KKR,bat,KKR,1,0,40,0,168,128,296,Pre-2016
+360,2013,2013-05-18,Sawai Mansingh Stadium,Jaipur,Night,KXIP,RCB,RCB,field,RCB,1,1,0,8,163,168,331,Pre-2016
+361,2013,2013-05-19,Punjab Cricket Association Stadium,Mohali,Night,KXIP,SRH,SRH,field,SRH,1,1,0,3,170,172,342,Pre-2016
+362,2013,2013-05-20,"MA Chidambaram Stadium, Chepauk",Chennai,Night,SRH,KXIP,KXIP,field,KXIP,1,1,0,5,147,152,299,Pre-2016
+363,2013,2013-05-21,Sawai Mansingh Stadium,Jaipur,Night,MI,KXIP,MI,bat,KXIP,0,1,0,3,141,146,287,Pre-2016
+364,2013,2013-05-23,Punjab Cricket Association Stadium,Mohali,Night,PWI,DD,PWI,bat,PWI,1,0,43,0,158,115,273,Pre-2016
+365,2013,2013-05-24,M Chinnaswamy Stadium,Bengaluru,Night,KXIP,SRH,KXIP,bat,KXIP,1,0,4,0,179,175,354,Pre-2016
+366,2013,2013-05-25,BRSABV Ekana Cricket Stadium,Lucknow,Night,KXIP,DD,KXIP,bat,KXIP,1,0,56,0,149,93,242,Pre-2016
+367,2013,2013-05-26,Rajiv Gandhi International Stadium,Hyderabad,Day,RCB,RR,RCB,bat,RCB,1,0,27,0,155,128,283,Pre-2016
+368,2013,2013-05-27,Arun Jaitley Stadium,Delhi,Night,SRH,MI,SRH,bat,SRH,1,0,28,0,178,150,328,Pre-2016
+369,2013,2013-05-28,BRSABV Ekana Cricket Stadium,Lucknow,Night,RCB,CSK,RCB,bat,CSK,0,1,0,7,148,149,297,Pre-2016
+370,2013,2013-05-29,Rajiv Gandhi International Stadium,Hyderabad,Day,PWI,KXIP,KXIP,field,PWI,0,0,40,0,153,113,266,Pre-2016
+371,2013,2013-05-31,Sawai Mansingh Stadium,Jaipur,Night,DD,KXIP,DD,bat,KXIP,0,1,0,7,139,140,279,Pre-2016
+372,2013,2013-06-01,Rajiv Gandhi International Stadium,Hyderabad,Night,MI,KXIP,MI,bat,MI,1,0,4,0,150,146,296,Pre-2016
+373,2013,2013-06-02,Eden Gardens,Kolkata,Night,MI,DD,MI,bat,MI,1,0,47,0,158,111,269,Pre-2016
+374,2013,2013-06-03,M Chinnaswamy Stadium,Bengaluru,Night,SRH,DD,SRH,bat,SRH,1,0,52,0,176,124,300,Pre-2016
+375,2013,2013-06-04,Narendra Modi Stadium,Ahmedabad,Night,KKR,RR,RR,field,RR,1,1,0,5,144,147,291,Pre-2016
+376,2013,2013-06-05,Dubai International Cricket Stadium,Dubai,Night,DD,SRH,DD,bat,SRH,0,1,0,4,153,158,311,Pre-2016
+377,2013,2013-06-06,Punjab Cricket Association Stadium,Mohali,Night,SRH,KXIP,KXIP,field,KXIP,1,1,0,4,151,154,305,Pre-2016
+378,2013,2013-06-07,Punjab Cricket Association Stadium,Mohali,Night,KXIP,SRH,KXIP,bat,KXIP,1,0,4,0,165,161,326,Pre-2016
+379,2013,2013-06-08,M Chinnaswamy Stadium,Bengaluru,Day,CSK,KKR,CSK,bat,CSK,1,0,22,0,186,164,350,Pre-2016
+380,2013,2013-06-10,Eden Gardens,Kolkata,Night,MI,DD,DD,field,DD,1,1,0,3,184,191,375,Pre-2016
+381,2013,2013-06-11,Arun Jaitley Stadium,Delhi,Night,CSK,RR,RR,field,RR,1,1,0,4,144,149,293,Pre-2016
+382,2013,2013-06-12,Wankhede Stadium,Mumbai,Night,PWI,CSK,PWI,bat,CSK,0,1,0,8,162,163,325,Pre-2016
+383,2013,2013-06-13,BRSABV Ekana Cricket Stadium,Lucknow,Night,PWI,CSK,PWI,bat,PWI,1,0,5,0,138,133,271,Pre-2016
+384,2013,2013-06-14,Arun Jaitley Stadium,Delhi,Day,SRH,KXIP,KXIP,field,KXIP,1,1,0,5,177,179,356,Pre-2016
+385,2013,2013-06-15,Wankhede Stadium,Mumbai,Night,RCB,KKR,KKR,field,KKR,1,1,0,7,175,182,357,Pre-2016
+386,2013,2013-06-16,"MA Chidambaram Stadium, Chepauk",Chennai,Day,KKR,RR,RR,field,KKR,0,0,30,0,151,121,272,Pre-2016
+387,2013,2013-06-17,Dubai International Cricket Stadium,Dubai,Day,CSK,RR,CSK,bat,CSK,1,0,26,0,156,130,286,Pre-2016
+388,2013,2013-06-18,BRSABV Ekana Cricket Stadium,Lucknow,Night,SRH,DD,DD,field,SRH,0,0,45,0,149,104,253,Pre-2016
+389,2013,2013-06-19,Sawai Mansingh Stadium,Jaipur,Night,RCB,KXIP,RCB,bat,KXIP,0,1,0,3,143,146,289,Pre-2016
+390,2013,2013-06-21,M Chinnaswamy Stadium,Bengaluru,Day,RR,KXIP,KXIP,field,KXIP,1,1,0,3,176,178,354,Pre-2016
+391,2013,2013-06-22,"MA Chidambaram Stadium, Chepauk",Chennai,Day,DD,RR,RR,field,RR,1,1,0,2,147,154,301,Pre-2016
+392,2013,2013-06-23,M Chinnaswamy Stadium,Bengaluru,Day,CSK,MI,CSK,bat,CSK,1,0,17,0,186,169,355,Pre-2016
+393,2013,2013-06-24,"MA Chidambaram Stadium, Chepauk",Chennai,Night,RCB,KKR,KKR,field,KKR,1,1,0,5,125,130,255,Pre-2016
+394,2013,2013-06-25,M Chinnaswamy Stadium,Bengaluru,Night,KXIP,RR,KXIP,bat,KXIP,1,0,35,0,150,115,265,Pre-2016
+395,2013,2013-06-26,Punjab Cricket Association Stadium,Mohali,Night,DD,RCB,DD,bat,RCB,0,1,0,6,171,173,344,Pre-2016
+396,2013,2013-06-28,BRSABV Ekana Cricket Stadium,Lucknow,Night,DD,KXIP,DD,bat,KXIP,0,1,0,8,130,135,265,Pre-2016
+397,2013,2013-06-29,M Chinnaswamy Stadium,Bengaluru,Night,DD,KXIP,DD,bat,DD,1,0,46,0,176,130,306,Pre-2016
+398,2013,2013-07-01,Sawai Mansingh Stadium,Jaipur,Day,RCB,RR,RR,field,RCB,0,0,24,0,160,136,296,Pre-2016
+399,2014,2014-04-16,Eden Gardens,Kolkata,Night,RCB,DD,DD,field,RCB,0,0,20,0,174,154,328,Pre-2016
+400,2014,2014-04-17,Arun Jaitley Stadium,Delhi,Day,KKR,DD,DD,field,KKR,0,0,19,0,161,142,303,Pre-2016
+401,2014,2014-04-19,BRSABV Ekana Cricket Stadium,Lucknow,Night,CSK,MI,MI,field,CSK,0,0,15,0,167,152,319,Pre-2016
+402,2014,2014-04-20,Rajiv Gandhi International Stadium,Hyderabad,Night,RCB,SRH,RCB,bat,SRH,0,1,0,5,171,174,345,Pre-2016
+403,2014,2014-04-21,Narendra Modi Stadium,Ahmedabad,Night,RCB,KXIP,RCB,bat,RCB,1,0,14,0,177,163,340,Pre-2016
+404,2014,2014-04-22,Rajiv Gandhi International Stadium,Hyderabad,Night,MI,RCB,MI,bat,RCB,0,1,0,7,173,180,353,Pre-2016
+405,2014,2014-04-23,Arun Jaitley Stadium,Delhi,Day,CSK,SRH,SRH,field,CSK,0,0,39,0,178,139,317,Pre-2016
+406,2014,2014-04-25,Narendra Modi Stadium,Ahmedabad,Night,RCB,RR,RCB,bat,RR,0,1,0,6,161,168,329,Pre-2016
+407,2014,2014-04-26,Dubai International Cricket Stadium,Dubai,Night,SRH,RCB,SRH,bat,SRH,1,0,13,0,157,144,301,Pre-2016
+408,2014,2014-04-27,Arun Jaitley Stadium,Delhi,Night,RCB,SRH,SRH,field,RCB,0,0,14,0,187,173,360,Pre-2016
+409,2014,2014-04-28,"MA Chidambaram Stadium, Chepauk",Chennai,Night,KKR,CSK,KKR,bat,CSK,0,1,0,6,147,152,299,Pre-2016
+410,2014,2014-04-30,Narendra Modi Stadium,Ahmedabad,Night,MI,RCB,MI,bat,MI,1,0,15,0,171,156,327,Pre-2016
+411,2014,2014-05-02,Rajiv Gandhi International Stadium,Hyderabad,Night,MI,CSK,MI,bat,MI,1,0,49,0,165,116,281,Pre-2016
+412,2014,2014-05-03,M Chinnaswamy Stadium,Bengaluru,Night,CSK,DD,DD,field,CSK,0,0,25,0,189,164,353,Pre-2016
+413,2014,2014-05-05,Punjab Cricket Association Stadium,Mohali,Night,SRH,DD,SRH,bat,SRH,1,0,20,0,176,156,332,Pre-2016
+414,2014,2014-05-06,Dubai International Cricket Stadium,Dubai,Day,CSK,RR,RR,field,CSK,0,0,33,0,137,104,241,Pre-2016
+415,2014,2014-05-07,Narendra Modi Stadium,Ahmedabad,Night,MI,SRH,MI,bat,MI,1,0,5,0,161,156,317,Pre-2016
+416,2014,2014-05-08,"MA Chidambaram Stadium, Chepauk",Chennai,Night,KKR,SRH,KKR,bat,KKR,1,0,39,0,136,97,233,Pre-2016
+417,2014,2014-05-09,Wankhede Stadium,Mumbai,Night,RCB,CSK,RCB,bat,RCB,1,0,40,0,188,148,336,Pre-2016
+418,2014,2014-05-10,Rajiv Gandhi International Stadium,Hyderabad,Night,CSK,RR,CSK,bat,RR,0,1,0,6,164,165,329,Pre-2016
+419,2014,2014-05-11,"MA Chidambaram Stadium, Chepauk",Chennai,Night,KXIP,KKR,KKR,field,KKR,1,1,0,5,162,169,331,Pre-2016
+420,2014,2014-05-12,Dubai International Cricket Stadium,Dubai,Night,RCB,KXIP,RCB,bat,RCB,1,0,44,0,138,94,232,Pre-2016
+421,2014,2014-05-13,Arun Jaitley Stadium,Delhi,Day,DD,SRH,DD,bat,DD,1,0,31,0,161,130,291,Pre-2016
+422,2014,2014-05-14,Punjab Cricket Association Stadium,Mohali,Day,RR,KXIP,KXIP,field,RR,0,0,13,0,173,160,333,Pre-2016
+423,2014,2014-05-15,Punjab Cricket Association Stadium,Mohali,Night,CSK,DD,CSK,bat,CSK,1,0,32,0,169,137,306,Pre-2016
+424,2014,2014-05-17,Arun Jaitley Stadium,Delhi,Night,SRH,CSK,SRH,bat,SRH,1,0,18,0,164,146,310,Pre-2016
+425,2014,2014-05-18,"MA Chidambaram Stadium, Chepauk",Chennai,Day,MI,RR,MI,bat,MI,1,0,18,0,165,147,312,Pre-2016
+426,2014,2014-05-20,Dubai International Cricket Stadium,Dubai,Night,KKR,CSK,CSK,field,CSK,1,1,0,5,143,146,289,Pre-2016
+427,2014,2014-05-22,Sawai Mansingh Stadium,Jaipur,Night,CSK,SRH,SRH,field,CSK,0,0,29,0,170,141,311,Pre-2016
+428,2014,2014-05-23,Wankhede Stadium,Mumbai,Night,DD,KKR,KKR,field,DD,0,0,25,0,169,144,313,Pre-2016
+429,2014,2014-05-24,M Chinnaswamy Stadium,Bengaluru,Night,RR,DD,DD,field,DD,1,1,0,8,170,175,345,Pre-2016
+430,2014,2014-05-25,Sawai Mansingh Stadium,Jaipur,Night,KXIP,RR,KXIP,bat,RR,0,1,0,6,151,158,309,Pre-2016
+431,2014,2014-05-26,Wankhede Stadium,Mumbai,Night,CSK,MI,MI,field,MI,1,1,0,5,165,172,337,Pre-2016
+432,2014,2014-05-28,BRSABV Ekana Cricket Stadium,Lucknow,Day,SRH,RCB,SRH,bat,RCB,0,1,0,7,156,158,314,Pre-2016
+433,2014,2014-05-29,Eden Gardens,Kolkata,Day,SRH,KKR,SRH,bat,KKR,0,1,0,6,167,170,337,Pre-2016
+434,2014,2014-05-30,Wankhede Stadium,Mumbai,Night,DD,MI,DD,bat,MI,0,1,0,5,193,195,388,Pre-2016
+435,2014,2014-05-31,Punjab Cricket Association Stadium,Mohali,Night,DD,RCB,DD,bat,RCB,0,1,0,4,174,181,355,Pre-2016
+436,2014,2014-06-01,M Chinnaswamy Stadium,Bengaluru,Night,KXIP,SRH,KXIP,bat,SRH,0,1,0,6,187,192,379,Pre-2016
+437,2014,2014-06-02,Rajiv Gandhi International Stadium,Hyderabad,Night,KXIP,SRH,SRH,field,SRH,1,1,0,8,163,165,328,Pre-2016
+438,2014,2014-06-04,M Chinnaswamy Stadium,Bengaluru,Day,KKR,SRH,KKR,bat,KKR,1,0,24,0,184,160,344,Pre-2016
+439,2014,2014-06-06,BRSABV Ekana Cricket Stadium,Lucknow,Night,DD,RCB,DD,bat,DD,1,0,25,0,155,130,285,Pre-2016
+440,2014,2014-06-07,Punjab Cricket Association Stadium,Mohali,Night,RCB,MI,MI,field,MI,1,1,0,8,148,153,301,Pre-2016
+441,2014,2014-06-08,Narendra Modi Stadium,Ahmedabad,Night,RCB,MI,MI,field,MI,1,1,0,3,170,173,343,Pre-2016
+442,2014,2014-06-09,Arun Jaitley Stadium,Delhi,Night,RR,CSK,CSK,field,CSK,1,1,0,6,136,138,274,Pre-2016
+443,2014,2014-06-11,M Chinnaswamy Stadium,Bengaluru,Night,DD,RCB,DD,bat,DD,1,0,8,0,183,175,358,Pre-2016
+444,2014,2014-06-12,Sawai Mansingh Stadium,Jaipur,Night,SRH,MI,MI,field,MI,1,1,0,3,163,165,328,Pre-2016
+445,2014,2014-06-14,Sawai Mansingh Stadium,Jaipur,Night,MI,KXIP,MI,bat,MI,1,0,21,0,150,129,279,Pre-2016
+446,2014,2014-06-15,M Chinnaswamy Stadium,Bengaluru,Day,MI,RCB,MI,bat,MI,1,0,31,0,187,156,343,Pre-2016
+447,2014,2014-06-16,M Chinnaswamy Stadium,Bengaluru,Night,KXIP,KKR,KXIP,bat,KKR,0,1,0,4,186,193,379,Pre-2016
+448,2014,2014-06-18,Sawai Mansingh Stadium,Jaipur,Night,MI,KXIP,MI,bat,KXIP,0,1,0,4,183,188,371,Pre-2016
+449,2014,2014-06-19,"MA Chidambaram Stadium, Chepauk",Chennai,Day,MI,KXIP,MI,bat,KXIP,0,1,0,3,154,156,310,Pre-2016
+450,2014,2014-06-20,Narendra Modi Stadium,Ahmedabad,Night,KKR,DD,KKR,bat,KKR,1,0,33,0,179,146,325,Pre-2016
+451,2014,2014-06-22,Sawai Mansingh Stadium,Jaipur,Day,RCB,KXIP,RCB,bat,RCB,1,0,6,0,144,138,282,Pre-2016
+452,2014,2014-06-23,Arun Jaitley Stadium,Delhi,Day,KXIP,DD,DD,field,DD,1,1,0,7,171,172,343,Pre-2016
+453,2014,2014-06-24,Wankhede Stadium,Mumbai,Day,DD,SRH,DD,bat,SRH,0,1,0,3,169,172,341,Pre-2016
+454,2014,2014-06-25,M Chinnaswamy Stadium,Bengaluru,Day,DD,MI,MI,field,DD,0,0,48,0,188,140,328,Pre-2016
+455,2014,2014-06-26,Sawai Mansingh Stadium,Jaipur,Night,RCB,CSK,RCB,bat,RCB,1,0,38,0,162,124,286,Pre-2016
+456,2014,2014-06-27,BRSABV Ekana Cricket Stadium,Lucknow,Night,RR,CSK,CSK,field,RR,0,0,32,0,160,128,288,Pre-2016
+457,2014,2014-06-29,Dubai International Cricket Stadium,Dubai,Day,KXIP,RR,KXIP,bat,RR,0,1,0,6,163,164,327,Pre-2016
+458,2014,2014-06-30,BRSABV Ekana Cricket Stadium,Lucknow,Day,KKR,SRH,SRH,field,SRH,1,1,0,5,162,165,327,Pre-2016
+459,2015,2015-04-08,Dubai International Cricket Stadium,Dubai,Night,KXIP,KKR,KKR,field,KXIP,0,0,24,0,159,135,294,Pre-2016
+460,2015,2015-04-09,BRSABV Ekana Cricket Stadium,Lucknow,Night,MI,DD,MI,bat,MI,1,0,47,0,138,91,229,Pre-2016
+461,2015,2015-04-11,Sawai Mansingh Stadium,Jaipur,Night,RCB,MI,RCB,bat,MI,0,1,0,2,150,155,305,Pre-2016
+462,2015,2015-04-12,Punjab Cricket Association Stadium,Mohali,Night,KKR,RR,KKR,bat,KKR,1,0,4,0,149,145,294,Pre-2016
+463,2015,2015-04-14,Rajiv Gandhi International Stadium,Hyderabad,Night,KXIP,KKR,KKR,field,KKR,1,1,0,6,186,188,374,Pre-2016
+464,2015,2015-04-16,Wankhede Stadium,Mumbai,Night,SRH,DD,DD,field,SRH,0,0,38,0,165,127,292,Pre-2016
+465,2015,2015-04-17,M Chinnaswamy Stadium,Bengaluru,Night,DD,CSK,DD,bat,DD,1,0,58,0,184,126,310,Pre-2016
+466,2015,2015-04-18,M Chinnaswamy Stadium,Bengaluru,Night,KXIP,DD,DD,field,DD,1,1,0,3,172,177,349,Pre-2016
+467,2015,2015-04-20,Rajiv Gandhi International Stadium,Hyderabad,Night,RCB,MI,RCB,bat,RCB,1,0,44,0,179,135,314,Pre-2016
+468,2015,2015-04-22,Dubai International Cricket Stadium,Dubai,Night,KXIP,MI,KXIP,bat,KXIP,1,0,36,0,164,128,292,Pre-2016
+469,2015,2015-04-23,Narendra Modi Stadium,Ahmedabad,Day,MI,DD,DD,field,DD,1,1,0,5,178,181,359,Pre-2016
+470,2015,2015-04-25,Wankhede Stadium,Mumbai,Day,KXIP,RR,RR,field,KXIP,0,0,12,0,174,162,336,Pre-2016
+471,2015,2015-04-26,BRSABV Ekana Cricket Stadium,Lucknow,Night,KKR,SRH,KKR,bat,KKR,1,0,22,0,147,125,272,Pre-2016
+472,2015,2015-04-27,BRSABV Ekana Cricket Stadium,Lucknow,Day,KKR,DD,KKR,bat,DD,0,1,0,7,139,144,283,Pre-2016
+473,2015,2015-04-28,M Chinnaswamy Stadium,Bengaluru,Night,KKR,RCB,KKR,bat,KKR,1,0,37,0,189,152,341,Pre-2016
+474,2015,2015-04-29,Arun Jaitley Stadium,Delhi,Night,KXIP,DD,DD,field,KXIP,0,0,38,0,154,116,270,Pre-2016
+475,2015,2015-04-30,Sawai Mansingh Stadium,Jaipur,Night,KXIP,SRH,SRH,field,KXIP,0,0,32,0,149,117,266,Pre-2016
+476,2015,2015-05-02,Wankhede Stadium,Mumbai,Night,RCB,CSK,CSK,field,RCB,0,0,4,0,162,158,320,Pre-2016
+477,2015,2015-05-04,Arun Jaitley Stadium,Delhi,Day,SRH,MI,MI,field,SRH,0,0,4,0,164,160,324,Pre-2016
+478,2015,2015-05-06,Arun Jaitley Stadium,Delhi,Night,DD,KKR,DD,bat,KKR,0,1,0,3,176,177,353,Pre-2016
+479,2015,2015-05-07,Sawai Mansingh Stadium,Jaipur,Night,CSK,RR,RR,field,CSK,0,0,44,0,166,122,288,Pre-2016
+480,2015,2015-05-08,Dubai International Cricket Stadium,Dubai,Night,RR,KKR,RR,bat,RR,1,0,25,0,159,134,293,Pre-2016
+481,2015,2015-05-09,Dubai International Cricket Stadium,Dubai,Day,KXIP,KKR,KXIP,bat,KKR,0,1,0,6,164,169,333,Pre-2016
+482,2015,2015-05-11,BRSABV Ekana Cricket Stadium,Lucknow,Day,RR,SRH,SRH,field,RR,0,0,14,0,150,136,286,Pre-2016
+483,2015,2015-05-12,Dubai International Cricket Stadium,Dubai,Night,MI,KKR,MI,bat,KKR,0,1,0,3,142,147,289,Pre-2016
+484,2015,2015-05-13,Wankhede Stadium,Mumbai,Night,KKR,RCB,KKR,bat,RCB,0,1,0,3,159,160,319,Pre-2016
+485,2015,2015-05-14,BRSABV Ekana Cricket Stadium,Lucknow,Night,CSK,MI,CSK,bat,CSK,1,0,19,0,142,123,265,Pre-2016
+486,2015,2015-05-15,Narendra Modi Stadium,Ahmedabad,Night,RR,SRH,SRH,field,SRH,1,1,0,2,183,184,367,Pre-2016
+487,2015,2015-05-16,"MA Chidambaram Stadium, Chepauk",Chennai,Night,RCB,SRH,RCB,bat,RCB,1,0,56,0,158,102,260,Pre-2016
+488,2015,2015-05-17,Rajiv Gandhi International Stadium,Hyderabad,Night,KKR,SRH,KKR,bat,SRH,0,1,0,2,155,158,313,Pre-2016
+489,2015,2015-05-18,Arun Jaitley Stadium,Delhi,Night,SRH,KXIP,SRH,bat,KXIP,0,1,0,2,178,180,358,Pre-2016
+490,2015,2015-05-19,Arun Jaitley Stadium,Delhi,Night,RR,DD,RR,bat,DD,0,1,0,6,169,176,345,Pre-2016
+491,2015,2015-05-20,Sawai Mansingh Stadium,Jaipur,Night,MI,RCB,MI,bat,RCB,0,1,0,7,160,165,325,Pre-2016
+492,2015,2015-05-22,Dubai International Cricket Stadium,Dubai,Day,RCB,KKR,RCB,bat,KKR,0,1,0,3,168,175,343,Pre-2016
+493,2015,2015-05-24,Punjab Cricket Association Stadium,Mohali,Night,RCB,KKR,RCB,bat,KKR,0,1,0,7,166,169,335,Pre-2016
+494,2015,2015-05-25,Dubai International Cricket Stadium,Dubai,Day,DD,MI,DD,bat,DD,1,0,11,0,157,146,303,Pre-2016
+495,2015,2015-05-26,Punjab Cricket Association Stadium,Mohali,Night,RR,RCB,RR,bat,RCB,0,1,0,6,191,192,383,Pre-2016
+496,2015,2015-05-28,Rajiv Gandhi International Stadium,Hyderabad,Night,SRH,RCB,RCB,field,RCB,1,1,0,6,162,164,326,Pre-2016
+497,2015,2015-05-30,Arun Jaitley Stadium,Delhi,Night,KXIP,RCB,KXIP,bat,KXIP,1,0,20,0,189,169,358,Pre-2016
+498,2015,2015-05-31,Sawai Mansingh Stadium,Jaipur,Night,CSK,MI,MI,field,MI,1,1,0,5,153,158,311,Pre-2016
+499,2015,2015-06-02,M Chinnaswamy Stadium,Bengaluru,Day,KXIP,MI,KXIP,bat,MI,0,1,0,5,180,187,367,Pre-2016
+500,2015,2015-06-03,Narendra Modi Stadium,Ahmedabad,Night,RCB,SRH,SRH,field,SRH,1,1,0,7,170,171,341,Pre-2016
+501,2015,2015-06-04,"MA Chidambaram Stadium, Chepauk",Chennai,Night,KKR,CSK,CSK,field,CSK,1,1,0,5,157,164,321,Pre-2016
+502,2015,2015-06-06,M Chinnaswamy Stadium,Bengaluru,Night,CSK,RCB,RCB,field,RCB,1,1,0,7,191,194,385,Pre-2016
+503,2015,2015-06-08,Arun Jaitley Stadium,Delhi,Night,RCB,SRH,SRH,field,RCB,0,0,42,0,149,107,256,Pre-2016
+504,2015,2015-06-09,BRSABV Ekana Cricket Stadium,Lucknow,Night,RCB,SRH,RCB,bat,RCB,1,0,30,0,136,106,242,Pre-2016
+505,2015,2015-06-10,Arun Jaitley Stadium,Delhi,Day,KXIP,RR,RR,field,RR,1,1,0,6,163,164,327,Pre-2016
+506,2015,2015-06-11,Sawai Mansingh Stadium,Jaipur,Night,KKR,SRH,KKR,bat,KKR,1,0,32,0,166,134,300,Pre-2016
+507,2015,2015-06-13,Eden Gardens,Kolkata,Night,RR,RCB,RCB,field,RCB,1,1,0,4,164,166,330,Pre-2016
+508,2015,2015-06-14,Rajiv Gandhi International Stadium,Hyderabad,Night,SRH,CSK,SRH,bat,CSK,0,1,0,4,152,155,307,Pre-2016
+509,2015,2015-06-15,Wankhede Stadium,Mumbai,Night,DD,RCB,RCB,field,DD,0,0,42,0,163,121,284,Pre-2016
+510,2015,2015-06-17,Eden Gardens,Kolkata,Night,KKR,RCB,KKR,bat,RCB,0,1,0,3,186,193,379,Pre-2016
+511,2015,2015-06-18,BRSABV Ekana Cricket Stadium,Lucknow,Night,KXIP,SRH,KXIP,bat,KXIP,1,0,42,0,138,96,234,Pre-2016
+512,2015,2015-06-19,M Chinnaswamy Stadium,Bengaluru,Night,MI,RCB,RCB,field,MI,0,0,29,0,189,160,349,Pre-2016
+513,2015,2015-06-20,Punjab Cricket Association Stadium,Mohali,Night,RCB,RR,RR,field,RR,1,1,0,2,175,182,357,Pre-2016
+514,2015,2015-06-22,Dubai International Cricket Stadium,Dubai,Night,RCB,DD,DD,field,DD,1,1,0,4,159,162,321,Pre-2016
+515,2015,2015-06-23,Sawai Mansingh Stadium,Jaipur,Night,MI,RCB,RCB,field,RCB,1,1,0,2,167,170,337,Pre-2016
+516,2015,2015-06-24,"MA Chidambaram Stadium, Chepauk",Chennai,Day,CSK,KXIP,CSK,bat,CSK,1,0,4,0,146,142,288,Pre-2016
+517,2015,2015-06-25,Sawai Mansingh Stadium,Jaipur,Night,KXIP,RCB,KXIP,bat,RCB,0,1,0,7,165,167,332,Pre-2016
+518,2016,2016-04-09,BRSABV Ekana Cricket Stadium,Lucknow,Night,SRH,DD,DD,field,SRH,0,0,61,0,128,75,203,Post-2016
+519,2016,2016-04-10,"MA Chidambaram Stadium, Chepauk",Chennai,Day,GL,RPS,GL,bat,RPS,0,1,0,5,157,158,315,Post-2016
+520,2016,2016-04-12,"MA Chidambaram Stadium, Chepauk",Chennai,Night,KKR,SRH,KKR,bat,KKR,1,0,37,0,158,121,279,Post-2016
+521,2016,2016-04-13,"MA Chidambaram Stadium, Chepauk",Chennai,Night,SRH,RPS,RPS,field,SRH,0,0,28,0,154,126,280,Post-2016
+522,2016,2016-04-14,Arun Jaitley Stadium,Delhi,Day,DD,RCB,RCB,field,RCB,1,1,0,7,166,173,339,Post-2016
+523,2016,2016-04-16,Wankhede Stadium,Mumbai,Day,RCB,DD,RCB,bat,RCB,1,0,32,0,173,141,314,Post-2016
+524,2016,2016-04-17,Eden Gardens,Kolkata,Night,GL,RPS,GL,bat,GL,1,0,23,0,167,144,311,Post-2016
+525,2016,2016-04-18,Eden Gardens,Kolkata,Night,DD,RPS,RPS,field,DD,0,0,23,0,189,166,355,Post-2016
+526,2016,2016-04-20,"MA Chidambaram Stadium, Chepauk",Chennai,Night,KKR,SRH,KKR,bat,SRH,0,1,0,3,166,168,334,Post-2016
+527,2016,2016-04-21,"MA Chidambaram Stadium, Chepauk",Chennai,Night,KXIP,DD,DD,field,DD,1,1,0,6,163,170,333,Post-2016
+528,2016,2016-04-22,M Chinnaswamy Stadium,Bengaluru,Night,RPS,KXIP,KXIP,field,KXIP,1,1,0,3,176,181,357,Post-2016
+529,2016,2016-04-23,Punjab Cricket Association Stadium,Mohali,Night,RCB,RPS,RPS,field,RCB,0,0,21,0,172,151,323,Post-2016
+530,2016,2016-04-24,Eden Gardens,Kolkata,Night,SRH,MI,SRH,bat,SRH,1,0,22,0,178,156,334,Post-2016
+531,2016,2016-04-26,"MA Chidambaram Stadium, Chepauk",Chennai,Night,RCB,SRH,SRH,field,SRH,1,1,0,7,162,167,329,Post-2016
+532,2016,2016-04-27,Wankhede Stadium,Mumbai,Day,RPS,MI,RPS,bat,RPS,1,0,21,0,154,133,287,Post-2016
+533,2016,2016-04-28,Arun Jaitley Stadium,Delhi,Night,KKR,SRH,SRH,field,SRH,1,1,0,2,160,161,321,Post-2016
+534,2016,2016-04-30,Narendra Modi Stadium,Ahmedabad,Night,GL,KXIP,KXIP,field,GL,0,0,20,0,189,169,358,Post-2016
+535,2016,2016-05-01,Punjab Cricket Association Stadium,Mohali,Day,SRH,RCB,RCB,field,RCB,1,1,0,5,192,194,386,Post-2016
+536,2016,2016-05-02,Narendra Modi Stadium,Ahmedabad,Day,MI,DD,MI,bat,MI,1,0,19,0,168,149,317,Post-2016
+537,2016,2016-05-04,Sawai Mansingh Stadium,Jaipur,Night,KXIP,GL,GL,field,GL,1,1,0,6,158,160,318,Post-2016
+538,2016,2016-05-05,M Chinnaswamy Stadium,Bengaluru,Night,SRH,RCB,RCB,field,RCB,1,1,0,5,192,199,391,Post-2016
+539,2016,2016-05-07,Eden Gardens,Kolkata,Day,SRH,DD,DD,field,SRH,0,0,38,0,182,144,326,Post-2016
+540,2016,2016-05-08,Eden Gardens,Kolkata,Night,MI,DD,MI,bat,DD,0,1,0,4,161,164,325,Post-2016
+541,2016,2016-05-10,BRSABV Ekana Cricket Stadium,Lucknow,Night,SRH,DD,DD,field,DD,1,1,0,8,162,164,326,Post-2016
+542,2016,2016-05-11,Eden Gardens,Kolkata,Night,KXIP,KKR,KKR,field,KXIP,0,0,4,0,175,171,346,Post-2016
+543,2016,2016-05-12,Dubai International Cricket Stadium,Dubai,Day,RCB,KKR,RCB,bat,RCB,1,0,15,0,166,151,317,Post-2016
+544,2016,2016-05-13,BRSABV Ekana Cricket Stadium,Lucknow,Night,GL,RCB,RCB,field,GL,0,0,29,0,123,94,217,Post-2016
+545,2016,2016-05-14,Sawai Mansingh Stadium,Jaipur,Night,GL,MI,MI,field,GL,0,0,23,0,146,123,269,Post-2016
+546,2016,2016-05-15,Arun Jaitley Stadium,Delhi,Day,RPS,KKR,KKR,field,KKR,1,1,0,3,180,181,361,Post-2016
+547,2016,2016-05-17,Rajiv Gandhi International Stadium,Hyderabad,Night,GL,SRH,SRH,field,SRH,1,1,0,3,160,163,323,Post-2016
+548,2016,2016-05-18,Punjab Cricket Association Stadium,Mohali,Night,KXIP,GL,GL,field,GL,1,1,0,7,174,175,349,Post-2016
+549,2016,2016-05-19,M Chinnaswamy Stadium,Bengaluru,Night,DD,SRH,SRH,field,SRH,1,1,0,4,180,181,361,Post-2016
+550,2016,2016-05-20,M Chinnaswamy Stadium,Bengaluru,Night,RPS,GL,GL,field,RPS,0,0,49,0,181,132,313,Post-2016
+551,2016,2016-05-21,Wankhede Stadium,Mumbai,Day,GL,KXIP,GL,bat,GL,1,0,46,0,160,114,274,Post-2016
+552,2016,2016-05-23,Narendra Modi Stadium,Ahmedabad,Night,SRH,RPS,SRH,bat,RPS,0,1,0,5,170,171,341,Post-2016
+553,2016,2016-05-25,Dubai International Cricket Stadium,Dubai,Day,DD,KXIP,KXIP,field,KXIP,1,1,0,4,172,177,349,Post-2016
+554,2016,2016-05-26,Wankhede Stadium,Mumbai,Night,KKR,SRH,KKR,bat,KKR,1,0,16,0,195,179,374,Post-2016
+555,2016,2016-05-28,M Chinnaswamy Stadium,Bengaluru,Night,MI,KXIP,KXIP,field,KXIP,1,1,0,4,214,217,431,Post-2016
+556,2016,2016-05-29,Punjab Cricket Association Stadium,Mohali,Night,SRH,RCB,RCB,field,SRH,0,0,43,0,184,141,325,Post-2016
+557,2016,2016-05-30,Eden Gardens,Kolkata,Day,RCB,KXIP,KXIP,field,KXIP,1,1,0,3,194,197,391,Post-2016
+558,2016,2016-05-31,Punjab Cricket Association Stadium,Mohali,Night,SRH,GL,GL,field,GL,1,1,0,3,167,169,336,Post-2016
+559,2016,2016-06-01,Sawai Mansingh Stadium,Jaipur,Night,MI,DD,DD,field,MI,0,0,26,0,155,129,284,Post-2016
+560,2016,2016-06-02,Narendra Modi Stadium,Ahmedabad,Night,SRH,GL,GL,field,SRH,0,0,4,0,168,164,332,Post-2016
+561,2016,2016-06-03,"MA Chidambaram Stadium, Chepauk",Chennai,Night,SRH,KXIP,KXIP,field,KXIP,1,1,0,4,146,151,297,Post-2016
+562,2016,2016-06-04,Dubai International Cricket Stadium,Dubai,Day,KXIP,RCB,RCB,field,RCB,1,1,0,8,153,154,307,Post-2016
+563,2016,2016-06-05,Arun Jaitley Stadium,Delhi,Day,RCB,SRH,SRH,field,SRH,1,1,0,2,180,183,363,Post-2016
+564,2016,2016-06-07,Dubai International Cricket Stadium,Dubai,Night,RCB,KKR,RCB,bat,RCB,1,0,12,0,168,156,324,Post-2016
+565,2016,2016-06-08,M Chinnaswamy Stadium,Bengaluru,Day,DD,MI,MI,field,MI,1,1,0,6,175,180,355,Post-2016
+566,2016,2016-06-09,Punjab Cricket Association Stadium,Mohali,Night,DD,KXIP,KXIP,field,KXIP,1,1,0,4,172,179,351,Post-2016
+567,2016,2016-06-11,Arun Jaitley Stadium,Delhi,Day,SRH,RCB,SRH,bat,SRH,1,0,30,0,188,158,346,Post-2016
+568,2016,2016-06-12,Arun Jaitley Stadium,Delhi,Night,MI,RCB,RCB,field,RCB,1,1,0,7,197,202,399,Post-2016
+569,2016,2016-06-13,Sawai Mansingh Stadium,Jaipur,Night,KKR,RPS,RPS,field,RPS,1,1,0,4,172,173,345,Post-2016
+570,2016,2016-06-15,Narendra Modi Stadium,Ahmedabad,Night,RCB,KXIP,KXIP,field,RCB,0,0,31,0,175,144,319,Post-2016
+571,2016,2016-06-16,Eden Gardens,Kolkata,Night,DD,RPS,DD,bat,DD,1,0,18,0,183,165,348,Post-2016
+572,2016,2016-06-17,Arun Jaitley Stadium,Delhi,Day,SRH,RCB,RCB,field,RCB,1,1,0,7,164,171,335,Post-2016
+573,2016,2016-06-19,Dubai International Cricket Stadium,Dubai,Night,RCB,KKR,KKR,field,RCB,0,0,7,0,139,132,271,Post-2016
+574,2016,2016-06-20,Punjab Cricket Association Stadium,Mohali,Night,GL,SRH,SRH,field,SRH,1,1,0,8,173,180,353,Post-2016
+575,2016,2016-06-21,"MA Chidambaram Stadium, Chepauk",Chennai,Day,SRH,RCB,SRH,bat,RCB,0,1,0,6,160,165,325,Post-2016
+576,2016,2016-06-23,Arun Jaitley Stadium,Delhi,Night,SRH,KKR,SRH,bat,SRH,1,0,21,0,183,162,345,Post-2016
+577,2016,2016-06-24,Narendra Modi Stadium,Ahmedabad,Night,MI,RPS,RPS,field,RPS,1,1,0,8,175,177,352,Post-2016
+578,2017,2017-04-05,BRSABV Ekana Cricket Stadium,Lucknow,Night,KKR,GL,KKR,bat,KKR,1,0,35,0,167,132,299,Post-2016
+579,2017,2017-04-06,Eden Gardens,Kolkata,Night,GL,KKR,KKR,field,KKR,1,1,0,2,181,182,363,Post-2016
+580,2017,2017-04-07,"MA Chidambaram Stadium, Chepauk",Chennai,Day,RCB,KKR,RCB,bat,RCB,1,0,29,0,156,127,283,Post-2016
+581,2017,2017-04-08,"MA Chidambaram Stadium, Chepauk",Chennai,Day,KKR,MI,MI,field,KKR,0,0,32,0,147,115,262,Post-2016
+582,2017,2017-04-09,Narendra Modi Stadium,Ahmedabad,Day,KXIP,DD,DD,field,KXIP,0,0,28,0,183,155,338,Post-2016
+583,2017,2017-04-10,Arun Jaitley Stadium,Delhi,Night,GL,KXIP,GL,bat,KXIP,0,1,0,6,189,196,385,Post-2016
+584,2017,2017-04-11,Rajiv Gandhi International Stadium,Hyderabad,Night,RCB,MI,MI,field,RCB,0,0,4,0,196,192,388,Post-2016
+585,2017,2017-04-12,Sawai Mansingh Stadium,Jaipur,Night,MI,DD,DD,field,DD,1,1,0,3,167,170,337,Post-2016
+586,2017,2017-04-13,Eden Gardens,Kolkata,Night,MI,GL,GL,field,MI,0,0,21,0,188,167,355,Post-2016
+587,2017,2017-04-14,Rajiv Gandhi International Stadium,Hyderabad,Night,DD,RPS,DD,bat,RPS,0,1,0,6,154,161,315,Post-2016
+588,2017,2017-04-15,"MA Chidambaram Stadium, Chepauk",Chennai,Night,SRH,KKR,KKR,field,KKR,1,1,0,2,145,146,291,Post-2016
+589,2017,2017-04-16,Arun Jaitley Stadium,Delhi,Day,RCB,DD,DD,field,DD,1,1,0,4,177,182,359,Post-2016
+590,2017,2017-04-17,Narendra Modi Stadium,Ahmedabad,Night,KXIP,DD,DD,field,KXIP,0,0,30,0,173,143,316,Post-2016
+591,2017,2017-04-18,Arun Jaitley Stadium,Delhi,Day,RPS,MI,MI,field,MI,1,1,0,5,184,191,375,Post-2016
+592,2017,2017-04-19,BRSABV Ekana Cricket Stadium,Lucknow,Night,GL,KXIP,KXIP,field,GL,0,0,12,0,148,136,284,Post-2016
+593,2017,2017-04-20,BRSABV Ekana Cricket Stadium,Lucknow,Night,KKR,RCB,KKR,bat,KKR,1,0,30,0,156,126,282,Post-2016
+594,2017,2017-04-22,Arun Jaitley Stadium,Delhi,Night,MI,KXIP,KXIP,field,KXIP,1,1,0,4,161,163,324,Post-2016
+595,2017,2017-04-23,BRSABV Ekana Cricket Stadium,Lucknow,Day,GL,MI,MI,field,GL,0,0,49,0,157,108,265,Post-2016
+596,2017,2017-04-24,Dubai International Cricket Stadium,Dubai,Night,KKR,MI,MI,field,MI,1,1,0,4,153,154,307,Post-2016
+597,2017,2017-04-25,Narendra Modi Stadium,Ahmedabad,Night,RPS,MI,RPS,bat,MI,0,1,0,4,179,181,360,Post-2016
+598,2017,2017-04-26,BRSABV Ekana Cricket Stadium,Lucknow,Night,SRH,RCB,SRH,bat,RCB,0,1,0,6,130,137,267,Post-2016
+599,2017,2017-04-27,Dubai International Cricket Stadium,Dubai,Night,RCB,GL,GL,field,RCB,0,0,62,0,171,109,280,Post-2016
+600,2017,2017-04-29,Eden Gardens,Kolkata,Day,DD,SRH,SRH,field,SRH,1,1,0,2,168,170,338,Post-2016
+601,2017,2017-04-30,Punjab Cricket Association Stadium,Mohali,Night,DD,RCB,RCB,field,RCB,1,1,0,5,189,196,385,Post-2016
+602,2017,2017-05-02,"MA Chidambaram Stadium, Chepauk",Chennai,Night,KXIP,GL,GL,field,KXIP,0,0,39,0,177,138,315,Post-2016
+603,2017,2017-05-03,Narendra Modi Stadium,Ahmedabad,Day,SRH,KXIP,KXIP,field,SRH,0,0,15,0,175,160,335,Post-2016
+604,2017,2017-05-04,Dubai International Cricket Stadium,Dubai,Night,RCB,KKR,KKR,field,RCB,0,0,21,0,148,127,275,Post-2016
+605,2017,2017-05-06,Punjab Cricket Association Stadium,Mohali,Night,GL,SRH,SRH,field,GL,0,0,38,0,167,129,296,Post-2016
+606,2017,2017-05-07,Narendra Modi Stadium,Ahmedabad,Night,RCB,KKR,RCB,bat,KKR,0,1,0,4,170,173,343,Post-2016
+607,2017,2017-05-08,BRSABV Ekana Cricket Stadium,Lucknow,Day,SRH,MI,SRH,bat,MI,0,1,0,7,137,142,279,Post-2016
+608,2017,2017-05-09,Punjab Cricket Association Stadium,Mohali,Night,KKR,RCB,RCB,field,KKR,0,0,22,0,164,142,306,Post-2016
+609,2017,2017-05-10,Sawai Mansingh Stadium,Jaipur,Night,MI,DD,MI,bat,DD,0,1,0,3,158,160,318,Post-2016
+610,2017,2017-05-12,Punjab Cricket Association Stadium,Mohali,Night,DD,SRH,SRH,field,SRH,1,1,0,5,179,186,365,Post-2016
+611,2017,2017-05-13,Narendra Modi Stadium,Ahmedabad,Night,KKR,DD,DD,field,KKR,0,0,32,0,189,157,346,Post-2016
+612,2017,2017-05-14,Rajiv Gandhi International Stadium,Hyderabad,Night,KKR,GL,KKR,bat,GL,0,1,0,8,165,170,335,Post-2016
+613,2017,2017-05-15,Sawai Mansingh Stadium,Jaipur,Night,KKR,GL,GL,field,KKR,0,0,52,0,155,103,258,Post-2016
+614,2017,2017-05-16,Dubai International Cricket Stadium,Dubai,Night,GL,KKR,GL,bat,KKR,0,1,0,4,174,177,351,Post-2016
+615,2017,2017-05-17,Narendra Modi Stadium,Ahmedabad,Night,GL,SRH,SRH,field,SRH,1,1,0,2,157,158,315,Post-2016
+616,2017,2017-05-18,Arun Jaitley Stadium,Delhi,Night,SRH,RCB,SRH,bat,RCB,0,1,0,4,151,152,303,Post-2016
+617,2017,2017-05-19,BRSABV Ekana Cricket Stadium,Lucknow,Day,DD,RPS,RPS,field,RPS,1,1,0,5,148,150,298,Post-2016
+618,2017,2017-05-20,Arun Jaitley Stadium,Delhi,Night,KXIP,GL,GL,field,KXIP,0,0,16,0,153,137,290,Post-2016
+619,2017,2017-05-21,M Chinnaswamy Stadium,Bengaluru,Night,KXIP,RCB,KXIP,bat,RCB,0,1,0,6,174,176,350,Post-2016
+620,2017,2017-05-22,Punjab Cricket Association Stadium,Mohali,Night,MI,GL,GL,field,MI,0,0,48,0,172,124,296,Post-2016
+621,2017,2017-05-23,Punjab Cricket Association Stadium,Mohali,Night,KKR,DD,DD,field,DD,1,1,0,2,167,169,336,Post-2016
+622,2017,2017-05-25,Narendra Modi Stadium,Ahmedabad,Night,DD,SRH,SRH,field,SRH,1,1,0,6,174,177,351,Post-2016
+623,2017,2017-05-26,Punjab Cricket Association Stadium,Mohali,Night,KXIP,KKR,KKR,field,KXIP,0,0,42,0,176,134,310,Post-2016
+624,2017,2017-05-27,M Chinnaswamy Stadium,Bengaluru,Night,DD,KKR,DD,bat,KKR,0,1,0,4,186,187,373,Post-2016
+625,2017,2017-05-28,Sawai Mansingh Stadium,Jaipur,Day,DD,KXIP,DD,bat,DD,1,0,20,0,149,129,278,Post-2016
+626,2017,2017-05-29,"MA Chidambaram Stadium, Chepauk",Chennai,Night,RPS,RCB,RCB,field,RPS,0,0,11,0,158,147,305,Post-2016
+627,2017,2017-05-31,Arun Jaitley Stadium,Delhi,Night,RCB,SRH,RCB,bat,SRH,0,1,0,4,187,194,381,Post-2016
+628,2017,2017-06-01,Sawai Mansingh Stadium,Jaipur,Night,SRH,GL,GL,field,GL,1,1,0,8,159,162,321,Post-2016
+629,2017,2017-06-02,"MA Chidambaram Stadium, Chepauk",Chennai,Day,GL,SRH,GL,bat,SRH,0,1,0,4,127,134,261,Post-2016
+630,2017,2017-06-03,Dubai International Cricket Stadium,Dubai,Night,SRH,KXIP,KXIP,field,KXIP,1,1,0,8,166,173,339,Post-2016
+631,2017,2017-06-04,Sawai Mansingh Stadium,Jaipur,Day,SRH,MI,SRH,bat,MI,0,1,0,3,160,167,327,Post-2016
+632,2017,2017-06-05,Wankhede Stadium,Mumbai,Day,DD,KXIP,KXIP,field,KXIP,1,1,0,4,155,156,311,Post-2016
+633,2017,2017-06-06,Narendra Modi Stadium,Ahmedabad,Night,KXIP,SRH,SRH,field,KXIP,0,0,28,0,178,150,328,Post-2016
+634,2017,2017-06-07,Dubai International Cricket Stadium,Dubai,Night,RPS,MI,MI,field,RPS,0,0,23,0,143,120,263,Post-2016
+635,2017,2017-06-08,Eden Gardens,Kolkata,Night,GL,RPS,GL,bat,RPS,0,1,0,4,156,163,319,Post-2016
+636,2017,2017-06-10,BRSABV Ekana Cricket Stadium,Lucknow,Night,SRH,KXIP,KXIP,field,KXIP,1,1,0,8,141,144,285,Post-2016
+637,2017,2017-06-11,"MA Chidambaram Stadium, Chepauk",Chennai,Night,SRH,KKR,KKR,field,SRH,0,0,8,0,156,148,304,Post-2016
+638,2018,2018-04-07,"MA Chidambaram Stadium, Chepauk",Chennai,Night,KKR,RCB,RCB,field,KKR,0,0,34,0,161,127,288,Post-2016
+639,2018,2018-04-09,Eden Gardens,Kolkata,Day,CSK,MI,MI,field,CSK,0,0,11,0,183,172,355,Post-2016
+640,2018,2018-04-10,Rajiv Gandhi International Stadium,Hyderabad,Day,RCB,KKR,KKR,field,KKR,1,1,0,2,175,177,352,Post-2016
+641,2018,2018-04-12,Eden Gardens,Kolkata,Night,RCB,SRH,RCB,bat,RCB,1,0,37,0,148,111,259,Post-2016
+642,2018,2018-04-13,"MA Chidambaram Stadium, Chepauk",Chennai,Night,RCB,KXIP,KXIP,field,KXIP,1,1,0,5,134,141,275,Post-2016
+643,2018,2018-04-14,Dubai International Cricket Stadium,Dubai,Night,CSK,KXIP,CSK,bat,CSK,1,0,24,0,170,146,316,Post-2016
+644,2018,2018-04-16,Sawai Mansingh Stadium,Jaipur,Night,SRH,KKR,KKR,field,SRH,0,0,44,0,157,113,270,Post-2016
+645,2018,2018-04-18,Wankhede Stadium,Mumbai,Night,KXIP,DD,DD,field,KXIP,0,0,16,0,172,156,328,Post-2016
+646,2018,2018-04-20,Dubai International Cricket Stadium,Dubai,Night,DD,KXIP,KXIP,field,DD,0,0,48,0,153,105,258,Post-2016
+647,2018,2018-04-21,Sawai Mansingh Stadium,Jaipur,Night,RCB,KKR,KKR,field,KKR,1,1,0,4,169,170,339,Post-2016
+648,2018,2018-04-22,"MA Chidambaram Stadium, Chepauk",Chennai,Night,SRH,DD,DD,field,SRH,0,0,37,0,157,120,277,Post-2016
+649,2018,2018-04-23,M Chinnaswamy Stadium,Bengaluru,Night,KXIP,MI,MI,field,KXIP,0,0,71,0,193,122,315,Post-2016
+650,2018,2018-04-24,BRSABV Ekana Cricket Stadium,Lucknow,Night,CSK,KKR,KKR,field,KKR,1,1,0,3,158,161,319,Post-2016
+651,2018,2018-04-25,Dubai International Cricket Stadium,Dubai,Night,DD,MI,DD,bat,MI,0,1,0,5,159,166,325,Post-2016
+652,2018,2018-04-26,Rajiv Gandhi International Stadium,Hyderabad,Day,KKR,RCB,RCB,field,RCB,1,1,0,2,175,182,357,Post-2016
+653,2018,2018-04-27,Rajiv Gandhi International Stadium,Hyderabad,Night,KKR,MI,KKR,bat,MI,0,1,0,2,184,187,371,Post-2016
+654,2018,2018-04-28,Eden Gardens,Kolkata,Night,RR,SRH,SRH,field,SRH,1,1,0,5,201,204,405,Post-2016
+655,2018,2018-04-29,Narendra Modi Stadium,Ahmedabad,Night,MI,RCB,RCB,field,MI,0,0,25,0,171,146,317,Post-2016
+656,2018,2018-04-30,BRSABV Ekana Cricket Stadium,Lucknow,Night,SRH,RR,RR,field,SRH,0,0,11,0,164,153,317,Post-2016
+657,2018,2018-05-01,M Chinnaswamy Stadium,Bengaluru,Day,RCB,DD,DD,field,RCB,0,0,18,0,187,169,356,Post-2016
+658,2018,2018-05-02,Arun Jaitley Stadium,Delhi,Night,RCB,SRH,RCB,bat,SRH,0,1,0,5,173,180,353,Post-2016
+659,2018,2018-05-03,M Chinnaswamy Stadium,Bengaluru,Night,RCB,DD,DD,field,RCB,0,0,7,0,199,192,391,Post-2016
+660,2018,2018-05-04,Wankhede Stadium,Mumbai,Night,DD,RR,RR,field,DD,0,0,22,0,179,157,336,Post-2016
+661,2018,2018-05-05,Sawai Mansingh Stadium,Jaipur,Night,DD,KKR,KKR,field,KKR,1,1,0,7,170,175,345,Post-2016
+662,2018,2018-05-07,Arun Jaitley Stadium,Delhi,Night,MI,DD,MI,bat,MI,1,0,38,0,182,144,326,Post-2016
+663,2018,2018-05-08,BRSABV Ekana Cricket Stadium,Lucknow,Night,KKR,SRH,SRH,field,SRH,1,1,0,4,168,175,343,Post-2016
+664,2018,2018-05-09,Narendra Modi Stadium,Ahmedabad,Night,KKR,MI,MI,field,MI,1,1,0,5,182,183,365,Post-2016
+665,2018,2018-05-10,Punjab Cricket Association Stadium,Mohali,Night,KKR,RR,RR,field,RR,1,1,0,7,181,182,363,Post-2016
+666,2018,2018-05-11,BRSABV Ekana Cricket Stadium,Lucknow,Night,RR,CSK,CSK,field,RR,0,0,26,0,159,133,292,Post-2016
+667,2018,2018-05-12,Narendra Modi Stadium,Ahmedabad,Night,SRH,DD,SRH,bat,DD,0,1,0,4,190,191,381,Post-2016
+668,2018,2018-05-13,BRSABV Ekana Cricket Stadium,Lucknow,Night,DD,KKR,KKR,field,DD,0,0,22,0,168,146,314,Post-2016
+669,2018,2018-05-14,"MA Chidambaram Stadium, Chepauk",Chennai,Night,DD,RCB,RCB,field,RCB,1,1,0,6,137,144,281,Post-2016
+670,2018,2018-05-15,"MA Chidambaram Stadium, Chepauk",Chennai,Night,DD,RR,RR,field,DD,0,0,9,0,174,165,339,Post-2016
+671,2018,2018-05-16,Dubai International Cricket Stadium,Dubai,Night,CSK,DD,DD,field,CSK,0,0,32,0,158,126,284,Post-2016
+672,2018,2018-05-18,Arun Jaitley Stadium,Delhi,Night,MI,SRH,SRH,field,SRH,1,1,0,6,175,180,355,Post-2016
+673,2018,2018-05-19,Arun Jaitley Stadium,Delhi,Night,DD,KXIP,DD,bat,KXIP,0,1,0,4,173,180,353,Post-2016
+674,2018,2018-05-20,"MA Chidambaram Stadium, Chepauk",Chennai,Night,SRH,DD,DD,field,DD,1,1,0,7,178,183,361,Post-2016
+675,2018,2018-05-21,Rajiv Gandhi International Stadium,Hyderabad,Night,DD,MI,DD,bat,DD,1,0,38,0,187,149,336,Post-2016
+676,2018,2018-05-22,Narendra Modi Stadium,Ahmedabad,Day,MI,DD,MI,bat,DD,0,1,0,4,171,176,347,Post-2016
+677,2018,2018-05-23,BRSABV Ekana Cricket Stadium,Lucknow,Day,MI,KKR,MI,bat,KKR,0,1,0,2,155,162,317,Post-2016
+678,2018,2018-05-24,BRSABV Ekana Cricket Stadium,Lucknow,Night,KKR,DD,DD,field,KKR,0,0,41,0,159,118,277,Post-2016
+679,2018,2018-05-25,Arun Jaitley Stadium,Delhi,Night,DD,KXIP,KXIP,field,DD,0,0,28,0,172,144,316,Post-2016
+680,2018,2018-05-27,Eden Gardens,Kolkata,Night,DD,CSK,CSK,field,DD,0,0,16,0,178,162,340,Post-2016
+681,2018,2018-05-28,Arun Jaitley Stadium,Delhi,Night,SRH,KKR,KKR,field,KKR,1,1,0,8,187,190,377,Post-2016
+682,2018,2018-05-29,Rajiv Gandhi International Stadium,Hyderabad,Night,KXIP,RR,KXIP,bat,KXIP,1,0,8,0,175,167,342,Post-2016
+683,2018,2018-05-30,Narendra Modi Stadium,Ahmedabad,Day,SRH,DD,SRH,bat,DD,0,1,0,5,168,170,338,Post-2016
+684,2018,2018-06-01,Sawai Mansingh Stadium,Jaipur,Day,CSK,DD,DD,field,CSK,0,0,31,0,167,136,303,Post-2016
+685,2018,2018-06-03,Dubai International Cricket Stadium,Dubai,Day,CSK,KKR,CSK,bat,KKR,0,1,0,8,171,172,343,Post-2016
+686,2018,2018-06-05,"MA Chidambaram Stadium, Chepauk",Chennai,Night,RR,KKR,KKR,field,KKR,1,1,0,5,165,167,332,Post-2016
+687,2018,2018-06-06,Punjab Cricket Association Stadium,Mohali,Night,CSK,RCB,RCB,field,RCB,1,1,0,2,186,189,375,Post-2016
+688,2018,2018-06-08,BRSABV Ekana Cricket Stadium,Lucknow,Day,SRH,DD,DD,field,DD,1,1,0,6,154,155,309,Post-2016
+689,2018,2018-06-09,Dubai International Cricket Stadium,Dubai,Night,SRH,KKR,KKR,field,SRH,0,0,8,0,176,168,344,Post-2016
+690,2018,2018-06-10,Sawai Mansingh Stadium,Jaipur,Night,DD,KKR,KKR,field,KKR,1,1,0,3,175,177,352,Post-2016
+691,2018,2018-06-11,Rajiv Gandhi International Stadium,Hyderabad,Night,DD,RR,RR,field,RR,1,1,0,8,173,180,353,Post-2016
+692,2018,2018-06-13,M Chinnaswamy Stadium,Bengaluru,Night,DD,RCB,RCB,field,RCB,1,1,0,2,196,198,394,Post-2016
+693,2018,2018-06-14,Sawai Mansingh Stadium,Jaipur,Night,RR,MI,MI,field,MI,1,1,0,3,160,162,322,Post-2016
+694,2018,2018-06-15,Eden Gardens,Kolkata,Night,MI,RCB,RCB,field,MI,0,0,33,0,178,145,323,Post-2016
+695,2018,2018-06-16,Sawai Mansingh Stadium,Jaipur,Day,KXIP,KKR,KKR,field,KKR,1,1,0,6,155,158,313,Post-2016
+696,2018,2018-06-17,"MA Chidambaram Stadium, Chepauk",Chennai,Day,RR,KKR,KKR,field,KKR,1,1,0,3,154,157,311,Post-2016
+697,2018,2018-06-18,Dubai International Cricket Stadium,Dubai,Night,SRH,DD,SRH,bat,SRH,1,0,20,0,168,148,316,Post-2016
+698,2019,2019-03-23,Wankhede Stadium,Mumbai,Night,DC,KXIP,DC,bat,KXIP,0,1,0,8,173,176,349,Post-2016
+699,2019,2019-03-24,Dubai International Cricket Stadium,Dubai,Night,SRH,RR,RR,field,RR,1,1,0,4,158,165,323,Post-2016
+700,2019,2019-03-26,Punjab Cricket Association Stadium,Mohali,Night,SRH,KKR,KKR,field,SRH,0,0,7,0,159,152,311,Post-2016
+701,2019,2019-03-27,M Chinnaswamy Stadium,Bengaluru,Night,KKR,CSK,CSK,field,KKR,0,0,22,0,202,180,382,Post-2016
+702,2019,2019-03-28,Dubai International Cricket Stadium,Dubai,Day,RR,RCB,RCB,field,RCB,1,1,0,5,160,161,321,Post-2016
+703,2019,2019-03-29,Wankhede Stadium,Mumbai,Night,KKR,SRH,SRH,field,KKR,0,0,27,0,189,162,351,Post-2016
+704,2019,2019-03-30,Arun Jaitley Stadium,Delhi,Night,DC,SRH,SRH,field,SRH,1,1,0,7,186,191,377,Post-2016
+705,2019,2019-03-31,Eden Gardens,Kolkata,Night,MI,RCB,RCB,field,RCB,1,1,0,6,180,185,365,Post-2016
+706,2019,2019-04-02,Arun Jaitley Stadium,Delhi,Night,RR,CSK,CSK,field,RR,0,0,14,0,145,131,276,Post-2016
+707,2019,2019-04-03,Eden Gardens,Kolkata,Night,KXIP,RCB,KXIP,bat,RCB,0,1,0,6,158,160,318,Post-2016
+708,2019,2019-04-05,Rajiv Gandhi International Stadium,Hyderabad,Day,KKR,KXIP,KXIP,field,KXIP,1,1,0,7,187,189,376,Post-2016
+709,2019,2019-04-06,Rajiv Gandhi International Stadium,Hyderabad,Night,KKR,RCB,RCB,field,RCB,1,1,0,6,182,183,365,Post-2016
+710,2019,2019-04-07,Dubai International Cricket Stadium,Dubai,Night,RCB,KKR,KKR,field,KKR,1,1,0,4,176,177,353,Post-2016
+711,2019,2019-04-08,Narendra Modi Stadium,Ahmedabad,Night,RCB,DC,DC,field,RCB,0,0,4,0,181,177,358,Post-2016
+712,2019,2019-04-09,M Chinnaswamy Stadium,Bengaluru,Night,CSK,RR,RR,field,RR,1,1,0,3,189,190,379,Post-2016
+713,2019,2019-04-11,Punjab Cricket Association Stadium,Mohali,Night,SRH,RR,SRH,bat,SRH,1,0,25,0,200,175,375,Post-2016
+714,2019,2019-04-12,M Chinnaswamy Stadium,Bengaluru,Night,RR,RCB,RCB,field,RCB,1,1,0,6,198,199,397,Post-2016
+715,2019,2019-04-13,Dubai International Cricket Stadium,Dubai,Night,CSK,DC,DC,field,DC,1,1,0,3,180,185,365,Post-2016
+716,2019,2019-04-14,M Chinnaswamy Stadium,Bengaluru,Day,MI,KKR,KKR,field,KKR,1,1,0,3,194,201,395,Post-2016
+717,2019,2019-04-16,Dubai International Cricket Stadium,Dubai,Night,MI,RCB,MI,bat,MI,1,0,23,0,147,124,271,Post-2016
+718,2019,2019-04-17,Dubai International Cricket Stadium,Dubai,Night,CSK,KXIP,KXIP,field,KXIP,1,1,0,7,157,162,319,Post-2016
+719,2019,2019-04-19,Punjab Cricket Association Stadium,Mohali,Day,RR,DC,DC,field,DC,1,1,0,6,161,168,329,Post-2016
+720,2019,2019-04-20,Rajiv Gandhi International Stadium,Hyderabad,Day,CSK,RR,RR,field,CSK,0,0,25,0,155,130,285,Post-2016
+721,2019,2019-04-21,Eden Gardens,Kolkata,Night,CSK,KXIP,CSK,bat,KXIP,0,1,0,7,162,165,327,Post-2016
+722,2019,2019-04-22,BRSABV Ekana Cricket Stadium,Lucknow,Night,DC,CSK,CSK,field,CSK,1,1,0,7,145,148,293,Post-2016
+723,2019,2019-04-23,BRSABV Ekana Cricket Stadium,Lucknow,Night,DC,RCB,DC,bat,DC,1,0,25,0,168,143,311,Post-2016
+724,2019,2019-04-24,Narendra Modi Stadium,Ahmedabad,Night,DC,RR,DC,bat,RR,0,1,0,5,171,173,344,Post-2016
+725,2019,2019-04-26,M Chinnaswamy Stadium,Bengaluru,Night,DC,MI,MI,field,DC,0,0,19,0,194,175,369,Post-2016
+726,2019,2019-04-27,Arun Jaitley Stadium,Delhi,Day,KXIP,RR,RR,field,KXIP,0,0,24,0,166,142,308,Post-2016
+727,2019,2019-04-29,Eden Gardens,Kolkata,Night,CSK,RR,RR,field,RR,1,1,0,6,199,200,399,Post-2016
+728,2019,2019-04-30,Sawai Mansingh Stadium,Jaipur,Night,MI,SRH,SRH,field,MI,0,0,4,0,155,151,306,Post-2016
+729,2019,2019-05-02,BRSABV Ekana Cricket Stadium,Lucknow,Night,KXIP,KKR,KKR,field,KXIP,0,0,31,0,136,105,241,Post-2016
+730,2019,2019-05-03,"MA Chidambaram Stadium, Chepauk",Chennai,Night,DC,RR,RR,field,DC,0,0,16,0,141,125,266,Post-2016
+731,2019,2019-05-05,Punjab Cricket Association Stadium,Mohali,Night,RCB,KXIP,KXIP,field,KXIP,1,1,0,7,178,180,358,Post-2016
+732,2019,2019-05-07,Dubai International Cricket Stadium,Dubai,Night,DC,RR,DC,bat,RR,0,1,0,6,171,176,347,Post-2016
+733,2019,2019-05-09,Wankhede Stadium,Mumbai,Night,DC,SRH,SRH,field,DC,0,0,13,0,167,154,321,Post-2016
+734,2019,2019-05-10,BRSABV Ekana Cricket Stadium,Lucknow,Day,DC,RCB,RCB,field,RCB,1,1,0,8,151,152,303,Post-2016
+735,2019,2019-05-11,Rajiv Gandhi International Stadium,Hyderabad,Night,KXIP,KKR,KKR,field,KXIP,0,0,20,0,170,150,320,Post-2016
+736,2019,2019-05-13,Eden Gardens,Kolkata,Day,KXIP,KKR,KKR,field,KKR,1,1,0,8,171,172,343,Post-2016
+737,2019,2019-05-15,Dubai International Cricket Stadium,Dubai,Night,MI,SRH,SRH,field,SRH,1,1,0,3,166,167,333,Post-2016
+738,2019,2019-05-16,Punjab Cricket Association Stadium,Mohali,Night,KXIP,KKR,KKR,field,KXIP,0,0,24,0,192,168,360,Post-2016
+739,2019,2019-05-17,Sawai Mansingh Stadium,Jaipur,Night,KKR,SRH,SRH,field,SRH,1,1,0,6,171,172,343,Post-2016
+740,2019,2019-05-18,Sawai Mansingh Stadium,Jaipur,Night,KKR,KXIP,KXIP,field,KXIP,1,1,0,4,174,175,349,Post-2016
+741,2019,2019-05-19,"MA Chidambaram Stadium, Chepauk",Chennai,Day,MI,RR,MI,bat,MI,1,0,6,0,151,145,296,Post-2016
+742,2019,2019-05-20,Dubai International Cricket Stadium,Dubai,Day,DC,KKR,KKR,field,KKR,1,1,0,7,163,164,327,Post-2016
+743,2019,2019-05-21,M Chinnaswamy Stadium,Bengaluru,Night,KXIP,MI,MI,field,MI,1,1,0,7,189,196,385,Post-2016
+744,2019,2019-05-22,Narendra Modi Stadium,Ahmedabad,Night,CSK,KKR,KKR,field,CSK,0,0,25,0,153,128,281,Post-2016
+745,2019,2019-05-23,Arun Jaitley Stadium,Delhi,Day,RCB,SRH,SRH,field,SRH,1,1,0,2,177,182,359,Post-2016
+746,2019,2019-05-25,Dubai International Cricket Stadium,Dubai,Night,MI,KXIP,KXIP,field,KXIP,1,1,0,4,175,180,355,Post-2016
+747,2019,2019-05-26,Rajiv Gandhi International Stadium,Hyderabad,Night,DC,MI,MI,field,MI,1,1,0,3,182,184,366,Post-2016
+748,2019,2019-05-28,Rajiv Gandhi International Stadium,Hyderabad,Night,DC,SRH,DC,bat,DC,1,0,6,0,164,158,322,Post-2016
+749,2019,2019-05-29,Punjab Cricket Association Stadium,Mohali,Night,SRH,CSK,CSK,field,SRH,0,0,13,0,187,174,361,Post-2016
+750,2019,2019-05-31,Punjab Cricket Association Stadium,Mohali,Night,SRH,RCB,RCB,field,SRH,0,0,28,0,192,164,356,Post-2016
+751,2019,2019-06-01,Wankhede Stadium,Mumbai,Night,MI,RCB,MI,bat,RCB,0,1,0,5,179,182,361,Post-2016
+752,2019,2019-06-02,BRSABV Ekana Cricket Stadium,Lucknow,Night,KXIP,SRH,SRH,field,KXIP,0,0,4,0,162,158,320,Post-2016
+753,2019,2019-06-03,Sawai Mansingh Stadium,Jaipur,Day,CSK,SRH,SRH,field,SRH,1,1,0,4,178,185,363,Post-2016
+754,2019,2019-06-04,BRSABV Ekana Cricket Stadium,Lucknow,Night,KKR,SRH,SRH,field,SRH,1,1,0,8,164,165,329,Post-2016
+755,2019,2019-06-06,Punjab Cricket Association Stadium,Mohali,Day,DC,CSK,CSK,field,DC,0,0,7,0,165,158,323,Post-2016
+756,2019,2019-06-07,M Chinnaswamy Stadium,Bengaluru,Night,KXIP,MI,MI,field,KXIP,0,0,35,0,189,154,343,Post-2016
+757,2019,2019-06-08,Wankhede Stadium,Mumbai,Night,KKR,MI,MI,field,KKR,0,0,15,0,191,176,367,Post-2016
+758,2020,2020-09-19,Narendra Modi Stadium,Ahmedabad,Night,RR,RCB,RCB,field,RCB,1,1,0,2,171,174,345,Post-2016
+759,2020,2020-09-20,Wankhede Stadium,Mumbai,Night,MI,RR,RR,field,MI,0,0,48,0,168,120,288,Post-2016
+760,2020,2020-09-21,BRSABV Ekana Cricket Stadium,Lucknow,Night,DC,MI,MI,field,DC,0,0,23,0,140,117,257,Post-2016
+761,2020,2020-09-22,Rajiv Gandhi International Stadium,Hyderabad,Night,RR,KKR,KKR,field,KKR,1,1,0,7,175,178,353,Post-2016
+762,2020,2020-09-23,Wankhede Stadium,Mumbai,Night,MI,SRH,SRH,field,MI,0,0,23,0,182,159,341,Post-2016
+763,2020,2020-09-24,Narendra Modi Stadium,Ahmedabad,Night,KKR,DC,KKR,bat,DC,0,1,0,5,180,185,365,Post-2016
+764,2020,2020-09-25,M Chinnaswamy Stadium,Bengaluru,Day,KKR,DC,DC,field,DC,1,1,0,6,187,189,376,Post-2016
+765,2020,2020-09-26,Sawai Mansingh Stadium,Jaipur,Night,DC,SRH,SRH,field,DC,0,0,20,0,163,143,306,Post-2016
+766,2020,2020-09-28,M Chinnaswamy Stadium,Bengaluru,Night,MI,SRH,SRH,field,MI,0,0,19,0,210,191,401,Post-2016
+767,2020,2020-09-29,Sawai Mansingh Stadium,Jaipur,Day,RCB,MI,RCB,bat,MI,0,1,0,7,171,174,345,Post-2016
+768,2020,2020-09-30,Punjab Cricket Association Stadium,Mohali,Day,KXIP,RCB,RCB,field,RCB,1,1,0,8,190,191,381,Post-2016
+769,2020,2020-10-01,Narendra Modi Stadium,Ahmedabad,Night,KXIP,RR,RR,field,RR,1,1,0,4,172,174,346,Post-2016
+770,2020,2020-10-03,Arun Jaitley Stadium,Delhi,Day,DC,KKR,KKR,field,DC,0,0,6,0,158,152,310,Post-2016
+771,2020,2020-10-04,Eden Gardens,Kolkata,Day,CSK,SRH,CSK,bat,CSK,1,0,57,0,180,123,303,Post-2016
+772,2020,2020-10-05,Rajiv Gandhi International Stadium,Hyderabad,Night,RR,MI,MI,field,RR,0,0,4,0,179,175,354,Post-2016
+773,2020,2020-10-06,Narendra Modi Stadium,Ahmedabad,Day,CSK,MI,CSK,bat,MI,0,1,0,6,168,169,337,Post-2016
+774,2020,2020-10-07,Punjab Cricket Association Stadium,Mohali,Day,DC,SRH,SRH,field,SRH,1,1,0,4,170,175,345,Post-2016
+775,2020,2020-10-08,Rajiv Gandhi International Stadium,Hyderabad,Night,RR,SRH,SRH,field,RR,0,0,35,0,167,132,299,Post-2016
+776,2020,2020-10-09,Narendra Modi Stadium,Ahmedabad,Night,SRH,RR,RR,field,RR,1,1,0,5,162,163,325,Post-2016
+777,2020,2020-10-10,"MA Chidambaram Stadium, Chepauk",Chennai,Night,KXIP,MI,MI,field,MI,1,1,0,6,181,182,363,Post-2016
+778,2020,2020-10-11,BRSABV Ekana Cricket Stadium,Lucknow,Night,SRH,MI,MI,field,MI,1,1,0,7,126,128,254,Post-2016
+779,2020,2020-10-13,Punjab Cricket Association Stadium,Mohali,Day,RCB,KXIP,RCB,bat,RCB,1,0,5,0,189,184,373,Post-2016
+780,2020,2020-10-14,Punjab Cricket Association Stadium,Mohali,Night,DC,RCB,RCB,field,RCB,1,1,0,5,182,189,371,Post-2016
+781,2020,2020-10-15,Dubai International Cricket Stadium,Dubai,Day,RCB,RR,RR,field,RR,1,1,0,2,161,163,324,Post-2016
+782,2020,2020-10-16,Dubai International Cricket Stadium,Dubai,Night,KKR,DC,DC,field,DC,1,1,0,7,145,150,295,Post-2016
+783,2020,2020-10-17,"MA Chidambaram Stadium, Chepauk",Chennai,Day,KXIP,SRH,SRH,field,SRH,1,1,0,8,164,169,333,Post-2016
+784,2020,2020-10-19,Rajiv Gandhi International Stadium,Hyderabad,Day,MI,CSK,MI,bat,MI,1,0,18,0,173,155,328,Post-2016
+785,2020,2020-10-20,Narendra Modi Stadium,Ahmedabad,Night,KKR,RCB,RCB,field,RCB,1,1,0,7,177,178,355,Post-2016
+786,2020,2020-10-21,Punjab Cricket Association Stadium,Mohali,Night,KXIP,SRH,SRH,field,KXIP,0,0,29,0,184,155,339,Post-2016
+787,2020,2020-10-22,Arun Jaitley Stadium,Delhi,Day,KKR,KXIP,KXIP,field,KXIP,1,1,0,4,175,177,352,Post-2016
+788,2020,2020-10-23,Arun Jaitley Stadium,Delhi,Night,SRH,CSK,CSK,field,CSK,1,1,0,7,175,178,353,Post-2016
+789,2020,2020-10-25,Sawai Mansingh Stadium,Jaipur,Night,KXIP,DC,DC,field,DC,1,1,0,5,177,184,361,Post-2016
+790,2020,2020-10-27,BRSABV Ekana Cricket Stadium,Lucknow,Night,RR,KKR,RR,bat,RR,1,0,44,0,146,102,248,Post-2016
+791,2020,2020-10-28,Narendra Modi Stadium,Ahmedabad,Night,MI,KKR,KKR,field,MI,0,0,39,0,150,111,261,Post-2016
+792,2020,2020-10-29,Rajiv Gandhi International Stadium,Hyderabad,Day,KKR,RR,KKR,bat,KKR,1,0,28,0,174,146,320,Post-2016
+793,2020,2020-10-30,M Chinnaswamy Stadium,Bengaluru,Night,MI,RR,MI,bat,MI,1,0,32,0,198,166,364,Post-2016
+794,2020,2020-11-01,M Chinnaswamy Stadium,Bengaluru,Day,RCB,DC,DC,field,DC,1,1,0,6,193,196,389,Post-2016
+795,2020,2020-11-02,BRSABV Ekana Cricket Stadium,Lucknow,Night,RR,KKR,KKR,field,KKR,1,1,0,8,152,157,309,Post-2016
+796,2020,2020-11-03,Punjab Cricket Association Stadium,Mohali,Day,KKR,CSK,CSK,field,CSK,1,1,0,2,190,195,385,Post-2016
+797,2020,2020-11-04,Punjab Cricket Association Stadium,Mohali,Night,SRH,KXIP,KXIP,field,SRH,0,0,26,0,145,119,264,Post-2016
+798,2020,2020-11-05,Narendra Modi Stadium,Ahmedabad,Day,MI,KKR,MI,bat,MI,1,0,40,0,173,133,306,Post-2016
+799,2020,2020-11-06,Punjab Cricket Association Stadium,Mohali,Day,KKR,RR,KKR,bat,KKR,1,0,30,0,187,157,344,Post-2016
+800,2020,2020-11-07,"MA Chidambaram Stadium, Chepauk",Chennai,Night,KKR,SRH,SRH,field,KKR,0,0,14,0,148,134,282,Post-2016
+801,2020,2020-11-08,Eden Gardens,Kolkata,Night,RCB,KKR,KKR,field,KKR,1,1,0,4,188,193,381,Post-2016
+802,2020,2020-11-10,BRSABV Ekana Cricket Stadium,Lucknow,Night,KXIP,CSK,CSK,field,KXIP,0,0,31,0,159,128,287,Post-2016
+803,2020,2020-11-12,Arun Jaitley Stadium,Delhi,Night,CSK,RCB,RCB,field,RCB,1,1,0,6,168,170,338,Post-2016
+804,2020,2020-11-14,Sawai Mansingh Stadium,Jaipur,Night,KKR,RCB,RCB,field,RCB,1,1,0,7,172,173,345,Post-2016
+805,2020,2020-11-16,Arun Jaitley Stadium,Delhi,Night,KKR,DC,KKR,bat,KKR,1,0,29,0,188,159,347,Post-2016
+806,2020,2020-11-17,Narendra Modi Stadium,Ahmedabad,Night,RR,MI,RR,bat,RR,1,0,10,0,185,175,360,Post-2016
+807,2020,2020-11-19,Narendra Modi Stadium,Ahmedabad,Night,KXIP,MI,MI,field,KXIP,0,0,13,0,172,159,331,Post-2016
+808,2020,2020-11-20,Wankhede Stadium,Mumbai,Night,DC,CSK,CSK,field,CSK,1,1,0,6,175,182,357,Post-2016
+809,2020,2020-11-21,M Chinnaswamy Stadium,Bengaluru,Night,CSK,RR,RR,field,CSK,0,0,27,0,189,162,351,Post-2016
+810,2020,2020-11-22,"MA Chidambaram Stadium, Chepauk",Chennai,Night,KXIP,KKR,KKR,field,KKR,1,1,0,6,158,161,319,Post-2016
+811,2020,2020-11-23,"MA Chidambaram Stadium, Chepauk",Chennai,Night,CSK,DC,DC,field,DC,1,1,0,5,166,171,337,Post-2016
+812,2020,2020-11-24,Sawai Mansingh Stadium,Jaipur,Night,MI,KXIP,MI,bat,MI,1,0,12,0,146,134,280,Post-2016
+813,2020,2020-11-25,BRSABV Ekana Cricket Stadium,Lucknow,Day,DC,KKR,DC,bat,KKR,0,1,0,2,143,145,288,Post-2016
+814,2020,2020-11-26,Punjab Cricket Association Stadium,Mohali,Night,RR,MI,MI,field,RR,0,0,6,0,175,169,344,Post-2016
+815,2020,2020-11-27,Wankhede Stadium,Mumbai,Day,KKR,MI,MI,field,MI,1,1,0,8,184,191,375,Post-2016
+816,2020,2020-11-28,BRSABV Ekana Cricket Stadium,Lucknow,Night,RCB,DC,RCB,bat,RCB,1,0,44,0,154,110,264,Post-2016
+817,2020,2020-11-29,Eden Gardens,Kolkata,Night,KXIP,DC,KXIP,bat,KXIP,1,0,26,0,164,138,302,Post-2016
+818,2021,2021-04-09,M Chinnaswamy Stadium,Bengaluru,Day,RR,RCB,RCB,field,RCB,1,1,0,2,211,212,423,Post-2016
+819,2021,2021-04-11,"MA Chidambaram Stadium, Chepauk",Chennai,Day,PBKS,RCB,RCB,field,PBKS,0,0,36,0,160,124,284,Post-2016
+820,2021,2021-04-12,BRSABV Ekana Cricket Stadium,Lucknow,Night,RCB,MI,MI,field,RCB,0,0,31,0,142,111,253,Post-2016
+821,2021,2021-04-13,Rajiv Gandhi International Stadium,Hyderabad,Night,RCB,KKR,KKR,field,KKR,1,1,0,7,183,184,367,Post-2016
+822,2021,2021-04-14,Wankhede Stadium,Mumbai,Night,DC,MI,MI,field,MI,1,1,0,4,180,187,367,Post-2016
+823,2021,2021-04-15,Wankhede Stadium,Mumbai,Night,RR,DC,RR,bat,RR,1,0,13,0,176,163,339,Post-2016
+824,2021,2021-04-16,BRSABV Ekana Cricket Stadium,Lucknow,Night,CSK,RCB,RCB,field,RCB,1,1,0,7,148,150,298,Post-2016
+825,2021,2021-04-17,Arun Jaitley Stadium,Delhi,Night,DC,PBKS,PBKS,field,PBKS,1,1,0,4,176,179,355,Post-2016
+826,2021,2021-04-18,M Chinnaswamy Stadium,Bengaluru,Day,CSK,KKR,KKR,field,CSK,0,0,23,0,203,180,383,Post-2016
+827,2021,2021-04-19,"MA Chidambaram Stadium, Chepauk",Chennai,Night,DC,KKR,KKR,field,DC,0,0,36,0,154,118,272,Post-2016
+828,2021,2021-04-20,Dubai International Cricket Stadium,Dubai,Night,SRH,RR,RR,field,RR,1,1,0,3,151,153,304,Post-2016
+829,2021,2021-04-21,Punjab Cricket Association Stadium,Mohali,Night,MI,SRH,MI,bat,SRH,0,1,0,4,173,176,349,Post-2016
+830,2021,2021-04-22,"MA Chidambaram Stadium, Chepauk",Chennai,Night,MI,KKR,MI,bat,KKR,0,1,0,5,149,152,301,Post-2016
+831,2021,2021-04-23,Arun Jaitley Stadium,Delhi,Night,RR,KKR,KKR,field,KKR,1,1,0,2,184,187,371,Post-2016
+832,2021,2021-04-24,M Chinnaswamy Stadium,Bengaluru,Day,PBKS,CSK,CSK,field,CSK,1,1,0,4,193,200,393,Post-2016
+833,2021,2021-04-25,Sawai Mansingh Stadium,Jaipur,Day,CSK,MI,MI,field,MI,1,1,0,2,161,168,329,Post-2016
+834,2021,2021-04-26,BRSABV Ekana Cricket Stadium,Lucknow,Day,MI,KKR,MI,bat,KKR,0,1,0,2,151,156,307,Post-2016
+835,2021,2021-04-27,Dubai International Cricket Stadium,Dubai,Night,RR,CSK,CSK,field,CSK,1,1,0,6,154,159,313,Post-2016
+836,2021,2021-04-28,BRSABV Ekana Cricket Stadium,Lucknow,Day,KKR,MI,MI,field,KKR,0,0,37,0,151,114,265,Post-2016
+837,2021,2021-04-29,Wankhede Stadium,Mumbai,Night,PBKS,DC,DC,field,PBKS,0,0,25,0,187,162,349,Post-2016
+838,2021,2021-05-01,Eden Gardens,Kolkata,Night,DC,KKR,KKR,field,DC,0,0,19,0,180,161,341,Post-2016
+839,2021,2021-05-02,Dubai International Cricket Stadium,Dubai,Day,RR,RCB,RCB,field,RCB,1,1,0,8,168,169,337,Post-2016
+840,2021,2021-05-03,Sawai Mansingh Stadium,Jaipur,Day,MI,KKR,KKR,field,KKR,1,1,0,7,161,164,325,Post-2016
+841,2021,2021-05-04,Eden Gardens,Kolkata,Night,RR,CSK,RR,bat,CSK,0,1,0,6,178,181,359,Post-2016
+842,2021,2021-05-05,M Chinnaswamy Stadium,Bengaluru,Night,KKR,MI,MI,field,KKR,0,0,15,0,175,160,335,Post-2016
+843,2021,2021-05-06,Narendra Modi Stadium,Ahmedabad,Night,RR,PBKS,RR,bat,RR,1,0,21,0,159,138,297,Post-2016
+844,2021,2021-05-07,Punjab Cricket Association Stadium,Mohali,Night,RCB,KKR,KKR,field,KKR,1,1,0,5,171,178,349,Post-2016
+845,2021,2021-05-08,Sawai Mansingh Stadium,Jaipur,Night,RCB,SRH,RCB,bat,RCB,1,0,33,0,166,133,299,Post-2016
+846,2021,2021-05-09,M Chinnaswamy Stadium,Bengaluru,Night,KKR,SRH,SRH,field,KKR,0,0,22,0,179,157,336,Post-2016
+847,2021,2021-05-10,Eden Gardens,Kolkata,Day,RR,SRH,RR,bat,SRH,0,1,0,4,185,190,375,Post-2016
+848,2021,2021-05-11,"MA Chidambaram Stadium, Chepauk",Chennai,Night,KKR,RCB,RCB,field,KKR,0,0,29,0,140,111,251,Post-2016
+849,2021,2021-05-12,Dubai International Cricket Stadium,Dubai,Night,RR,MI,MI,field,MI,1,1,0,8,151,156,307,Post-2016
+850,2021,2021-05-13,Narendra Modi Stadium,Ahmedabad,Night,DC,SRH,SRH,field,DC,0,0,48,0,185,137,322,Post-2016
+851,2021,2021-05-14,Arun Jaitley Stadium,Delhi,Night,RCB,SRH,SRH,field,SRH,1,1,0,7,164,171,335,Post-2016
+852,2021,2021-05-15,"MA Chidambaram Stadium, Chepauk",Chennai,Night,MI,CSK,CSK,field,CSK,1,1,0,6,154,161,315,Post-2016
+853,2021,2021-05-16,Punjab Cricket Association Stadium,Mohali,Day,CSK,RCB,CSK,bat,CSK,1,0,24,0,170,146,316,Post-2016
+854,2021,2021-05-17,Rajiv Gandhi International Stadium,Hyderabad,Night,RR,MI,MI,field,MI,1,1,0,3,160,167,327,Post-2016
+855,2021,2021-05-18,Dubai International Cricket Stadium,Dubai,Day,RR,CSK,CSK,field,RR,0,0,9,0,155,146,301,Post-2016
+856,2021,2021-05-20,Narendra Modi Stadium,Ahmedabad,Day,MI,RCB,MI,bat,MI,1,0,60,0,144,84,228,Post-2016
+857,2021,2021-05-21,Dubai International Cricket Stadium,Dubai,Night,RR,DC,DC,field,DC,1,1,0,8,170,173,343,Post-2016
+858,2021,2021-05-22,Wankhede Stadium,Mumbai,Night,PBKS,RR,RR,field,PBKS,0,0,32,0,173,141,314,Post-2016
+859,2021,2021-05-23,Wankhede Stadium,Mumbai,Night,CSK,DC,DC,field,CSK,0,0,34,0,163,129,292,Post-2016
+860,2021,2021-05-25,Narendra Modi Stadium,Ahmedabad,Night,KKR,SRH,SRH,field,KKR,0,0,24,0,181,157,338,Post-2016
+861,2021,2021-05-26,"MA Chidambaram Stadium, Chepauk",Chennai,Night,RR,DC,DC,field,DC,1,1,0,8,165,168,333,Post-2016
+862,2021,2021-05-28,Rajiv Gandhi International Stadium,Hyderabad,Day,DC,SRH,DC,bat,DC,1,0,25,0,167,142,309,Post-2016
+863,2021,2021-05-30,Arun Jaitley Stadium,Delhi,Day,RCB,MI,MI,field,MI,1,1,0,4,191,194,385,Post-2016
+864,2021,2021-05-31,Dubai International Cricket Stadium,Dubai,Night,DC,CSK,DC,bat,CSK,0,1,0,4,145,152,297,Post-2016
+865,2021,2021-06-01,BRSABV Ekana Cricket Stadium,Lucknow,Night,KKR,CSK,CSK,field,KKR,0,0,27,0,153,126,279,Post-2016
+866,2021,2021-06-02,Wankhede Stadium,Mumbai,Night,SRH,RR,RR,field,RR,1,1,0,5,174,181,355,Post-2016
+867,2021,2021-06-03,Wankhede Stadium,Mumbai,Day,RR,RCB,RCB,field,RR,0,0,22,0,158,136,294,Post-2016
+868,2021,2021-06-04,BRSABV Ekana Cricket Stadium,Lucknow,Night,MI,RR,RR,field,RR,1,1,0,2,134,135,269,Post-2016
+869,2021,2021-06-05,Arun Jaitley Stadium,Delhi,Night,KKR,MI,MI,field,MI,1,1,0,8,193,195,388,Post-2016
+870,2021,2021-06-06,M Chinnaswamy Stadium,Bengaluru,Night,RCB,PBKS,PBKS,field,RCB,0,0,14,0,194,180,374,Post-2016
+871,2021,2021-06-08,Wankhede Stadium,Mumbai,Night,RR,RCB,RR,bat,RR,1,0,43,0,172,129,301,Post-2016
+872,2021,2021-06-09,Dubai International Cricket Stadium,Dubai,Night,RR,KKR,KKR,field,KKR,1,1,0,2,167,172,339,Post-2016
+873,2021,2021-06-11,Eden Gardens,Kolkata,Day,DC,MI,MI,field,DC,0,0,41,0,180,139,319,Post-2016
+874,2021,2021-06-12,Eden Gardens,Kolkata,Night,RR,CSK,CSK,field,CSK,1,1,0,8,195,196,391,Post-2016
+875,2021,2021-06-13,Punjab Cricket Association Stadium,Mohali,Day,PBKS,CSK,CSK,field,PBKS,0,0,20,0,167,147,314,Post-2016
+876,2021,2021-06-15,Arun Jaitley Stadium,Delhi,Night,KKR,MI,MI,field,MI,1,1,0,8,179,186,365,Post-2016
+877,2021,2021-06-16,Eden Gardens,Kolkata,Night,SRH,KKR,KKR,field,SRH,0,0,26,0,177,151,328,Post-2016
+878,2022,2022-03-26,"MA Chidambaram Stadium, Chepauk",Chennai,Day,GT,SRH,SRH,field,GT,0,0,4,0,151,147,298,Post-2016
+879,2022,2022-03-27,Rajiv Gandhi International Stadium,Hyderabad,Day,GT,DC,DC,field,GT,0,0,24,0,176,152,328,Post-2016
+880,2022,2022-03-28,Sawai Mansingh Stadium,Jaipur,Night,RR,CSK,CSK,field,CSK,1,1,0,7,164,166,330,Post-2016
+881,2022,2022-03-29,Arun Jaitley Stadium,Delhi,Night,DC,RCB,DC,bat,DC,1,0,9,0,176,167,343,Post-2016
+882,2022,2022-03-31,Sawai Mansingh Stadium,Jaipur,Night,MI,KKR,MI,bat,MI,1,0,20,0,183,163,346,Post-2016
+883,2022,2022-04-01,Wankhede Stadium,Mumbai,Night,CSK,KKR,CSK,bat,CSK,1,0,4,0,175,171,346,Post-2016
+884,2022,2022-04-03,Rajiv Gandhi International Stadium,Hyderabad,Night,LSG,GT,GT,field,GT,1,1,0,5,179,181,360,Post-2016
+885,2022,2022-04-04,Punjab Cricket Association Stadium,Mohali,Night,CSK,RR,RR,field,RR,1,1,0,8,164,167,331,Post-2016
+886,2022,2022-04-05,Eden Gardens,Kolkata,Night,SRH,RCB,RCB,field,SRH,0,0,24,0,174,150,324,Post-2016
+887,2022,2022-04-06,BRSABV Ekana Cricket Stadium,Lucknow,Night,MI,RR,MI,bat,MI,1,0,51,0,148,97,245,Post-2016
+888,2022,2022-04-07,BRSABV Ekana Cricket Stadium,Lucknow,Night,MI,DC,DC,field,MI,0,0,4,0,153,149,302,Post-2016
+889,2022,2022-04-08,Punjab Cricket Association Stadium,Mohali,Night,KKR,RR,RR,field,RR,1,1,0,8,169,171,340,Post-2016
+890,2022,2022-04-09,Narendra Modi Stadium,Ahmedabad,Day,DC,RCB,DC,bat,RCB,0,1,0,3,192,197,389,Post-2016
+891,2022,2022-04-10,Sawai Mansingh Stadium,Jaipur,Night,PBKS,CSK,CSK,field,PBKS,0,0,5,0,162,157,319,Post-2016
+892,2022,2022-04-11,Eden Gardens,Kolkata,Day,SRH,KKR,KKR,field,SRH,0,0,17,0,188,171,359,Post-2016
+893,2022,2022-04-13,Rajiv Gandhi International Stadium,Hyderabad,Night,PBKS,GT,GT,field,PBKS,0,0,17,0,169,152,321,Post-2016
+894,2022,2022-04-15,Narendra Modi Stadium,Ahmedabad,Night,GT,MI,GT,bat,MI,0,1,0,3,175,176,351,Post-2016
+895,2022,2022-04-17,Narendra Modi Stadium,Ahmedabad,Day,DC,MI,MI,field,MI,1,1,0,2,173,176,349,Post-2016
+896,2022,2022-04-18,Rajiv Gandhi International Stadium,Hyderabad,Day,RR,SRH,SRH,field,RR,0,0,21,0,167,146,313,Post-2016
+897,2022,2022-04-19,BRSABV Ekana Cricket Stadium,Lucknow,Night,SRH,MI,MI,field,SRH,0,0,45,0,148,103,251,Post-2016
+898,2022,2022-04-20,Sawai Mansingh Stadium,Jaipur,Night,GT,CSK,CSK,field,GT,0,0,39,0,159,120,279,Post-2016
+899,2022,2022-04-21,"MA Chidambaram Stadium, Chepauk",Chennai,Day,DC,CSK,CSK,field,CSK,1,1,0,3,153,156,309,Post-2016
+900,2022,2022-04-22,Eden Gardens,Kolkata,Night,RCB,KKR,KKR,field,RCB,0,0,5,0,159,154,313,Post-2016
+901,2022,2022-04-24,Sawai Mansingh Stadium,Jaipur,Day,MI,LSG,LSG,field,LSG,1,1,0,6,174,175,349,Post-2016
+902,2022,2022-04-25,Rajiv Gandhi International Stadium,Hyderabad,Night,KKR,CSK,CSK,field,CSK,1,1,0,6,164,165,329,Post-2016
+903,2022,2022-04-27,"MA Chidambaram Stadium, Chepauk",Chennai,Night,MI,SRH,SRH,field,SRH,1,1,0,4,168,171,339,Post-2016
+904,2022,2022-04-28,Sawai Mansingh Stadium,Jaipur,Night,MI,RCB,MI,bat,MI,1,0,4,0,172,168,340,Post-2016
+905,2022,2022-04-29,"MA Chidambaram Stadium, Chepauk",Chennai,Night,PBKS,GT,GT,field,PBKS,0,0,10,0,178,168,346,Post-2016
+906,2022,2022-04-30,"MA Chidambaram Stadium, Chepauk",Chennai,Day,KKR,LSG,LSG,field,KKR,0,0,37,0,146,109,255,Post-2016
+907,2022,2022-05-01,Dubai International Cricket Stadium,Dubai,Night,DC,CSK,CSK,field,CSK,1,1,0,3,163,166,329,Post-2016
+908,2022,2022-05-02,Wankhede Stadium,Mumbai,Day,GT,LSG,GT,bat,GT,1,0,5,0,163,158,321,Post-2016
+909,2022,2022-05-03,Eden Gardens,Kolkata,Night,PBKS,RR,RR,field,PBKS,0,0,17,0,185,168,353,Post-2016
+910,2022,2022-05-05,Eden Gardens,Kolkata,Night,LSG,SRH,SRH,field,LSG,0,0,30,0,152,122,274,Post-2016
+911,2022,2022-05-06,M Chinnaswamy Stadium,Bengaluru,Night,CSK,LSG,LSG,field,CSK,0,0,7,0,199,192,391,Post-2016
+912,2022,2022-05-07,Punjab Cricket Association Stadium,Mohali,Night,KKR,DC,DC,field,KKR,0,0,4,0,187,183,370,Post-2016
+913,2022,2022-05-08,Punjab Cricket Association Stadium,Mohali,Night,DC,CSK,CSK,field,DC,0,0,22,0,183,161,344,Post-2016
+914,2022,2022-05-09,Punjab Cricket Association Stadium,Mohali,Day,LSG,CSK,LSG,bat,LSG,1,0,13,0,183,170,353,Post-2016
+915,2022,2022-05-10,"MA Chidambaram Stadium, Chepauk",Chennai,Night,MI,LSG,LSG,field,MI,0,0,7,0,161,154,315,Post-2016
+916,2022,2022-05-11,Eden Gardens,Kolkata,Day,MI,PBKS,PBKS,field,PBKS,1,1,0,7,189,194,383,Post-2016
+917,2022,2022-05-12,BRSABV Ekana Cricket Stadium,Lucknow,Night,DC,SRH,DC,bat,DC,1,0,4,0,163,159,322,Post-2016
+918,2022,2022-05-14,M Chinnaswamy Stadium,Bengaluru,Night,SRH,CSK,SRH,bat,SRH,1,0,9,0,187,178,365,Post-2016
+919,2022,2022-05-15,"MA Chidambaram Stadium, Chepauk",Chennai,Night,RCB,CSK,CSK,field,CSK,1,1,0,6,155,162,317,Post-2016
+920,2022,2022-05-16,Dubai International Cricket Stadium,Dubai,Night,RCB,LSG,LSG,field,LSG,1,1,0,4,173,175,348,Post-2016
+921,2022,2022-05-17,Rajiv Gandhi International Stadium,Hyderabad,Day,RR,SRH,SRH,field,RR,0,0,50,0,168,118,286,Post-2016
+922,2022,2022-05-18,Eden Gardens,Kolkata,Night,RR,DC,RR,bat,RR,1,0,11,0,192,181,373,Post-2016
+923,2022,2022-05-19,Eden Gardens,Kolkata,Night,LSG,RR,RR,field,LSG,0,0,30,0,172,142,314,Post-2016
+924,2022,2022-05-20,Punjab Cricket Association Stadium,Mohali,Night,MI,GT,GT,field,MI,0,0,4,0,195,191,386,Post-2016
+925,2022,2022-05-21,Dubai International Cricket Stadium,Dubai,Day,LSG,SRH,SRH,field,SRH,1,1,0,8,176,183,359,Post-2016
+926,2022,2022-05-22,BRSABV Ekana Cricket Stadium,Lucknow,Night,LSG,MI,LSG,bat,LSG,1,0,53,0,151,98,249,Post-2016
+927,2022,2022-05-23,Wankhede Stadium,Mumbai,Day,SRH,LSG,LSG,field,LSG,1,1,0,4,214,219,433,Post-2016
+928,2022,2022-05-24,Punjab Cricket Association Stadium,Mohali,Day,LSG,GT,LSG,bat,LSG,1,0,37,0,177,140,317,Post-2016
+929,2022,2022-05-25,"MA Chidambaram Stadium, Chepauk",Chennai,Night,KKR,RCB,RCB,field,RCB,1,1,0,7,157,158,315,Post-2016
+930,2022,2022-05-26,BRSABV Ekana Cricket Stadium,Lucknow,Day,KKR,SRH,SRH,field,KKR,0,0,33,0,158,125,283,Post-2016
+931,2022,2022-05-28,Arun Jaitley Stadium,Delhi,Night,RR,LSG,RR,bat,RR,1,0,14,0,182,168,350,Post-2016
+932,2022,2022-05-30,M Chinnaswamy Stadium,Bengaluru,Night,KKR,DC,DC,field,DC,1,1,0,3,189,196,385,Post-2016
+933,2022,2022-05-31,Sawai Mansingh Stadium,Jaipur,Night,CSK,GT,CSK,bat,CSK,1,0,30,0,171,141,312,Post-2016
+934,2022,2022-06-01,Wankhede Stadium,Mumbai,Night,GT,RCB,RCB,field,GT,0,0,34,0,198,164,362,Post-2016
+935,2022,2022-06-02,"MA Chidambaram Stadium, Chepauk",Chennai,Day,MI,KKR,KKR,field,KKR,1,1,0,2,149,156,305,Post-2016
+936,2022,2022-06-03,Sawai Mansingh Stadium,Jaipur,Night,KKR,MI,MI,field,MI,1,1,0,5,173,174,347,Post-2016
+937,2022,2022-06-04,BRSABV Ekana Cricket Stadium,Lucknow,Night,DC,MI,MI,field,DC,0,0,4,0,152,148,300,Post-2016
+938,2022,2022-06-06,Punjab Cricket Association Stadium,Mohali,Night,MI,CSK,MI,bat,CSK,0,1,0,4,175,176,351,Post-2016
+939,2022,2022-06-07,BRSABV Ekana Cricket Stadium,Lucknow,Night,MI,SRH,SRH,field,SRH,1,1,0,6,162,169,331,Post-2016
+940,2022,2022-06-08,Sawai Mansingh Stadium,Jaipur,Day,DC,LSG,DC,bat,DC,1,0,14,0,166,152,318,Post-2016
+941,2022,2022-06-09,M Chinnaswamy Stadium,Bengaluru,Night,RR,CSK,CSK,field,RR,0,0,31,0,202,171,373,Post-2016
+942,2022,2022-06-10,Arun Jaitley Stadium,Delhi,Night,CSK,KKR,CSK,bat,KKR,0,1,0,3,172,179,351,Post-2016
+943,2022,2022-06-11,Narendra Modi Stadium,Ahmedabad,Night,GT,DC,DC,field,GT,0,0,11,0,188,177,365,Post-2016
+944,2022,2022-06-12,Dubai International Cricket Stadium,Dubai,Day,CSK,SRH,SRH,field,CSK,0,0,39,0,172,133,305,Post-2016
+945,2022,2022-06-13,BRSABV Ekana Cricket Stadium,Lucknow,Night,DC,RR,RR,field,DC,0,0,4,0,162,158,320,Post-2016
+946,2022,2022-06-15,"MA Chidambaram Stadium, Chepauk",Chennai,Night,KKR,MI,MI,field,MI,1,1,0,3,174,177,351,Post-2016
+947,2022,2022-06-17,Narendra Modi Stadium,Ahmedabad,Night,LSG,GT,LSG,bat,LSG,1,0,4,0,172,168,340,Post-2016
+948,2022,2022-06-18,Sawai Mansingh Stadium,Jaipur,Night,CSK,DC,DC,field,CSK,0,0,4,0,170,166,336,Post-2016
+949,2022,2022-06-19,M Chinnaswamy Stadium,Bengaluru,Night,DC,RR,RR,field,DC,0,0,14,0,178,164,342,Post-2016
+950,2022,2022-06-20,Wankhede Stadium,Mumbai,Night,SRH,KKR,SRH,bat,KKR,0,1,0,2,196,198,394,Post-2016
+951,2022,2022-06-21,Dubai International Cricket Stadium,Dubai,Night,PBKS,KKR,KKR,field,KKR,1,1,0,7,145,150,295,Post-2016
+952,2023,2023-03-31,Wankhede Stadium,Mumbai,Day,DC,SRH,SRH,field,DC,0,0,15,0,206,191,397,Post-2016
+953,2023,2023-04-02,Sawai Mansingh Stadium,Jaipur,Night,DC,RR,RR,field,RR,1,1,0,6,180,183,363,Post-2016
+954,2023,2023-04-03,BRSABV Ekana Cricket Stadium,Lucknow,Night,GT,SRH,GT,bat,GT,1,0,18,0,179,161,340,Post-2016
+955,2023,2023-04-04,Narendra Modi Stadium,Ahmedabad,Day,DC,LSG,LSG,field,DC,0,0,27,0,175,148,323,Post-2016
+956,2023,2023-04-05,Narendra Modi Stadium,Ahmedabad,Day,RR,MI,RR,bat,MI,0,1,0,7,179,186,365,Post-2016
+957,2023,2023-04-06,Rajiv Gandhi International Stadium,Hyderabad,Night,CSK,RR,RR,field,CSK,0,0,24,0,191,167,358,Post-2016
+958,2023,2023-04-08,Rajiv Gandhi International Stadium,Hyderabad,Night,MI,LSG,LSG,field,MI,0,0,10,0,179,169,348,Post-2016
+959,2023,2023-04-09,"MA Chidambaram Stadium, Chepauk",Chennai,Day,CSK,KKR,CSK,bat,KKR,0,1,0,7,182,187,369,Post-2016
+960,2023,2023-04-10,M Chinnaswamy Stadium,Bengaluru,Night,MI,RR,RR,field,MI,0,0,4,0,189,185,374,Post-2016
+961,2023,2023-04-12,Eden Gardens,Kolkata,Day,MI,DC,DC,field,MI,0,0,4,0,187,183,370,Post-2016
+962,2023,2023-04-13,"MA Chidambaram Stadium, Chepauk",Chennai,Night,KKR,GT,KKR,bat,KKR,1,0,27,0,162,135,297,Post-2016
+963,2023,2023-04-15,Dubai International Cricket Stadium,Dubai,Night,DC,RCB,RCB,field,RCB,1,1,0,4,177,180,357,Post-2016
+964,2023,2023-04-17,Dubai International Cricket Stadium,Dubai,Night,RR,SRH,SRH,field,RR,0,0,19,0,178,159,337,Post-2016
+965,2023,2023-04-19,Punjab Cricket Association Stadium,Mohali,Night,SRH,GT,GT,field,GT,1,1,0,2,211,213,424,Post-2016
+966,2023,2023-04-21,Dubai International Cricket Stadium,Dubai,Night,CSK,RCB,RCB,field,CSK,0,0,36,0,162,126,288,Post-2016
+967,2023,2023-04-22,Rajiv Gandhi International Stadium,Hyderabad,Day,LSG,RR,LSG,bat,RR,0,1,0,7,175,180,355,Post-2016
+968,2023,2023-04-23,Arun Jaitley Stadium,Delhi,Day,RR,SRH,SRH,field,SRH,1,1,0,2,208,213,421,Post-2016
+969,2023,2023-04-24,"MA Chidambaram Stadium, Chepauk",Chennai,Night,LSG,GT,GT,field,LSG,0,0,28,0,162,134,296,Post-2016
+970,2023,2023-04-25,BRSABV Ekana Cricket Stadium,Lucknow,Night,PBKS,RCB,PBKS,bat,RCB,0,1,0,8,173,180,353,Post-2016
+971,2023,2023-04-26,BRSABV Ekana Cricket Stadium,Lucknow,Night,DC,LSG,DC,bat,LSG,0,1,0,2,171,176,347,Post-2016
+972,2023,2023-04-27,Eden Gardens,Kolkata,Night,SRH,DC,SRH,bat,SRH,1,0,20,0,206,186,392,Post-2016
+973,2023,2023-04-29,Wankhede Stadium,Mumbai,Night,GT,KKR,GT,bat,KKR,0,1,0,4,192,195,387,Post-2016
+974,2023,2023-05-01,Narendra Modi Stadium,Ahmedabad,Night,KKR,RR,RR,field,RR,1,1,0,2,195,197,392,Post-2016
+975,2023,2023-05-02,Rajiv Gandhi International Stadium,Hyderabad,Day,RCB,RR,RR,field,RCB,0,0,18,0,187,169,356,Post-2016
+976,2023,2023-05-03,M Chinnaswamy Stadium,Bengaluru,Night,GT,RR,RR,field,GT,0,0,23,0,216,193,409,Post-2016
+977,2023,2023-05-04,Sawai Mansingh Stadium,Jaipur,Night,LSG,DC,DC,field,DC,1,1,0,6,176,181,357,Post-2016
+978,2023,2023-05-05,Dubai International Cricket Stadium,Dubai,Night,PBKS,DC,DC,field,DC,1,1,0,8,172,173,345,Post-2016
+979,2023,2023-05-06,Rajiv Gandhi International Stadium,Hyderabad,Night,KKR,MI,MI,field,KKR,0,0,4,0,196,192,388,Post-2016
+980,2023,2023-05-07,M Chinnaswamy Stadium,Bengaluru,Night,DC,RCB,RCB,field,RCB,1,1,0,2,229,230,459,Post-2016
+981,2023,2023-05-09,Arun Jaitley Stadium,Delhi,Night,KKR,MI,MI,field,KKR,0,0,16,0,177,161,338,Post-2016
+982,2023,2023-05-10,Punjab Cricket Association Stadium,Mohali,Day,RCB,RR,RR,field,RCB,0,0,20,0,196,176,372,Post-2016
+983,2023,2023-05-11,Eden Gardens,Kolkata,Day,GT,KKR,KKR,field,GT,0,0,10,0,186,176,362,Post-2016
+984,2023,2023-05-12,M Chinnaswamy Stadium,Bengaluru,Night,CSK,SRH,CSK,bat,CSK,1,0,13,0,200,187,387,Post-2016
+985,2023,2023-05-13,Dubai International Cricket Stadium,Dubai,Night,RCB,DC,RCB,bat,DC,0,1,0,2,184,185,369,Post-2016
+986,2023,2023-05-15,Eden Gardens,Kolkata,Night,MI,CSK,MI,bat,MI,1,0,31,0,188,157,345,Post-2016
+987,2023,2023-05-16,BRSABV Ekana Cricket Stadium,Lucknow,Night,LSG,MI,MI,field,MI,1,1,0,5,172,173,345,Post-2016
+988,2023,2023-05-17,Arun Jaitley Stadium,Delhi,Day,PBKS,LSG,PBKS,bat,PBKS,1,0,5,0,199,194,393,Post-2016
+989,2023,2023-05-18,Punjab Cricket Association Stadium,Mohali,Night,RCB,LSG,LSG,field,RCB,0,0,12,0,202,190,392,Post-2016
+990,2023,2023-05-19,Narendra Modi Stadium,Ahmedabad,Night,RR,DC,DC,field,RR,0,0,20,0,190,170,360,Post-2016
+991,2023,2023-05-21,Wankhede Stadium,Mumbai,Night,PBKS,RR,RR,field,RR,1,1,0,8,205,206,411,Post-2016
+992,2023,2023-05-23,Dubai International Cricket Stadium,Dubai,Day,CSK,RR,RR,field,CSK,0,0,28,0,168,140,308,Post-2016
+993,2023,2023-05-25,Dubai International Cricket Stadium,Dubai,Night,CSK,KKR,KKR,field,CSK,0,0,45,0,184,139,323,Post-2016
+994,2023,2023-05-26,BRSABV Ekana Cricket Stadium,Lucknow,Night,PBKS,RCB,PBKS,bat,PBKS,1,0,14,0,152,138,290,Post-2016
+995,2023,2023-05-27,Wankhede Stadium,Mumbai,Night,RCB,PBKS,PBKS,field,PBKS,1,1,0,6,212,213,425,Post-2016
+996,2023,2023-05-28,Wankhede Stadium,Mumbai,Day,GT,CSK,CSK,field,GT,0,0,36,0,184,148,332,Post-2016
+997,2023,2023-05-29,M Chinnaswamy Stadium,Bengaluru,Night,DC,RR,RR,field,DC,0,0,24,0,205,181,386,Post-2016
+998,2023,2023-05-30,"MA Chidambaram Stadium, Chepauk",Chennai,Night,RCB,SRH,RCB,bat,SRH,0,1,0,5,151,158,309,Post-2016
+999,2023,2023-06-01,Wankhede Stadium,Mumbai,Day,RR,PBKS,PBKS,field,PBKS,1,1,0,3,185,192,377,Post-2016
+1000,2023,2023-06-02,Punjab Cricket Association Stadium,Mohali,Night,KKR,CSK,CSK,field,CSK,1,1,0,5,209,212,421,Post-2016
+1001,2023,2023-06-03,Dubai International Cricket Stadium,Dubai,Night,SRH,CSK,SRH,bat,CSK,0,1,0,6,185,186,371,Post-2016
+1002,2023,2023-06-05,Eden Gardens,Kolkata,Night,DC,RR,DC,bat,DC,1,0,29,0,192,163,355,Post-2016
+1003,2023,2023-06-07,M Chinnaswamy Stadium,Bengaluru,Night,RCB,MI,MI,field,RCB,0,0,19,0,216,197,413,Post-2016
+1004,2023,2023-06-08,Punjab Cricket Association Stadium,Mohali,Day,RR,GT,GT,field,RR,0,0,11,0,186,175,361,Post-2016
+1005,2023,2023-06-09,M Chinnaswamy Stadium,Bengaluru,Night,MI,GT,GT,field,GT,1,1,0,8,242,243,485,Post-2016
+1006,2023,2023-06-10,Punjab Cricket Association Stadium,Mohali,Night,PBKS,SRH,SRH,field,PBKS,0,0,31,0,178,147,325,Post-2016
+1007,2023,2023-06-12,Narendra Modi Stadium,Ahmedabad,Day,SRH,MI,MI,field,MI,1,1,0,2,195,202,397,Post-2016
+1008,2023,2023-06-13,Narendra Modi Stadium,Ahmedabad,Night,SRH,RR,SRH,bat,RR,0,1,0,7,186,188,374,Post-2016
+1009,2023,2023-06-14,Wankhede Stadium,Mumbai,Night,SRH,LSG,SRH,bat,SRH,1,0,9,0,196,187,383,Post-2016
+1010,2023,2023-06-15,Eden Gardens,Kolkata,Night,RCB,LSG,LSG,field,LSG,1,1,0,8,192,193,385,Post-2016
+1011,2023,2023-06-16,BRSABV Ekana Cricket Stadium,Lucknow,Night,GT,KKR,KKR,field,GT,0,0,29,0,169,140,309,Post-2016
+1012,2023,2023-06-17,Eden Gardens,Kolkata,Night,DC,SRH,SRH,field,SRH,1,1,0,3,191,193,384,Post-2016
+1013,2023,2023-06-18,Narendra Modi Stadium,Ahmedabad,Day,RCB,KKR,KKR,field,KKR,1,1,0,7,194,199,393,Post-2016
+1014,2023,2023-06-19,Arun Jaitley Stadium,Delhi,Night,RR,SRH,SRH,field,SRH,1,1,0,3,198,205,403,Post-2016
+1015,2023,2023-06-20,"MA Chidambaram Stadium, Chepauk",Chennai,Night,MI,KKR,MI,bat,KKR,0,1,0,7,160,163,323,Post-2016
+1016,2023,2023-06-21,BRSABV Ekana Cricket Stadium,Lucknow,Day,PBKS,DC,DC,field,PBKS,0,0,10,0,157,147,304,Post-2016
+1017,2023,2023-06-22,Arun Jaitley Stadium,Delhi,Day,MI,LSG,LSG,field,MI,0,0,38,0,186,148,334,Post-2016
+1018,2023,2023-06-24,Rajiv Gandhi International Stadium,Hyderabad,Day,KKR,CSK,CSK,field,CSK,1,1,0,4,197,202,399,Post-2016
+1019,2023,2023-06-25,Eden Gardens,Kolkata,Night,LSG,RCB,RCB,field,RCB,1,1,0,8,195,196,391,Post-2016
+1020,2023,2023-06-26,BRSABV Ekana Cricket Stadium,Lucknow,Night,DC,CSK,CSK,field,DC,0,0,19,0,153,134,287,Post-2016
+1021,2023,2023-06-27,Arun Jaitley Stadium,Delhi,Night,CSK,PBKS,PBKS,field,CSK,0,0,4,0,218,214,432,Post-2016
+1022,2023,2023-06-28,M Chinnaswamy Stadium,Bengaluru,Night,MI,KKR,KKR,field,MI,0,0,55,0,203,148,351,Post-2016
+1023,2023,2023-06-29,Rajiv Gandhi International Stadium,Hyderabad,Day,DC,PBKS,PBKS,field,DC,0,0,52,0,170,118,288,Post-2016
+1024,2023,2023-07-01,Arun Jaitley Stadium,Delhi,Night,PBKS,DC,PBKS,bat,DC,0,1,0,2,195,202,397,Post-2016
+1025,2023,2023-07-03,BRSABV Ekana Cricket Stadium,Lucknow,Night,PBKS,MI,MI,field,PBKS,0,0,24,0,173,149,322,Post-2016
+1026,2024,2024-03-22,Dubai International Cricket Stadium,Dubai,Day,DC,PBKS,DC,bat,DC,1,0,8,0,188,180,368,Post-2016
+1027,2024,2024-03-23,Eden Gardens,Kolkata,Day,SRH,RCB,RCB,field,RCB,1,1,0,7,204,206,410,Post-2016
+1028,2024,2024-03-25,"MA Chidambaram Stadium, Chepauk",Chennai,Night,RCB,DC,DC,field,DC,1,1,0,7,183,188,371,Post-2016
+1029,2024,2024-03-26,Eden Gardens,Kolkata,Day,DC,GT,DC,bat,DC,1,0,33,0,199,166,365,Post-2016
+1030,2024,2024-03-28,"MA Chidambaram Stadium, Chepauk",Chennai,Day,PBKS,SRH,SRH,field,PBKS,0,0,24,0,190,166,356,Post-2016
+1031,2024,2024-03-29,Dubai International Cricket Stadium,Dubai,Day,SRH,GT,GT,field,GT,1,1,0,5,168,171,339,Post-2016
+1032,2024,2024-03-30,Narendra Modi Stadium,Ahmedabad,Night,MI,RR,RR,field,MI,0,0,7,0,197,190,387,Post-2016
+1033,2024,2024-03-31,Sawai Mansingh Stadium,Jaipur,Night,DC,RR,RR,field,DC,0,0,28,0,202,174,376,Post-2016
+1034,2024,2024-04-01,Narendra Modi Stadium,Ahmedabad,Night,SRH,MI,MI,field,MI,1,1,0,8,217,224,441,Post-2016
+1035,2024,2024-04-02,"MA Chidambaram Stadium, Chepauk",Chennai,Night,LSG,RCB,RCB,field,LSG,0,0,42,0,184,142,326,Post-2016
+1036,2024,2024-04-03,Rajiv Gandhi International Stadium,Hyderabad,Night,SRH,RR,SRH,bat,SRH,1,0,4,0,207,203,410,Post-2016
+1037,2024,2024-04-05,Rajiv Gandhi International Stadium,Hyderabad,Day,GT,PBKS,PBKS,field,PBKS,1,1,0,2,193,194,387,Post-2016
+1038,2024,2024-04-06,BRSABV Ekana Cricket Stadium,Lucknow,Night,SRH,RCB,RCB,field,RCB,1,1,0,6,174,179,353,Post-2016
+1039,2024,2024-04-07,Dubai International Cricket Stadium,Dubai,Night,GT,RR,RR,field,GT,0,0,24,0,179,155,334,Post-2016
+1040,2024,2024-04-08,BRSABV Ekana Cricket Stadium,Lucknow,Night,RCB,SRH,SRH,field,RCB,0,0,14,0,184,170,354,Post-2016
+1041,2024,2024-04-09,Punjab Cricket Association Stadium,Mohali,Day,KKR,DC,DC,field,KKR,0,0,16,0,204,188,392,Post-2016
+1042,2024,2024-04-11,Arun Jaitley Stadium,Delhi,Night,GT,LSG,LSG,field,LSG,1,1,0,7,179,180,359,Post-2016
+1043,2024,2024-04-12,Wankhede Stadium,Mumbai,Night,GT,RCB,RCB,field,RCB,1,1,0,7,194,201,395,Post-2016
+1044,2024,2024-04-13,Wankhede Stadium,Mumbai,Night,GT,MI,GT,bat,GT,1,0,14,0,194,180,374,Post-2016
+1045,2024,2024-04-14,Rajiv Gandhi International Stadium,Hyderabad,Day,MI,LSG,LSG,field,MI,0,0,43,0,171,128,299,Post-2016
+1046,2024,2024-04-15,BRSABV Ekana Cricket Stadium,Lucknow,Night,LSG,RCB,RCB,field,RCB,1,1,0,6,182,189,371,Post-2016
+1047,2024,2024-04-17,Dubai International Cricket Stadium,Dubai,Day,PBKS,RCB,PBKS,bat,PBKS,1,0,32,0,182,150,332,Post-2016
+1048,2024,2024-04-18,Rajiv Gandhi International Stadium,Hyderabad,Night,CSK,PBKS,PBKS,field,PBKS,1,1,0,2,203,206,409,Post-2016
+1049,2024,2024-04-19,Wankhede Stadium,Mumbai,Night,KKR,MI,KKR,bat,KKR,1,0,45,0,202,157,359,Post-2016
+1050,2024,2024-04-21,Sawai Mansingh Stadium,Jaipur,Day,PBKS,KKR,KKR,field,KKR,1,1,0,4,194,197,391,Post-2016
+1051,2024,2024-04-22,"MA Chidambaram Stadium, Chepauk",Chennai,Night,CSK,RCB,CSK,bat,CSK,1,0,30,0,181,151,332,Post-2016
+1052,2024,2024-04-24,Narendra Modi Stadium,Ahmedabad,Day,MI,LSG,LSG,field,MI,0,0,34,0,188,154,342,Post-2016
+1053,2024,2024-04-25,Dubai International Cricket Stadium,Dubai,Night,RR,SRH,SRH,field,SRH,1,1,0,4,179,180,359,Post-2016
+1054,2024,2024-04-26,Sawai Mansingh Stadium,Jaipur,Night,CSK,PBKS,PBKS,field,PBKS,1,1,0,6,189,191,380,Post-2016
+1055,2024,2024-04-27,Wankhede Stadium,Mumbai,Night,RCB,MI,RCB,bat,MI,0,1,0,8,203,208,411,Post-2016
+1056,2024,2024-04-28,Wankhede Stadium,Mumbai,Night,RCB,DC,RCB,bat,DC,0,1,0,4,220,225,445,Post-2016
+1057,2024,2024-04-29,Arun Jaitley Stadium,Delhi,Night,RR,PBKS,RR,bat,RR,1,0,8,0,201,193,394,Post-2016
+1058,2024,2024-04-30,M Chinnaswamy Stadium,Bengaluru,Day,PBKS,GT,GT,field,PBKS,0,0,20,0,223,203,426,Post-2016
+1059,2024,2024-05-01,"MA Chidambaram Stadium, Chepauk",Chennai,Day,PBKS,GT,GT,field,PBKS,0,0,7,0,171,164,335,Post-2016
+1060,2024,2024-05-02,Eden Gardens,Kolkata,Night,RR,PBKS,PBKS,field,PBKS,1,1,0,2,194,195,389,Post-2016
+1061,2024,2024-05-04,Dubai International Cricket Stadium,Dubai,Day,KKR,MI,MI,field,KKR,0,0,37,0,168,131,299,Post-2016
+1062,2024,2024-05-05,M Chinnaswamy Stadium,Bengaluru,Night,RR,DC,RR,bat,DC,0,1,0,3,208,210,418,Post-2016
+1063,2024,2024-05-06,Eden Gardens,Kolkata,Day,LSG,CSK,CSK,field,LSG,0,0,14,0,209,195,404,Post-2016
+1064,2024,2024-05-07,Punjab Cricket Association Stadium,Mohali,Night,KKR,CSK,KKR,bat,KKR,1,0,37,0,211,174,385,Post-2016
+1065,2024,2024-05-08,Dubai International Cricket Stadium,Dubai,Night,MI,LSG,LSG,field,MI,0,0,6,0,186,180,366,Post-2016
+1066,2024,2024-05-09,Sawai Mansingh Stadium,Jaipur,Night,LSG,SRH,LSG,bat,LSG,1,0,9,0,176,167,343,Post-2016
+1067,2024,2024-05-11,"MA Chidambaram Stadium, Chepauk",Chennai,Night,RCB,KKR,KKR,field,RCB,0,0,36,0,185,149,334,Post-2016
+1068,2024,2024-05-12,Sawai Mansingh Stadium,Jaipur,Night,KKR,LSG,LSG,field,KKR,0,0,33,0,172,139,311,Post-2016
+1069,2024,2024-05-13,Dubai International Cricket Stadium,Dubai,Night,RR,SRH,RR,bat,SRH,0,1,0,2,176,179,355,Post-2016
+1070,2024,2024-05-14,BRSABV Ekana Cricket Stadium,Lucknow,Night,KKR,SRH,SRH,field,KKR,0,0,8,0,177,169,346,Post-2016
+1071,2024,2024-05-16,Punjab Cricket Association Stadium,Mohali,Night,GT,PBKS,PBKS,field,GT,0,0,4,0,180,176,356,Post-2016
+1072,2024,2024-05-17,BRSABV Ekana Cricket Stadium,Lucknow,Night,RR,SRH,SRH,field,SRH,1,1,0,3,175,182,357,Post-2016
+1073,2024,2024-05-18,BRSABV Ekana Cricket Stadium,Lucknow,Night,SRH,GT,GT,field,SRH,0,0,19,0,182,163,345,Post-2016
+1074,2024,2024-05-20,Wankhede Stadium,Mumbai,Night,MI,LSG,LSG,field,LSG,1,1,0,6,209,214,423,Post-2016
+1075,2024,2024-05-21,Eden Gardens,Kolkata,Night,PBKS,RCB,RCB,field,RCB,1,1,0,8,207,214,421,Post-2016
+1076,2024,2024-05-23,Eden Gardens,Kolkata,Night,RCB,LSG,LSG,field,LSG,1,1,0,8,186,191,377,Post-2016
+1077,2024,2024-05-25,Punjab Cricket Association Stadium,Mohali,Night,RR,LSG,LSG,field,RR,0,0,20,0,208,188,396,Post-2016
+1078,2024,2024-05-26,Punjab Cricket Association Stadium,Mohali,Night,RR,DC,DC,field,DC,1,1,0,5,201,206,407,Post-2016
+1079,2024,2024-05-27,Narendra Modi Stadium,Ahmedabad,Night,PBKS,KKR,PBKS,bat,PBKS,1,0,40,0,201,161,362,Post-2016
+1080,2024,2024-05-28,Rajiv Gandhi International Stadium,Hyderabad,Night,CSK,PBKS,PBKS,field,PBKS,1,1,0,7,181,186,367,Post-2016
+1081,2024,2024-05-29,Eden Gardens,Kolkata,Night,GT,DC,DC,field,GT,0,0,40,0,218,178,396,Post-2016
+1082,2024,2024-05-30,Sawai Mansingh Stadium,Jaipur,Night,LSG,MI,LSG,bat,MI,0,1,0,6,208,213,421,Post-2016
+1083,2024,2024-05-31,M Chinnaswamy Stadium,Bengaluru,Day,CSK,LSG,LSG,field,LSG,1,1,0,5,221,228,449,Post-2016
+1084,2024,2024-06-01,BRSABV Ekana Cricket Stadium,Lucknow,Night,LSG,CSK,CSK,field,CSK,1,1,0,2,176,179,355,Post-2016
+1085,2024,2024-06-03,Sawai Mansingh Stadium,Jaipur,Night,KKR,LSG,KKR,bat,KKR,1,0,11,0,182,171,353,Post-2016
+1086,2024,2024-06-04,Arun Jaitley Stadium,Delhi,Night,GT,DC,DC,field,GT,0,0,4,0,216,212,428,Post-2016
+1087,2024,2024-06-05,Wankhede Stadium,Mumbai,Night,KKR,MI,MI,field,KKR,0,0,33,0,205,172,377,Post-2016
+1088,2024,2024-06-06,Punjab Cricket Association Stadium,Mohali,Day,MI,RCB,RCB,field,RCB,1,1,0,2,211,218,429,Post-2016
+1089,2024,2024-06-07,M Chinnaswamy Stadium,Bengaluru,Night,LSG,DC,DC,field,DC,1,1,0,5,220,223,443,Post-2016
+1090,2024,2024-06-08,Wankhede Stadium,Mumbai,Night,RR,CSK,RR,bat,RR,1,0,46,0,196,150,346,Post-2016
+1091,2024,2024-06-09,Punjab Cricket Association Stadium,Mohali,Day,RCB,CSK,CSK,field,CSK,1,1,0,6,223,225,448,Post-2016
+1092,2024,2024-06-10,Punjab Cricket Association Stadium,Mohali,Day,KKR,DC,DC,field,KKR,0,0,12,0,212,200,412,Post-2016
+1093,2024,2024-06-11,Eden Gardens,Kolkata,Day,GT,SRH,SRH,field,GT,0,0,49,0,198,149,347,Post-2016
+1094,2024,2024-06-12,"MA Chidambaram Stadium, Chepauk",Chennai,Night,CSK,MI,CSK,bat,CSK,1,0,53,0,186,133,319,Post-2016
+1095,2024,2024-06-13,BRSABV Ekana Cricket Stadium,Lucknow,Night,DC,CSK,CSK,field,DC,0,0,29,0,169,140,309,Post-2016
+1096,2024,2024-06-14,Rajiv Gandhi International Stadium,Hyderabad,Night,SRH,GT,SRH,bat,SRH,1,0,30,0,213,183,396,Post-2016
+1097,2024,2024-06-15,Dubai International Cricket Stadium,Dubai,Night,MI,RCB,RCB,field,MI,0,0,32,0,189,157,346,Post-2016
+1098,2024,2024-06-16,"MA Chidambaram Stadium, Chepauk",Chennai,Night,LSG,PBKS,PBKS,field,PBKS,1,1,0,4,152,154,306,Post-2016
+1099,2024,2024-06-17,Dubai International Cricket Stadium,Dubai,Night,DC,LSG,LSG,field,DC,0,0,29,0,187,158,345,Post-2016

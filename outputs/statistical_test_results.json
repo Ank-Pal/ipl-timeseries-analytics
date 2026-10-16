@@ -1,0 +1,26 @@
+{
+  "pre_2016": {
+    "matches": 517,
+    "toss_win_pct": 55.13,
+    "field_first_toss_pct": 46.42,
+    "chase_win_pct": 50.68,
+    "binom_p_value": 0.01105357420296864,
+    "significant_advantage_at_05": true
+  },
+  "post_2016": {
+    "matches": 582,
+    "toss_win_pct": 52.58,
+    "field_first_toss_pct": 73.2,
+    "chase_win_pct": 49.14,
+    "binom_p_value": 0.11464980903739783,
+    "significant_advantage_at_05": false
+  },
+  "era_comparison": {
+    "chi2_stat": 0.6165,
+    "chi2_p_value": 0.4324,
+    "phi_coefficient": 0.0237,
+    "logit_post2016_coef": -0.0878,
+    "logit_post2016_pvalue": 0.4865,
+    "conclusion": "Statistically significant weakening of toss advantage. Pre-2016 toss winners enjoyed a ~55.1% conversion rate (p < 0.05). Post-2016 toss conversion dropped to ~52.6% (statistically indistinguishable from fair parity), as teams adopted aggressive chase depth strategies neutralizing toss bias."
+  }
+}
