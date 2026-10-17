@@ -917,30 +917,32 @@ SECTION_RENDERERS = [
     render_slide_7, render_slide_8, render_slide_9
 ]
 
-if 'slide_idx' not in st.session_state:
-    st.session_state.slide_idx = 0
+if 'slide_deck_scrubber' not in st.session_state:
+    st.session_state.slide_deck_scrubber = 0
 
 def go_prev_slide():
-    if st.session_state.slide_idx > 0:
-        st.session_state.slide_idx -= 1
+    if st.session_state.slide_deck_scrubber > 0:
+        st.session_state.slide_deck_scrubber -= 1
 
 def go_next_slide():
-    if st.session_state.slide_idx < len(SLIDES) - 1:
-        st.session_state.slide_idx += 1
+    if st.session_state.slide_deck_scrubber < len(SLIDES) - 1:
+        st.session_state.slide_deck_scrubber += 1
+
+current_slide = st.session_state.slide_deck_scrubber
 
 # --- TOP SLIDE CONTROLLER ---
 col_prev, col_center, col_next = st.columns([1.3, 5.4, 1.3])
 with col_prev:
     st.markdown("<div style='height: 28px;'></div>", unsafe_allow_html=True)
-    st.button("◀️ Previous", disabled=(st.session_state.slide_idx == 0), on_click=go_prev_slide, use_container_width=True, key="top_prev_btn")
+    st.button("◀️ Previous", disabled=(current_slide == 0), on_click=go_prev_slide, use_container_width=True, key="top_prev_btn")
 with col_center:
-    cur_title, cur_desc = SLIDES[st.session_state.slide_idx]
-    cur_pct = (st.session_state.slide_idx + 1) / len(SLIDES)
+    cur_title, cur_desc = SLIDES[current_slide]
+    cur_pct = (current_slide + 1) / len(SLIDES)
     st.markdown(f"""
     <div style="background: linear-gradient(135deg, #0b1329 0%, #1e293b 50%, #0f172a 100%); border: 1.5px solid rgba(56, 189, 248, 0.45); border-radius: 14px; padding: 14px 22px; text-align: center; box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.6), 0 0 20px rgba(56, 189, 248, 0.12);">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 3px;">
             <span style="background: rgba(56, 189, 248, 0.15); border: 1px solid #38bdf8; color: #38bdf8; font-size: 0.72rem; font-weight: 800; padding: 2px 10px; border-radius: 9999px; letter-spacing: 0.08em; text-transform: uppercase;">
-                SLIDE {st.session_state.slide_idx + 1} OF {len(SLIDES)}
+                SLIDE {current_slide + 1} OF {len(SLIDES)}
             </span>
             <span style="font-size: 0.76rem; color: #94a3b8; font-weight: 700;">
                 {int(cur_pct * 100)}% Through Presentation Deck
@@ -955,9 +957,9 @@ with col_center:
     """, unsafe_allow_html=True)
 with col_next:
     st.markdown("<div style='height: 28px;'></div>", unsafe_allow_html=True)
-    st.button("Next ▶️", disabled=(st.session_state.slide_idx == len(SLIDES) - 1), on_click=go_next_slide, use_container_width=True, key="top_next_btn")
+    st.button("Next ▶️", disabled=(current_slide == len(SLIDES) - 1), on_click=go_next_slide, use_container_width=True, key="top_next_btn")
 
-# --- SLEEK INTERACTIVE SLIDE SCRUBBER (Replaces clunky #1..#9 boxes) ---
+# --- SLEEK INTERACTIVE SLIDE SCRUBBER ---
 SHORT_SLIDE_NAMES = [
     "🏆 1. Champions",
     "⚡ 2. Super Overs",
@@ -970,22 +972,30 @@ SHORT_SLIDE_NAMES = [
     "🗄️ 9. SQL Studio"
 ]
 
-scrubber_choice = st.select_slider(
+st.select_slider(
     "Slide Scrubber",
     options=list(range(len(SHORT_SLIDE_NAMES))),
-    value=st.session_state.slide_idx,
     format_func=lambda i: SHORT_SLIDE_NAMES[i],
     label_visibility="collapsed",
     key="slide_deck_scrubber"
 )
-if scrubber_choice != st.session_state.slide_idx:
-    st.session_state.slide_idx = scrubber_choice
-    st.rerun()
+
+# Active slide index is driven by slide_deck_scrubber
+active_slide = st.session_state.slide_deck_scrubber
 
 st.markdown("---")
 
 # Render Active Slide Content
-SECTION_RENDERERS[st.session_state.slide_idx]()
+SECTION_RENDERERS[active_slide]()
+
+# Bottom Navigation Bar
+st.markdown("<div style='height: 20px;'></div>", unsafe_allow_html=True)
+b_col1, b_col2, b_col3 = st.columns([1.5, 4.0, 1.5])
+with b_col1:
+    st.button("◀️ Previous Slide", disabled=(active_slide == 0), on_click=go_prev_slide, use_container_width=True, key="btm_prev_btn")
+with b_col3:
+    st.button("Next Slide ▶️", disabled=(active_slide == len(SLIDES) - 1), on_click=go_next_slide, use_container_width=True, key="btm_next_btn")
+
 
 
 st.markdown("---")
