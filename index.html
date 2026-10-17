@@ -220,6 +220,38 @@
             padding: 20px;
             box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.2);
             margin-bottom: 24px;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 12px;
+            }
+            h1 {
+                font-size: 1.35rem;
+            }
+            .subtitle {
+                font-size: 0.85rem;
+            }
+            .kpi-val {
+                font-size: 1.45rem;
+            }
+            .card-box {
+                padding: 14px;
+            }
+            .tab-btn {
+                padding: 8px 12px;
+                font-size: 0.85rem;
+            }
+            .live-bar {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            .live-bar a {
+                width: 100%;
+                text-align: center;
+            }
         }
 
         /* Champions & Super Over Cards */
@@ -255,6 +287,7 @@
             font-size: 0.875rem;
             text-align: left;
             margin-top: 10px;
+            min-width: 480px;
         }
 
         th, td {
@@ -306,6 +339,8 @@
     <div class="container">
         <header>
             <div class="badge-row">
+                <a href="https://ank-pal.github.io/" class="badge" style="background-color: #0284c7; color: #fff; text-decoration: none; display: inline-flex; align-items: center; gap: 4px; padding: 5px 12px;">← Back to Main Portfolio</a>
+                <a href="https://ank-pal.github.io/showcase.html" class="badge" style="background-color: #3b82f6; color: #fff; text-decoration: none; display: inline-flex; align-items: center; gap: 4px; padding: 5px 12px;">Showcase Hub ↗</a>
                 <span class="badge badge-gold">🏆 18 IPL Seasons (2008–2026)</span>
                 <span class="badge badge-purple">⚡ 15 Historic Super Overs</span>
                 <span class="badge">🏏 283k+ CricSheet Deliveries</span>
@@ -316,12 +351,13 @@
             <p class="subtitle">Complete sports intelligence, historical champions roll of honor, super over thrillers, and econometric ARIMA forecasting</p>
         </header>
 
-        <!-- Live Server Status Bar -->
+        <!-- Live Interactive Web Dashboard Bar -->
         <div class="live-bar">
-            <div>
-                <strong>🚀 Streamlit Live Server:</strong> Running on <code>http://localhost:8501</code> with full interactivity, SQL studio, and dynamic dropdowns.
+            <div style="display: flex; align-items: center; gap: 10px;">
+                <span style="display: inline-block; width: 10px; height: 10px; border-radius: 50%; background: #4ade80; box-shadow: 0 0 10px #4ade80; flex-shrink: 0;"></span>
+                <span><strong>Interactive Web Dashboard Live:</strong> Plotly charts &amp; econometric models active below. Use the slide controls and tabs to explore seasons, player analytics, toss paradox, and ARIMA forecasts.</span>
             </div>
-            <a href="http://localhost:8501" target="_blank">Open Live Streamlit Dashboard ↗</a>
+            <a href="https://github.com/ank-pal/ipl-timeseries-analytics" target="_blank" rel="noopener">View GitHub Source Repository ↗</a>
         </div>
 
         <!-- Global Master KPIs -->
