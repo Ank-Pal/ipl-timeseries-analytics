@@ -988,13 +988,7 @@ st.markdown("---")
 # Render Active Slide Content
 SECTION_RENDERERS[active_slide]()
 
-# Bottom Navigation Bar
-st.markdown("<div style='height: 20px;'></div>", unsafe_allow_html=True)
-b_col1, b_col2, b_col3 = st.columns([1.5, 4.0, 1.5])
-with b_col1:
-    st.button("◀️ Previous Slide", disabled=(active_slide == 0), on_click=go_prev_slide, use_container_width=True, key="btm_prev_btn")
-with b_col3:
-    st.button("Next Slide ▶️", disabled=(active_slide == len(SLIDES) - 1), on_click=go_next_slide, use_container_width=True, key="btm_next_btn")
+# Bottom Divider and Footer
 
 
 
