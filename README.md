@@ -4,14 +4,14 @@
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Database](https://img.shields.io/badge/SQL-SQLite%20Master%20DB-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Deliveries](https://img.shields.io/badge/Data-283k%2B%20Balls-success.svg)](https://cricsheet.org/)
-[![Matches](https://img.shields.io/badge/Matches-1%2C193%20Matches-orange.svg)](https://www.kaggle.com/)
+[![Matches](https://img.shields.io/badge/Matches-1%2C194%20Matches-orange.svg)](https://www.kaggle.com/)
 [![Time-Series](https://img.shields.io/badge/Model-Phase%20ARIMA-purple.svg)](https://www.statsmodels.org/)
 [![Streamlit](https://img.shields.io/badge/Web%20App-Streamlit%20Interactive-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
-The **Definitive IPL Sports Analytics & Econometric Forecasting Platform**, built on **283,000+ authentic ball-by-ball deliveries**, **1,193 genuine matches** across 18 seasons (2008–2025), and live **IPL 2026 season data**.
+The **Definitive IPL Sports Analytics & Econometric Forecasting Platform**, built on **283,000+ authentic ball-by-ball deliveries**, **1,194 genuine matches** across 19 seasons (2008–2026).
 
 This repository answers every fundamental sports, economic, and tactical question about the Indian Premier League:
-* **🏆 Season Champions & Trophy Cabinet**: Every champion, runner-up, final margin, MVP, Orange Cap, and Purple Cap from 2008 to 2026, plus franchise trophy rankings (MI: 5, CSK: 5, KKR: 3, SRH: 2, RR: 1, GT: 1).
+* **🏆 Season Champions & Trophy Cabinet**: Every champion, runner-up, final margin, MVP, Orange Cap, and Purple Cap from 2008 to 2026, plus franchise trophy rankings (MI: 5, CSK: 5, KKR: 3, SRH: 2, RCB: 2, RR: 1, GT: 1).
 * **⚡ All 15 Historic Super Overs**: Detailed breakdown of every tied thriller in IPL history, tied 20-over scores, super over scores, and hero POTM performances (including the legendary 2020 Double Super Over).
 * **Player Dominance**: Most Player of the Match awards, Orange & Purple caps, and career phase strike rates across 788 profiled cricketers.
 * **The Phase Revolution**: Econometric time-series modeling of **Powerplay (Overs 1–6)** vs **Death Overs (Overs 16–20)**, capturing the 2023–2026 **Impact Player rule explosion**.
@@ -82,12 +82,12 @@ Rather than treating cricket as a single static run-rate, this platform isolates
 
 ```
 ipl-timeseries-analytics/
-├── app.py                             # 🌟 Master 9-Tab Streamlit Dashboard (Live on port 8501)
+├── app.py                             # 🌟 Master 9-Slide Interactive Dashboard & Executive Deck
 ├── data/
 │   ├── raw/                           # Raw CricSheet & 2026 CSVs
 │   └── processed/
 │       ├── ipl_master.db              # High-performance SQLite warehouse (283k+ deliveries)
-│       ├── ipl_champions_roll_of_honor.csv # All 18 champions, runners-up, MVPs, caps
+│       ├── ipl_champions_roll_of_honor.csv # All 19 champions, runners-up, MVPs, caps
 │       ├── historic_super_overs.csv   # All 15 tie matches, tied & SO scores, heroes
 │       ├── franchise_trophies.csv     # Franchise trophy rankings & finals win conversion
 │       ├── player_career_stats.csv    # Career batting, bowling, POTM profiles for 788 players
@@ -154,25 +154,38 @@ python src/run_pipeline.py
 python src/load_champions_and_superovers.py
 ```
 
-### 3. Interactive Executive Dashboard
-You have three easy ways to interact with the executive dashboard:
-* **Option 1 (Online Live Demo)**: Click the **[Live Interactive Dashboard](https://ank-pal.github.io/ipl-timeseries-analytics/)** badge to view all interactive Plotly charts directly in your browser without installing anything.
-* **Option 2 (Offline Standalone)**: Simply double-click [`outputs/dashboard_preview.html`](outputs/dashboard_preview.html) or `index.html` on your computer to open the interactive dashboard in any browser.
-* **Option 3 (Local Streamlit Server)**: If running locally from the terminal:
-  ```bash
-  streamlit run app.py
-  ```
-  Then open your local browser to `http://localhost:8501` to explore all 9 tabs interactively!
+### 3. 🌐 Live Interactive Dashboard
+Launch the full interactive sports intelligence deck directly in your browser with zero installation:
+
+👉 **[Launch Live Interactive Dashboard](https://ank-pal.github.io/ipl-timeseries-analytics/)**
+
+> **Explore all 9 Interactive Modules**:
+> * 🏆 **Champions & Trophies**: All 19 champions & RCB back-to-back 2025–2026 title defense
+> * ⚡ **Historic Super Overs**: Complete archive of all 15 tied thrillers & super over scores
+> * 👑 **Player Hall of Fame**: Full career scorecards & phase strike rates for 788 cricketers
+> * 🏟️ **Toss & Venues**: Stadium chase biases, dew analysis & 1,194 searchable match records
+> * 📊 **Phase Velocity**: Powerplay vs Death-overs run-rates & Impact Player surge
+> * 📈 **ARIMA Forecasts**: Time-series econometric models with ADF/KPSS diagnostics
+> * ⚔️ **Franchise Rivalries**: Head-to-Head matrices (CSK vs MI El Clásico) & fortress ratings
+> * 🏏 **IPL 2026 Season Hub**: Live standings, points table, squad lists & award leaders
+> * 🗄️ **Interactive SQL Studio**: Run live SQL queries on 283,000+ CricSheet deliveries
+
+### 4. 💻 Running Locally with Streamlit (Optional)
+If running locally from your terminal:
+```bash
+streamlit run app.py
+```
+Then open your local browser to `http://localhost:8501`.
 
 ---
 
 ## 🎙️ Elite Interview Talking Points
 
-> *"For this project, I built an end-to-end sports intelligence and econometric forecasting platform analyzing over 283,000 official CricSheet deliveries across 1,193 matches from 2008 to the live 2026 season.*
+> *"For this project, I built an end-to-end sports intelligence and econometric forecasting platform analyzing over 283,000 official CricSheet deliveries across 1,194 matches from 2008 to the live 2026 season.*
 >
 > *I designed a multi-phase time-series architecture, evaluating Powerplay and Death Overs scoring trajectories independently. Using Augmented Dickey-Fuller and KPSS dual testing, I proved that death-over run-rates were non-stationary due to the 2023 Impact Player tactical disruption, requiring first-order differencing ($p < 0.0001$) before ARIMA fitting. Model residuals were verified as pure white noise ($p = 0.9997$ via Ljung-Box).*
 >
-> *On the business intelligence front, I developed a 7-tab interactive Streamlit application with live SQL querying, profiling 788 cricketers, tracking all 15 historic super overs, stadium chase biases, and franchise head-to-head rivalries like the CSK vs MI 'El Clásico'."*
+> *On the business intelligence front, I developed a 9-slide interactive Streamlit application with live SQL querying, profiling 788 cricketers, tracking all 15 historic super overs, stadium chase biases, and franchise head-to-head rivalries like the CSK vs MI 'El Clásico'."*
 
 ---
 
