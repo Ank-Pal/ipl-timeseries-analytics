@@ -6,7 +6,7 @@
 [![Deliveries](https://img.shields.io/badge/Data-283k%2B%20Balls-success.svg)](https://cricsheet.org/)
 [![Matches](https://img.shields.io/badge/Matches-1%2C194%20Matches-orange.svg)](https://www.kaggle.com/)
 [![Time-Series](https://img.shields.io/badge/Model-Phase%20ARIMA-purple.svg)](https://www.statsmodels.org/)
-[![Streamlit](https://img.shields.io/badge/Web%20App-Streamlit%20Interactive-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Streamlit](https://img.shields.io/badge/Web%20App-Streamlit%20Interactive-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://ankur-pal-ipl-analytics.streamlit.app/)
 
 The **Definitive IPL Sports Analytics & Econometric Forecasting Platform**, built on **283,000+ authentic ball-by-ball deliveries**, **1,194 genuine matches** across 19 seasons (2008–2026).
 
@@ -154,10 +154,11 @@ python src/run_pipeline.py
 python src/load_champions_and_superovers.py
 ```
 
-### 3. 🌐 Live Interactive Dashboard
+### 3. 🌐 Live Interactive Dashboards
 Launch the full interactive sports intelligence deck directly in your browser with zero installation:
 
-👉 **[Launch Live Interactive Dashboard](https://ank-pal.github.io/ipl-timeseries-analytics/)**
+* 🚀 **[Fast Web Dashboard (GitHub Pages)](https://ank-pal.github.io/ipl-timeseries-analytics/)** — Instant client-side interactive deck (100% uptime, zero cold starts)
+* ⚡ **[Live Python Server (Streamlit Cloud)](https://ankur-pal-ipl-analytics.streamlit.app/)** — Interactive Python runtime with dynamic SQL queries & phase filters
 
 > **Explore all 9 Interactive Modules**:
 > * 🏆 **Champions & Trophies**: All 19 champions & RCB back-to-back 2025–2026 title defense
