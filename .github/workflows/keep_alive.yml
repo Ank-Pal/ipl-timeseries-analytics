@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Wake up Streamlit app
-        uses: gpenessot/streamlit-keep-alive@v1
+        uses: gpenessot/streamlit-keep-alive@main
         with:
           app-urls: |
             https://ankur-pal-ipl-analytics.streamlit.app/
