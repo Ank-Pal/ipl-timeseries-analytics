@@ -216,6 +216,17 @@ st.sidebar.image("https://img.icons8.com/color/96/cricket.png", width=64)
 st.sidebar.title("IPL Enterprise Intelligence")
 st.sidebar.markdown("Filter matches and view dynamic recalculations.")
 
+st.sidebar.markdown("""
+<div style="background: linear-gradient(135deg, rgba(30, 41, 59, 0.9) 0%, rgba(15, 23, 42, 0.95) 100%); border: 1.5px solid rgba(56, 189, 248, 0.4); border-radius: 12px; padding: 12px 14px; margin: 10px 0 16px 0; box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);">
+    <div style="font-size: 0.72rem; color: #94a3b8; text-transform: uppercase; font-weight: 700; letter-spacing: 0.06em; margin-bottom: 2px;">Author & Lead Analyst</div>
+    <div style="font-size: 1.1rem; font-weight: 800; color: #f8fafc; letter-spacing: -0.01em;">Ankur Pal</div>
+    <div style="font-size: 0.82rem; color: #38bdf8; font-weight: 600; margin-bottom: 10px;">Data Analyst</div>
+    <a href="https://ank-pal.github.io/" target="_blank" rel="noopener" style="display: block; text-align: center; background: linear-gradient(135deg, #1e3a8a 0%, #0284c7 100%); color: #ffffff; text-decoration: none; padding: 7px 12px; border-radius: 8px; font-size: 0.82rem; font-weight: 700; border: 1px solid #38bdf8; box-shadow: 0 2px 8px rgba(2, 132, 199, 0.35); transition: all 0.2s ease;">
+        🌐 View Full Portfolio ↗
+    </a>
+</div>
+""", unsafe_allow_html=True)
+
 # Season Slider
 min_s, max_s = int(df_matches['season'].min()), int(df_matches['season'].max())
 season_filter = st.sidebar.slider("Season Window:", min_value=min_s, max_value=max_s, value=(min_s, max_s))
