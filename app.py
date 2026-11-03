@@ -199,7 +199,7 @@ def load_master_data(_cache_version="2026_v4_rcb_defending_champions"):
 
 (df_matches, df_players, df_phase, df_h2h,
  df_champions, df_trophies, df_super_overs,
- df_2026_points, df_2026_squads, df_2026_batting, df_2026_bowling) = load_master_data(_cache_version="2026_v4_rcb_defending_champions")
+ df_2026_points, df_2026_squads, df_2026_batting, df_2026_bowling) = load_master_data(_cache_version="2026_v5_accurate_records")
 
 # Unconditional fallback in case old cache is retrieved from memory
 if 'full_name' not in df_players.columns:
@@ -339,6 +339,7 @@ def render_slide_1():
             "Rajasthan Royals": "#EA1A85",
             "Gujarat Titans": "#1B2133",
             "Royal Challengers Bengaluru": "#D11D1D",
+            "Deccan Chargers": "#2B547E",
             "Punjab Kings": "#DD1F2D",
             "Delhi Capitals": "#004C93",
             "Lucknow Super Giants": "#A72056"
@@ -373,7 +374,9 @@ def render_slide_1():
         * **Chennai Super Kings (5 Titles)**: Record 10 finals appearances, winning in 2010, 2011, 2018, 2021, and 2023.
         * **Kolkata Knight Riders (3 Titles)**: 75% conversion rate in finals (2012, 2014, 2024).
         * **Royal Challengers Bengaluru (2 Titles)**: Back-to-Back Champions (2025 & 2026)! Rajat Patidar led RCB to defend their championship in 2026, defeating Gujarat Titans by 5 wickets in the Final (GT 155/8 vs RCB 161/5). Virat Kohli was named Player of the Match for his unbeaten 75* off 42 balls. RCB joins CSK and MI as the only franchises in IPL history to successfully defend an IPL title!
-        * **Sunrisers Hyderabad / Deccan Chargers (2 Titles)**: 2009 (DC) & 2016 (SRH).
+        * **Sunrisers Hyderabad (1 Title)**: 2016 Champions, 3 finals played (2016, 2018, 2024).
+        * **Deccan Chargers (1 Title)**: 2009 Champions (defunct franchise, separate from SRH).
+        * **Punjab Kings (0 Titles)**: 2 Finals appearances (2014 runners-up to KKR, 2025 runners-up to RCB in 6-run thriller).
         * **Gujarat Titans (1 Title)**: 2022 Champions, 3 finals played (2022, 2023, 2026).
         """)
 

@@ -137,12 +137,12 @@ CHAMPIONS_DATA = [
         "edition_type": "Official (BCCI Completed)"
     },
     {
-        "season": 2025, "champion": "Royal Challengers Bengaluru", "runner_up": "Sunrisers Hyderabad",
-        "final_venue": "Eden Gardens, Kolkata", "final_margin": "Won by 6 wickets",
-        "player_of_final": "Virat Kohli (RCB)", "player_of_tournament_mvp": "Virat Kohli (RCB)",
-        "orange_cap_winner": "Heinrich Klaasen (SRH)", "orange_cap_runs": 680,
-        "purple_cap_winner": "Jasprit Bumrah (MI)", "purple_cap_wickets": 25,
-        "edition_type": "Simulated Tournament Projection"
+        "season": 2025, "champion": "Royal Challengers Bengaluru", "runner_up": "Punjab Kings",
+        "final_venue": "Narendra Modi Stadium, Ahmedabad", "final_margin": "Won by 6 runs",
+        "player_of_final": "Krunal Pandya (RCB)", "player_of_tournament_mvp": "Suryakumar Yadav (MI)",
+        "orange_cap_winner": "Sai Sudharsan (GT)", "orange_cap_runs": 759,
+        "purple_cap_winner": "Prasidh Krishna (GT)", "purple_cap_wickets": 25,
+        "edition_type": "Official (BCCI Completed)"
     },
     {
         "season": 2026, "champion": "Royal Challengers Bengaluru", "runner_up": "Gujarat Titans",
@@ -163,11 +163,12 @@ TROPHIES_DATA = [
     {"team": "Mumbai Indians", "titles": 5, "winning_years": "2013, 2015, 2017, 2019, 2020", "finals_played": 6, "win_rate_in_finals": "83.3%"},
     {"team": "Chennai Super Kings", "titles": 5, "winning_years": "2010, 2011, 2018, 2021, 2023", "finals_played": 10, "win_rate_in_finals": "50.0%"},
     {"team": "Kolkata Knight Riders", "titles": 3, "winning_years": "2012, 2014, 2024", "finals_played": 4, "win_rate_in_finals": "75.0%"},
-    {"team": "Royal Challengers Bengaluru", "titles": 2, "winning_years": "2025, 2026 (Simulated / Projected)", "finals_played": 5, "win_rate_in_finals": "40.0% (Simulated)"},
-    {"team": "Sunrisers Hyderabad", "titles": 2, "winning_years": "2009 (DC), 2016 (SRH)", "finals_played": 4, "win_rate_in_finals": "50.0%"},
+    {"team": "Royal Challengers Bengaluru", "titles": 2, "winning_years": "2025, 2026", "finals_played": 5, "win_rate_in_finals": "40.0%"},
+    {"team": "Sunrisers Hyderabad", "titles": 1, "winning_years": "2016", "finals_played": 3, "win_rate_in_finals": "33.3%"},
     {"team": "Rajasthan Royals", "titles": 1, "winning_years": "2008", "finals_played": 2, "win_rate_in_finals": "50.0%"},
     {"team": "Gujarat Titans", "titles": 1, "winning_years": "2022", "finals_played": 3, "win_rate_in_finals": "33.3%"},
-    {"team": "Punjab Kings", "titles": 0, "winning_years": "Runner-Up (2014)", "finals_played": 1, "win_rate_in_finals": "0.0%"},
+    {"team": "Deccan Chargers", "titles": 1, "winning_years": "2009", "finals_played": 1, "win_rate_in_finals": "100.0%"},
+    {"team": "Punjab Kings", "titles": 0, "winning_years": "Runners-Up (2014, 2025)", "finals_played": 2, "win_rate_in_finals": "0.0%"},
     {"team": "Delhi Capitals", "titles": 0, "winning_years": "Runner-Up (2020)", "finals_played": 1, "win_rate_in_finals": "0.0%"},
     {"team": "Lucknow Super Giants", "titles": 0, "winning_years": "Playoffs (2022, 2023)", "finals_played": 0, "win_rate_in_finals": "0.0%"}
 ]
@@ -187,7 +188,20 @@ SUPER_OVERS_DATA = [
     {"date": "2020-10-18", "season": 2020, "match": "KKR vs SRH", "venue": "Sheikh Zayed, Abu Dhabi", "tied_score": "163/5 vs 163/6", "super_over_winner": "Kolkata Knight Riders", "super_over_score": "KKR 3/0 vs SRH 2/2", "hero_potm": "Lockie Ferguson (3 wkts in game)"},
     {"date": "2020-10-18", "season": 2020, "match": "MI vs KXIP (DOUBLE SUPER OVER)", "venue": "Dubai International, Dubai", "tied_score": "176/6 vs 176/6", "super_over_winner": "Kings XI Punjab", "super_over_score": "SO 1: 5-5 | SO 2: KXIP 15/0 vs MI 11/1", "hero_potm": "Mayank Agarwal & Chris Gayle"},
     {"date": "2021-04-25", "season": 2021, "match": "DC vs SRH", "venue": "MA Chidambaram, Chennai", "tied_score": "159/4 vs 159/7", "super_over_winner": "Delhi Capitals", "super_over_score": "DC 8/0 vs SRH 7/0", "hero_potm": "Prithvi Shaw & Axar Patel"},
-    {"date": "2025-04-16", "season": 2025, "match": "DC vs LSG", "venue": "Arun Jaitley, Delhi", "tied_score": "212/6 vs 212/7", "super_over_winner": "Delhi Capitals", "super_over_score": "DC 16/0 vs LSG 12/1", "hero_potm": "Mitchell Starc (Death defense)"}
+    {"date": "2025-04-16", "season": 2025, "match": "DC vs RR", "venue": "Arun Jaitley Stadium, Delhi", "tied_score": "188/5 vs 188/4", "super_over_winner": "Delhi Capitals", "super_over_score": "RR 11/2 vs DC 12/0 (4 balls)", "hero_potm": "Mitchell Starc & Tristan Stubbs"}
+]
+
+POINTS_TABLE_2026_DATA = [
+    {"position": 1, "team": "Royal Challengers Bengaluru", "matches": 14, "wins": 9, "defeats": 5, "tied": 0, "no_result": 0, "points": 18, "nrr": 0.783},
+    {"position": 2, "team": "Gujarat Titans", "matches": 14, "wins": 9, "defeats": 5, "tied": 0, "no_result": 0, "points": 18, "nrr": 0.695},
+    {"position": 3, "team": "Sunrisers Hyderabad", "matches": 14, "wins": 9, "defeats": 5, "tied": 0, "no_result": 0, "points": 18, "nrr": 0.524},
+    {"position": 4, "team": "Rajasthan Royals", "matches": 14, "wins": 8, "defeats": 6, "tied": 0, "no_result": 0, "points": 16, "nrr": 0.189},
+    {"position": 5, "team": "Punjab Kings", "matches": 14, "wins": 7, "defeats": 6, "tied": 0, "no_result": 1, "points": 15, "nrr": 0.309},
+    {"position": 6, "team": "Delhi Capitals", "matches": 14, "wins": 7, "defeats": 7, "tied": 0, "no_result": 0, "points": 14, "nrr": -0.651},
+    {"position": 7, "team": "Kolkata Knight Riders", "matches": 14, "wins": 6, "defeats": 7, "tied": 0, "no_result": 1, "points": 13, "nrr": -0.147},
+    {"position": 8, "team": "Chennai Super Kings", "matches": 14, "wins": 6, "defeats": 8, "tied": 0, "no_result": 0, "points": 12, "nrr": -0.345},
+    {"position": 9, "team": "Mumbai Indians", "matches": 14, "wins": 4, "defeats": 10, "tied": 0, "no_result": 0, "points": 8, "nrr": -0.584},
+    {"position": 10, "team": "Lucknow Super Giants", "matches": 14, "wins": 4, "defeats": 10, "tied": 0, "no_result": 0, "points": 8, "nrr": -0.740}
 ]
 
 def load_data():
@@ -196,10 +210,12 @@ def load_data():
     df_champs = pd.DataFrame(CHAMPIONS_DATA)
     df_trophies = pd.DataFrame(TROPHIES_DATA)
     df_super_overs = pd.DataFrame(SUPER_OVERS_DATA)
+    df_points_2026 = pd.DataFrame(POINTS_TABLE_2026_DATA)
     
     df_champs.to_sql("dim_ipl_champions", conn, if_exists="replace", index=False)
     df_trophies.to_sql("dim_franchise_trophies", conn, if_exists="replace", index=False)
     df_super_overs.to_sql("fact_super_overs", conn, if_exists="replace", index=False)
+    df_points_2026.to_sql("ipl_2026_points_table", conn, if_exists="replace", index=False)
     
     conn.commit()
     conn.close()
@@ -208,7 +224,7 @@ def load_data():
     df_trophies.to_csv(os.path.join(PROCESSED_DIR, "franchise_trophies.csv"), index=False)
     df_super_overs.to_csv(os.path.join(PROCESSED_DIR, "historic_super_overs.csv"), index=False)
     
-    print("[OK] Loaded official IPL Champions Roll of Honor (2008–2026), Trophy Rankings & Super Overs!")
+    print("[OK] Loaded official IPL Champions Roll of Honor (2008–2026), Trophy Rankings, Super Overs & 2026 Final Points Table!")
 
 if __name__ == "__main__":
     load_data()
