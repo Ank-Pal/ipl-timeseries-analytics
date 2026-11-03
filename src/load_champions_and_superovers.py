@@ -133,29 +133,37 @@ CHAMPIONS_DATA = [
         "final_venue": "MA Chidambaram Stadium, Chennai", "final_margin": "Won by 8 wickets (dominant)",
         "player_of_final": "Mitchell Starc (KKR)", "player_of_tournament_mvp": "Sunil Narine (KKR)",
         "orange_cap_winner": "Virat Kohli (RCB)", "orange_cap_runs": 741,
-        "purple_cap_winner": "Harshal Patel (PBKS)", "purple_cap_wickets": 24
+        "purple_cap_winner": "Harshal Patel (PBKS)", "purple_cap_wickets": 24,
+        "edition_type": "Official (BCCI Completed)"
     },
     {
         "season": 2025, "champion": "Royal Challengers Bengaluru", "runner_up": "Sunrisers Hyderabad",
         "final_venue": "Eden Gardens, Kolkata", "final_margin": "Won by 6 wickets",
         "player_of_final": "Virat Kohli (RCB)", "player_of_tournament_mvp": "Virat Kohli (RCB)",
         "orange_cap_winner": "Heinrich Klaasen (SRH)", "orange_cap_runs": 680,
-        "purple_cap_winner": "Jasprit Bumrah (MI)", "purple_cap_wickets": 25
+        "purple_cap_winner": "Jasprit Bumrah (MI)", "purple_cap_wickets": 25,
+        "edition_type": "Simulated Tournament Projection"
     },
     {
         "season": 2026, "champion": "Royal Challengers Bengaluru", "runner_up": "Gujarat Titans",
         "final_venue": "Narendra Modi Stadium, Ahmedabad", "final_margin": "Won by 5 wickets (GT 155/8 in 20 ov vs RCB 161/5 in 18 ov)",
         "player_of_final": "Virat Kohli (75* off 42)", "player_of_tournament_mvp": "Virat Kohli (RCB)",
         "orange_cap_winner": "Virat Kohli (RCB)", "orange_cap_runs": 782,
-        "purple_cap_winner": "Prasidh Krishna (GT)", "purple_cap_wickets": 26
+        "purple_cap_winner": "Prasidh Krishna (GT)", "purple_cap_wickets": 26,
+        "edition_type": "Simulated Tournament Projection"
     }
 ]
+
+# Set edition_type for 2008-2023 as Official
+for entry in CHAMPIONS_DATA:
+    if "edition_type" not in entry:
+        entry["edition_type"] = "Official (BCCI Completed)"
 
 TROPHIES_DATA = [
     {"team": "Mumbai Indians", "titles": 5, "winning_years": "2013, 2015, 2017, 2019, 2020", "finals_played": 6, "win_rate_in_finals": "83.3%"},
     {"team": "Chennai Super Kings", "titles": 5, "winning_years": "2010, 2011, 2018, 2021, 2023", "finals_played": 10, "win_rate_in_finals": "50.0%"},
     {"team": "Kolkata Knight Riders", "titles": 3, "winning_years": "2012, 2014, 2024", "finals_played": 4, "win_rate_in_finals": "75.0%"},
-    {"team": "Royal Challengers Bengaluru", "titles": 2, "winning_years": "2025, 2026 (Back-to-Back Defending Champions)", "finals_played": 5, "win_rate_in_finals": "40.0%"},
+    {"team": "Royal Challengers Bengaluru", "titles": 2, "winning_years": "2025, 2026 (Simulated / Projected)", "finals_played": 5, "win_rate_in_finals": "40.0% (Simulated)"},
     {"team": "Sunrisers Hyderabad", "titles": 2, "winning_years": "2009 (DC), 2016 (SRH)", "finals_played": 4, "win_rate_in_finals": "50.0%"},
     {"team": "Rajasthan Royals", "titles": 1, "winning_years": "2008", "finals_played": 2, "win_rate_in_finals": "50.0%"},
     {"team": "Gujarat Titans", "titles": 1, "winning_years": "2022", "finals_played": 3, "win_rate_in_finals": "33.3%"},

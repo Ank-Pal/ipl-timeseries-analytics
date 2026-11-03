@@ -8,20 +8,26 @@
 [![Time-Series](https://img.shields.io/badge/Model-Phase%20ARIMA-purple.svg)](https://www.statsmodels.org/)
 [![Streamlit](https://img.shields.io/badge/Web%20App-Streamlit%20Interactive-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://ankur-pal-ipl-analytics.streamlit.app/)
 
-An end-to-end sports analytics platform and time-series forecasting pipeline built on **283,000+ authentic ball-by-ball deliveries** from [CricSheet](https://cricsheet.org/) across **1,194 matches** spanning 19 seasons (2008–2026).
-
-This repository evaluates key tactical and statistical phenomena in the Indian Premier League:
-* **🏆 Season Champions & Trophy Cabinet**: Every champion, runner-up, final margin, MVP, Orange Cap, and Purple Cap from 2008 to 2026, plus franchise trophy rankings (MI: 5, CSK: 5, KKR: 3, SRH: 2, RCB: 2, RR: 1, GT: 1).
-* **⚡ All 15 Historic Super Overs**: Detailed breakdown of every tied thriller in IPL history, tied 20-over scores, super over scores, and hero POTM performances (including the legendary 2020 Double Super Over).
-* **Player Dominance**: Most Player of the Match awards, Orange & Purple caps, and career phase strike rates across 788 profiled cricketers.
-* **The Phase Revolution**: Econometric time-series modeling of **Powerplay (Overs 1–6)** vs **Death Overs (Overs 16–20)**, capturing the 2023–2026 **Impact Player rule explosion**.
-* **The Real Toss & Dew Paradox**: Grounded in authentic day vs night dew data across India's iconic stadiums.
-* **Franchise Rivalries**: Head-to-Head matrices (CSK vs MI, KKR vs RCB) and home ground fortress ratings.
-* **IPL 2026 Live Season Hub**: Official standings, points table, top performers, and squad lists.
+An end-to-end sports analytics platform and time-series forecasting pipeline built on **283,000+ ball-by-ball deliveries** across **1,194 matches** spanning 19 tournament editions (2008–2026):
+* **2008–2024 (Official Ground Truth):** 17 completed official seasons sourced from [CricSheet](https://cricsheet.org/) (260,000+ deliveries, 1,095 matches).
+* **2025–2026 (Predictive Simulation Hub):** Forward tournament simulations and prospective playoff modeling built on post-auction squad rosters and phase scoring distributions.
 
 ---
 
-## 🏆 Key Records & Historical Leaderboards
+## 🎯 Core Analytical Questions Investigated
+
+1. **The Phase Scoring Shift (Powerplay vs Death Overs)**:
+   Scoring rates have drifted upward across tournament history, but the **2023 Impact Player rule** coincided with an unprecedented structural break in death-overs scoring (Overs 16–20), surging from a ~10.4 RPO ceiling to over **12.8+ RPO** as teams bat with 8 recognized hitters.
+2. **The Modern Toss & Chase Paradox**:
+   Between 2008 and 2015, winning the toss conferred a noticeable match-win edge (~54.2%). In the modern era, despite teams choosing to field first in ~74% of matches to capitalize on second-innings dew proxies, the toss-to-win correlation has flattened to ~50.2% (statistically indistinguishable from a coin flip).
+3. **Phase-Specific Strike Rate Titans**:
+   Isolated phase-level leaderboards reveal extreme specialization: death-overs monsters like **AB de Villiers (232.5 SR)**, **Liam Livingstone (227.8 SR)**, and **Andre Russell (206.8 SR)** convert late-inning balls into runs at double the rate of standard middle-overs anchors.
+
+---
+
+## 🏆 Tournament Roll of Honor & Leaderboards
+
+> **Data Classification Note:** Champions from 2008 to 2024 represent official verified BCCI tournament results. 2025 and 2026 reflect forward simulated tournament outcomes modeled from prospective squad compositions and phase metrics.
 
 ### 1. Most Player of the Match (POTM) Awards in History
 | Rank | Player Name | POTM Awards | Career Runs | Career Wickets |
@@ -73,8 +79,9 @@ Rather than treating cricket as a single static run-rate, this platform isolates
 └───────────────────────────────┴──────────────────────────────────┴─────────────────────┘
 ```
 
-* **The Impact Player Anomaly**: Introduced in 2023, the Impact Player rule allowed franchises to bat with 8 recognized hitters, causing death overs run-rates to shatter previous ceilings, surging from ~10.4 rpo to over **12.8+ rpo**.
+* **The Impact Player Anomaly**: Introduced in 2023, the Impact Player rule coincided with death overs run-rates surging from ~10.4 RPO to over **12.8+ RPO** as teams fielded extended batting lineups.
 * **ARIMA Projections**: Projects future phase boundaries with 95% Confidence Intervals.
+* **Methodology Caveat**: With $N=19$ annual aggregated data points, the ARIMA model serves as an exploratory macro-level trend projection across tournament eras rather than an asymptotic micro-level proof.
 
 ---
 
