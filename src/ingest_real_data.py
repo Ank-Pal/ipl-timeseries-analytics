@@ -21,8 +21,16 @@ PROCESSED_DIR = os.path.join(BASE_DIR, "data", "processed")
 os.makedirs(PROCESSED_DIR, exist_ok=True)
 DB_PATH = os.path.join(PROCESSED_DIR, "ipl_master.db")
 
-IPL_RAW_CSV = r"C:\Users\palan\Downloads\IPL Dataset(2008-2025)\IPL.csv"
-IPL_2026_DIR = r"C:\Users\palan\Downloads\IPL 2026 - Complete Dataset"
+RAW_DIR = os.path.join(BASE_DIR, "data", "raw")
+
+# Look in local project data/raw/ first, then fall back to default download directory
+default_csv = os.path.join(RAW_DIR, "IPL.csv")
+fallback_csv = r"C:\Users\palan\Downloads\IPL Dataset(2008-2025)\IPL.csv"
+IPL_RAW_CSV = os.environ.get("IPL_RAW_CSV", default_csv if os.path.exists(default_csv) else fallback_csv)
+
+default_2026_dir = os.path.join(RAW_DIR, "IPL 2026 - Complete Dataset")
+fallback_2026_dir = r"C:\Users\palan\Downloads\IPL 2026 - Complete Dataset"
+IPL_2026_DIR = os.environ.get("IPL_2026_DIR", default_2026_dir if os.path.exists(default_2026_dir) else fallback_2026_dir)
 
 # Team Name Standardization Map
 TEAM_RENAME_MAP = {

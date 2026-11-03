@@ -1,4 +1,4 @@
-# 🏏 IPL Enterprise Intelligence: Ball-by-Ball Analytics & Predictive Time-Series (2008–2026)
+# 🏏 IPL Ball-by-Ball Analytics & Predictive Phase Time-Series (2008–2026)
 
 [![Live Interactive Dashboard](https://img.shields.io/badge/Live%20Demo-Interactive%20Dashboard-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ank-pal.github.io/ipl-timeseries-analytics/)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
@@ -8,9 +8,9 @@
 [![Time-Series](https://img.shields.io/badge/Model-Phase%20ARIMA-purple.svg)](https://www.statsmodels.org/)
 [![Streamlit](https://img.shields.io/badge/Web%20App-Streamlit%20Interactive-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://ankur-pal-ipl-analytics.streamlit.app/)
 
-The **Definitive IPL Sports Analytics & Econometric Forecasting Platform**, built on **283,000+ authentic ball-by-ball deliveries**, **1,194 genuine matches** across 19 seasons (2008–2026).
+An end-to-end sports analytics platform and time-series forecasting pipeline built on **283,000+ authentic ball-by-ball deliveries** from [CricSheet](https://cricsheet.org/) across **1,194 matches** spanning 19 seasons (2008–2026).
 
-This repository answers every fundamental sports, economic, and tactical question about the Indian Premier League:
+This repository evaluates key tactical and statistical phenomena in the Indian Premier League:
 * **🏆 Season Champions & Trophy Cabinet**: Every champion, runner-up, final margin, MVP, Orange Cap, and Purple Cap from 2008 to 2026, plus franchise trophy rankings (MI: 5, CSK: 5, KKR: 3, SRH: 2, RCB: 2, RR: 1, GT: 1).
 * **⚡ All 15 Historic Super Overs**: Detailed breakdown of every tied thriller in IPL history, tied 20-over scores, super over scores, and hero POTM performances (including the legendary 2020 Double Super Over).
 * **Player Dominance**: Most Player of the Match awards, Orange & Purple caps, and career phase strike rates across 788 profiled cricketers.
@@ -180,13 +180,9 @@ Then open your local browser to `http://localhost:8501`.
 
 ---
 
-## 🎙️ Elite Interview Talking Points
+## 📚 Technical Interview Preparation
 
-> *"For this project, I built an end-to-end sports intelligence and econometric forecasting platform analyzing over 283,000 official CricSheet deliveries across 1,194 matches from 2008 to the live 2026 season.*
->
-> *I designed a multi-phase time-series architecture, evaluating Powerplay and Death Overs scoring trajectories independently. Using Augmented Dickey-Fuller and KPSS dual testing, I proved that death-over run-rates were non-stationary due to the 2023 Impact Player tactical disruption, requiring first-order differencing ($p < 0.0001$) before ARIMA fitting. Model residuals were verified as pure white noise ($p = 0.9997$ via Ljung-Box).*
->
-> *On the business intelligence front, I developed a 9-slide interactive Streamlit application with live SQL querying, profiling 788 cricketers, tracking all 15 historic super overs, stadium chase biases, and franchise head-to-head rivalries like the CSK vs MI 'El Clásico'."*
+Structured talking points, econometric stationarity proofs, and sample Q&A for data analyst & sports analytics interviews are documented in [`docs/interview_prep.md`](docs/interview_prep.md).
 
 ---
 

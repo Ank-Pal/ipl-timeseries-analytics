@@ -23,3 +23,6 @@ ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 .DS_Store
+
+# Deprecated scripts
+src/_deprecated_*
