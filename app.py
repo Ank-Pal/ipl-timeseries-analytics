@@ -213,7 +213,7 @@ if 'display_name' not in df_players.columns:
 # SIDEBAR FILTERS
 # ====================================================================
 st.sidebar.image("https://img.icons8.com/color/96/cricket.png", width=64)
-st.sidebar.title("IPL Enterprise Intelligence")
+st.sidebar.title("IPL Match Analytics")
 st.sidebar.markdown("Filter matches and view dynamic recalculations.")
 
 st.sidebar.markdown("""
@@ -433,7 +433,7 @@ def render_slide_2():
     st.subheader("⚡ Historic Ties & Super Overs Deep Dive (2008–2026)")
     st.markdown("""
     In IPL history, when both teams finish 20 overs with the exact same score, a **Super Over** is triggered.
-    Here is the complete record of **all 15 Super Overs** in tournament history, including the tied scores, super over scores, and hero performances.
+    Here is the complete record of **all 16 Super Overs** in tournament history, including the tied scores, super over scores, and hero performances.
     """)
     
     TEAM_ALIASES = {
@@ -915,7 +915,7 @@ ORDER BY chase_win_pct DESC;
 # ====================================================================
 SLIDES = [
     ("🏆 1. Champions & Trophies", "All 19 champions (2008–2026), RCB back-to-back title defense & franchise trophy rankings"),
-    ("⚡ 2. Super Overs (15 Ties)", "Complete history of all 15 tied matches, super over scores & match heroes"),
+    ("⚡ 2. Super Overs (16 Ties)", "Complete history of all 16 tied matches, super over scores & match heroes"),
     ("👑 3. Player Career Explorer", "Search full names (Rohit Sharma, Virat Kohli, MS Dhoni) for complete scorecard & phase strike rates"),
     ("🏟️ 4. Toss & Venues", "The Toss Paradox, stadium chase bias & 1,194 searchable match scorecards"),
     ("📊 5. Phase Velocity", "Scoring rate trends across Powerplay, Middle, and Death overs (2008–2026)"),

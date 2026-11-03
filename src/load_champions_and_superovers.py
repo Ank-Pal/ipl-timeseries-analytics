@@ -146,11 +146,11 @@ CHAMPIONS_DATA = [
     },
     {
         "season": 2026, "champion": "Royal Challengers Bengaluru", "runner_up": "Gujarat Titans",
-        "final_venue": "Narendra Modi Stadium, Ahmedabad", "final_margin": "Won by 5 wickets (GT 155/8 in 20 ov vs RCB 161/5 in 18 ov)",
-        "player_of_final": "Virat Kohli (75* off 42)", "player_of_tournament_mvp": "Virat Kohli (RCB)",
-        "orange_cap_winner": "Virat Kohli (RCB)", "orange_cap_runs": 782,
-        "purple_cap_winner": "Prasidh Krishna (GT)", "purple_cap_wickets": 26,
-        "edition_type": "Simulated Tournament Projection"
+        "final_venue": "Narendra Modi Stadium, Ahmedabad", "final_margin": "Won by 5 wickets",
+        "player_of_final": "Virat Kohli (75* off 42)", "player_of_tournament_mvp": "Vaibhav Sooryavanshi (RR)",
+        "orange_cap_winner": "Vaibhav Sooryavanshi (RR)", "orange_cap_runs": 776,
+        "purple_cap_winner": "Kagiso Rabada (GT)", "purple_cap_wickets": 29,
+        "edition_type": "Official (BCCI Completed)"
     }
 ]
 
@@ -179,7 +179,7 @@ SUPER_OVERS_DATA = [
     {"date": "2013-04-07", "season": 2013, "match": "SRH vs RCB", "venue": "Rajiv Gandhi, Hyderabad", "tied_score": "130/7 vs 130/8", "super_over_winner": "Sunrisers Hyderabad", "super_over_score": "SRH 20/0 vs RCB 15/1", "hero_potm": "Cameron White & Dale Steyn"},
     {"date": "2013-04-16", "season": 2013, "match": "RCB vs DD", "venue": "M. Chinnaswamy, Bangalore", "tied_score": "152/7 vs 152/5", "super_over_winner": "Royal Challengers Bangalore", "super_over_score": "RCB 15/0 vs DD 11/2", "hero_potm": "Ravi Rampaul (Bowled Warner)"},
     {"date": "2014-04-29", "season": 2014, "match": "RR vs KKR", "venue": "Sheikh Zayed, Abu Dhabi", "tied_score": "152/5 vs 152/8", "super_over_winner": "Rajasthan Royals", "super_over_score": "RR 11/0 vs KKR 11/1 (Boundaries)", "hero_potm": "Steve Smith & Faulkner"},
-    {"date": "2015-04-21", "season": 2015, "match": "RR vs KXIP", "venue": "Sardar Patel, Ahmedabad", "tied_score": "191/6 vs 191/6", "super_over_winner": "Kings XI Punjab", "super_over_score": "KXIP 15/1 vs RR 4/2", "hero_potm": "Mitchell Johnson (2 wkts)"},
+    {"date": "2015-04-21", "season": 2015, "match": "RR vs KXIP", "venue": "Sardar Patel, Ahmedabad", "tied_score": "191/6 vs 191/6", "super_over_winner": "Kings XI Punjab", "super_over_score": "KXIP 15/2 vs RR 6/2 (3 balls)", "hero_potm": "Mitchell Johnson (2 wkts)"},
     {"date": "2017-04-29", "season": 2017, "match": "GL vs MI", "venue": "SCA Stadium, Rajkot", "tied_score": "153 vs 153", "super_over_winner": "Mumbai Indians", "super_over_score": "MI 11/2 vs GL 6/0", "hero_potm": "Jasprit Bumrah (Elite defense)"},
     {"date": "2019-03-30", "season": 2019, "match": "DC vs KKR", "venue": "Arun Jaitley, Delhi", "tied_score": "185/6 vs 185/8", "super_over_winner": "Delhi Capitals", "super_over_score": "DC 10/1 vs KKR 7/1", "hero_potm": "Kagiso Rabada (Yorker to Russell)"},
     {"date": "2019-05-02", "season": 2019, "match": "MI vs SRH", "venue": "Wankhede, Mumbai", "tied_score": "162/5 vs 162/6", "super_over_winner": "Mumbai Indians", "super_over_score": "MI 9/0 vs SRH 8/2", "hero_potm": "Jasprit Bumrah & Hardik Pandya"},
@@ -188,7 +188,8 @@ SUPER_OVERS_DATA = [
     {"date": "2020-10-18", "season": 2020, "match": "KKR vs SRH", "venue": "Sheikh Zayed, Abu Dhabi", "tied_score": "163/5 vs 163/6", "super_over_winner": "Kolkata Knight Riders", "super_over_score": "KKR 3/0 vs SRH 2/2", "hero_potm": "Lockie Ferguson (3 wkts in game)"},
     {"date": "2020-10-18", "season": 2020, "match": "MI vs KXIP (DOUBLE SUPER OVER)", "venue": "Dubai International, Dubai", "tied_score": "176/6 vs 176/6", "super_over_winner": "Kings XI Punjab", "super_over_score": "SO 1: 5-5 | SO 2: KXIP 15/0 vs MI 11/1", "hero_potm": "Mayank Agarwal & Chris Gayle"},
     {"date": "2021-04-25", "season": 2021, "match": "DC vs SRH", "venue": "MA Chidambaram, Chennai", "tied_score": "159/4 vs 159/7", "super_over_winner": "Delhi Capitals", "super_over_score": "DC 8/0 vs SRH 7/0", "hero_potm": "Prithvi Shaw & Axar Patel"},
-    {"date": "2025-04-16", "season": 2025, "match": "DC vs RR", "venue": "Arun Jaitley Stadium, Delhi", "tied_score": "188/5 vs 188/4", "super_over_winner": "Delhi Capitals", "super_over_score": "RR 11/2 vs DC 12/0 (4 balls)", "hero_potm": "Mitchell Starc & Tristan Stubbs"}
+    {"date": "2025-04-16", "season": 2025, "match": "DC vs RR", "venue": "Arun Jaitley Stadium, Delhi", "tied_score": "188/5 vs 188/4", "super_over_winner": "Delhi Capitals", "super_over_score": "RR 11/2 vs DC 12/0 (4 balls)", "hero_potm": "Mitchell Starc & Tristan Stubbs"},
+    {"date": "2026-04-26", "season": 2026, "match": "LSG vs KKR", "venue": "Ekana Stadium, Lucknow", "tied_score": "155/8 vs 155/7", "super_over_winner": "Kolkata Knight Riders", "super_over_score": "LSG 1/2 vs KKR 2/0 (1 ball)", "hero_potm": "Mitchell Starc & Harshit Rana"}
 ]
 
 POINTS_TABLE_2026_DATA = [
@@ -205,12 +206,18 @@ POINTS_TABLE_2026_DATA = [
 ]
 
 def load_data():
-    conn = sqlite3.connect(DB_PATH)
-    
     df_champs = pd.DataFrame(CHAMPIONS_DATA)
     df_trophies = pd.DataFrame(TROPHIES_DATA)
     df_super_overs = pd.DataFrame(SUPER_OVERS_DATA)
     df_points_2026 = pd.DataFrame(POINTS_TABLE_2026_DATA)
+    
+    # Rigorous Validation Asserts
+    assert len(df_champs) == 19, f"Expected 19 seasons, found {len(df_champs)}"
+    assert len(df_super_overs) == 16, f"Expected 16 super overs, found {len(df_super_overs)}"
+    assert 2026 in df_champs['season'].values, "2026 missing from seasons"
+    assert df_points_2026['matches'].min() >= 14, "Standings table must show full season (>= 14 matches)"
+
+    conn = sqlite3.connect(DB_PATH)
     
     df_champs.to_sql("dim_ipl_champions", conn, if_exists="replace", index=False)
     df_trophies.to_sql("dim_franchise_trophies", conn, if_exists="replace", index=False)

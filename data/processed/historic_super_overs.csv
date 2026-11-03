@@ -4,7 +4,7 @@ date,season,match,venue,tied_score,super_over_winner,super_over_score,hero_potm
 2013-04-07,2013,SRH vs RCB,"Rajiv Gandhi, Hyderabad",130/7 vs 130/8,Sunrisers Hyderabad,SRH 20/0 vs RCB 15/1,Cameron White & Dale Steyn
 2013-04-16,2013,RCB vs DD,"M. Chinnaswamy, Bangalore",152/7 vs 152/5,Royal Challengers Bangalore,RCB 15/0 vs DD 11/2,Ravi Rampaul (Bowled Warner)
 2014-04-29,2014,RR vs KKR,"Sheikh Zayed, Abu Dhabi",152/5 vs 152/8,Rajasthan Royals,RR 11/0 vs KKR 11/1 (Boundaries),Steve Smith & Faulkner
-2015-04-21,2015,RR vs KXIP,"Sardar Patel, Ahmedabad",191/6 vs 191/6,Kings XI Punjab,KXIP 15/1 vs RR 4/2,Mitchell Johnson (2 wkts)
+2015-04-21,2015,RR vs KXIP,"Sardar Patel, Ahmedabad",191/6 vs 191/6,Kings XI Punjab,KXIP 15/2 vs RR 6/2 (3 balls),Mitchell Johnson (2 wkts)
 2017-04-29,2017,GL vs MI,"SCA Stadium, Rajkot",153 vs 153,Mumbai Indians,MI 11/2 vs GL 6/0,Jasprit Bumrah (Elite defense)
 2019-03-30,2019,DC vs KKR,"Arun Jaitley, Delhi",185/6 vs 185/8,Delhi Capitals,DC 10/1 vs KKR 7/1,Kagiso Rabada (Yorker to Russell)
 2019-05-02,2019,MI vs SRH,"Wankhede, Mumbai",162/5 vs 162/6,Mumbai Indians,MI 9/0 vs SRH 8/2,Jasprit Bumrah & Hardik Pandya
@@ -14,3 +14,4 @@ date,season,match,venue,tied_score,super_over_winner,super_over_score,hero_potm
 2020-10-18,2020,MI vs KXIP (DOUBLE SUPER OVER),"Dubai International, Dubai",176/6 vs 176/6,Kings XI Punjab,SO 1: 5-5 | SO 2: KXIP 15/0 vs MI 11/1,Mayank Agarwal & Chris Gayle
 2021-04-25,2021,DC vs SRH,"MA Chidambaram, Chennai",159/4 vs 159/7,Delhi Capitals,DC 8/0 vs SRH 7/0,Prithvi Shaw & Axar Patel
 2025-04-16,2025,DC vs RR,"Arun Jaitley Stadium, Delhi",188/5 vs 188/4,Delhi Capitals,RR 11/2 vs DC 12/0 (4 balls),Mitchell Starc & Tristan Stubbs
+2026-04-26,2026,LSG vs KKR,"Ekana Stadium, Lucknow",155/8 vs 155/7,Kolkata Knight Riders,LSG 1/2 vs KKR 2/0 (1 ball),Mitchell Starc & Harshit Rana

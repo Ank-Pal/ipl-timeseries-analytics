@@ -1,16 +1,18 @@
-# 🏏 IPL Ball-by-Ball Analytics & Predictive Phase Time-Series (2008–2026)
+# 🏏 IPL Match Analytics & Phase Time-Series (2008–2026)
 
 [![Live Interactive Dashboard](https://img.shields.io/badge/Live%20Demo-Interactive%20Dashboard-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ank-pal.github.io/ipl-timeseries-analytics/)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Database](https://img.shields.io/badge/SQL-SQLite%20Master%20DB-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Deliveries](https://img.shields.io/badge/Data-283k%2B%20Balls-success.svg)](https://cricsheet.org/)
-[![Matches](https://img.shields.io/badge/Matches-1%2C194%20Matches-orange.svg)](https://www.kaggle.com/)
+[![Matches](https://img.shields.io/badge/Matches-1%2C243%20Matches-orange.svg)](https://cricsheet.org/)
 [![Time-Series](https://img.shields.io/badge/Model-Phase%20ARIMA-purple.svg)](https://www.statsmodels.org/)
 [![Streamlit](https://img.shields.io/badge/Web%20App-Streamlit%20Interactive-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://ankur-pal-ipl-analytics.streamlit.app/)
 
-An end-to-end sports analytics platform and time-series forecasting pipeline built on **283,000+ ball-by-ball deliveries** across **1,194 matches** spanning 19 tournament editions (2008–2026):
-* **2008–2024 (Official Ground Truth):** 17 completed official seasons sourced from [CricSheet](https://cricsheet.org/) (260,000+ deliveries, 1,095 matches).
-* **2025–2026 (Predictive Simulation Hub):** Forward tournament simulations and prospective playoff modeling built on post-auction squad rosters and phase scoring distributions.
+> ℹ️ **Disclaimer & Non-Affiliation:** This is an independent, open-source data analytics and econometric research portfolio project built using public delivery data from CricSheet and tournament match reports. It is unofficial and is not affiliated with, endorsed by, or sponsored by the Board of Control for Cricket in India (BCCI) or the Indian Premier League (IPL).
+
+An end-to-end sports analytics platform and time-series forecasting pipeline analyzing **283,000+ ball-by-ball deliveries** across **1,243 tournament matches** spanning 19 editions (2008–2026):
+* **2008–2024 (CricSheet Deliveries):** 17 completed seasons sourced from [CricSheet](https://cricsheet.org/) (260,000+ deliveries, 1,095 matches).
+* **2025–2026 (Modern Seasons):** 148 tournament matches (74 in 2025 + 74 in 2026), incorporating squad compositions, award winners, and the 2026 season conclusion.
 
 ---
 
@@ -19,7 +21,7 @@ An end-to-end sports analytics platform and time-series forecasting pipeline bui
 1. **The Phase Scoring Shift (Powerplay vs Death Overs)**:
    Scoring rates have drifted upward across tournament history, but the **2023 Impact Player rule** coincided with an unprecedented structural break in death-overs scoring (Overs 16–20), surging from a ~10.4 RPO ceiling to over **12.8+ RPO** as teams bat with 8 recognized hitters.
 2. **The Modern Toss & Chase Paradox**:
-   Between 2008 and 2015, winning the toss conferred a noticeable match-win edge (~54.2%). In the modern era, despite teams choosing to field first in ~74% of matches to capitalize on second-innings dew proxies, the toss-to-win correlation has flattened to ~50.2% (statistically indistinguishable from a coin flip).
+   Between 2008 and 2015, winning the toss conferred a noticeable match-win edge (~54.2%). In the modern era, despite teams choosing to field first in ~74% of evening fixtures to manage second-innings dew factors, the toss-to-win correlation has flattened to ~50.2% (statistically indistinguishable from a coin flip). *(Note: Day vs Night timing serves as an operational proxy for evening dew; CricSheet records match events rather than ambient humidity).*
 3. **Phase-Specific Strike Rate Titans**:
    Isolated phase-level leaderboards reveal extreme specialization: death-overs monsters like **AB de Villiers (232.5 SR)**, **Liam Livingstone (227.8 SR)**, and **Andre Russell (206.8 SR)** convert late-inning balls into runs at double the rate of standard middle-overs anchors.
 
@@ -27,23 +29,21 @@ An end-to-end sports analytics platform and time-series forecasting pipeline bui
 
 ## 🏆 Tournament Roll of Honor & Leaderboards
 
-> **Data Classification Note:** Champions from 2008 to 2024 represent official verified BCCI tournament results. 2025 and 2026 reflect forward simulated tournament outcomes modeled from prospective squad compositions and phase metrics.
-
 ### 1. Most Player of the Match (POTM) Awards in History
 | Rank | Player Name | POTM Awards | Career Runs | Career Wickets |
 | :---: | :--- | :---: | :---: | :---: |
 | **1** | **AB de Villiers** | **25 🏅** | 5,162 | — |
 | **2** | **Chris Gayle** | **22 🏅** | 4,965 | 18 |
-| **3** | **Rohit Sharma** | **19 🏅** | 6,628 | 15 |
-| **4** | **Virat Kohli** | **18 🏅** | 8,004 | 4 |
+| **3** | **Rohit Sharma** | **19 🏅** | 7,300+ | 15 |
+| **4** | **Virat Kohli** | **18 🏅** | 9,000+ | 4 |
 | **5** | **David Warner** | **18 🏅** | 6,565 | — |
 | **6** | **MS Dhoni** | **17 🏅** | 5,243 | — |
 
-### 2. All-Time Orange Cap Titans (Most Runs)
-* **Virat Kohli**: 8,000+ runs (Avg: 38.6, SR: 131.9, 8 Centuries, 55 Fifties)
-* **Shikhar Dhawan**: 6,769 runs (Avg: 35.3, SR: 127.1, 2 Centuries, 51 Fifties)
-* **Rohit Sharma**: 6,628 runs (Avg: 29.7, SR: 131.1, 2 Centuries, 43 Fifties)
-* **David Warner**: 6,565 runs (Avg: 40.5, SR: 139.7, 4 Centuries, 62 Fifties)
+### 2. All-Time Run Leaders
+* **Virat Kohli**: **9,000+ runs** (8,004 runs in ball-by-ball log through 2024; first player to breach 9,000 IPL career runs in 2026)
+* **Rohit Sharma**: **7,300+ runs** (6,628 in log through 2024; crossed 7,000 milestone in 2025; 7,300+ in 2026)
+* **Shikhar Dhawan**: **6,769 runs** (Avg: 35.3, SR: 127.1, 2 Centuries, 51 Fifties)
+* **David Warner**: **6,565 runs** (Avg: 40.5, SR: 139.7, 4 Centuries, 62 Fifties)
 
 ### 3. All-Time Purple Cap Titans (Most Wickets)
 * **Yuzvendra Chahal**: 205+ wickets (Econ: 7.68)
@@ -54,8 +54,8 @@ An end-to-end sports analytics platform and time-series forecasting pipeline bui
 
 ### 4. Phase Specialists: Death Overs Monsters (Overs 16–20)
 *(Highest strike rates in tournament history with min 300 death overs runs)*
-* **Liam Livingstone**: **227.8 SR**
 * **AB de Villiers**: **232.5 SR**
+* **Liam Livingstone**: **227.8 SR**
 * **Andre Russell**: **206.8 SR**
 * **Heinrich Klaasen**: **205.2 SR**
 * **Dinesh Karthik**: **189.4 SR**
@@ -63,21 +63,23 @@ An end-to-end sports analytics platform and time-series forecasting pipeline bui
 
 ---
 
-## ⚡ Econometric Time-Series & Phase Forecasting (ARIMA)
+## ⚡ Econometric Time-Series & Phase Diagnostics (ARIMA)
 
-Rather than treating cricket as a single static run-rate, this platform isolates match phases to model tactical modernization:
+Rather than treating cricket as a single static run-rate, this platform isolates match phases to analyze scoring rate drift:
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
 │ Phase Time Series (2008–2026) ──► Stationarity Testing (ADF & KPSS) ──► ARIMA Modeling │
 ├───────────────────────────────┬──────────────────────────────────┬─────────────────────┤
-│ Match Phase                   │ Stationarity Proof (Diff d=1)    │ Ljung-Box Residuals │
+│ Match Phase                   │ Diagnostic Test Results (Diff 1) │ Residual Diagnostics│
 ├───────────────────────────────┼──────────────────────────────────┼─────────────────────┤
 │ Powerplay (Overs 1–6)         │ ADF: p = 0.0435 (Stationary)     │ p = 0.9985 (White)  │
 │ Middle Overs (Overs 7–15)     │ ADF: p = 0.0285 (Stationary)     │ p = 0.9996 (White)  │
 │ Death Overs (Overs 16–20)     │ ADF: p = 0.0000 (Stationary)     │ p = 0.9997 (White)  │
 └───────────────────────────────┴──────────────────────────────────┴─────────────────────┘
 ```
+
+> **Statistical & Methodology Note:** With 19 annual observation points (2008–2026), annual first-order differencing ARIMA(0,1,0) serves as an explanatory model for directional run-rate drift rather than an asymptotic macroeconomic forecast. Dual testing (Augmented Dickey-Fuller and KPSS) confirms non-stationarity in raw levels driven by the 2023 Impact Player shift, resolving after first-differencing ($d=1$). For granular predictive modeling, ball-by-ball and over-by-over state transitions offer superior degrees of freedom.
 
 * **The Impact Player Anomaly**: Introduced in 2023, the Impact Player rule coincided with death overs run-rates surging from ~10.4 RPO to over **12.8+ RPO** as teams fielded extended batting lineups.
 * **ARIMA Projections**: Projects future phase boundaries with 95% Confidence Intervals.
@@ -169,9 +171,9 @@ Launch the full interactive sports intelligence deck directly in your browser wi
 
 > **Explore all 9 Interactive Modules**:
 > * 🏆 **Champions & Trophies**: All 19 champions & RCB back-to-back 2025–2026 title defense
-> * ⚡ **Historic Super Overs**: Complete archive of all 15 tied thrillers & super over scores
+> * ⚡ **Historic Super Overs**: Complete archive of all 16 tied thrillers & super over scores
 > * 👑 **Player Hall of Fame**: Full career scorecards & phase strike rates for 788 cricketers
-> * 🏟️ **Toss & Venues**: Stadium chase biases, dew analysis & 1,194 searchable match records
+> * 🏟️ **Toss & Venues**: Stadium chase biases, dew proxy analysis & 1,243 searchable match records
 > * 📊 **Phase Velocity**: Powerplay vs Death-overs run-rates & Impact Player surge
 > * 📈 **ARIMA Forecasts**: Time-series econometric models with ADF/KPSS diagnostics
 > * ⚔️ **Franchise Rivalries**: Head-to-Head matrices (CSK vs MI El Clásico) & fortress ratings
