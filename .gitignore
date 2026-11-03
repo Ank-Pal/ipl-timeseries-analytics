@@ -26,3 +26,10 @@ $RECYCLE.BIN/
 
 # Deprecated scripts
 src/_deprecated_*
+
+# Data & DBs (Rebuilt locally by pipeline)
+data/raw/*.csv
+data/raw/cricsheet/
+data/processed/*.db
+data/processed/*.db-journal
+

@@ -10,6 +10,8 @@
 
 > ℹ️ **Disclaimer & Non-Affiliation:** This is an independent, open-source data analytics and econometric research portfolio project built using public delivery data from CricSheet and tournament match reports. It is unofficial and is not affiliated with, endorsed by, or sponsored by the Board of Control for Cricket in India (BCCI) or the Indian Premier League (IPL).
 
+> 📌 **Data Provenance & Lineage Notice:** Earlier exploratory prototype versions of this repository utilized a synthetic calibration dataset for initial pipeline scaffolding. The entire project data warehouse, SQL analytics, and statistical models have been transitioned directly to authentic **CricSheet** ball-by-ball delivery archives (`IPL.csv`, 283,678 deliveries) as of November 2026. Legacy synthetic prototyping CSVs have been sequestered in `data/demo_synthetic/`.
+
 An end-to-end sports analytics platform and time-series forecasting pipeline analyzing **283,000+ ball-by-ball deliveries** across **1,243 tournament matches** spanning 19 editions (2008–2026):
 * **2008–2024 (CricSheet Deliveries):** 17 completed seasons sourced from [CricSheet](https://cricsheet.org/) (260,000+ deliveries, 1,095 matches).
 * **2025–2026 (Modern Seasons):** 148 tournament matches (74 in 2025 + 74 in 2026), incorporating squad compositions, award winners, and the 2026 season conclusion.
