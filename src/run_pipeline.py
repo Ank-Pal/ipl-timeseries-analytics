@@ -1,15 +1,22 @@
 """
-IPL Master Analytics Platform: One-Click End-to-End Orchestrator
-Executes:
-1. Ingestion of 283,000+ CricSheet deliveries, 1,193 matches & 2026 season stats
-2. Player Hall of Fame, POTM leaderboard & Franchise Rivalry computation
-3. Phase-by-Phase ARIMA Modeling (Powerplay vs Death overs) with ADF/KPSS testing
+IPL Master Analytics Platform: Unified Orchestrator
+---------------------------------------------------
+Executes end-to-end data pipeline:
+  1. Ingestion of authentic CricSheet ball-by-ball deliveries & matches
+  2. Building normalized player dimension (dim_players) and generating figures
+  3. Validating and syncing official champions roll of honor & 16 super overs
+  4. Building interactive HTML dashboards with strict build assertion checks
+  5. Dynamically reporting database record counts
 """
 
 import os
 import sys
 import subprocess
 import time
+import sqlite3
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DB_PATH = os.path.join(BASE_DIR, "data", "processed", "ipl_master.db")
 
 def run_step(step_name, script_path):
     print(f"\n{'='*70}")
@@ -26,36 +33,50 @@ def run_step(step_name, script_path):
         print(result.stderr)
         sys.exit(1)
         
-    print(result.stdout)
+    print(result.stdout.strip())
     print(f"[OK] Completed in {elapsed:.2f}s")
 
-def main():
-    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    print("======================================================================")
-    print("      IPL MASTER ANALYTICS (2008-2026) FULL PIPELINE                 ")
-    print("======================================================================")
-    
-    # 1. Real Ingestion
-    ingest_script = os.path.join(base_dir, "src", "ingest_real_data.py")
-    run_step("1. Ingesting Real CricSheet Ball-by-Ball & 2026 Season Datasets", ingest_script)
-    
-    # 2. Player Analytics & Rivalries
-    player_script = os.path.join(base_dir, "src", "player_analytics.py")
-    run_step("2. Computing Player Hall of Fame, POTM Awards & Head-to-Head Matrices", player_script)
-    
-    # 3. Phase ARIMA
-    phase_script = os.path.join(base_dir, "src", "phase_arima_forecasting.py")
-    run_step("3. Phase-by-Phase ARIMA Time-Series Modeling (Powerplay vs Death)", phase_script)
-    
+def print_database_summary():
+    if not os.path.exists(DB_PATH):
+        return
     print("\n" + "="*70)
-    print("[OK] MASTER PIPELINE COMPLETE! ALL DATABASE TABLES & CHARTS READY.")
+    print("       DATABASE RECORD COUNTS (LIVE FROM SQLITE)")
+    print("="*70)
+    con = sqlite3.connect(DB_PATH)
+    cur = con.cursor()
+    for table in ["matches", "deliveries", "dim_players", "dim_ipl_champions", "fact_super_overs"]:
+        try:
+            cur.execute(f"SELECT COUNT(*) FROM {table}")
+            cnt = cur.fetchone()[0]
+            print(f"  * {table:<25}: {cnt:,} rows")
+        except Exception:
+            pass
+    con.close()
+    print("="*70)
+
+def main():
     print("======================================================================")
-    print("Key Deliverables:")
-    print(f" * Master Database:        {os.path.join(base_dir, 'data', 'processed', 'ipl_master.db')}")
-    print(f" * Master SQL Suite:       {os.path.join(base_dir, 'sql', 'master_queries.sql')}")
-    print(f" * Live Streamlit App:     http://localhost:8501")
-    print(f" * High-Res Visuals:       {os.path.join(base_dir, 'outputs', 'figures')}")
+    print("      IPL MASTER ANALYTICS (2008-2026) UNIFIED PIPELINE               ")
     print("======================================================================")
+    
+    # 1. Ingest CricSheet data
+    run_step("1. Ingesting Authentic CricSheet Deliveries & Matches",
+             os.path.join(BASE_DIR, "src", "ingest_cricsheet.py"))
+    
+    # 2. Player Analytics & Figures
+    run_step("2. Building Player Dimension & Generating Visualizations",
+             os.path.join(BASE_DIR, "src", "player_analytics.py"))
+    
+    # 3. Champions & Super Overs Sync
+    run_step("3. Synchronizing Champions Roll of Honor & Super Overs",
+             os.path.join(BASE_DIR, "src", "load_champions_and_superovers.py"))
+    
+    # 4. Generate Dashboards with Assertions
+    run_step("4. Generating Production HTML Dashboards with Build Asserts",
+             os.path.join(BASE_DIR, "src", "generate_dashboard_html.py"))
+    
+    print_database_summary()
+    print("\n[SUCCESS] Unified pipeline completed cleanly!")
 
 if __name__ == "__main__":
     main()

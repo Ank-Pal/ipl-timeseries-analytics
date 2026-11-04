@@ -12,8 +12,11 @@ import sqlite3
 from pathlib import Path
 import pandas as pd
 import numpy as np
+import sys
 
 BASE_DIR = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(BASE_DIR / "src"))
+from venues import VENUE
 PROCESSED_DIR = BASE_DIR / "data" / "processed"
 PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
 DB_PATH = PROCESSED_DIR / "ipl_master.db"
@@ -110,6 +113,10 @@ def run_ingestion():
     superover_mids = df[df['innings'] > 2]['match_id'].unique()
     matches.loc[matches['match_id'].isin(superover_mids), 'result'] = 'tie'
 
+    # Apply canonical venue mapping
+    matches['venue_canon'] = matches['venue'].map(VENUE)
+    assert matches['venue_canon'].nunique() == 36, f"Expected 36 canonical venues, got {matches['venue_canon'].nunique()}"
+
     # 3. Write to SQLite with indexing
     print(f"[4/4] Ingesting into SQLite warehouse: {DB_PATH}...")
     with sqlite3.connect(DB_PATH) as con:
@@ -119,6 +126,19 @@ def run_ingestion():
         con.execute("CREATE INDEX IF NOT EXISTS idx_deliv_batter ON deliveries(batter);")
         con.execute("CREATE INDEX IF NOT EXISTS idx_deliv_bowler ON deliveries(bowler);")
         con.execute("CREATE INDEX IF NOT EXISTS idx_matches_season ON matches(season);")
+
+        # Create v_decided view for unbiased chase and toss analytics
+        con.execute("DROP VIEW IF EXISTS v_decided;")
+        con.execute("""
+        CREATE VIEW v_decided AS
+        SELECT m.*, b.bat_first_team,
+               CASE WHEN m.winner = b.bat_first_team THEN 0 ELSE 1 END AS chase_won
+        FROM matches m
+        JOIN (SELECT match_id, MIN(batting_team) AS bat_first_team
+              FROM deliveries WHERE innings_no = 1 AND is_super_over = 0
+              GROUP BY match_id) b USING (match_id)
+        WHERE m.result = 'normal' AND m.winner IS NOT NULL;
+        """)
 
     print(f"[SUCCESS] Ingested {len(matches):,} matches and {len(deliveries):,} deliveries successfully!")
 
