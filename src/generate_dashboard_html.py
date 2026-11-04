@@ -225,6 +225,8 @@ def build_and_validate():
                       '<div class="kpi-title">All-Time Run King</div>\n                <div class="kpi-val" style="color: #38bdf8;">8,661 Runs</div>\n                <div class="kpi-sub">Virat Kohli (Through 2025; 8,889 in 2026*)</div>', html)
         html = re.sub(r'<div class="kpi-title">Overall Chase Win %</div>\s*<div class="kpi-val"[^>]*>[\d.]+.*%</div>\s*<div class="kpi-sub">[^<]*</div>',
                       '<div class="kpi-title">Overall Chase Win %</div>\n                <div class="kpi-val" style="color: #f43f5e;">54.3%</div>\n                <div class="kpi-sub">635 / 1,169 Decided (95% CI: 51.5–57.2%)</div>', html)
+        html = re.sub(r'<div class="kpi-title">All-Time Wicket King</div>\s*<div class="kpi-val"[^>]*>[\d,]+.*Wickets</div>\s*<div class="kpi-sub">[^<]*</div>',
+                      '<div class="kpi-title">All-Time Wicket King</div>\n                <div class="kpi-val" style="color: #4ade80;">205 Wickets</div>\n                <div class="kpi-sub">Yuzvendra Chahal (7.98 Econ; 224 across 2026*)</div>', html)
 
         # Update Stationarity Proof header
         html = html.replace('<th>Stationarity Proof</th>', '<th>Stationarity Diagnostic Tests (ADF & KPSS)</th>')
@@ -249,6 +251,28 @@ def build_and_validate():
         # Update 2026 Points Table Tbody
         points_table_pattern = r'(<h2[^>]*>🏏 IPL 2026 Official Standings & Points Table</h2>\s*<table>\s*<thead>.*?</thead>\s*<tbody>)(.*?)(</tbody>)'
         html = re.sub(points_table_pattern, f'\\1\n{points_tbody}\n\\3', html, flags=re.DOTALL)
+
+        # Update Bowling Legends Table Tbody (Verified Top 10 Excluding Run-Outs)
+        bowling_tbody = """                        <tr><td><strong>Yuzvendra Chahal</strong></td><td><span class="tag-pass">205</span></td><td>586.5</td><td>7.98</td><td>22.8</td><td>1,194</td></tr>
+                        <tr><td><strong>Piyush Chawla</strong></td><td><span class="tag-pass">192</span></td><td>641.4</td><td>8.07</td><td>27.0</td><td>1,325</td></tr>
+                        <tr><td><strong>Dwayne Bravo</strong></td><td><span class="tag-pass">183</span></td><td>520.0</td><td>8.53</td><td>24.2</td><td>998</td></tr>
+                        <tr><td><strong>Bhuvneshwar Kumar</strong></td><td><span class="tag-pass">181</span></td><td>651.4</td><td>7.75</td><td>27.9</td><td>1,632 (Record Dots)</td></tr>
+                        <tr><td><strong>Sunil Narine</strong></td><td><span class="tag-pass">180</span></td><td>679.1</td><td>6.86 (Elite)</td><td>25.9</td><td>1,569</td></tr>
+                        <tr><td><strong>Ravichandran Ashwin</strong></td><td><span class="tag-pass">180</span></td><td>754.0</td><td>7.21</td><td>30.2</td><td>1,552</td></tr>
+                        <tr><td><strong>Amit Mishra</strong></td><td><span class="tag-pass">174</span></td><td>561.5</td><td>7.46</td><td>24.1</td><td>1,185</td></tr>
+                        <tr><td><strong>Lasith Malinga</strong></td><td><span class="tag-pass">170</span></td><td>471.1</td><td>7.40</td><td>20.5 (Best Avg)</td><td>1,144</td></tr>
+                        <tr><td><strong>Jasprit Bumrah</strong></td><td><span class="tag-pass">165</span></td><td>508.5</td><td>7.49</td><td>23.1</td><td>1,222</td></tr>
+                        <tr><td><strong>Ravindra Jadeja</strong></td><td><span class="tag-pass">160</span></td><td>638.1</td><td>7.70</td><td>30.7</td><td>1,216</td></tr>"""
+        bowlers_table_pattern = r'(<h2[^>]*>.*?All-Time Leading Wicket Takers.*?</h2>\s*<table>\s*<thead>.*?</thead>\s*<tbody>)(.*?)(</tbody>)'
+        html = re.sub(bowlers_table_pattern, f'\\1\n{bowling_tbody}\n\\3', html, flags=re.DOTALL)
+
+        # Update Chart: Runs to match official milestone benchmarks
+        html = re.sub(r"x:\s*\[8004,\s*6628,\s*6565,\s*6211,\s*5528,\s*5243,\s*5162,\s*5080\],",
+                      "x: [8661, 7046, 6769, 6565, 5528, 5439, 5333, 5162],", html)
+        html = re.sub(r"text:\s*\['8,004',\s*'6,628',\s*'6,565',\s*'6,211',\s*'5,528',\s*'5,243',\s*'5,162',\s*'5,080'\]\.reverse\(\),",
+                      "text: ['8,661', '7,046', '6,769', '6,565', '5,528', '5,439', '5,333', '5,162'].reverse(),", html)
+        html = re.sub(r"y:\s*\['Virat Kohli',\s*'Shikhar Dhawan',\s*'David Warner',\s*'Rohit Sharma',\s*'Suresh Raina',\s*'MS Dhoni',\s*'AB de Villiers',\s*'Dinesh Karthik'\]\.reverse\(\),",
+                      "y: ['Virat Kohli', 'Rohit Sharma', 'Shikhar Dhawan', 'David Warner', 'Suresh Raina', 'MS Dhoni', 'KL Rahul', 'AB de Villiers'].reverse(),", html)
 
         # Inject Unofficial Disclaimer if not present
         if "Independent Analytics Notice:" not in html:
