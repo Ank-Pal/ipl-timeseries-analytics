@@ -50,9 +50,15 @@ def clean_season(s):
         return 2008
     s_str = str(s).strip()
     if '/' in s_str:
-        # e.g. 2007/08 -> 2008, 2020/21 -> 2020
+        # Canonical IPL seasons: 2007/08 -> 2008, 2009/10 -> 2010, 2020/21 -> 2020
         parts = s_str.split('/')
-        return int(parts[0]) if len(parts[0]) == 4 else int('20' + parts[1])
+        if parts[0] == '2007' and parts[1] == '08':
+            return 2008
+        if parts[0] == '2009' and parts[1] == '10':
+            return 2010
+        if parts[0] == '2020' and parts[1] == '21':
+            return 2020
+        return int('20' + parts[1]) if len(parts[1]) == 2 else int(parts[1])
     try:
         return int(float(s_str))
     except Exception:

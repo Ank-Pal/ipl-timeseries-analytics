@@ -1,27 +1,21 @@
-# PRD: Single Source of Truth & Data-Driven Dashboard Architecture
+# PRD: Single Source of Truth & Dual-Platform Architecture
 
 ## 1. Objective
-Refactor the IPL Match Analytics & Phase Time-Series dashboard from static/hard-coded JavaScript arrays to a fully data-driven pipeline architecture. Eliminate all discrepancies between database queries, KPI summary cards, interactive charts, and player profile modals by injecting a centralized canonical `DATA` JSON payload generated directly from `ipl_master.db`.
+Refactor and synchronize both the static GitHub Pages dashboard (`https://ank-pal.github.io/ipl-timeseries-analytics/`) and the interactive Streamlit Cloud application (`https://ankur-pal-ipl-analytics.streamlit.app/`). Eliminate all data discrepancies, resolve chart resizing/layout bugs across tab navigation, and ensure 100% adherence to verified CricSheet historical cricket data (2008–2026).
 
 ## 2. Requirements & Acceptance Criteria
-1. **Centralized Data Injection (`const DATA = ...;`)**:
-   - `generate_dashboard_html.py` queries `ipl_master.db` and canonical CSVs to assemble a comprehensive `DATA` dictionary.
-   - The dictionary is JSON-serialized and injected into `/*DATA*/` in `index.html` and `docs/index.html`.
-2. **Dynamic Chart & UI Rendering**:
-   - **Toss Conversion**: Pre-2016 vs Post-2016 (50.0% vs 52.8%) rendered from `DATA.toss`.
-   - **Chase Win Rates**: Overall chase win rate (54.3%) and era rates rendered from `DATA.toss`.
-   - **Venue Chase %**: Eden Gardens (57.4%), Wankhede (55.1%), Hyderabad (56.6%), Jaipur (64.1%) rendered from `DATA.venues`.
-   - **Phase Run Rates**: Powerplay, Middle, and Death RPO trajectories through 2025 (2023: 10.49, 2024: 11.21, 2025: 10.96) rendered from `DATA.phase_rpo`.
-   - **ARIMA vs Naive Backtest**: Observed Death RPO through 2025 (no rising forecast to 13.4, no 95% band) plus an empirical backtest evaluation table demonstrating ARIMA vs Naive performance.
-   - **Career Runs**: Chart and profile cards read directly from `DATA.top_run_scorers` and `DATA.players` (Kohli: 8,661 thru 2025; Rohit: 7,046).
-   - **Career Wickets**: Wickets chart and profile cards read directly from `DATA.top_wicket_takers` and `DATA.players` (Chahal: 205 wkts, 7.98 Econ; Bumrah: 165; Bravo: 183; Mishra: 174; Jadeja: 160).
-   - **POTM Consistency**: Aligned single source across chart and cards (Kohli: 19, Rohit: 21 through 2025).
-   - **Trophy Chart**: SRH strictly 1 title (2016) and Deccan Chargers 1 title (2009), rendered from `DATA.trophies`.
-   - **Rivalries**: Head-to-head records derived dynamically from `matches` table (MI vs CSK: 39 matches, 21-18).
-3. **Copy & Text Fixes**:
-   - SQL tab: Update query header from 15 to 16 Historic Super Overs.
-   - Title & footer: Remove "Enterprise Intelligence", replace with "IPL Match Analytics & Phase Time-Series (2008–2026)".
-   - 2026 Super Over hero: Replace Mitchell Starc with Harshit Rana & Andre Russell.
-4. **Oracle Verification Test Suite**:
-   - Create `tests/test_dashboard_integrity.py` asserting that the Kohli KPI card, the runs chart data, and the Kohli player profile card display the exact same number (8,661).
-   - Assert consistency across all rendered metrics.
+1. **Database Warehouse Rectification**:
+   - `fact_matches` in `data/processed/ipl_master.db` must include all 19 seasons (2008–2026), including all 60 matches from the 2010 season (previously misattributed to 2009).
+   - Season count distribution: 2008 (58), 2009 (57), 2010 (60), 2011 (73), 2012 (74), 2013 (76), 2014 (60), 2015 (59), 2016 (60), 2017 (59), 2018 (60), 2019 (60), 2020 (60), 2021 (60), 2022 (74), 2023 (74), 2024 (71), 2025 (74), 2026 (25). Total: 1,194 matches.
+2. **Chart Visibility & Layout Integrity**:
+   - `openTab` slide switching in `index.html` must automatically invoke `Plotly.Plots.resize` on all visible charts via `setTimeout` / layout reflow, eliminating crushed or 0-width charts when navigating slides.
+   - `chart-trophies` must only render champion franchises ($\ge 1$ titles) sorted cleanly with official franchise colors (MI, CSK, KKR, RCB, SRH, RR, GT, Deccan Chargers).
+3. **Dual Deployment Synchronization**:
+   - GitHub Pages (`index.html` and `docs/index.html`) must remain byte-for-byte identical.
+   - Streamlit App (`app.py`) must be harmonized: update titles (remove legacy "Enterprise Intelligence"), reflect 19 Champions and 16 Super Overs, include the empirical ARIMA vs Naive backtest table, and frame career milestones transparently.
+4. **Sports Researcher Data Integrity**:
+   - Player career milestones: Virat Kohli (8,661 runs through 2025; 8,889 in 2026*), Rohit Sharma (7,046 runs through 2025; 7,183 in 2026*), Yuzvendra Chahal (205 wickets, 7.98 economy), Jasprit Bumrah (165 wickets, 7.49 economy), Bravo (183 wickets).
+   - Deccan Chargers (2009, 1 Title) and Sunrisers Hyderabad (2016, 1 Title) separated.
+   - 2026 Super Over hero: Harshit Rana & Andre Russell.
+5. **Oracle Verification Suite**:
+   - All tests in `tests/test_dashboard_integrity.py` and `tests/test_streamlit_integrity.py` must pass 100% green.

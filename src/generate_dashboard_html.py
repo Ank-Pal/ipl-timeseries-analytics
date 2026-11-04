@@ -339,20 +339,31 @@ def build_and_validate():
         }};
 
         // Chart 1: Franchise All-Time Trophy Leaderboard (dynamically rendered from DATA.trophies)
+        const TEAM_COLORS = {{
+            'Mumbai Indians': '#004BA0',
+            'Chennai Super Kings': '#FDB913',
+            'Kolkata Knight Riders': '#3A225D',
+            'Royal Challengers Bengaluru': '#D11D1D',
+            'Sunrisers Hyderabad': '#FF822A',
+            'Rajasthan Royals': '#EA1A85',
+            'Gujarat Titans': '#1B2133',
+            'Deccan Chargers': '#41748d'
+        }};
+        const championsOnly = DATA.trophies.filter(t => t.titles > 0);
         Plotly.newPlot('chart-trophies', [{{
             type: 'bar',
-            x: DATA.trophies.map(t => t.titles),
-            y: DATA.trophies.map(t => t.team),
+            x: championsOnly.map(t => t.titles),
+            y: championsOnly.map(t => t.team),
             orientation: 'h',
             marker: {{
-                color: ['#1B2133', '#EA1A85', '#004BA0', '#FF822A', '#D11D1D', '#3A225D', '#FFFF00', '#004BA0'],
+                color: championsOnly.map(t => TEAM_COLORS[t.team] || '#38bdf8'),
                 line: {{ color: '#cbd5e1', width: 1 }}
             }},
-            text: DATA.trophies.map(t => `${{t.titles}} Title${{t.titles > 1 ? 's' : ''}} (${{t.winning_years}})`),
+            text: championsOnly.map(t => `${{t.titles}} Title${{t.titles > 1 ? 's' : ''}} (${{t.winning_years}})`),
             textposition: 'outside'
         }}], {{
             ...darkLayout,
-            margin: {{ t: 20, b: 40, l: 160, r: 40 }},
+            margin: {{ t: 20, b: 40, l: 180, r: 40 }},
             xaxis: {{ title: 'IPL Championships Won', range: [0, 6], dtick: 1 }}
         }}, {{ responsive: true, displayModeBar: false }});
 
@@ -615,6 +626,32 @@ def build_and_validate():
         # Update Footer Text
         html = re.sub(r'<footer>\s*<p>.*?</p>\s*</footer>',
                       '<footer>\n            <p>IPL Match Analytics & Phase Time-Series (2008–2026) | 1,193 CricSheet Matches (2026 partial) | SQLite Data Warehouse | Econometric Phase Analysis</p>\n        </footer>', html)
+
+        # Update openTab slide navigation to resize Plotly charts on tab change
+        old_opentab_pattern = r'function openTab\(tabId, btn\) \{.*?window\.dispatchEvent\(new Event\(\'resize\'\)\);\s*\}'
+        new_opentab = """function openTab(tabId, btn) {
+            document.querySelectorAll('.tab-pane').forEach(el => el.classList.remove('active'));
+            document.querySelectorAll('.tab-btn').forEach(el => el.classList.remove('active'));
+            const activePane = document.getElementById(tabId);
+            if (activePane) activePane.classList.add('active');
+            if (btn) btn.classList.add('active');
+            
+            setTimeout(() => {
+                const chartIds = [
+                    'chart-trophies', 'chart-potm', 'chart-runs',
+                    'chart-toss-paradox', 'chart-venue-chase',
+                    'chart-phase-lines', 'chart-arima'
+                ];
+                chartIds.forEach(id => {
+                    const el = document.getElementById(id);
+                    if (el && el.offsetParent !== null && window.Plotly) {
+                        Plotly.Plots.resize(el);
+                    }
+                });
+                window.dispatchEvent(new Event('resize'));
+            }, 50);
+        }"""
+        html = re.sub(old_opentab_pattern, new_opentab, html, flags=re.DOTALL)
 
         # Update Client JavaScript block
         # Replace the entire script after window.addEventListener('keydown'...) up to </script>
