@@ -4,28 +4,35 @@
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Database](https://img.shields.io/badge/SQL-SQLite%20Master%20DB-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Deliveries](https://img.shields.io/badge/Data-283k%2B%20Balls-success.svg)](https://cricsheet.org/)
-[![Matches](https://img.shields.io/badge/Matches-1%2C243%20Matches-orange.svg)](https://cricsheet.org/)
+[![Matches](https://img.shields.io/badge/Matches-1%2C193%20Ball--by--Ball-orange.svg)](https://cricsheet.org/)
 [![Time-Series](https://img.shields.io/badge/Model-Phase%20ARIMA-purple.svg)](https://www.statsmodels.org/)
 [![Streamlit](https://img.shields.io/badge/Web%20App-Streamlit%20Interactive-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://ankur-pal-ipl-analytics.streamlit.app/)
 
 > ℹ️ **Disclaimer & Non-Affiliation:** This is an independent, open-source data analytics and econometric research portfolio project built using public delivery data from CricSheet and tournament match reports. It is unofficial and is not affiliated with, endorsed by, or sponsored by the Board of Control for Cricket in India (BCCI) or the Indian Premier League (IPL).
 
-> 📌 **Data Provenance & Lineage Notice:** Earlier exploratory prototype versions of this repository utilized a synthetic calibration dataset for initial pipeline scaffolding. The entire project data warehouse, SQL analytics, and statistical models have been transitioned directly to authentic **CricSheet** ball-by-ball delivery archives (`IPL.csv`, 283,678 deliveries) as of November 2026. Legacy synthetic prototyping CSVs have been sequestered in `data/demo_synthetic/`.
+> 📌 **Data Provenance & Lineage Notice:** Earlier exploratory prototype versions of this repository utilized a synthetic calibration dataset for initial pipeline scaffolding. The entire project data warehouse, SQL analytics, and statistical models have been rebuilt on authentic **CricSheet-sourced** ball-by-ball delivery archives as of November 2026. The source file (`IPL.csv`, 283,678 deliveries, 1,193 matches) was downloaded from [Kaggle's IPL Dataset (2008–2025)](https://www.kaggle.com/) on 20 June 2026, itself derived from [CricSheet](https://cricsheet.org/) data licensed under the [Open Data Commons Attribution License (ODC-By)](https://opendatacommons.org/licenses/by/1-0/). Legacy synthetic prototyping CSVs have been sequestered in `data/demo_synthetic/`.
 
-An end-to-end sports analytics platform and time-series forecasting pipeline analyzing **283,000+ ball-by-ball deliveries** across **1,243 tournament matches** spanning 19 editions (2008–2026):
-* **2008–2024 (CricSheet Deliveries):** 17 completed seasons sourced from [CricSheet](https://cricsheet.org/) (260,000+ deliveries, 1,095 matches).
-* **2025–2026 (Modern Seasons):** 148 tournament matches (74 in 2025 + 74 in 2026), incorporating squad compositions, award winners, and the 2026 season conclusion.
+An end-to-end sports analytics platform and time-series forecasting pipeline analyzing **283,678 ball-by-ball deliveries** across **1,193 matches** (with ball-by-ball coverage) spanning 19 editions (2008–2026):
+* **2008–2025 (CricSheet Ball-by-Ball):** 18 seasons with ball-by-ball delivery records (1,169 completed matches + 24 partial 2026 matches). 9 matches across 2008, 2009, 2011, 2015, 2017, and 2024 are omitted because no ball was bowled (abandoned/washed out), consistent with CricSheet's ball-by-ball scope.
+* **2026 (Partial Season):** Ball-by-ball coverage through Match 24 (mid-April 2026). The 2026 champions table and final standings use official IPL sources, not ball data.
 
 ---
 
 ## 🎯 Core Analytical Questions Investigated
 
-1. **The Phase Scoring Shift (Powerplay vs Death Overs)**:
-   Scoring rates have drifted upward across tournament history, but the **2023 Impact Player rule** coincided with an unprecedented structural break in death-overs scoring (Overs 16–20), surging from a ~10.4 RPO ceiling to over **12.8+ RPO** as teams bat with 8 recognized hitters.
-2. **The Modern Toss & Chase Paradox**:
-   Between 2008 and 2015, winning the toss conferred a noticeable match-win edge (~54.2%). In the modern era, despite teams choosing to field first in ~74% of evening fixtures to manage second-innings dew factors, the toss-to-win correlation has flattened to ~50.2% (statistically indistinguishable from a coin flip). *(Note: Day vs Night timing serves as an operational proxy for evening dew; CricSheet records match events rather than ambient humidity).*
-3. **Phase-Specific Strike Rate Titans**:
-   Isolated phase-level leaderboards reveal extreme specialization: death-overs monsters like **AB de Villiers (232.5 SR)**, **Liam Livingstone (227.8 SR)**, and **Andre Russell (206.8 SR)** convert late-inning balls into runs at double the rate of standard middle-overs anchors.
+1. **The Phase Scoring Shift & Impact Player Effect**:
+   Scoring rates have drifted upward across tournament history, but the **2023 Impact Player rule** coincided with a marked shift in death-overs scoring (Overs 16–20), rising from an average of **10.11 RPO** (2019–2022, n=418 innings) to **10.92 RPO** (2023–2025, n=341 innings). A 10,000-iteration bootstrap confirms an observed difference of **+0.81 RPO** (95% CI: [0.40, 1.23] RPO). This shift coincides with deeper batting orders, pitch factors, and the 2022 franchise expansion.
+2. **Empirical Toss Evaluation**:
+   Testing toss outcomes across 1,146 decided regular-season matches (through 2025) demonstrates **no statistically significant toss advantage**:
+   * **Overall**: Toss winners won the match **51.6%** of the time (95% Wilson CI: [48.7%, 54.5%]).
+   * **Era Comparison**: Pre-2016 toss winners won at **50.0%** (254/508); Post-2016 toss winners won at **52.8%** (337/638). A two-proportion z-test yields $z = -0.95, p = 0.342$, showing no statistically significant era difference.
+   * **Trend Logit Model**: Fitting a logistic regression $\text{Logit}(P(\text{MatchWin} \mid \text{TossWin})) \sim \text{Season}$ yields a coefficient of $+0.0018$ ($p = 0.870$), proving no secular trend.
+3. **Venue Chase Bias & Sample Uncertainty**:
+   Applying Wilson 95% confidence intervals on grounds with $\ge 30$ decided fixtures reveals that most perceived chase advantages are within normal sampling variation:
+   * **Sawai Mansingh Stadium, Jaipur**: Only ground where the 95% interval strictly excludes 50% (**64.1% chase win**, 95% CI: [51.8%, 74.7%]).
+   * **Wankhede Stadium, Mumbai**: 55.1% chase win (95% CI: [46.4%, 63.5%]) — inconclusive at $\alpha=0.05$.
+   * **M Chinnaswamy Stadium, Bengaluru**: 55.1% chase win (95% CI: [45.2%, 64.6%]) — inconclusive at $\alpha=0.05$.
+   * **MA Chidambaram Stadium, Chennai**: 44.6% chase win (95% CI: [34.8%, 54.7%]) — bat-first lean, but also inconclusive.
 
 ---
 
@@ -65,27 +72,37 @@ An end-to-end sports analytics platform and time-series forecasting pipeline ana
 
 ---
 
-## ⚡ Econometric Time-Series & Phase Diagnostics (ARIMA)
+## ⚡ Econometric Time-Series & Phase Diagnostics (ARIMA Backtest)
 
-Rather than treating cricket as a single static run-rate, this platform isolates match phases to analyze scoring rate drift:
+Rather than treating cricket as a single static run-rate, this platform models phase-level scoring rates and evaluates 1-step-ahead forecasts against standard baselines across expanding historical windows (2016–2025):
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ Phase Time Series (2008–2026) ──► Stationarity Testing (ADF & KPSS) ──► ARIMA Modeling │
-├───────────────────────────────┬──────────────────────────────────┬─────────────────────┤
-│ Match Phase                   │ Diagnostic Test Results (Diff 1) │ Residual Diagnostics│
-├───────────────────────────────┼──────────────────────────────────┼─────────────────────┤
-│ Powerplay (Overs 1–6)         │ ADF: p = 0.0435 (Stationary)     │ p = 0.9985 (White)  │
-│ Middle Overs (Overs 7–15)     │ ADF: p = 0.0285 (Stationary)     │ p = 0.9996 (White)  │
-│ Death Overs (Overs 16–20)     │ ADF: p = 0.0000 (Stationary)     │ p = 0.9997 (White)  │
-└───────────────────────────────┴──────────────────────────────────┴─────────────────────┘
+│ Expanding Window 1-Step-Ahead Forecast Evaluation (2016–2025 Hold-Out Evaluation)      │
+├───────────────────────────────┬────────────────────────────┬───────────────────────────┤
+│ Match Phase                   │ ARIMA(0,1,0) + Drift       │ Naive Baseline (Last Year)│
+│                               │ MAE  /  RMSE               │ MAE  /  RMSE              │
+├───────────────────────────────┼────────────────────────────┼───────────────────────────┤
+│ Overall Tournament Run Rate   │ 0.250  /  0.305 (Best)     │ 0.257  /  0.311           │
+│ Powerplay (Overs 1–6)         │ 0.324  /  0.447 (Best)     │ 0.338  /  0.454           │
+│ Middle Overs (Overs 7–15)     │ 0.208  /  0.264 (Best)     │ 0.211  /  0.266           │
+│ Death Overs (Overs 16–20)     │ 0.420  /  0.550            │ 0.406  /  0.532 (Best)    │
+└───────────────────────────────┴────────────────────────────┴───────────────────────────┘
 ```
 
-> **Statistical & Methodology Note:** With 19 annual observation points (2008–2026), annual first-order differencing ARIMA(0,1,0) serves as an explanatory model for directional run-rate drift rather than an asymptotic macroeconomic forecast. Dual testing (Augmented Dickey-Fuller and KPSS) confirms non-stationarity in raw levels driven by the 2023 Impact Player shift, resolving after first-differencing ($d=1$). For granular predictive modeling, ball-by-ball and over-by-over state transitions offer superior degrees of freedom.
+> **Model Evaluation Takeaway:**
+> * **Death Overs Volatility**: The simple naive baseline outperforms ARIMA(0,1,0)+drift in death overs (MAE 0.406 vs 0.420), reflecting non-linear volatility introduced by aggressive hitting tactics and rule shifts that linear drift fails to capture.
+> * **Overall Scoring Drift**: In middle overs and overall scoring rate, first-differenced ARIMA with drift marginally outperforms naive persistence.
+> * **Methodology Transparency**: Annual aggregation provides $N=18$ historical points (2008–2025); long-range extrapolations past 1–2 seasons carry high forecast error. Granular over-by-over in-match state transition models offer substantially greater predictive fidelity.
 
-* **The Impact Player Anomaly**: Introduced in 2023, the Impact Player rule coincided with death overs run-rates surging from ~10.4 RPO to over **12.8+ RPO** as teams fielded extended batting lineups.
-* **ARIMA Projections**: Projects future phase boundaries with 95% Confidence Intervals.
-* **Methodology Caveat**: With $N=19$ annual aggregated data points, the ARIMA model serves as an exploratory macro-level trend projection across tournament eras rather than an asymptotic micro-level proof.
+### 🌧️ Abandoned Matches Accounting (9 Omitted Matches in CricSheet)
+CricSheet indexes ball-by-ball delivery files; fixtures abandoned without a ball bowled do not generate delivery records. Across tournament history, 9 official matches were abandoned without a ball bowled:
+* **2008 (58/59)**: Match 47 (May 22, 2008) — Delhi Daredevils vs Kolkata Knight Riders at Delhi (Rain).
+* **2009 (57/59)**: Match 7 (Apr 21, 2009) — KKR vs CSK at Cape Town & Match 14 (Apr 25, 2009) — DD vs CSK at Port Elizabeth (Rain).
+* **2011 (73/74)**: Match 20 (Apr 19, 2011) — KKR vs RCB at Kolkata (Rain).
+* **2015 (59/60)**: Match 35 (May 2, 2015) — KKR vs RR at Kolkata (Rain).
+* **2017 (59/60)**: Match 29 (Apr 25, 2017) — RCB vs SRH at Bengaluru (Rain).
+* **2024 (71/74)**: Match 63 (May 13, 2024) — GT vs KKR at Ahmedabad, Match 66 (May 16, 2024) — SRH vs GT at Hyderabad, Match 70 (May 20, 2024) — RR vs KKR at Guwahati (Rain).
 
 ---
 
