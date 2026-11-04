@@ -49,6 +49,9 @@ def run_ingestion():
 
     # 1. Build deliveries dataframe
     print("[2/4] Normalizing deliveries table with phases and legal balls...")
+    NOT_BOWLER = ('run out', 'retired hurt', 'retired out', 'obstructing the field')
+    is_bowler_w = (df['wicket_kind'].notna() & (~df['wicket_kind'].isin(NOT_BOWLER))).astype(int)
+
     deliveries = pd.DataFrame({
         'match_id': df['match_id'],
         'innings_no': df['innings'],
@@ -63,6 +66,8 @@ def run_ingestion():
         'runs_total': df['runs_total'],
         'is_legal': df['valid_ball'].astype(int),
         'is_wicket': df['player_out'].notna().astype(int),
+        'kind': df['wicket_kind'],
+        'is_bowler_wicket': is_bowler_w,
         'player_out': df['player_out']
     })
 

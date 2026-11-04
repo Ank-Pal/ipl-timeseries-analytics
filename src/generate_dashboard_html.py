@@ -23,6 +23,7 @@ SUPER_OVERS_CSV = os.path.join(PROCESSED_DIR, "historic_super_overs.csv")
 TROPHIES_CSV = os.path.join(PROCESSED_DIR, "franchise_trophies.csv")
 
 INDEX_HTML_PATH = os.path.join(BASE_DIR, "index.html")
+DOCS_INDEX_PATH = os.path.join(BASE_DIR, "docs", "index.html")
 PREVIEW_HTML_PATH = os.path.join(BASE_DIR, "outputs", "dashboard_preview.html")
 
 
@@ -188,10 +189,21 @@ def build_and_validate():
     points_tbody = generate_points_tbody(df_points_2026)
 
     # ----------------------------------------------------
-    # UPDATE index.html & outputs/dashboard_preview.html
+    # UPDATE index.html, docs/index.html & outputs/dashboard_preview.html
     # ----------------------------------------------------
-    print("[4/4] Updating index.html & outputs/dashboard_preview.html...")
-    for target_path, is_preview in [(INDEX_HTML_PATH, False), (PREVIEW_HTML_PATH, True)]:
+    print("[4/4] Updating index.html, docs/index.html & outputs/dashboard_preview.html...")
+    target_files = [INDEX_HTML_PATH, DOCS_INDEX_PATH, PREVIEW_HTML_PATH]
+    
+    # Make sure docs directory exists
+    os.makedirs(os.path.join(BASE_DIR, "docs"), exist_ok=True)
+    
+    # If docs/index.html doesn't exist yet, seed it from index.html
+    if not os.path.exists(DOCS_INDEX_PATH) and os.path.exists(INDEX_HTML_PATH):
+        with open(INDEX_HTML_PATH, 'r', encoding='utf-8') as sf:
+            with open(DOCS_INDEX_PATH, 'w', encoding='utf-8') as df:
+                df.write(sf.read())
+
+    for target_path in target_files:
         if not os.path.exists(target_path):
             continue
             
@@ -202,12 +214,20 @@ def build_and_validate():
         html = re.sub(r'<h1>IPL.*?\(2008[–-]2026\)</h1>', '<h1>IPL Match Analytics & Phase Time-Series (2008–2026)</h1>', html)
         html = re.sub(r'<span class="badge badge-gold">🏆 \d+ IPL .*?\(2008[–-]2026\)</span>', '<span class="badge badge-gold">🏆 19 IPL Editions (2008–2026)</span>', html)
         html = re.sub(r'<span class="badge badge-purple">⚡ \d+ Historic Super Overs</span>', '<span class="badge badge-purple">⚡ 16 Historic Super Overs</span>', html)
-        html = re.sub(r'<span class="badge">📊 [\d,]+ Matches</span>', '<span class="badge">📊 1,243 Matches (1,095 CricSheet + 148 in 2025–26)</span>', html)
+        html = re.sub(r'<span class="badge">📊.*?Matches.*?</span>', '<span class="badge">📊 1,193 Ball-by-Ball Matches (2026 partial)</span>', html)
         
         # Update Master KPI numbers
-        html = re.sub(r'<div class="kpi-title">Total Matches Played</div>\s*<div class="kpi-val"[^>]*>[\d,]+</div>', '<div class="kpi-title">Total Matches Played</div>\n                <div class="kpi-val">1,243</div>', html)
-        html = re.sub(r'<div class="kpi-title">Historic Super Overs</div>\s*<div class="kpi-val"[^>]*>\d+ Ties</div>', '<div class="kpi-title">Historic Super Overs</div>\n                <div class="kpi-val" style="color: #c084fc;">16 Ties</div>', html)
-        html = re.sub(r'<div class="kpi-title">All-Time Run King</div>\s*<div class="kpi-val"[^>]*>[\d,]+ Runs</div>\s*<div class="kpi-sub">Virat Kohli[^<]*</div>', '<div class="kpi-title">All-Time Run King</div>\n                <div class="kpi-val" style="color: #38bdf8;">9,000+ Runs</div>\n                <div class="kpi-sub">Virat Kohli (All-Time Record)</div>', html)
+        html = re.sub(r'<div class="kpi-title">Total Matches Played</div>\s*<div class="kpi-val"[^>]*>[\d,]+</div>\s*<div class="kpi-sub">[^<]*</div>',
+                      '<div class="kpi-title">Total Matches Played</div>\n                <div class="kpi-val">1,193</div>\n                <div class="kpi-sub">Ball-by-Ball Records (2026 partial)</div>', html)
+        html = re.sub(r'<div class="kpi-title">Historic Super Overs</div>\s*<div class="kpi-val"[^>]*>\d+ Ties</div>',
+                      '<div class="kpi-title">Historic Super Overs</div>\n                <div class="kpi-val" style="color: #c084fc;">16 Ties</div>', html)
+        html = re.sub(r'<div class="kpi-title">All-Time Run King</div>\s*<div class="kpi-val"[^>]*>[\d,]+.*Runs</div>\s*<div class="kpi-sub">Virat Kohli[^<]*</div>',
+                      '<div class="kpi-title">All-Time Run King</div>\n                <div class="kpi-val" style="color: #38bdf8;">8,661 Runs</div>\n                <div class="kpi-sub">Virat Kohli (Through 2025; 8,889 in 2026*)</div>', html)
+        html = re.sub(r'<div class="kpi-title">Overall Chase Win %</div>\s*<div class="kpi-val"[^>]*>[\d.]+.*%</div>\s*<div class="kpi-sub">[^<]*</div>',
+                      '<div class="kpi-title">Overall Chase Win %</div>\n                <div class="kpi-val" style="color: #f43f5e;">54.3%</div>\n                <div class="kpi-sub">635 / 1,169 Decided (95% CI: 51.5–57.2%)</div>', html)
+
+        # Update Stationarity Proof header
+        html = html.replace('<th>Stationarity Proof</th>', '<th>Stationarity Diagnostic Tests (ADF & KPSS)</th>')
 
         # Update Navigation buttons
         html = re.sub(r'⚡ 2\. Super Overs \(\d+ Ties\)', '⚡ 2. Super Overs (16 Ties)', html)
@@ -223,7 +243,6 @@ def build_and_validate():
         html = re.sub(champions_table_pattern, f'\\1\n{champions_tbody}\n\\3', html, flags=re.DOTALL)
 
         # Update Super Overs Section
-        # Replace content between description and closing card-box in tab-superovers
         so_pattern = r'(<div id="tab-superovers"[^>]*>.*?<p style="color: var\(--text-secondary\); margin-bottom: 20px;">.*?</p>)(.*?)(</div>\s*</div>\s*<!-- =+ -->\s*<!-- TAB 3:)'
         html = re.sub(so_pattern, f'\\1\n\n{super_overs_cards}\n            \\3', html, flags=re.DOTALL)
 
@@ -244,7 +263,7 @@ def build_and_validate():
 
         with open(target_path, 'w', encoding='utf-8') as f:
             f.write(html)
-        print(f"  [OK] Updated {os.path.basename(target_path)} successfully!")
+        print(f"  [OK] Updated {target_path} successfully!")
 
     print("\n[COMPLETE] Successfully rebuilt dashboards from canonical datasets with verified asserts.")
 

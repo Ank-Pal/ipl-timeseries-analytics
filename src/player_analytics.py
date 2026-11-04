@@ -70,11 +70,12 @@ def run_player_and_franchise_analytics():
     ).reset_index()
     death['death_strike_rate'] = np.where(death['death_balls'] > 0, (death['death_runs'] * 100.0 / death['death_balls']).round(2), 0.0)
 
-    # 2. Bowling aggregations
+    # 2. Bowling aggregations (Crediting only legitimate bowler wickets, excluding run outs/retirements)
+    w_col = 'is_bowler_wicket' if 'is_bowler_wicket' in d.columns else 'is_wicket'
     bowl_tot = d.groupby('bowler').agg(
         runs_conceded=('runs_total', 'sum'),
         legal_balls=('is_legal', 'sum'),
-        wickets=('is_wicket', 'sum'),
+        wickets=(w_col, 'sum'),
         dots=('runs_total', lambda s: (s == 0).sum())
     ).reset_index()
     bowl_tot['overs'] = (bowl_tot['legal_balls'] / 6.0).round(1)
