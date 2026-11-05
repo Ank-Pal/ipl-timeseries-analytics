@@ -501,11 +501,11 @@ def build_and_validate():
         html = re.sub(r'<h1>IPL.*?\(2008[–\-"\']2026\)</h1>', '<h1>IPL Match Analytics & Phase Time-Series (2008–2026)</h1>', html)
         html = re.sub(r'<span class="badge badge-gold">🏆 \d+ IPL .*?\(2008[–\-"\']2026\)</span>', '<span class="badge badge-gold">🏆 19 IPL Editions (2008–2026)</span>', html)
         html = re.sub(r'<span class="badge badge-purple">⚡ \d+ Historic Super Overs</span>', '<span class="badge badge-purple">⚡ 16 Historic Super Overs</span>', html)
-        html = re.sub(r'<span class="badge">📊.*?Matches.*?</span>', '<span class="badge">📊 1,193 Ball-by-Ball Matches (2026 partial)</span>', html)
+        html = re.sub(r'<span class="badge">📊.*?Matches.*?</span>', '<span class="badge">📊 1,243 Ball-by-Ball Matches (2008–2026)</span>', html)
         
         # Update Master KPI numbers
         html = re.sub(r'<div class="kpi-title">Total Matches Played</div>\s*<div class="kpi-val"[^>]*>[\d,]+</div>\s*<div class="kpi-sub">[^<]*</div>',
-                      '<div class="kpi-title">Total Matches Played</div>\n                <div class="kpi-val">1,193</div>\n                <div class="kpi-sub">Ball-by-Ball Records (2026 partial)</div>', html)
+                      '<div class="kpi-title">Total Matches Played</div>\n                <div class="kpi-val">1,243</div>\n                <div class="kpi-sub">Ball-by-Ball Records (2008–2026)</div>', html)
         html = re.sub(r'<div class="kpi-title">Historic Super Overs</div>\s*<div class="kpi-val"[^>]*>\d+ Ties</div>',
                       '<div class="kpi-title">Historic Super Overs</div>\n                <div class="kpi-val" style="color: #c084fc;">16 Ties</div>', html)
         html = re.sub(r'<div class="kpi-title">All-Time Run King</div>\s*<div class="kpi-val"[^>]*>[\d,]+.*Runs</div>\s*<div class="kpi-sub">Virat Kohli[^<]*</div>',
@@ -625,7 +625,7 @@ def build_and_validate():
 
         # Update Footer Text
         html = re.sub(r'<footer>\s*<p>.*?</p>\s*</footer>',
-                      '<footer>\n            <p>IPL Match Analytics & Phase Time-Series (2008–2026) | 1,193 CricSheet Matches (2026 partial) | SQLite Data Warehouse | Econometric Phase Analysis</p>\n        </footer>', html)
+                      '<footer>\n            <p>IPL Match Analytics & Phase Time-Series (2008–2026) | 1,243 CricSheet Matches (2008–2026) | SQLite Data Warehouse | Econometric Phase Analysis</p>\n        </footer>', html)
 
         # Update openTab slide navigation to resize Plotly charts on tab change
         old_opentab_pattern = r'function openTab\(tabId, btn\) \{.*?window\.dispatchEvent\(new Event\(\'resize\'\)\);\s*\}'
@@ -655,7 +655,7 @@ def build_and_validate():
 
         # Update Client JavaScript block
         # Replace the entire script after window.addEventListener('keydown'...) up to </script>
-        script_pattern = r'(\s*const darkLayout = \{.*?</script>)'
+        script_pattern = r'(\n\s*(?:// Authoritative DATA payload|const DATA =|const darkLayout =).*?</script>)'
         html = re.sub(script_pattern, lambda m: f'\n{js_client_script}\n    </script>', html, flags=re.DOTALL)
 
         with open(target_path, 'w', encoding='utf-8') as f:

@@ -189,7 +189,7 @@ SUPER_OVERS_DATA = [
     {"date": "2020-10-18", "season": 2020, "match": "MI vs KXIP (DOUBLE SUPER OVER)", "venue": "Dubai International, Dubai", "tied_score": "176/6 vs 176/6", "super_over_winner": "Kings XI Punjab", "super_over_score": "SO 1: 5-5 | SO 2: KXIP 15/0 vs MI 11/1", "hero_potm": "Mayank Agarwal & Chris Gayle"},
     {"date": "2021-04-25", "season": 2021, "match": "DC vs SRH", "venue": "MA Chidambaram, Chennai", "tied_score": "159/4 vs 159/7", "super_over_winner": "Delhi Capitals", "super_over_score": "DC 8/0 vs SRH 7/0", "hero_potm": "Prithvi Shaw & Axar Patel"},
     {"date": "2025-04-16", "season": 2025, "match": "DC vs RR", "venue": "Arun Jaitley Stadium, Delhi", "tied_score": "188/5 vs 188/4", "super_over_winner": "Delhi Capitals", "super_over_score": "RR 11/2 vs DC 12/0 (4 balls)", "hero_potm": "Mitchell Starc & Tristan Stubbs"},
-    {"date": "2026-04-26", "season": 2026, "match": "LSG vs KKR", "venue": "Ekana Stadium, Lucknow", "tied_score": "155/8 vs 155/7", "super_over_winner": "Kolkata Knight Riders", "super_over_score": "LSG 1/2 vs KKR 2/0 (1 ball)", "hero_potm": "Mitchell Starc & Harshit Rana"}
+    {"date": "2026-04-26", "season": 2026, "match": "LSG vs KKR", "venue": "Ekana Stadium, Lucknow", "tied_score": "155/8 vs 155/7", "super_over_winner": "Kolkata Knight Riders", "super_over_score": "LSG 1/2 vs KKR 2/0 (1 ball)", "hero_potm": "Harshit Rana & Andre Russell"}
 ]
 
 POINTS_TABLE_2026_DATA = [

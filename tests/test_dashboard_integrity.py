@@ -147,16 +147,16 @@ def test_arima_and_death_rpo():
 
 
 def test_rivalries_derived_from_matches():
-    """Verify MI vs CSK rivalry has 39 encounters derived from matches."""
+    """Verify MI vs CSK rivalry has 41 encounters derived from matches (MI 21, CSK 20)."""
     with open(INDEX_PATH, 'r', encoding='utf-8') as f:
         html = f.read()
         
     DATA = extract_data_payload(html)
     mi_csk = [r for r in DATA['rivalries'] if r['matchup'] == 'MI vs CSK'][0]
     
-    assert mi_csk['matches'] == 39
+    assert mi_csk['matches'] == 41
     assert mi_csk['w1'] == 21
-    assert mi_csk['w2'] == 18
+    assert mi_csk['w2'] == 20
 
 
 if __name__ == "__main__":

@@ -1,6 +1,6 @@
 """
 IPL Match Analytics & Phase Time-Series (2008–2026)
-Built on 283,000+ official CricSheet deliveries, 1,193 genuine matches, and 2026 season stats.
+Built on 295,000+ official CricSheet deliveries, 1,243 ball-by-ball matches (2008–2026), and all 19 seasons.
 
 Tabs:
 1. 🏆 Season Champions & Trophy Cabinet (All 2008–2026 Champions, Trophy Leaderboard, Final Margins, MVPs, Orange/Purple Caps)
@@ -11,7 +11,7 @@ Tabs:
 6. 📈 Phase-by-Phase ARIMA Forecasting (Interactive Powerplay & Death simulator with ADF/KPSS diagnostics)
 7. ⚔️ Franchise Rivalries & Head-to-Head Matrix (CSK vs MI, Fortress ratings, all match history)
 8. 🏏 IPL 2026 Live Season Hub (Standings, Points Table, Squads, Batting & Bowling leaders)
-9. 🗄️ Interactive SQL Studio (Execute live SQL queries on 283k+ deliveries & champions)
+9. 🗄️ Interactive SQL Studio (Execute live SQL queries on 295k+ deliveries & champions)
 """
 
 import os
@@ -259,7 +259,7 @@ if team_filter != "All Franchises":
 # ====================================================================
 st.title("🏏 IPL Match Analytics & Phase Time-Series (2008–2026)")
 st.markdown("""
-**Powered by 283,000+ official CricSheet deliveries across 1,193 genuine matches, all 19 Champions, 16 Super Overs, and the 2026 season.**
+**Powered by 295,000+ official CricSheet deliveries across 1,243 genuine matches, all 19 Champions, 16 Super Overs, and the complete 2026 season.**
 Explore season roll of honor, all-time trophy rankings, super over thrillers, Player of the Match records, phase ARIMA forecasts, and franchise rivalries.
 """)
 
@@ -855,7 +855,7 @@ def render_slide_8():
 # TAB 9: INTERACTIVE SQL STUDIO
 # --------------------------------------------------------------------
 def render_slide_9():
-    st.subheader("🗄️ Interactive SQL Studio (283,000+ Ball-by-Ball Warehouse)")
+    st.subheader("🗄️ Interactive SQL Studio (295,000+ Ball-by-Ball Warehouse)")
     st.markdown("Run live SQL queries directly on `ipl_master.db`:")
     
     MASTER_QUERIES = {
@@ -929,12 +929,12 @@ SLIDES = [
     ("🏆 1. Champions & Trophies", "All 19 champions (2008–2026), RCB back-to-back title defense & franchise trophy rankings"),
     ("⚡ 2. Super Overs (16 Ties)", "Complete history of all 16 tied matches, super over scores & match heroes"),
     ("👑 3. Player Career Explorer", "Search full names (Rohit Sharma, Virat Kohli, MS Dhoni) for complete scorecard & phase strike rates"),
-    ("🏟️ 4. Toss & Venues", "The Toss Paradox, stadium chase bias & 1,194 searchable match scorecards"),
+    ("🏟️ 4. Toss & Venues", "The Toss Paradox, stadium chase bias & 1,243 searchable match scorecards"),
     ("📊 5. Phase Velocity", "Scoring rate trends across Powerplay, Middle, and Death overs (2008–2026)"),
     ("📈 6. ARIMA Forecasts", "Phase-by-phase time-series forecasting models with ADF & KPSS diagnostics"),
     ("⚔️ 7. Franchise Rivalries", "CSK vs MI, head-to-head records & home fortress analysis"),
     ("🏏 8. IPL 2026 Season Hub", "RCB 2026 Title celebration, points table, squad lists & season leaders"),
-    ("🗄️ 9. Interactive SQL", "Run custom SQL queries on 283,000+ CricSheet deliveries")
+    ("🗄️ 9. Interactive SQL", "Run custom SQL queries on 295,000+ CricSheet deliveries")
 ]
 SLIDE_TITLES = [s[0] for s in SLIDES]
 SECTION_RENDERERS = [
@@ -1019,4 +1019,4 @@ SECTION_RENDERERS[active_slide]()
 
 
 st.markdown("---")
-st.caption("IPL Match Analytics & Phase Time-Series (2008–2026) • 283k+ CricSheet Deliveries • Streamlit • SQLite • Statsmodels ARIMA")
+st.caption("IPL Match Analytics & Phase Time-Series (2008–2026) • 295k+ CricSheet Deliveries • Streamlit • SQLite • Statsmodels ARIMA")
